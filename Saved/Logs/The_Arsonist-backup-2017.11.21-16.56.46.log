@@ -1,0 +1,931 @@
+﻿Log file open, 11/21/17 16:37:45
+LogInit:Display: Running engine for game: The_Arsonist
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(897669841) SRandInit(897669842).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.082304
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.16-CL-3561208
+LogInit: Engine Version: 4.16.3-3561208+++UE4+Release-4.16
+LogInit: Compatible Engine Version: 4.16.0-3452394+++UE4+Release-4.16
+LogInit: Net CL: 3452394
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 9
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 17
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 23
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 15
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 3
+LogInit: Compiled (64-bit): Jul 28 2017 11:49:47
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.16
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.16/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.21-23.37.45:695][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.21-23.37.45:695][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.21-23.37.45:709][  0]LogInit: Computer: eae-d-014
+[2017.11.21-23.37.45:709][  0]LogInit: User: u1088799
+[2017.11.21-23.37.45:709][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.21-23.37.45:709][  0]LogInit: High frequency timer resolution =3.513590 MHz
+[2017.11.21-23.37.45:709][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.11.21-23.37.45:709][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.21-23.37.45:709][  0]LogMemory: Process Physical Memory: 272.20 MB used, 272.20 MB peak
+[2017.11.21-23.37.45:709][  0]LogMemory: Process Virtual Memory: 260.68 MB used, 260.68 MB peak
+[2017.11.21-23.37.45:709][  0]LogMemory: Physical Memory: 7662.45 MB used,  24982.19 MB free, 32644.64 MB total
+[2017.11.21-23.37.45:709][  0]LogMemory: Virtual Memory: 638.47 MB used,  24982.19 MB free, 134217728.00 MB total
+[2017.11.21-23.37.45:767][  0]LogInit: Using OS detected language (en-US).
+[2017.11.21-23.37.45:767][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.21-23.37.45:769][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.21-23.37.46:558][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.21-23.37.46:603][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.11.21-23.37.46:603][  0]LogD3D11RHI:       8096/0/16322 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.21-23.37.46:608][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.11.21-23.37.46:608][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.21-23.37.46:609][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.21-23.37.46:609][  0]LogD3D11RHI:       0/0/16322 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.21-23.37.46:609][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.21-23.37.46:615][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.21-23.37.46:615][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.21-23.37.46:615][  0]LogWindows: EnumDisplayDevices:
+[2017.11.21-23.37.46:615][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.11.21-23.37.46:615][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.11.21-23.37.46:615][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.11.21-23.37.46:615][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.11.21-23.37.46:615][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.11.21-23.37.46:615][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.11.21-23.37.46:615][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.11.21-23.37.46:615][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.11.21-23.37.46:615][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.11.21-23.37.46:615][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.11.21-23.37.46:615][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.11.21-23.37.46:615][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.21-23.37.46:646][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.21-23.37.46:655][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.21-23.37.46:703][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/u1088799/Documents/GitHub/The-Arsonist/Intermediate/Shaders/WorkingDirectory/17484/).
+[2017.11.21-23.37.46:703][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u1088799/AppData/Local/Temp/UnrealShaderWorkingDir/88DB3F27468DA5D8F4F129B3CB6989F0/'.
+[2017.11.21-23.37.46:703][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.11.21-23.37.47:603][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.21-23.37.47:646][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.11.21-23.37.47:687][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.21-23.37.47:732][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.11.21-23.37.47:773][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.11.21-23.37.47:816][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.21-23.37.47:858][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.21-23.37.47:900][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.21-23.37.47:937][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.11.21-23.37.47:977][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.11.21-23.37.48:019][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.21-23.37.48:060][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.21-23.37.48:103][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.21-23.37.48:144][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.21-23.37.48:185][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.21-23.37.48:268][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.21-23.37.48:268][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.21-23.37.48:301][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.11.21-23.37.48:381][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.11.21-23.37.48:406][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.11.21-23.37.48:447][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.21-23.37.48:487][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.21-23.37.48:527][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.21-23.37.48:569][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.11.21-23.37.48:569][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.11.21-23.37.48:982][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.11.21-23.37.49:066][  0]LogDerivedDataCache: Loaded boot cache 0.08s 90MB C:/Users/u1088799/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc.
+[2017.11.21-23.37.49:066][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/u1088799/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc
+[2017.11.21-23.37.49:066][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1088799/Documents/GitHub/The-Arsonist/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.21-23.37.49:066][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.21-23.37.49:066][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1088799/Documents/GitHub/The-Arsonist/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.21-23.37.49:066][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.21-23.37.49:081][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.21-23.37.49:093][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1088799/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.21-23.37.49:102][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.21-23.37.49:102][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.21-23.37.49:102][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.21-23.37.49:102][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.21-23.37.49:370][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.21-23.37.49:432][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.21-23.37.49:566][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.21-23.37.49:603][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.21-23.37.49:644][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.21-23.37.49:644][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.11.21-23.37.49:644][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.11.21-23.37.50:095][  0]LogNetVersion: The_Arsonist , NetCL: 3452394, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1174752045)
+[2017.11.21-23.37.50:149][  0]LogAssetRegistry: FAssetRegistry took 0.0243 seconds to start up
+[2017.11.21-23.37.50:209][  0]LogPackageLocalizationCache: Processed 4 localized package path(s) for 2 prioritized culture(s) in 0.039525 seconds
+[2017.11.21-23.37.50:215][  0]LogUObjectArray: 34194 objects as part of root set at end of initial load.
+[2017.11.21-23.37.50:215][  0]LogUObjectAllocator: 7260416 out of 0 bytes used by permanent object pool.
+[2017.11.21-23.37.50:215][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.21-23.37.50:270][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.21-23.37.52:314][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.21-23.37.52:352][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.21-23.37.52:826][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.21-23.37.53:183][  0]SourceControl: Info Source control is disabled
+[2017.11.21-23.37.53:216][  0]SourceControl: Info Source control is disabled
+[2017.11.21-23.37.53:259][  0]SourceControl: Info Source control is disabled
+[2017.11.21-23.37.53:302][  0]SourceControl: Info Source control is disabled
+[2017.11.21-23.37.53:922][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.21-23.37.54:467][  0]LogEngine: Initializing Engine...
+[2017.11.21-23.37.54:467][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.21-23.37.54:641][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.21-23.37.54:641][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.21-23.37.54:759][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.21-23.37.54:768][  0]LogInit: XAudio2 using 'DELL UZ2315H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.21-23.37.54:778][  0]LogInit: FAudioDevice initialized.
+[2017.11.21-23.37.54:825][  0]LogDerivedDataCache: Saved boot cache 0.05s 90MB C:/Users/u1088799/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc.
+[2017.11.21-23.37.54:847][  0]LogInit: Texture streaming: Enabled
+[2017.11.21-23.37.54:930][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.21-23.37.55:128][  0]LogInit: Transaction tracking system initialized
+[2017.11.21-23.37.55:395][  0]BlueprintLog: New page: Editor Load
+[2017.11.21-23.37.56:206][  0]LocalizationService: Info Localization service is disabled
+[2017.11.21-23.37.57:028][  0]LogConsoleResponse:Display: 
+[2017.11.21-23.37.57:157][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.21-23.37.57:157][  0]LogCook:Display: Mobile HDR setting 1
+[2017.11.21-23.37.57:740][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/' took 0.02s
+[2017.11.21-23.37.58:029][  0]SourceControl: Info Source control is disabled
+[2017.11.21-23.37.58:029][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.21-23.37.58:030][  0]LightingResults: New page: Lighting Build
+[2017.11.21-23.37.58:065][  0]MapCheck: New page: Map Check
+[2017.11.21-23.37.58:065][  0]LightingResults: New page: Lighting Build
+[2017.11.21-23.37.58:225][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.11.21-23.37.58:226][  0]LogActorComponent: RegisterComponentWithWorld: (/Temp/Untitled_1.Untitled_1:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.21-23.37.58:229][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.21-23.37.58:253][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.21-23.37.58:293][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 40.041ms to complete.
+[2017.11.21-23.37.58:293][  0]LogFileHelpers: Loading map 'Template_Default' took 0.264
+[2017.11.21-23.37.58:423][  0]LogCollectionManager: Loaded 0 collections in 0.001358 seconds
+[2017.11.21-23.37.58:495][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Saved/Collections/' took 0.01s
+[2017.11.21-23.37.58:495][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Developers/u1088799/Collections/' took 0.01s
+[2017.11.21-23.37.58:495][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Collections/' took 0.01s
+[2017.11.21-23.37.58:495][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.21-23.37.58:503][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2329 classes and 491 folders.
+[2017.11.21-23.37.58:558][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.11.21-23.37.58:594][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.11.21-23.37.58:631][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.11.21-23.37.58:666][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.11.21-23.37.58:671][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.21-23.37.58:672][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.21-23.37.58:677][  0]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.21-23.37.58:761][  0]LogRenderer: Reallocating scene render targets to support 1208x576 NumSamples 1 (Frame:1).
+[2017.11.21-23.37.58:867][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.11.21-23.37.58:924][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.11.21-23.37.58:925][  0]LogLoad: (Engine Initialization) Total time: 14.71 seconds
+[2017.11.21-23.37.58:925][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.07 seconds
+[2017.11.21-23.37.58:925][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.21-23.37.58:925][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.21-23.37.58:935][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.11.21-23.37.58:936][  0]LogOcInput: OculusInput pre-init called
+[2017.11.21-23.37.58:936][  0]LogHMD: Starting GearVRController plugin
+[2017.11.21-23.37.58:967][  0]LogAssetRegistry: Asset discovery search completed in 8.8396 seconds
+[2017.11.21-23.37.58:969][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.21-23.37.58:969][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000018 seconds (updated 0 objects)
+[2017.11.21-23.37.58:973][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.21-23.37.59:018][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.21-23.38.01:950][318]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.21-23.38.04:032][567]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/' took 5.08s
+[2017.11.21-23.38.16:907][109]AssetReimport: New page: Detailed File System Changes from 4:38:16 PM
+[2017.11.21-23.38.16:914][109]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Firetruck.fbx' has been created.
+[2017.11.21-23.38.16:914][109]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Floor Lamp.fbx' has been created.
+[2017.11.21-23.38.16:914][109]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Chair test.fbx' has been created.
+[2017.11.21-23.38.16:914][109]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Chair.fbx' has been created.
+[2017.11.21-23.38.16:914][109]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Couch.fbx' has been created.
+[2017.11.21-23.38.16:914][109]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Lamp.fbx' has been created.
+[2017.11.21-23.38.16:914][109]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Side Table.fbx' has been created.
+[2017.11.21-23.38.16:914][109]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Table.fbx' has been created.
+[2017.11.21-23.38.16:914][109]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Wall Lamp.fbx' has been created.
+[2017.11.21-23.38.16:914][109]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Textures/FabricBump.jpg' has been created.
+[2017.11.21-23.38.16:914][109]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Textures/FabricDiffuse.jpg' has been created.
+[2017.11.21-23.38.16:914][109]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Textures/FabricReflection.jpg' has been created.
+[2017.11.21-23.38.16:914][109]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Textures/LampShadeDiffuse.jpg' has been created.
+[2017.11.21-23.38.16:914][109]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Textures/LampShadeReflection.JPG' has been created.
+[2017.11.21-23.38.35:933][382]AssetReimport: New page: Detailed File System Changes from 4:38:35 PM
+[2017.11.21-23.38.35:940][382]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Firetruck.fbx' has been created.
+[2017.11.21-23.38.35:940][382]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Floor Lamp.fbx' has been created.
+[2017.11.21-23.38.35:940][382]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Chair test.fbx' has been created.
+[2017.11.21-23.38.35:940][382]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Chair.fbx' has been created.
+[2017.11.21-23.38.35:940][382]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Couch.fbx' has been created.
+[2017.11.21-23.38.35:940][382]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Lamp.fbx' has been created.
+[2017.11.21-23.38.35:940][382]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Side Table.fbx' has been created.
+[2017.11.21-23.38.35:940][382]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Table.fbx' has been created.
+[2017.11.21-23.38.35:940][382]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Wall Lamp.fbx' has been created.
+[2017.11.21-23.38.35:940][382]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Textures/FabricBump.jpg' has been created.
+[2017.11.21-23.38.35:940][382]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Textures/FabricDiffuse.jpg' has been created.
+[2017.11.21-23.38.35:940][382]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Textures/FabricReflection.jpg' has been created.
+[2017.11.21-23.38.35:940][382]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Textures/LampShadeDiffuse.jpg' has been created.
+[2017.11.21-23.38.35:940][382]AssetReimport: Info 'C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Textures/LampShadeReflection.JPG' has been created.
+[2017.11.21-23.39.13:183][ 22]AssetReimport: New page: Outstanding source content changes 9:39:13 AM
+[2017.11.21-23.39.13:185][ 22]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Firetruck.fbx)
+[2017.11.21-23.39.13:189][ 22]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.21-23.39.13:189][ 22]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.21-23.39.13:189][ 22]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.21-23.39.13:189][ 22]LogFbx: ItemName: Model, ItemCount : 14
+[2017.11.21-23.39.13:189][ 22]LogFbx: ItemName: Geometry, ItemCount : 14
+[2017.11.21-23.39.13:190][ 22]LogFbx: ItemName: Material, ItemCount : 14
+[2017.11.21-23.39.13:190][ 22]LogFbx: ItemName: Texture, ItemCount : 14
+[2017.11.21-23.39.13:190][ 22]LogFbx: ItemName: Video, ItemCount : 14
+[2017.11.21-23.39.13:194][ 22]LogFbx: Loading FBX Scene from C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Firetruck.fbx
+[2017.11.21-23.39.13:214][ 22]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.21-23.39.16:821][ 22]LogFbx: Loading FBX Scene from C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Firetruck.fbx
+[2017.11.21-23.39.16:838][ 22]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.21-23.39.16:840][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/antrieb'
+[2017.11.21-23.39.16:840][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/antrieb'
+[2017.11.21-23.39.16:952][ 22]LogMaterial: Missing cached shader map for material antrieb, compiling. 
+[2017.11.21-23.39.16:977][ 22]LogStaticMesh: Building static mesh Firetruck_benz2400_antrieb_44...
+[2017.11.21-23.39.16:984][ 22]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Objects_for_TheArsonist/Firetruck_benz2400_antrieb_44.Firetruck_benz2400_antrieb_44
+[2017.11.21-23.39.16:993][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/detail'
+[2017.11.21-23.39.16:993][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/detail'
+[2017.11.21-23.39.16:995][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/details'
+[2017.11.21-23.39.16:995][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/details'
+[2017.11.21-23.39.17:332][ 22]LogMaterial: Missing cached shader map for material detail, compiling. 
+[2017.11.21-23.39.17:347][ 22]LogStaticMesh: Building static mesh Firetruck_benz2400_details_46...
+[2017.11.21-23.39.17:351][ 22]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Objects_for_TheArsonist/Firetruck_benz2400_details_46.Firetruck_benz2400_details_46
+[2017.11.21-23.39.17:359][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/geraete'
+[2017.11.21-23.39.17:360][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/geraete'
+[2017.11.21-23.39.17:750][ 22]LogMaterial: Missing cached shader map for material geraete, compiling. 
+[2017.11.21-23.39.17:769][ 22]LogStaticMesh: Building static mesh Firetruck_benz2400_geraete_48...
+[2017.11.21-23.39.17:779][ 22]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Objects_for_TheArsonist/Firetruck_benz2400_geraete_48.Firetruck_benz2400_geraete_48
+[2017.11.21-23.39.17:789][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/kaba'
+[2017.11.21-23.39.17:789][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/kaba'
+[2017.11.21-23.39.18:233][ 22]LogMaterial: Missing cached shader map for material kaba, compiling. 
+[2017.11.21-23.39.18:254][ 22]LogStaticMesh: Building static mesh Firetruck_benz2400_kaba_50...
+[2017.11.21-23.39.18:273][ 22]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Objects_for_TheArsonist/Firetruck_benz2400_kaba_50.Firetruck_benz2400_kaba_50
+[2017.11.21-23.39.18:284][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/kabi1'
+[2017.11.21-23.39.18:284][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/kabi1'
+[2017.11.21-23.39.18:765][ 22]LogMaterial: Missing cached shader map for material kabi1, compiling. 
+[2017.11.21-23.39.18:785][ 22]LogStaticMesh: Building static mesh Firetruck_benz2400_kabi1_52...
+[2017.11.21-23.39.18:808][ 22]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Objects_for_TheArsonist/Firetruck_benz2400_kabi1_52.Firetruck_benz2400_kabi1_52
+[2017.11.21-23.39.19:222][ 22]LogMaterial: Missing cached shader map for material kabi3, compiling. 
+[2017.11.21-23.39.19:246][ 22]LogStaticMesh: Building static mesh Firetruck_benz2400_kabi2_54...
+[2017.11.21-23.39.19:255][ 22]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Objects_for_TheArsonist/Firetruck_benz2400_kabi2_54.Firetruck_benz2400_kabi2_54
+[2017.11.21-23.39.19:264][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/mhorn'
+[2017.11.21-23.39.19:264][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/mhorn'
+[2017.11.21-23.39.19:313][ 22]LogMaterial: Missing cached shader map for material mhorn, compiling. 
+[2017.11.21-23.39.19:333][ 22]LogStaticMesh: Building static mesh Firetruck_benz2400_mhorn_56...
+[2017.11.21-23.39.19:356][ 22]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Objects_for_TheArsonist/Firetruck_benz2400_mhorn_56.Firetruck_benz2400_mhorn_56
+[2017.11.21-23.39.19:370][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/radhf'
+[2017.11.21-23.39.19:370][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/radhf'
+[2017.11.21-23.39.19:413][ 22]LogMaterial: Missing cached shader map for material radhf, compiling. 
+[2017.11.21-23.39.19:432][ 22]LogStaticMesh: Building static mesh Firetruck_benz2400_radhf_58...
+[2017.11.21-23.39.19:441][ 22]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Objects_for_TheArsonist/Firetruck_benz2400_radhf_58.Firetruck_benz2400_radhf_58
+[2017.11.21-23.39.19:450][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/radp'
+[2017.11.21-23.39.19:450][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/radp'
+[2017.11.21-23.39.19:484][ 22]LogMaterial: Missing cached shader map for material radp, compiling. 
+[2017.11.21-23.39.19:502][ 22]LogStaticMesh: Building static mesh Firetruck_benz2400_radp_60...
+[2017.11.21-23.39.19:509][ 22]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Objects_for_TheArsonist/Firetruck_benz2400_radp_60.Firetruck_benz2400_radp_60
+[2017.11.21-23.39.19:517][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/radvf'
+[2017.11.21-23.39.19:517][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/radvf'
+[2017.11.21-23.39.19:556][ 22]LogMaterial: Missing cached shader map for material radvf, compiling. 
+[2017.11.21-23.39.19:575][ 22]LogStaticMesh: Building static mesh Firetruck_benz2400_radvf_62...
+[2017.11.21-23.39.19:581][ 22]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Objects_for_TheArsonist/Firetruck_benz2400_radvf_62.Firetruck_benz2400_radvf_62
+[2017.11.21-23.39.19:591][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/gestell1'
+[2017.11.21-23.39.19:591][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/gestell1'
+[2017.11.21-23.39.19:833][ 22]LogMaterial: Missing cached shader map for material gestell1, compiling. 
+[2017.11.21-23.39.19:855][ 22]LogStaticMesh: Building static mesh Firetruck_benz2400_rahmen1_64...
+[2017.11.21-23.39.19:874][ 22]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Objects_for_TheArsonist/Firetruck_benz2400_rahmen1_64.Firetruck_benz2400_rahmen1_64
+[2017.11.21-23.39.20:224][ 22]LogMaterial: Missing cached shader map for material gestell3, compiling. 
+[2017.11.21-23.39.20:245][ 22]LogStaticMesh: Building static mesh Firetruck_benz2400_rahmen2_66...
+[2017.11.21-23.39.20:260][ 22]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Objects_for_TheArsonist/Firetruck_benz2400_rahmen2_66.Firetruck_benz2400_rahmen2_66
+[2017.11.21-23.39.20:271][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/tank'
+[2017.11.21-23.39.20:271][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/tank'
+[2017.11.21-23.39.20:554][ 22]LogMaterial: Missing cached shader map for material tank, compiling. 
+[2017.11.21-23.39.20:582][ 22]LogStaticMesh: Building static mesh Firetruck_benz2400_tank_68...
+[2017.11.21-23.39.20:635][ 22]LogStaticMesh: Built static mesh [0.05s] /Game/Furniture/Objects_for_TheArsonist/Firetruck_benz2400_tank_68.Firetruck_benz2400_tank_68
+[2017.11.21-23.39.20:652][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/tritt'
+[2017.11.21-23.39.20:652][ 22]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/tritt'
+[2017.11.21-23.39.20:742][ 22]LogMaterial: Missing cached shader map for material tritt, compiling. 
+[2017.11.21-23.39.20:761][ 22]LogStaticMesh: Building static mesh Firetruck_benz2400_tritt_70...
+[2017.11.21-23.39.20:785][ 22]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Objects_for_TheArsonist/Firetruck_benz2400_tritt_70.Firetruck_benz2400_tritt_70
+[2017.11.21-23.39.20:835][ 23]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Floor Lamp.fbx)
+[2017.11.21-23.39.20:838][ 23]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.21-23.39.20:838][ 23]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.21-23.39.20:838][ 23]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.21-23.39.20:838][ 23]LogFbx: ItemName: NodeAttribute, ItemCount : 8
+[2017.11.21-23.39.20:838][ 23]LogFbx: ItemName: Model, ItemCount : 11
+[2017.11.21-23.39.20:838][ 23]LogFbx: ItemName: Geometry, ItemCount : 3
+[2017.11.21-23.39.20:838][ 23]LogFbx: ItemName: Material, ItemCount : 3
+[2017.11.21-23.39.20:844][ 23]LogFbx: Loading FBX Scene from C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Floor Lamp.fbx
+[2017.11.21-23.39.20:854][ 23]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.21-23.39.25:237][ 23]LogFbx: Loading FBX Scene from C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Floor Lamp.fbx
+[2017.11.21-23.39.25:248][ 23]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.21-23.39.25:251][ 23]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/07_-_Default'
+[2017.11.21-23.39.25:251][ 23]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/07_-_Default'
+[2017.11.21-23.39.25:256][ 23]LogMaterial: Missing cached shader map for material 07_-_Default, compiling. 
+[2017.11.21-23.39.25:282][ 23]LogStaticMesh: Building static mesh Floor_Lamp_Box01...
+[2017.11.21-23.39.25:290][ 23]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Objects_for_TheArsonist/Floor_Lamp_Box01.Floor_Lamp_Box01
+[2017.11.21-23.39.25:296][ 23]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/01_-_Default'
+[2017.11.21-23.39.25:296][ 23]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/01_-_Default'
+[2017.11.21-23.39.25:301][ 23]LogMaterial: Missing cached shader map for material 01_-_Default, compiling. 
+[2017.11.21-23.39.25:320][ 23]LogStaticMesh: Building static mesh Floor_Lamp_Box02...
+[2017.11.21-23.39.25:321][ 23]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Objects_for_TheArsonist/Floor_Lamp_Box02.Floor_Lamp_Box02
+[2017.11.21-23.39.25:328][ 23]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/metal_005'
+[2017.11.21-23.39.25:328][ 23]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/metal_005'
+[2017.11.21-23.39.25:333][ 23]LogMaterial: Missing cached shader map for material metal_005, compiling. 
+[2017.11.21-23.39.25:373][ 23]LogStaticMesh: Building static mesh Floor_Lamp_Box03...
+[2017.11.21-23.39.25:376][ 23]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Objects_for_TheArsonist/Floor_Lamp_Box03.Floor_Lamp_Box03
+[2017.11.21-23.39.25:467][ 24]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Chair test.fbx)
+[2017.11.21-23.39.25:521][ 24]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.21-23.39.25:521][ 24]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.21-23.39.25:521][ 24]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.21-23.39.25:521][ 24]LogFbx: ItemName: NodeAttribute, ItemCount : 30
+[2017.11.21-23.39.25:521][ 24]LogFbx: ItemName: Model, ItemCount : 31
+[2017.11.21-23.39.25:521][ 24]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.21-23.39.25:521][ 24]LogFbx: ItemName: Material, ItemCount : 11
+[2017.11.21-23.39.25:521][ 24]LogFbx: ItemName: Texture, ItemCount : 1
+[2017.11.21-23.39.25:521][ 24]LogFbx: ItemName: Video, ItemCount : 1
+[2017.11.21-23.39.25:527][ 24]LogFbx: Loading FBX Scene from C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Chair test.fbx
+[2017.11.21-23.39.25:811][ 24]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.21-23.39.27:079][ 24]LogFbx: Loading FBX Scene from C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Chair test.fbx
+[2017.11.21-23.39.27:348][ 24]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.21-23.39.27:375][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ArmRestSides'
+[2017.11.21-23.39.27:375][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ArmRestSides'
+[2017.11.21-23.39.27:382][ 24]LogMaterial: Missing cached shader map for material ArmRestSides, compiling. 
+[2017.11.21-23.39.27:397][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ArmRestCushion'
+[2017.11.21-23.39.27:397][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ArmRestCushion'
+[2017.11.21-23.39.27:402][ 24]LogMaterial: Missing cached shader map for material ArmRestCushion, compiling. 
+[2017.11.21-23.39.27:420][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ChairDetailing11'
+[2017.11.21-23.39.27:420][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ChairDetailing11'
+[2017.11.21-23.39.27:427][ 24]LogMaterial: Missing cached shader map for material ChairDetailing11, compiling. 
+[2017.11.21-23.39.27:443][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ChairCushion2'
+[2017.11.21-23.39.27:443][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ChairCushion2'
+[2017.11.21-23.39.27:446][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/FabricDiffuse'
+[2017.11.21-23.39.27:446][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/FabricDiffuse'
+[2017.11.21-23.39.27:743][ 24]LogMaterial: Missing cached shader map for material ChairCushion2, compiling. 
+[2017.11.21-23.39.27:764][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ChairLegs3'
+[2017.11.21-23.39.27:764][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ChairLegs3'
+[2017.11.21-23.39.27:772][ 24]LogMaterial: Missing cached shader map for material ChairLegs3, compiling. 
+[2017.11.21-23.39.27:789][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/BottomAndSidesOfChair2'
+[2017.11.21-23.39.27:790][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/BottomAndSidesOfChair2'
+[2017.11.21-23.39.27:796][ 24]LogMaterial: Missing cached shader map for material BottomAndSidesOfChair2, compiling. 
+[2017.11.21-23.39.27:812][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ArmOfChairLeft1'
+[2017.11.21-23.39.27:812][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ArmOfChairLeft1'
+[2017.11.21-23.39.27:819][ 24]LogMaterial: Missing cached shader map for material ArmOfChairLeft1, compiling. 
+[2017.11.21-23.39.27:835][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/lambert2'
+[2017.11.21-23.39.27:836][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/lambert2'
+[2017.11.21-23.39.27:841][ 24]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.11.21-23.39.27:859][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ChairLegsTop1'
+[2017.11.21-23.39.27:860][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ChairLegsTop1'
+[2017.11.21-23.39.27:865][ 24]LogMaterial: Missing cached shader map for material ChairLegsTop1, compiling. 
+[2017.11.21-23.39.27:884][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ChairCushionSidesandBack'
+[2017.11.21-23.39.27:884][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ChairCushionSidesandBack'
+[2017.11.21-23.39.27:889][ 24]LogMaterial: Missing cached shader map for material ChairCushionSidesandBack, compiling. 
+[2017.11.21-23.39.27:907][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ChairFrame3'
+[2017.11.21-23.39.27:907][ 24]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ChairFrame3'
+[2017.11.21-23.39.27:913][ 24]LogMaterial: Missing cached shader map for material ChairFrame3, compiling. 
+[2017.11.21-23.40.13:444][ 24]LogStaticMesh: Building static mesh Luxury_Chair_test...
+[2017.11.21-23.41.54:697][ 24]LogStaticMesh: Built static mesh [101.25s] /Game/Furniture/Objects_for_TheArsonist/Luxury_Chair_test.Luxury_Chair_test
+[2017.11.21-23.41.55:835][ 25]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Chair.fbx)
+[2017.11.21-23.41.55:891][ 25]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.21-23.41.55:891][ 25]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.21-23.41.55:891][ 25]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.21-23.41.55:891][ 25]LogFbx: ItemName: Model, ItemCount : 15
+[2017.11.21-23.41.55:891][ 25]LogFbx: ItemName: Geometry, ItemCount : 15
+[2017.11.21-23.41.55:891][ 25]LogFbx: ItemName: Material, ItemCount : 12
+[2017.11.21-23.41.55:891][ 25]LogFbx: ItemName: Texture, ItemCount : 2
+[2017.11.21-23.41.55:891][ 25]LogFbx: ItemName: Video, ItemCount : 2
+[2017.11.21-23.41.55:895][ 25]LogFbx: Loading FBX Scene from C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Chair.fbx
+[2017.11.21-23.41.56:139][ 25]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.21-23.42.00:076][ 25]LogFbx: Loading FBX Scene from C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Chair.fbx
+[2017.11.21-23.42.00:327][ 25]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.21-23.42.00:330][ 25]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/M_Sky_Panning_Clouds2'
+[2017.11.21-23.42.00:330][ 25]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/M_Sky_Panning_Clouds2'
+[2017.11.21-23.42.00:335][ 25]LogMaterial: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2017.11.21-23.42.00:354][ 25]LogStaticMesh: Building static mesh Luxury_Chair_SkySphere...
+[2017.11.21-23.42.00:396][ 25]LogStaticMesh: Built static mesh [0.04s] /Game/Furniture/Objects_for_TheArsonist/Luxury_Chair_SkySphere.Luxury_Chair_SkySphere
+[2017.11.21-23.42.00:456][ 25]LogStaticMesh: Building static mesh Luxury_Chair_Luxury_Chair_ChairArmLeft1_132...
+[2017.11.21-23.42.00:738][ 25]LogStaticMesh: Built static mesh [0.28s] /Game/Furniture/Objects_for_TheArsonist/Luxury_Chair_Luxury_Chair_ChairArmLeft1_132.Luxury_Chair_Luxury_Chair_ChairArmLeft1_132
+[2017.11.21-23.42.00:930][ 25]LogStaticMesh: Building static mesh Luxury_Chair_Luxury_Chair_ChairArmRests1_134...
+[2017.11.21-23.42.01:632][ 25]LogStaticMesh: Built static mesh [0.70s] /Game/Furniture/Objects_for_TheArsonist/Luxury_Chair_Luxury_Chair_ChairArmRests1_134.Luxury_Chair_Luxury_Chair_ChairArmRests1_134
+[2017.11.21-23.42.01:853][ 25]LogStaticMesh: Building static mesh Luxury_Chair_Luxury_Chair_ChairArmRight_136...
+[2017.11.21-23.42.02:108][ 25]LogStaticMesh: Built static mesh [0.26s] /Game/Furniture/Objects_for_TheArsonist/Luxury_Chair_Luxury_Chair_ChairArmRight_136.Luxury_Chair_Luxury_Chair_ChairArmRight_136
+[2017.11.21-23.42.02:216][ 25]LogStaticMesh: Building static mesh Luxury_Chair_Luxury_Chair_ChairBackCusion_138...
+[2017.11.21-23.42.02:289][ 25]LogStaticMesh: Built static mesh [0.07s] /Game/Furniture/Objects_for_TheArsonist/Luxury_Chair_Luxury_Chair_ChairBackCusion_138.Luxury_Chair_Luxury_Chair_ChairBackCusion_138
+[2017.11.21-23.42.02:337][ 25]LogStaticMesh: Building static mesh Luxury_Chair_Luxury_Chair_ChairBpttomCushion_140...
+[2017.11.21-23.42.02:398][ 25]LogStaticMesh: Built static mesh [0.06s] /Game/Furniture/Objects_for_TheArsonist/Luxury_Chair_Luxury_Chair_ChairBpttomCushion_140.Luxury_Chair_Luxury_Chair_ChairBpttomCushion_140
+[2017.11.21-23.42.02:443][ 25]LogStaticMesh: Building static mesh Luxury_Chair_Luxury_Chair_ChairCushion1_142...
+[2017.11.21-23.42.02:565][ 25]LogStaticMesh: Built static mesh [0.12s] /Game/Furniture/Objects_for_TheArsonist/Luxury_Chair_Luxury_Chair_ChairCushion1_142.Luxury_Chair_Luxury_Chair_ChairCushion1_142
+[2017.11.21-23.42.02:616][ 25]LogStaticMesh: Building static mesh Luxury_Chair_Luxury_Chair_ChairDetailing10_144...
+[2017.11.21-23.42.02:618][ 25]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Objects_for_TheArsonist/Luxury_Chair_Luxury_Chair_ChairDetailing10_144.Luxury_Chair_Luxury_Chair_ChairDetailing10_144
+[2017.11.21-23.42.02:651][ 25]LogStaticMesh: Building static mesh Luxury_Chair_Luxury_Chair_ChairDetailing6_146...
+[2017.11.21-23.42.02:827][ 25]LogStaticMesh: Built static mesh [0.18s] /Game/Furniture/Objects_for_TheArsonist/Luxury_Chair_Luxury_Chair_ChairDetailing6_146.Luxury_Chair_Luxury_Chair_ChairDetailing6_146
+[2017.11.21-23.42.03:048][ 25]LogStaticMesh: Building static mesh Luxury_Chair_Luxury_Chair_ChairDetailing7_148...
+[2017.11.21-23.42.04:278][ 25]LogStaticMesh: Built static mesh [1.23s] /Game/Furniture/Objects_for_TheArsonist/Luxury_Chair_Luxury_Chair_ChairDetailing7_148.Luxury_Chair_Luxury_Chair_ChairDetailing7_148
+[2017.11.21-23.42.04:938][ 25]LogStaticMesh: Building static mesh Luxury_Chair_Luxury_Chair_ChairDetailing9_152...
+[2017.11.21-23.42.07:749][ 25]LogStaticMesh: Built static mesh [2.81s] /Game/Furniture/Objects_for_TheArsonist/Luxury_Chair_Luxury_Chair_ChairDetailing9_152.Luxury_Chair_Luxury_Chair_ChairDetailing9_152
+[2017.11.21-23.42.08:281][ 25]LogStaticMesh: Building static mesh Luxury_Chair_Luxury_Chair_ChairFrame2_154...
+[2017.11.21-23.42.08:354][ 25]LogStaticMesh: Built static mesh [0.07s] /Game/Furniture/Objects_for_TheArsonist/Luxury_Chair_Luxury_Chair_ChairFrame2_154.Luxury_Chair_Luxury_Chair_ChairFrame2_154
+[2017.11.21-23.42.08:466][ 25]LogStaticMesh: Building static mesh Luxury_Chair_Luxury_Chair_ChairLegs2_156...
+[2017.11.21-23.42.08:982][ 25]LogStaticMesh: Built static mesh [0.52s] /Game/Furniture/Objects_for_TheArsonist/Luxury_Chair_Luxury_Chair_ChairLegs2_156.Luxury_Chair_Luxury_Chair_ChairLegs2_156
+[2017.11.21-23.42.09:173][ 25]LogStaticMesh: Building static mesh Luxury_Chair_Luxury_Chair_ChairSideCusions_158...
+[2017.11.21-23.42.09:213][ 25]LogStaticMesh: Built static mesh [0.04s] /Game/Furniture/Objects_for_TheArsonist/Luxury_Chair_Luxury_Chair_ChairSideCusions_158.Luxury_Chair_Luxury_Chair_ChairSideCusions_158
+[2017.11.21-23.42.09:245][ 25]LogStaticMesh: Building static mesh Luxury_Chair_Luxury_Chair_ChairSquares1_160...
+[2017.11.21-23.42.09:404][ 25]LogStaticMesh: Built static mesh [0.16s] /Game/Furniture/Objects_for_TheArsonist/Luxury_Chair_Luxury_Chair_ChairSquares1_160.Luxury_Chair_Luxury_Chair_ChairSquares1_160
+[2017.11.21-23.42.09:528][ 26]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Couch.fbx)
+[2017.11.21-23.42.09:572][ 26]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.21-23.42.09:572][ 26]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.21-23.42.09:572][ 26]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.21-23.42.09:572][ 26]LogFbx: ItemName: Geometry, ItemCount : 21
+[2017.11.21-23.42.09:572][ 26]LogFbx: ItemName: Material, ItemCount : 8
+[2017.11.21-23.42.09:572][ 26]LogFbx: ItemName: Model, ItemCount : 21
+[2017.11.21-23.42.09:572][ 26]LogFbx: ItemName: AnimationCurveNode, ItemCount : 4
+[2017.11.21-23.42.09:572][ 26]LogFbx: ItemName: AnimationCurve, ItemCount : 10
+[2017.11.21-23.42.09:576][ 26]LogFbx: Loading FBX Scene from C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Couch.fbx
+[2017.11.21-23.42.09:735][ 26]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.21-23.42.11:735][ 26]LogFbx: Loading FBX Scene from C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Couch.fbx
+[2017.11.21-23.42.11:896][ 26]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaBottomCushion1] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -906436864.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaBottomCushion1 (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaBottomCushion1]
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaBackCushion] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaBackCushion (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaBackCushion]
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaLegsUpperPart] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaLegsUpperPart (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaLegsUpperPart]
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaDetailing564] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaDetailing564 (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaDetailing564]
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaDetailing567] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaDetailing567 (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaDetailing567]
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaDetailing565] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaDetailing565 (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaDetailing565]
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaDetailing568551] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -906436864.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaDetailing568551 (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaDetailing568551]
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaDetailing568] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaDetailing568 (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaDetailing568]
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaDetailing566] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaDetailing566 (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaDetailing566]
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaDetailing568554] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -906436864.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaDetailing568554 (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaDetailing568554]
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaDetailing568553] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -906436864.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaDetailing568553 (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaDetailing568553]
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaLegs587] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaLegs587 (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaLegs587]
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaArm] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaArm (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaArm]
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SquarePartOfSofa] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SquarePartOfSofa (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SquarePartOfSofa]
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaArm5] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaArm5 (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaArm5]
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaFrame2] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaFrame2 (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaFrame2]
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:CouchCushion] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:CouchCushion (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:CouchCushion]
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaSideCushion2] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaSideCushion2 (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaSideCushion2]
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaSideCushion3] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaSideCushion3 (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaSideCushion3]
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:CouchCushion1] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:CouchCushion1 (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:CouchCushion1]
+[2017.11.21-23.42.11:899][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:CouchCushion5] 
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:899][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:899][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:CouchCushion5 (Type Mesh).
+[2017.11.21-23.42.11:899][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:CouchCushion5]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaBottomCushion1] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -906442624.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaBottomCushion1 (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaBottomCushion1]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaBackCushion] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaBackCushion (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaBackCushion]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaLegsUpperPart] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaLegsUpperPart (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaLegsUpperPart]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaDetailing564] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaDetailing564 (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaDetailing564]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaDetailing567] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaDetailing567 (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaDetailing567]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaDetailing565] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaDetailing565 (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaDetailing565]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaDetailing568551] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -906442624.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaDetailing568551 (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaDetailing568551]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaDetailing568] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaDetailing568 (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaDetailing568]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaDetailing566] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaDetailing566 (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaDetailing566]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaDetailing568554] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -906442624.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaDetailing568554 (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaDetailing568554]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaDetailing568553] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -906442624.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaDetailing568553 (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaDetailing568553]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaLegs587] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -1026506208.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaLegs587 (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaLegs587]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaArm] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -1005405920.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaArm (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaArm]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SquarePartOfSofa] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -1005405920.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SquarePartOfSofa (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SquarePartOfSofa]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaArm5] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -1005405920.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaArm5 (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaArm5]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaFrame2] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -1005405920.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaFrame2 (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaFrame2]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaSideCushion2] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -1005405920.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaSideCushion2 (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaSideCushion2]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:SofaSideCushion3] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -1005405920.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:SofaSideCushion3 (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:SofaSideCushion3]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:CouchCushion1] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -1005405920.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:CouchCushion1 (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:CouchCushion1]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:CouchCushion5] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -1005405920.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:CouchCushion5 (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:CouchCushion5]
+[2017.11.21-23.42.11:900][ 26]LogFbx: =================================================
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node START [LuxuryLivingRoomFurnitureSet:CouchCushion] 
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Total Deformer Count -1005405920.
+[2017.11.21-23.42.11:900][ 26]LogFbx: 	Attribute () Type (4).
+[2017.11.21-23.42.11:900][ 26]LogFbx: 		[Node Attribute Child 1] LuxuryLivingRoomFurnitureSet:CouchCushion (Type Mesh).
+[2017.11.21-23.42.11:900][ 26]LogFbx: Dumping Node END [LuxuryLivingRoomFurnitureSet:CouchCushion]
+[2017.11.21-23.42.11:901][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/SofaCushion'
+[2017.11.21-23.42.11:901][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/SofaCushion'
+[2017.11.21-23.42.11:903][ 26]LogMaterial: Missing cached shader map for material SofaCushion, compiling. 
+[2017.11.21-23.42.11:934][ 26]LogMaterial: Missing cached shader map for material SofaCushion, compiling. 
+[2017.11.21-23.42.11:959][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:SofaBottomCushion1
+[2017.11.21-23.42.12:956][ 26]LogSkeletalMesh: Section 0: 3252 vertices, 1 active bones
+[2017.11.21-23.42.12:965][ 26]LogSkeletalMesh: Section 0: Material=0, 6144 triangles
+[2017.11.21-23.42.12:968][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaBottomCushion1_Skeleton'
+[2017.11.21-23.42.12:968][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaBottomCushion1_Skeleton'
+[2017.11.21-23.42.12:970][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaBottomCushion1_PhysicsAsset'
+[2017.11.21-23.42.12:971][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaBottomCushion1_PhysicsAsset'
+[2017.11.21-23.42.12:978][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/SofaCushionSidesAndBack'
+[2017.11.21-23.42.12:978][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/SofaCushionSidesAndBack'
+[2017.11.21-23.42.12:980][ 26]LogMaterial: Missing cached shader map for material SofaCushionSidesAndBack, compiling. 
+[2017.11.21-23.42.13:019][ 26]LogMaterial: Missing cached shader map for material SofaCushionSidesAndBack, compiling. 
+[2017.11.21-23.42.13:053][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:SofaBackCushion
+[2017.11.21-23.42.14:193][ 26]LogSkeletalMesh: Section 0: 3713 vertices, 1 active bones
+[2017.11.21-23.42.14:201][ 26]LogSkeletalMesh: Section 0: Material=0, 7168 triangles
+[2017.11.21-23.42.14:203][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaBackCushion_Skeleton'
+[2017.11.21-23.42.14:203][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaBackCushion_Skeleton'
+[2017.11.21-23.42.14:206][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaBackCushion_PhysicsAsset'
+[2017.11.21-23.42.14:206][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaBackCushion_PhysicsAsset'
+[2017.11.21-23.42.14:213][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/SofaLegs587587'
+[2017.11.21-23.42.14:213][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/SofaLegs587587'
+[2017.11.21-23.42.14:216][ 26]LogMaterial: Missing cached shader map for material SofaLegs587587, compiling. 
+[2017.11.21-23.42.14:255][ 26]LogMaterial: Missing cached shader map for material SofaLegs587587, compiling. 
+[2017.11.21-23.42.14:298][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:SofaLegsUpperPart
+[2017.11.21-23.42.18:635][ 26]LogSkeletalMesh: Section 0: 13767 vertices, 1 active bones
+[2017.11.21-23.42.20:358][ 26]LogSkeletalMesh: Section 0: Material=0, 25760 triangles
+[2017.11.21-23.42.20:364][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaLegsUpperPart_Skeleton'
+[2017.11.21-23.42.20:364][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaLegsUpperPart_Skeleton'
+[2017.11.21-23.42.20:366][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaLegsUpperPart_PhysicsAsset'
+[2017.11.21-23.42.20:366][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaLegsUpperPart_PhysicsAsset'
+[2017.11.21-23.42.20:376][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/SofaDetailing568557'
+[2017.11.21-23.42.20:376][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/SofaDetailing568557'
+[2017.11.21-23.42.20:378][ 26]LogMaterial: Missing cached shader map for material SofaDetailing568557, compiling. 
+[2017.11.21-23.42.20:412][ 26]LogMaterial: Missing cached shader map for material SofaDetailing568557, compiling. 
+[2017.11.21-23.42.20:445][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:SofaDetailing564
+[2017.11.21-23.42.20:477][ 26]LogSkeletalMesh: Section 0: 900 vertices, 1 active bones
+[2017.11.21-23.42.20:478][ 26]LogSkeletalMesh: Section 0: Material=0, 600 triangles
+[2017.11.21-23.42.20:479][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing564_Skeleton'
+[2017.11.21-23.42.20:479][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing564_Skeleton'
+[2017.11.21-23.42.20:482][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing564_PhysicsAsset'
+[2017.11.21-23.42.20:483][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing564_PhysicsAsset'
+[2017.11.21-23.42.20:488][ 26]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: SkeletalMeshComponent0
+[2017.11.21-23.42.20:493][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:SofaDetailing567
+[2017.11.21-23.42.29:324][ 26]LogSkeletalMesh: Section 0: 39924 vertices, 1 active bones
+[2017.11.21-23.42.36:489][ 26]LogSkeletalMesh: Section 0: Material=0, 65108 triangles
+[2017.11.21-23.42.36:506][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing567_Skeleton'
+[2017.11.21-23.42.36:506][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing567_Skeleton'
+[2017.11.21-23.42.36:508][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing567_PhysicsAsset'
+[2017.11.21-23.42.36:508][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing567_PhysicsAsset'
+[2017.11.21-23.42.36:519][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:SofaDetailing565
+[2017.11.21-23.42.43:042][ 26]LogSkeletalMesh: Section 0: 37608 vertices, 1 active bones
+[2017.11.21-23.42.52:832][ 26]LogSkeletalMesh: Section 0: Material=0, 54112 triangles
+[2017.11.21-23.42.52:846][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing565_Skeleton'
+[2017.11.21-23.42.52:846][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing565_Skeleton'
+[2017.11.21-23.42.52:848][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing565_PhysicsAsset'
+[2017.11.21-23.42.52:848][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing565_PhysicsAsset'
+[2017.11.21-23.42.52:853][ 26]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: SkeletalMeshComponent0
+[2017.11.21-23.42.52:863][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:SofaDetailing568551
+[2017.11.21-23.42.57:742][ 26]LogSkeletalMesh: Section 0: 28335 vertices, 1 active bones
+[2017.11.21-23.43.04:646][ 26]LogSkeletalMesh: Section 0: Material=0, 40584 triangles
+[2017.11.21-23.43.04:655][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing568551_Skeleton'
+[2017.11.21-23.43.04:655][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing568551_Skeleton'
+[2017.11.21-23.43.04:657][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing568551_PhysicsAsset'
+[2017.11.21-23.43.04:657][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing568551_PhysicsAsset'
+[2017.11.21-23.43.04:661][ 26]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: SkeletalMeshComponent0
+[2017.11.21-23.43.04:670][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:SofaDetailing568
+[2017.11.21-23.43.11:201][ 26]LogSkeletalMesh: Section 0: 37608 vertices, 1 active bones
+[2017.11.21-23.43.22:878][ 26]LogSkeletalMesh: Section 0: Material=0, 54112 triangles
+[2017.11.21-23.43.22:890][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing568_Skeleton'
+[2017.11.21-23.43.22:890][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing568_Skeleton'
+[2017.11.21-23.43.22:892][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing568_PhysicsAsset'
+[2017.11.21-23.43.22:892][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing568_PhysicsAsset'
+[2017.11.21-23.43.22:897][ 26]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: SkeletalMeshComponent0
+[2017.11.21-23.43.22:905][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:SofaDetailing566
+[2017.11.21-23.43.24:897][ 26]LogSkeletalMesh: Section 0: 10969 vertices, 1 active bones
+[2017.11.21-23.43.27:982][ 26]LogSkeletalMesh: Section 0: Material=0, 17628 triangles
+[2017.11.21-23.43.27:985][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing566_Skeleton'
+[2017.11.21-23.43.27:986][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing566_Skeleton'
+[2017.11.21-23.43.27:988][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing566_PhysicsAsset'
+[2017.11.21-23.43.27:988][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing566_PhysicsAsset'
+[2017.11.21-23.43.27:994][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:SofaDetailing568554
+[2017.11.21-23.43.29:814][ 26]LogSkeletalMesh: Section 0: 8752 vertices, 1 active bones
+[2017.11.21-23.43.30:247][ 26]LogSkeletalMesh: Section 0: Material=0, 15840 triangles
+[2017.11.21-23.43.30:249][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing568554_Skeleton'
+[2017.11.21-23.43.30:250][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing568554_Skeleton'
+[2017.11.21-23.43.30:252][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing568554_PhysicsAsset'
+[2017.11.21-23.43.30:252][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing568554_PhysicsAsset'
+[2017.11.21-23.43.30:258][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:SofaDetailing568553
+[2017.11.21-23.43.34:946][ 26]LogSkeletalMesh: Section 0: 28353 vertices, 1 active bones
+[2017.11.21-23.43.43:470][ 26]LogSkeletalMesh: Section 0: Material=0, 40584 triangles
+[2017.11.21-23.43.43:478][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing568553_Skeleton'
+[2017.11.21-23.43.43:478][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing568553_Skeleton'
+[2017.11.21-23.43.43:480][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing568553_PhysicsAsset'
+[2017.11.21-23.43.43:480][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaDetailing568553_PhysicsAsset'
+[2017.11.21-23.43.43:485][ 26]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: SkeletalMeshComponent0
+[2017.11.21-23.43.43:492][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:SofaLegs587
+[2017.11.21-23.43.46:967][ 26]LogSkeletalMesh: Section 0: 16212 vertices, 1 active bones
+[2017.11.21-23.43.48:198][ 26]LogSkeletalMesh: Section 0: Material=0, 28960 triangles
+[2017.11.21-23.43.48:204][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaLegs587_Skeleton'
+[2017.11.21-23.43.48:204][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaLegs587_Skeleton'
+[2017.11.21-23.43.48:206][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaLegs587_PhysicsAsset'
+[2017.11.21-23.43.48:206][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaLegs587_PhysicsAsset'
+[2017.11.21-23.43.48:214][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ArmOfSofaLeft'
+[2017.11.21-23.43.48:214][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ArmOfSofaLeft'
+[2017.11.21-23.43.48:216][ 26]LogMaterial: Missing cached shader map for material ArmOfSofaLeft, compiling. 
+[2017.11.21-23.43.48:244][ 26]LogMaterial: Missing cached shader map for material ArmOfSofaLeft, compiling. 
+[2017.11.21-23.43.48:277][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:SofaArm
+[2017.11.21-23.43.51:185][ 26]LogSkeletalMesh: Section 0: 11971 vertices, 1 active bones
+[2017.11.21-23.43.51:348][ 26]LogSkeletalMesh: Section 0: Material=0, 20928 triangles
+[2017.11.21-23.43.51:352][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaArm_Skeleton'
+[2017.11.21-23.43.51:352][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaArm_Skeleton'
+[2017.11.21-23.43.51:355][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaArm_PhysicsAsset'
+[2017.11.21-23.43.51:355][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaArm_PhysicsAsset'
+[2017.11.21-23.43.51:361][ 26]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: SkeletalMeshComponent0
+[2017.11.21-23.43.51:367][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:SquarePartOfSofa
+[2017.11.21-23.43.52:400][ 26]LogSkeletalMesh: Section 0: 4944 vertices, 1 active bones
+[2017.11.21-23.43.52:439][ 26]LogSkeletalMesh: Section 0: Material=0, 7332 triangles
+[2017.11.21-23.43.52:440][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SquarePartOfSofa_Skeleton'
+[2017.11.21-23.43.52:441][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SquarePartOfSofa_Skeleton'
+[2017.11.21-23.43.52:443][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SquarePartOfSofa_PhysicsAsset'
+[2017.11.21-23.43.52:443][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SquarePartOfSofa_PhysicsAsset'
+[2017.11.21-23.43.52:450][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ArmOfSofaRight'
+[2017.11.21-23.43.52:450][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/ArmOfSofaRight'
+[2017.11.21-23.43.52:453][ 26]LogMaterial: Missing cached shader map for material ArmOfSofaRight, compiling. 
+[2017.11.21-23.43.52:496][ 26]LogMaterial: Missing cached shader map for material ArmOfSofaRight, compiling. 
+[2017.11.21-23.43.52:531][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:SofaArm5
+[2017.11.21-23.43.55:394][ 26]LogSkeletalMesh: Section 0: 11971 vertices, 1 active bones
+[2017.11.21-23.43.55:596][ 26]LogSkeletalMesh: Section 0: Material=0, 20928 triangles
+[2017.11.21-23.43.55:600][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaArm5_Skeleton'
+[2017.11.21-23.43.55:600][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaArm5_Skeleton'
+[2017.11.21-23.43.55:602][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaArm5_PhysicsAsset'
+[2017.11.21-23.43.55:602][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaArm5_PhysicsAsset'
+[2017.11.21-23.43.55:607][ 26]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: SkeletalMeshComponent0
+[2017.11.21-23.43.55:612][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/BackAndBottomOfCouch'
+[2017.11.21-23.43.55:613][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/BackAndBottomOfCouch'
+[2017.11.21-23.43.55:615][ 26]LogMaterial: Missing cached shader map for material BackAndBottomOfCouch, compiling. 
+[2017.11.21-23.43.55:649][ 26]LogMaterial: Missing cached shader map for material BackAndBottomOfCouch, compiling. 
+[2017.11.21-23.43.55:680][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:SofaFrame2
+[2017.11.21-23.43.56:889][ 26]LogSkeletalMesh: Section 0: 5480 vertices, 1 active bones
+[2017.11.21-23.43.56:904][ 26]LogSkeletalMesh: Section 0: Material=0, 8692 triangles
+[2017.11.21-23.43.56:906][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaFrame2_Skeleton'
+[2017.11.21-23.43.56:907][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaFrame2_Skeleton'
+[2017.11.21-23.43.56:910][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaFrame2_PhysicsAsset'
+[2017.11.21-23.43.56:910][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaFrame2_PhysicsAsset'
+[2017.11.21-23.43.56:918][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/SidesOfSofaCushion'
+[2017.11.21-23.43.56:918][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/SidesOfSofaCushion'
+[2017.11.21-23.43.56:921][ 26]LogMaterial: Missing cached shader map for material SidesOfSofaCushion, compiling. 
+[2017.11.21-23.43.56:967][ 26]LogMaterial: Missing cached shader map for material SidesOfSofaCushion, compiling. 
+[2017.11.21-23.43.57:012][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:CouchCushion
+[2017.11.21-23.43.58:511][ 26]LogSkeletalMesh: Section 0: 3607 vertices, 1 active bones
+[2017.11.21-23.43.58:511][ 26]LogSkeletalMesh: Section 1: 2359 vertices, 1 active bones
+[2017.11.21-23.43.58:541][ 26]LogSkeletalMesh: Section 0: Material=0, 6592 triangles
+[2017.11.21-23.43.58:542][ 26]LogSkeletalMesh: Section 1: Material=1, 4112 triangles
+[2017.11.21-23.43.58:545][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_CouchCushion_Skeleton'
+[2017.11.21-23.43.58:545][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_CouchCushion_Skeleton'
+[2017.11.21-23.43.58:549][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_CouchCushion_PhysicsAsset'
+[2017.11.21-23.43.58:549][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_CouchCushion_PhysicsAsset'
+[2017.11.21-23.43.58:555][ 26]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: SkeletalMeshComponent0
+[2017.11.21-23.43.58:561][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:SofaSideCushion2
+[2017.11.21-23.43.59:749][ 26]LogSkeletalMesh: Section 0: 4800 vertices, 1 active bones
+[2017.11.21-23.43.59:765][ 26]LogSkeletalMesh: Section 0: Material=0, 8576 triangles
+[2017.11.21-23.43.59:768][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaSideCushion2_Skeleton'
+[2017.11.21-23.43.59:768][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaSideCushion2_Skeleton'
+[2017.11.21-23.43.59:771][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaSideCushion2_PhysicsAsset'
+[2017.11.21-23.43.59:771][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaSideCushion2_PhysicsAsset'
+[2017.11.21-23.43.59:777][ 26]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: SkeletalMeshComponent0
+[2017.11.21-23.43.59:782][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:SofaSideCushion3
+[2017.11.21-23.44.00:962][ 26]LogSkeletalMesh: Section 0: 4800 vertices, 1 active bones
+[2017.11.21-23.44.00:979][ 26]LogSkeletalMesh: Section 0: Material=0, 8576 triangles
+[2017.11.21-23.44.00:982][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaSideCushion3_Skeleton'
+[2017.11.21-23.44.00:982][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaSideCushion3_Skeleton'
+[2017.11.21-23.44.00:985][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaSideCushion3_PhysicsAsset'
+[2017.11.21-23.44.00:985][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_SofaSideCushion3_PhysicsAsset'
+[2017.11.21-23.44.00:991][ 26]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: SkeletalMeshComponent0
+[2017.11.21-23.44.00:997][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:CouchCushion1
+[2017.11.21-23.44.02:428][ 26]LogSkeletalMesh: Section 0: 3607 vertices, 1 active bones
+[2017.11.21-23.44.02:428][ 26]LogSkeletalMesh: Section 1: 2367 vertices, 1 active bones
+[2017.11.21-23.44.02:450][ 26]LogSkeletalMesh: Section 0: Material=0, 6591 triangles
+[2017.11.21-23.44.02:450][ 26]LogSkeletalMesh: Section 1: Material=1, 4112 triangles
+[2017.11.21-23.44.02:453][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_CouchCushion1_Skeleton'
+[2017.11.21-23.44.02:453][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_CouchCushion1_Skeleton'
+[2017.11.21-23.44.02:455][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_CouchCushion1_PhysicsAsset'
+[2017.11.21-23.44.02:455][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_CouchCushion1_PhysicsAsset'
+[2017.11.21-23.44.02:459][ 26]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: SkeletalMeshComponent0
+[2017.11.21-23.44.02:463][ 26]LogFbx: Triangulating skeletal mesh LuxuryLivingRoomFurnitureSet:CouchCushion5
+[2017.11.21-23.44.03:686][ 26]LogSkeletalMesh: Section 0: 3607 vertices, 1 active bones
+[2017.11.21-23.44.03:686][ 26]LogSkeletalMesh: Section 1: 2367 vertices, 1 active bones
+[2017.11.21-23.44.03:705][ 26]LogSkeletalMesh: Section 0: Material=0, 6591 triangles
+[2017.11.21-23.44.03:705][ 26]LogSkeletalMesh: Section 1: Material=1, 4112 triangles
+[2017.11.21-23.44.03:707][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_CouchCushion5_Skeleton'
+[2017.11.21-23.44.03:707][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_CouchCushion5_Skeleton'
+[2017.11.21-23.44.03:709][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_CouchCushion5_PhysicsAsset'
+[2017.11.21-23.44.03:709][ 26]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/Luxury_Couch_CouchCushion5_PhysicsAsset'
+[2017.11.21-23.44.03:713][ 26]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: SkeletalMeshComponent0
+[2017.11.21-23.44.03:913][ 27]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Lamp.fbx)
+[2017.11.21-23.44.04:136][ 27]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.21-23.44.04:136][ 27]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.21-23.44.04:136][ 27]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.21-23.44.04:136][ 27]LogFbx: ItemName: Geometry, ItemCount : 6
+[2017.11.21-23.44.04:136][ 27]LogFbx: ItemName: Material, ItemCount : 7
+[2017.11.21-23.44.04:136][ 27]LogFbx: ItemName: Model, ItemCount : 6
+[2017.11.21-23.44.04:140][ 27]LogFbx: Loading FBX Scene from C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Lamp.fbx
+[2017.11.21-23.44.05:166][ 27]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.21-23.44.13:420][ 27]LogFbx: Loading FBX Scene from C:/Users/u1088799/Documents/GitHub/The-Arsonist/Content/Furniture/Objects for TheArsonist/Luxury Lamp.fbx
+[2017.11.21-23.44.14:452][ 27]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.21-23.44.14:457][ 27]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/LampBody1'
+[2017.11.21-23.44.14:458][ 27]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/LampBody1'
+[2017.11.21-23.44.14:462][ 27]LogMaterial: Missing cached shader map for material LampBody1, compiling. 
+[2017.11.21-23.44.15:459][ 27]LogStaticMesh: Building static mesh Luxury_Lamp_LampBody...
+[2017.11.21-23.44.15:694][ 27]LogStaticMesh: Built static mesh [0.24s] /Game/Furniture/Objects_for_TheArsonist/Luxury_Lamp_LampBody.Luxury_Lamp_LampBody
+[2017.11.21-23.44.15:767][ 27]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/LampDetailing4'
+[2017.11.21-23.44.15:767][ 27]LogLinker: Can't find file '/Game/Furniture/Objects_for_TheArsonist/LampDetailing4'
+[2017.11.21-23.44.15:773][ 27]LogMaterial: Missing cached shader map for material LampDetailing4, compiling. 
+[2017.11.21-23.46.31:435][ 27]LogStaticMesh: Building static mesh Luxury_Lamp_LampDetailing3...
