@@ -1,0 +1,1607 @@
+<<<<<<< HEAD
+﻿Log file open, 12/03/17 02:36:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: The_Arsonist
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1826933043) SRandInit(1826933043).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.047990
+=======
+﻿Log file open, 12/03/17 01:44:59
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: The_Arsonist
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(747592944) SRandInit(747592944).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.173890
+>>>>>>> 9f8165473cabd335584734cc9c79009089edfb45
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+<<<<<<< HEAD
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.03-09.36.28:655][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.03-09.36.28:655][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.03-09.36.29:911][  0]LogInit: Computer: NICHOLAS_PC
+[2017.12.03-09.36.29:911][  0]LogInit: User: Nicholas
+[2017.12.03-09.36.29:911][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.12.03-09.36.29:911][  0]LogInit: High frequency timer resolution =2.240909 MHz
+[2017.12.03-09.36.29:913][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2017.12.03-09.36.29:913][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.03-09.36.29:913][  0]LogMemory: Process Physical Memory: 277.02 MB used, 277.02 MB peak
+[2017.12.03-09.36.29:913][  0]LogMemory: Process Virtual Memory: 276.17 MB used, 276.17 MB peak
+[2017.12.03-09.36.29:913][  0]LogMemory: Physical Memory: 4516.05 MB used,  1511.56 MB free, 6027.62 MB total
+[2017.12.03-09.36.29:914][  0]LogMemory: Virtual Memory: 666.99 MB used,  1511.56 MB free, 134217728.00 MB total
+[2017.12.03-09.36.39:829][  0]LogInit: Using OS detected language (en-US).
+[2017.12.03-09.36.39:829][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.03-09.36.41:175][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.03-09.37.15:564][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.03-09.37.15:832][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2017.12.03-09.37.15:832][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.12.03-09.37.15:936][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.03-09.37.15:937][  0]LogD3D11RHI:       0/0/3013 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.03-09.37.15:937][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.03-09.37.16:051][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.03-09.37.16:052][  0]LogD3D11RHI:     GPU DeviceId: 0xa16 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.03-09.37.16:052][  0]LogWindows: EnumDisplayDevices:
+[2017.12.03-09.37.16:052][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2017.12.03-09.37.16:053][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2017.12.03-09.37.16:054][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2017.12.03-09.37.16:054][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.12.03-09.37.16:054][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics Family
+[2017.12.03-09.37.16:054][  0]LogD3D11RHI:   Driver Version: 20.19.15.4549 (internal:20.19.15.4549, unified:20.19.15.4549)
+[2017.12.03-09.37.16:054][  0]LogD3D11RHI:      Driver Date: 11-10-2016
+[2017.12.03-09.37.16:054][  0]LogRHI: Texture pool is 795 MB (70% of 1136 MB)
+[2017.12.03-09.37.16:376][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.03-09.37.17:109][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2017.12.03-09.37.17:241][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Intermediate/Shaders/WorkingDirectory/112448/).
+[2017.12.03-09.37.17:351][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nicholas/AppData/Local/Temp/UnrealShaderWorkingDir/EF42A6974B32E787CB3C59A7C0EBD273/'.
+[2017.12.03-09.37.17:351][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.03-09.37.38:525][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.03-09.37.38:910][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.03-09.37.39:317][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.03-09.37.39:724][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.03-09.37.40:330][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.03-09.37.40:501][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.03-09.37.40:657][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.03-09.37.40:761][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.03-09.37.40:861][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.03-09.37.41:216][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.03-09.37.41:603][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.03-09.37.42:059][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.03-09.37.42:551][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.03-09.37.42:786][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.03-09.37.42:950][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.03-09.37.43:762][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.03-09.37.43:762][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.03-09.37.44:205][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.03-09.37.44:638][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.03-09.37.44:762][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.03-09.37.44:897][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.03-09.37.45:373][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.03-09.37.45:798][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.03-09.37.46:559][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.03-09.37.46:559][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.03-09.37.50:601][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.03-09.37.54:543][  0]LogDerivedDataCache: Loaded boot cache 3.94s 93MB C:/Users/Nicholas/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.03-09.37.54:543][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nicholas/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.12.03-09.37.54:543][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.03-09.37.54:543][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.03-09.37.54:544][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.03-09.37.54:544][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.03-09.37.54:809][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.03-09.37.54:826][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nicholas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.03-09.37.54:914][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.03-09.37.54:930][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.03-09.37.55:014][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.03-09.37.55:014][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.03-09.38.09:481][  0]LogAssetRegistry: FAssetRegistry took 0.0348 seconds to start up
+[2017.12.03-09.38.09:886][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.03-09.38.10:285][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.12.03-09.38.12:181][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.03-09.38.12:421][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.03-09.38.12:421][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.03-09.38.12:421][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.03-09.38.12:421][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.03-09.38.12:421][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.03-09.38.13:620][  0]LogNetVersion: The_Arsonist , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3182256164)
+[2017.12.03-09.38.14:409][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.184384 seconds
+[2017.12.03-09.38.14:425][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.12.03-09.38.14:425][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.12.03-09.38.14:425][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.03-09.38.14:688][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.03-09.39.17:193][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.03-09.39.17:371][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.03-09.39.20:728][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.03-09.39.23:271][  0]SourceControl: Source control is disabled
+[2017.12.03-09.39.23:272][  0]SourceControl: Source control is disabled
+[2017.12.03-09.39.23:490][  0]SourceControl: Source control is disabled
+[2017.12.03-09.39.23:783][  0]SourceControl: Source control is disabled
+[2017.12.03-09.39.30:027][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.03-09.39.31:467][  0]LogOcInput: OculusInput pre-init called
+[2017.12.03-09.39.33:059][  0]LogEngine: Initializing Engine...
+[2017.12.03-09.39.34:683][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2017.12.03-09.39.36:540][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.03-09.39.36:540][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.03-09.39.37:078][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.03-09.39.37:359][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-09.39.37:407][  0]LogInit: FAudioDevice initialized.
+[2017.12.03-09.39.37:862][  0]LogDerivedDataCache: Saved boot cache 0.45s 93MB C:/Users/Nicholas/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.03-09.39.37:970][  0]LogInit: Texture streaming: Enabled
+[2017.12.03-09.39.39:939][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.03-09.39.41:524][  0]LogInit: Transaction tracking system initialized
+[2017.12.03-09.39.43:197][  0]BlueprintLog: New page: Editor Load
+[2017.12.03-09.39.49:683][  0]LocalizationService: Localization service is disabled
+[2017.12.03-09.39.54:318][  0]LogConsoleResponse: Display: 
+[2017.12.03-09.39.58:859][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.03-09.39.58:859][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.03-09.39.58:859][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.03-09.40.00:194][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nicholas/Documents/GitHub/The-Arsonist/Content/' took 0.17s
+[2017.12.03-09.40.13:135][  0]SourceControl: Source control is disabled
+[2017.12.03-09.40.13:136][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.03-09.40.13:582][  0]LightingResults: New page: Lighting Build
+[2017.12.03-09.40.13:663][  0]MapCheck: New page: Map Check
+[2017.12.03-09.40.13:663][  0]LightingResults: New page: Lighting Build
+[2017.12.03-09.40.16:018][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.12.03-09.40.16:069][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.03-09.40.16:109][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.03-09.40.16:215][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 105.003ms to complete.
+[2017.12.03-09.40.16:215][  0]LogFileHelpers: Loading map 'Template_Default' took 3.079
+[2017.12.03-09.40.20:245][  0]LogCollectionManager: Loaded 0 collections in 0.003531 seconds
+[2017.12.03-09.40.20:921][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nicholas/Documents/GitHub/The-Arsonist/Saved/Collections/' took 0.01s
+[2017.12.03-09.40.20:921][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nicholas/Documents/GitHub/The-Arsonist/Content/Developers/Nicholas/Collections/' took 0.01s
+[2017.12.03-09.40.20:921][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nicholas/Documents/GitHub/The-Arsonist/Content/Collections/' took 0.01s
+[2017.12.03-09.40.20:921][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.12.03-09.40.20:970][  0]LogContentBrowser: Native class hierarchy populated in 0.0264 seconds. Added 2386 classes and 500 folders.
+[2017.12.03-09.40.21:995][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0018 seconds. Added 0 classes and 0 folders.
+[2017.12.03-09.40.26:740][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0016 seconds. Added 0 classes and 0 folders.
+[2017.12.03-09.40.27:439][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0037 seconds. Added 1 classes and 2 folders.
+[2017.12.03-09.40.31:967][  0]LogSlate: Took 0.033215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.03-09.40.32:302][  0]LogSlate: Took 0.061329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.03-09.40.32:497][  0]LogSlate: Took 0.032548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.03-09.40.36:263][  0]LogRenderer: Reallocating scene render targets to support 992x248 Format 10 NumSamples 1 (Frame:1).
+[2017.12.03-09.40.58:224][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0026 seconds. Added 1 classes and 2 folders.
+[2017.12.03-09.40.58:225][  0]LogLoad: (Engine Initialization) Total time: 323.62 seconds
+[2017.12.03-09.40.58:225][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.03-09.40.58:315][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.03-09.40.58:315][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.03-09.41.02:659][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.03-09.41.11:905][  2]LogSlate: Took 0.039721 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.03-09.41.15:932][  5]LogSlate: Took 0.000443 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.03-09.41.17:222][  6]LogAssetRegistry: Asset discovery search completed in 187.7631 seconds
+[2017.12.03-09.41.17:315][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.03-09.41.17:315][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000103 seconds (updated 0 objects)
+[2017.12.03-09.41.52:193][143]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.03-09.41.53:620][143]LogSlate: Took 0.001003 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.03-09.42.40:809][143]LogAIModule: Creating AISystem for world Scene_01
+[2017.12.03-09.42.46:488][143]Cmd: MAP LOAD FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Content/Scenes/Scene_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.03-09.42.46:492][143]LightingResults: New page: Lighting Build
+[2017.12.03-09.42.46:494][143]LoadErrors: New page: Loading map: Scene_01.umap
+[2017.12.03-09.42.46:862][143]MapCheck: New page: Map Check
+[2017.12.03-09.42.46:943][143]LightingResults: New page: Lighting Build
+[2017.12.03-09.42.48:478][143]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.03-09.42.49:602][143]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.03-09.42.50:025][143]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 421.96ms to complete.
+[2017.12.03-09.42.50:034][143]LogFileHelpers: Loading map 'Scene_01' took 4.525
+[2017.12.03-09.42.50:131][143]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Nicholas/Documents/GitHub/The-Arsonist/Content/' took 109.65s
+[2017.12.03-09.44.25:947][465]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.03-09.44.46:248][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-09.44.46:877][466]PIE: New page: PIE session: Scene_01 (Dec 2, 2017, 7:44:46 PM)
+[2017.12.03-09.44.46:896][466]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01
+[2017.12.03-09.44.47:371][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.474312s)
+[2017.12.03-09.44.47:376][466]LogAIModule: Creating AISystem for world Scene_01
+[2017.12.03-09.44.47:377][466]LogPlayLevel: PIE: World Init took: (0.005737s)
+[2017.12.03-09.44.47:532][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01.Scene_01 to /Game/Scenes/UEDPIE_0_Scene_01.Scene_01 (0.647278s)
+[2017.12.03-09.44.48:150][466]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-09.44.48:545][466]LogInit: FAudioDevice initialized.
+[2017.12.03-09.44.49:073][466]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-09.44.50:838][466]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01.Scene_01 up for play (max tick rate 60) at 2017.12.03-02.44.50
+[2017.12.03-09.44.57:433][466]LogWorld: Bringing up level for play took: 6.613068
+[2017.12.03-09.45.00:004][466]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0016 seconds. Added 11 classes and 0 folders.
+[2017.12.03-09.45.00:867][466]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01 14.452
+[2017.12.03-09.48.24:300][739]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-09.48.26:006][739]Cmd: MAP LOAD FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Content/Scenes/Scene_01_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.03-09.48.26:018][739]LightingResults: New page: Lighting Build
+[2017.12.03-09.48.26:159][739]LoadErrors: New page: Loading map: Scene_01_02.umap
+[2017.12.03-09.48.26:285][739]MapCheck: New page: Map Check
+[2017.12.03-09.48.26:285][739]LightingResults: New page: Lighting Build
+[2017.12.03-09.48.26:989][739]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2017.12.03-09.48.27:934][739]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.03-09.48.32:725][739]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4,789.635ms to complete.
+[2017.12.03-09.48.32:732][739]LogFileHelpers: Loading map 'Scene_01_02' took 6.937
+[2017.12.03-09.48.40:886][767]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-09.48.54:304][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-09.48.54:339][767]PIE: New page: PIE session: Scene_01_02 (Dec 2, 2017, 7:48:54 PM)
+[2017.12.03-09.48.54:340][767]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.03-09.48.54:566][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.225737s)
+[2017.12.03-09.48.54:567][767]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-09.48.54:567][767]LogPlayLevel: PIE: World Init took: (0.001435s)
+[2017.12.03-09.48.54:568][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (0.227819s)
+[2017.12.03-09.48.54:684][767]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-09.48.54:779][767]LogInit: FAudioDevice initialized.
+[2017.12.03-09.48.54:868][767]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-09.48.54:895][767]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 60) at 2017.12.03-02.48.54
+[2017.12.03-09.48.54:942][767]LogWorld: Bringing up level for play took: 0.073624
+[2017.12.03-09.48.54:981][767]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 0.575
+[2017.12.03-09.49.34:607][ 13]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=1.00
+[2017.12.03-09.49.34:607][ 13]LogSynthBenchmark: Display: ===============
+[2017.12.03-09.49.34:608][ 13]LogSynthBenchmark: Display: Main Processor:
+[2017.12.03-09.49.34:817][ 13]LogSynthBenchmark: Display:          ... 0.111635 s/Run 'RayIntersect'
+[2017.12.03-09.49.34:817][ 13]LogSynthBenchmark: Display:          ... 0.097736 s/Run 'Fractal'
+[2017.12.03-09.49.34:817][ 13]LogSynthBenchmark: Display: 
+[2017.12.03-09.49.34:817][ 13]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2017.12.03-09.49.34:817][ 13]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2017.12.03-09.49.34:817][ 13]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2017.12.03-09.49.34:817][ 13]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2017.12.03-09.49.34:817][ 13]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 6
+[2017.12.03-09.49.34:817][ 13]LogSynthBenchmark: Display:   NumberOfCores (physical): 2
+[2017.12.03-09.49.34:817][ 13]LogSynthBenchmark: Display:   NumberOfCores (logical): 4
+[2017.12.03-09.49.34:818][ 13]LogSynthBenchmark: Display:   CPU Perf Index 0: 22.9 (weight 1.00)
+[2017.12.03-09.49.34:818][ 13]LogSynthBenchmark: Display:   CPU Perf Index 1: 29.3 (weight 1.50)
+[2017.12.03-09.49.34:818][ 13]LogSynthBenchmark: Display:  
+[2017.12.03-09.49.34:818][ 13]LogSynthBenchmark: Display: Graphics:
+[2017.12.03-09.49.34:818][ 13]LogSynthBenchmark: Display:   Adapter Name: 'Intel(R) HD Graphics Family'
+[2017.12.03-09.49.34:818][ 13]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2017.12.03-09.49.34:818][ 13]LogSynthBenchmark: Display:   Vendor Id: 0x8086
+[2017.12.03-09.49.34:818][ 13]LogSynthBenchmark: Display:   Device Id: 0xA16
+[2017.12.03-09.49.34:818][ 13]LogSynthBenchmark: Display:   Device Revision: 0x9
+[2017.12.03-09.49.34:818][ 13]LogSynthBenchmark: Display:   GPU Memory: 113/0/2048 MB
+[2017.12.03-09.49.36:843][ 13]LogSynthBenchmark: Display:   GPU first test: 0.17s
+[2017.12.03-09.49.36:843][ 13]LogSynthBenchmark: Display:          ... 0.309 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2017.12.03-09.49.36:843][ 13]LogSynthBenchmark: Display:          ... 0.227 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2017.12.03-09.49.36:843][ 13]LogSynthBenchmark: Display:          ... 0.216 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be very inaccurate)
+[2017.12.03-09.49.36:843][ 13]LogSynthBenchmark: Display:          ... 0.867 s/GigaPix, Confidence=89% 'FillOnly' (likely to be very inaccurate)
+[2017.12.03-09.49.36:843][ 13]LogSynthBenchmark: Display:          ... 0.053 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2017.12.03-09.49.36:843][ 13]LogSynthBenchmark: Display:          ... 0.179 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be very inaccurate)
+[2017.12.03-09.49.36:843][ 13]LogSynthBenchmark: Display:          ... 0.543 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2017.12.03-09.49.36:843][ 13]LogSynthBenchmark: Display:   GPU Final Results:
+[2017.12.03-09.49.36:843][ 13]LogSynthBenchmark: Display:          ... 0.309 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2017.12.03-09.49.36:843][ 13]LogSynthBenchmark: Display:          ... 0.227 s/GigaPix, Confidence=100% 'TexHeavy'
+[2017.12.03-09.49.36:843][ 13]LogSynthBenchmark: Display:          ... 0.216 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2017.12.03-09.49.36:843][ 13]LogSynthBenchmark: Display:          ... 0.867 s/GigaPix, Confidence=89% 'FillOnly'
+[2017.12.03-09.49.37:043][ 13]LogSynthBenchmark: Display:          ... 0.053 s/GigaPix, Confidence=100% 'Bandwidth'
+[2017.12.03-09.49.37:043][ 13]LogSynthBenchmark: Display:          ... 0.179 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2017.12.03-09.49.37:043][ 13]LogSynthBenchmark: Display:          ... 0.543 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2017.12.03-09.49.37:043][ 13]LogSynthBenchmark: Display: 
+[2017.12.03-09.49.37:043][ 13]LogSynthBenchmark: Display:   GPU Perf Index 0: 6.7 (weight 1.00)
+[2017.12.03-09.49.37:044][ 13]LogSynthBenchmark: Display:   GPU Perf Index 1: 3.0 (weight 0.10)
+[2017.12.03-09.49.37:044][ 13]LogSynthBenchmark: Display:   GPU Perf Index 2: 5.6 (weight 0.10)
+[2017.12.03-09.49.37:044][ 13]LogSynthBenchmark: Display:   GPU Perf Index 3: 3.4 (weight 3.00)
+[2017.12.03-09.49.37:044][ 13]LogSynthBenchmark: Display:   GPU Perf Index 4: 4.9 (weight 1.00)
+[2017.12.03-09.49.37:044][ 13]LogSynthBenchmark: Display:   GPU Perf Index 5: 11.6 (weight 0.00)
+[2017.12.03-09.49.37:044][ 13]LogSynthBenchmark: Display:   GPU Perf Index 6: 30.8 (weight 0.00)
+[2017.12.03-09.49.37:044][ 13]LogSynthBenchmark: Display:   CPUIndex: 26.7
+[2017.12.03-09.49.37:044][ 13]LogSynthBenchmark: Display:   GPUIndex: 4.4
+[2017.12.03-09.49.37:044][ 13]LogSynthBenchmark: Display: 
+[2017.12.03-09.49.37:044][ 13]LogSynthBenchmark: Display:          ... Total Time: 2.436993 sec
+[2017.12.03-09.49.45:219][ 14]LogRenderer: Reallocating scene render targets to support 992x248 Format 9 NumSamples 1 (Frame:167).
+[2017.12.03-09.49.45:905][ 14]LogContentStreaming: Texture pool size now 400 MB
+[2017.12.03-09.53.58:435][699]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-09.53.58:590][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-09.53.58:590][699]PIE: New page: PIE session: Scene_01_02 (Dec 2, 2017, 7:53:58 PM)
+[2017.12.03-09.53.58:591][699]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.03-09.53.59:873][699]LogPlayLevel: PIE: StaticDuplicateObject took: (1.268619s)
+[2017.12.03-09.53.59:878][699]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-09.53.59:879][699]LogPlayLevel: PIE: World Init took: (0.005641s)
+[2017.12.03-09.53.59:881][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (1.290428s)
+[2017.12.03-09.54.00:089][699]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-09.54.00:139][699]LogInit: FAudioDevice initialized.
+[2017.12.03-09.54.00:184][699]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-09.54.00:198][699]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 60) at 2017.12.03-02.54.00
+[2017.12.03-09.54.00:202][699]LogWorld: Bringing up level for play took: 0.017339
+[2017.12.03-09.54.00:205][699]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 1.798
+[2017.12.03-09.55.39:318][157]LogRenderer: Reallocating scene render targets to support 992x256 Format 9 NumSamples 1 (Frame:6).
+[2017.12.03-09.56.07:424][200]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Stop Walking.fbx)
+[2017.12.03-09.56.09:961][200]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.12.03-09.56.09:961][200]LogFbx: ItemName: NodeAttribute, ItemCount : 67
+[2017.12.03-09.56.09:961][200]LogFbx: ItemName: Model, ItemCount : 74
+[2017.12.03-09.56.09:961][200]LogFbx: ItemName: Material, ItemCount : 5
+[2017.12.03-09.56.09:962][200]LogFbx: ItemName: Texture, ItemCount : 25
+[2017.12.03-09.56.09:962][200]LogFbx: ItemName: Video, ItemCount : 25
+[2017.12.03-09.56.09:962][200]LogFbx: ItemName: Geometry, ItemCount : 7
+[2017.12.03-09.56.09:962][200]LogFbx: ItemName: Deformer, ItemCount : 92
+[2017.12.03-09.56.09:962][200]LogFbx: ItemName: Pose, ItemCount : 1
+[2017.12.03-09.56.09:988][200]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.12.03-09.56.09:988][200]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.12.03-09.56.09:988][200]LogFbx: ItemName: AnimationCurveNode, ItemCount : 70
+[2017.12.03-09.56.09:988][200]LogFbx: ItemName: AnimationCurve, ItemCount : 471
+[2017.12.03-09.56.10:355][200]LogFbx: Loading FBX Scene from D:/Stop Walking.fbx
+[2017.12.03-09.56.11:303][200]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.03-09.56.17:217][200]LogFbx: Loading FBX Scene from D:/Stop Walking.fbx
+[2017.12.03-09.56.17:428][200]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.03-09.56.17:481][200]LogFbx: =================================================
+[2017.12.03-09.56.17:481][200]LogFbx: Dumping Node START [default] 
+[2017.12.03-09.56.17:481][200]LogFbx: 	Total Deformer Count -1375713560.
+[2017.12.03-09.56.17:481][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.17:481][200]LogFbx: =================================================
+[2017.12.03-09.56.17:481][200]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2017.12.03-09.56.17:481][200]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.03-09.56.17:481][200]LogFbx: Dumping Node END [default]
+[2017.12.03-09.56.17:481][200]LogFbx: =================================================
+[2017.12.03-09.56.17:482][200]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-09.56.17:482][200]LogFbx: 	Total Deformer Count -756599664.
+[2017.12.03-09.56.17:482][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.17:482][200]LogFbx: =================================================
+[2017.12.03-09.56.17:482][200]LogFbx: 	Attribute (Eyesmesh) Type (4).
+[2017.12.03-09.56.17:482][200]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-09.56.17:482][200]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-09.56.17:482][200]LogFbx: =================================================
+[2017.12.03-09.56.17:482][200]LogFbx: Dumping Node START [Body] 
+[2017.12.03-09.56.17:482][200]LogFbx: 	Total Deformer Count -756599664.
+[2017.12.03-09.56.17:482][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.17:482][200]LogFbx: =================================================
+[2017.12.03-09.56.17:482][200]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2017.12.03-09.56.17:482][200]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-09.56.17:482][200]LogFbx: Dumping Node END [Body]
+[2017.12.03-09.56.17:482][200]LogFbx: =================================================
+[2017.12.03-09.56.17:482][200]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-09.56.17:482][200]LogFbx: 	Total Deformer Count -756599664.
+[2017.12.03-09.56.17:482][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.17:482][200]LogFbx: =================================================
+[2017.12.03-09.56.17:482][200]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2017.12.03-09.56.17:482][200]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-09.56.17:482][200]LogFbx: Dumping Node END [Tops]
+[2017.12.03-09.56.17:482][200]LogFbx: =================================================
+[2017.12.03-09.56.17:482][200]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-09.56.17:482][200]LogFbx: 	Total Deformer Count -1375713560.
+[2017.12.03-09.56.17:482][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.17:482][200]LogFbx: =================================================
+[2017.12.03-09.56.17:482][200]LogFbx: 	Attribute (Bottomsmesh) Type (4).
+[2017.12.03-09.56.17:482][200]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-09.56.17:482][200]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-09.56.17:482][200]LogFbx: =================================================
+[2017.12.03-09.56.17:482][200]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-09.56.17:482][200]LogFbx: 	Total Deformer Count -756597936.
+[2017.12.03-09.56.17:482][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.17:482][200]LogFbx: =================================================
+[2017.12.03-09.56.17:482][200]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2017.12.03-09.56.17:482][200]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-09.56.17:482][200]LogFbx: Dumping Node END [Hair]
+[2017.12.03-09.56.17:482][200]LogFbx: =================================================
+[2017.12.03-09.56.17:482][200]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-09.56.17:482][200]LogFbx: 	Total Deformer Count -756597936.
+[2017.12.03-09.56.17:482][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.17:482][200]LogFbx: =================================================
+[2017.12.03-09.56.17:482][200]LogFbx: 	Attribute (Shoesmesh) Type (4).
+[2017.12.03-09.56.17:482][200]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-09.56.17:482][200]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-09.56.17:483][200]LogFbx: =================================================
+[2017.12.03-09.56.17:483][200]LogFbx: Dumping Node START [default] 
+[2017.12.03-09.56.17:483][200]LogFbx: 	Total Deformer Count -1375713728.
+[2017.12.03-09.56.17:483][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.17:483][200]LogFbx: =================================================
+[2017.12.03-09.56.17:483][200]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2017.12.03-09.56.17:483][200]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.03-09.56.17:483][200]LogFbx: Dumping Node END [default]
+[2017.12.03-09.56.17:483][200]LogFbx: =================================================
+[2017.12.03-09.56.17:483][200]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-09.56.17:483][200]LogFbx: 	Total Deformer Count -756601152.
+[2017.12.03-09.56.17:483][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.17:483][200]LogFbx: =================================================
+[2017.12.03-09.56.17:483][200]LogFbx: 	Attribute (Eyesmesh) Type (4).
+[2017.12.03-09.56.17:483][200]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-09.56.17:483][200]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-09.56.17:484][200]LogFbx: =================================================
+[2017.12.03-09.56.17:484][200]LogFbx: Dumping Node START [Body] 
+[2017.12.03-09.56.17:484][200]LogFbx: 	Total Deformer Count -756601152.
+[2017.12.03-09.56.17:484][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.17:484][200]LogFbx: =================================================
+[2017.12.03-09.56.17:484][200]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2017.12.03-09.56.17:484][200]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-09.56.17:484][200]LogFbx: Dumping Node END [Body]
+[2017.12.03-09.56.17:484][200]LogFbx: =================================================
+[2017.12.03-09.56.17:484][200]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-09.56.17:484][200]LogFbx: 	Total Deformer Count -756601152.
+[2017.12.03-09.56.17:484][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.17:484][200]LogFbx: =================================================
+[2017.12.03-09.56.17:484][200]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2017.12.03-09.56.17:484][200]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-09.56.17:484][200]LogFbx: Dumping Node END [Tops]
+[2017.12.03-09.56.17:484][200]LogFbx: =================================================
+[2017.12.03-09.56.17:484][200]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-09.56.17:484][200]LogFbx: 	Total Deformer Count -1375713728.
+[2017.12.03-09.56.17:484][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.17:484][200]LogFbx: =================================================
+[2017.12.03-09.56.17:484][200]LogFbx: 	Attribute (Bottomsmesh) Type (4).
+[2017.12.03-09.56.17:484][200]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-09.56.17:484][200]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-09.56.17:484][200]LogFbx: =================================================
+[2017.12.03-09.56.17:484][200]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-09.56.17:484][200]LogFbx: 	Total Deformer Count -756602688.
+[2017.12.03-09.56.17:484][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.17:484][200]LogFbx: =================================================
+[2017.12.03-09.56.17:484][200]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2017.12.03-09.56.17:484][200]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-09.56.17:484][200]LogFbx: Dumping Node END [Hair]
+[2017.12.03-09.56.17:484][200]LogFbx: =================================================
+[2017.12.03-09.56.17:484][200]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-09.56.17:484][200]LogFbx: 	Total Deformer Count -756602688.
+[2017.12.03-09.56.17:484][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.17:484][200]LogFbx: =================================================
+[2017.12.03-09.56.17:484][200]LogFbx: 	Attribute (Shoesmesh) Type (4).
+[2017.12.03-09.56.17:484][200]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-09.56.17:484][200]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-09.56.17:516][200]LogFbx: Valid bind pose for Pose (BindPose) - default
+[2017.12.03-09.56.17:599][200]LogFbx: Triangulating skeletal mesh default
+[2017.12.03-09.56.17:675][200]LogFbx: Triangulating skeletal mesh Eyes
+[2017.12.03-09.56.18:182][200]LogFbx: Triangulating skeletal mesh Body
+[2017.12.03-09.56.24:937][200]LogFbx: Triangulating skeletal mesh Tops
+[2017.12.03-09.56.26:622][200]LogFbx: Triangulating skeletal mesh Bottoms
+[2017.12.03-09.56.28:089][200]LogFbx: Triangulating skeletal mesh Hair
+[2017.12.03-09.56.29:919][200]LogFbx: Triangulating skeletal mesh Shoes
+[2017.12.03-09.56.32:923][200]LogFbx: Warning: Bones digested - 67  Depth of hierarchy - 12
+[2017.12.03-09.56.35:840][200]LogSkeletalMesh: Section 0: 11820 vertices, 48 active bones
+[2017.12.03-09.56.35:840][200]LogSkeletalMesh: Section 1: 2434 vertices, 13 active bones
+[2017.12.03-09.56.35:841][200]LogSkeletalMesh: Section 2: 2346 vertices, 10 active bones
+[2017.12.03-09.56.35:841][200]LogSkeletalMesh: Section 3: 3854 vertices, 3 active bones
+[2017.12.03-09.56.35:841][200]LogSkeletalMesh: Section 4: 4092 vertices, 6 active bones
+[2017.12.03-09.56.36:180][200]LogSkeletalMesh: Section 0: Material=0, 21212 triangles
+[2017.12.03-09.56.36:180][200]LogSkeletalMesh: Section 1: Material=1, 4362 triangles
+[2017.12.03-09.56.36:180][200]LogSkeletalMesh: Section 2: Material=2, 4050 triangles
+[2017.12.03-09.56.36:180][200]LogSkeletalMesh: Section 3: Material=3, 4666 triangles
+[2017.12.03-09.56.36:180][200]LogSkeletalMesh: Section 4: Material=4, 6946 triangles
+[2017.12.03-09.56.36:481][200]LogLinker: Can't find file '/Game/Models/MainKid/Stop_Walking_PhysicsAsset'
+[2017.12.03-09.56.36:491][200]LogLinker: Can't find file '/Game/Models/MainKid/Stop_Walking_PhysicsAsset'
+[2017.12.03-09.56.36:817][200]LogFbx: =================================================
+[2017.12.03-09.56.36:817][200]LogFbx: Dumping Node START [default] 
+[2017.12.03-09.56.36:817][200]LogFbx: 	Total Deformer Count -1375701072.
+[2017.12.03-09.56.36:817][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.36:817][200]LogFbx: =================================================
+[2017.12.03-09.56.36:817][200]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2017.12.03-09.56.36:817][200]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.03-09.56.36:817][200]LogFbx: Dumping Node END [default]
+[2017.12.03-09.56.36:817][200]LogFbx: =================================================
+[2017.12.03-09.56.36:817][200]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-09.56.36:817][200]LogFbx: 	Total Deformer Count -756610128.
+[2017.12.03-09.56.36:818][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.36:818][200]LogFbx: =================================================
+[2017.12.03-09.56.36:818][200]LogFbx: 	Attribute (Eyesmesh) Type (4).
+[2017.12.03-09.56.36:818][200]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-09.56.36:818][200]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-09.56.36:818][200]LogFbx: =================================================
+[2017.12.03-09.56.36:818][200]LogFbx: Dumping Node START [Body] 
+[2017.12.03-09.56.36:818][200]LogFbx: 	Total Deformer Count -756610128.
+[2017.12.03-09.56.36:818][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.36:818][200]LogFbx: =================================================
+[2017.12.03-09.56.36:818][200]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2017.12.03-09.56.36:818][200]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-09.56.36:818][200]LogFbx: Dumping Node END [Body]
+[2017.12.03-09.56.36:818][200]LogFbx: =================================================
+[2017.12.03-09.56.36:818][200]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-09.56.36:818][200]LogFbx: 	Total Deformer Count -756610128.
+[2017.12.03-09.56.36:818][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.36:818][200]LogFbx: =================================================
+[2017.12.03-09.56.36:818][200]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2017.12.03-09.56.36:819][200]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-09.56.36:819][200]LogFbx: Dumping Node END [Tops]
+[2017.12.03-09.56.36:819][200]LogFbx: =================================================
+[2017.12.03-09.56.36:819][200]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-09.56.36:819][200]LogFbx: 	Total Deformer Count -1375701072.
+[2017.12.03-09.56.36:819][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.36:819][200]LogFbx: =================================================
+[2017.12.03-09.56.36:819][200]LogFbx: 	Attribute (Bottomsmesh) Type (4).
+[2017.12.03-09.56.36:819][200]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-09.56.36:819][200]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-09.56.36:819][200]LogFbx: =================================================
+[2017.12.03-09.56.36:819][200]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-09.56.36:819][200]LogFbx: 	Total Deformer Count -756610992.
+[2017.12.03-09.56.36:819][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.36:819][200]LogFbx: =================================================
+[2017.12.03-09.56.36:819][200]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2017.12.03-09.56.36:819][200]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-09.56.36:819][200]LogFbx: Dumping Node END [Hair]
+[2017.12.03-09.56.36:819][200]LogFbx: =================================================
+[2017.12.03-09.56.36:820][200]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-09.56.36:820][200]LogFbx: 	Total Deformer Count -756610992.
+[2017.12.03-09.56.36:820][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.36:820][200]LogFbx: =================================================
+[2017.12.03-09.56.36:820][200]LogFbx: 	Attribute (Shoesmesh) Type (4).
+[2017.12.03-09.56.36:820][200]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-09.56.36:820][200]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-09.56.36:821][200]LogFbx: =================================================
+[2017.12.03-09.56.36:821][200]LogFbx: Dumping Node START [default] 
+[2017.12.03-09.56.36:821][200]LogFbx: 	Total Deformer Count -1375703424.
+[2017.12.03-09.56.36:821][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.36:821][200]LogFbx: =================================================
+[2017.12.03-09.56.36:821][200]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2017.12.03-09.56.36:821][200]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.03-09.56.36:821][200]LogFbx: Dumping Node END [default]
+[2017.12.03-09.56.36:822][200]LogFbx: =================================================
+[2017.12.03-09.56.36:822][200]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-09.56.36:822][200]LogFbx: 	Total Deformer Count -756612576.
+[2017.12.03-09.56.36:822][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.36:822][200]LogFbx: =================================================
+[2017.12.03-09.56.36:822][200]LogFbx: 	Attribute (Eyesmesh) Type (4).
+[2017.12.03-09.56.36:822][200]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-09.56.36:822][200]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-09.56.36:822][200]LogFbx: =================================================
+[2017.12.03-09.56.36:822][200]LogFbx: Dumping Node START [Body] 
+[2017.12.03-09.56.36:822][200]LogFbx: 	Total Deformer Count 225099680.
+[2017.12.03-09.56.36:822][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.36:822][200]LogFbx: =================================================
+[2017.12.03-09.56.36:822][200]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2017.12.03-09.56.36:822][200]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-09.56.36:822][200]LogFbx: Dumping Node END [Body]
+[2017.12.03-09.56.36:823][200]LogFbx: =================================================
+[2017.12.03-09.56.36:823][200]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-09.56.36:823][200]LogFbx: 	Total Deformer Count 225099680.
+[2017.12.03-09.56.36:823][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.36:823][200]LogFbx: =================================================
+[2017.12.03-09.56.36:823][200]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2017.12.03-09.56.36:823][200]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-09.56.36:823][200]LogFbx: Dumping Node END [Tops]
+[2017.12.03-09.56.36:823][200]LogFbx: =================================================
+[2017.12.03-09.56.36:823][200]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-09.56.36:823][200]LogFbx: 	Total Deformer Count -1375703424.
+[2017.12.03-09.56.36:823][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.36:824][200]LogFbx: =================================================
+[2017.12.03-09.56.36:824][200]LogFbx: 	Attribute (Bottomsmesh) Type (4).
+[2017.12.03-09.56.36:824][200]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-09.56.36:824][200]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-09.56.36:824][200]LogFbx: =================================================
+[2017.12.03-09.56.36:824][200]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-09.56.36:824][200]LogFbx: 	Total Deformer Count 225098480.
+[2017.12.03-09.56.36:824][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.36:824][200]LogFbx: =================================================
+[2017.12.03-09.56.36:824][200]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2017.12.03-09.56.36:825][200]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-09.56.36:825][200]LogFbx: Dumping Node END [Hair]
+[2017.12.03-09.56.36:825][200]LogFbx: =================================================
+[2017.12.03-09.56.36:825][200]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-09.56.36:825][200]LogFbx: 	Total Deformer Count 225098480.
+[2017.12.03-09.56.36:825][200]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-09.56.36:825][200]LogFbx: =================================================
+[2017.12.03-09.56.36:825][200]LogFbx: 	Attribute (Shoesmesh) Type (4).
+[2017.12.03-09.56.36:825][200]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-09.56.36:825][200]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-09.56.36:835][200]LogFbx: SortedLinks :(0) Hips
+[2017.12.03-09.56.36:835][200]LogFbx: SortedLinks :(1) Spine
+[2017.12.03-09.56.36:835][200]LogFbx: SortedLinks :(2) Spine1
+[2017.12.03-09.56.36:835][200]LogFbx: SortedLinks :(3) Spine2
+[2017.12.03-09.56.36:835][200]LogFbx: SortedLinks :(4) Neck
+[2017.12.03-09.56.36:835][200]LogFbx: SortedLinks :(5) Head
+[2017.12.03-09.56.36:836][200]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.12.03-09.56.36:836][200]LogFbx: SortedLinks :(7) RightEye
+[2017.12.03-09.56.36:836][200]LogFbx: SortedLinks :(8) LeftEye
+[2017.12.03-09.56.36:836][200]LogFbx: SortedLinks :(9) LeftShoulder
+[2017.12.03-09.56.36:836][200]LogFbx: SortedLinks :(10) LeftArm
+[2017.12.03-09.56.36:836][200]LogFbx: SortedLinks :(11) LeftForeArm
+[2017.12.03-09.56.36:836][200]LogFbx: SortedLinks :(12) LeftHand
+[2017.12.03-09.56.36:836][200]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2017.12.03-09.56.36:836][200]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2017.12.03-09.56.36:836][200]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2017.12.03-09.56.36:837][200]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2017.12.03-09.56.36:837][200]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2017.12.03-09.56.36:837][200]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2017.12.03-09.56.36:837][200]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2017.12.03-09.56.36:837][200]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2017.12.03-09.56.36:837][200]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2017.12.03-09.56.36:837][200]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2017.12.03-09.56.36:837][200]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2017.12.03-09.56.36:837][200]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2017.12.03-09.56.36:837][200]LogFbx: SortedLinks :(25) LeftHandRing1
+[2017.12.03-09.56.36:837][200]LogFbx: SortedLinks :(26) LeftHandRing2
+[2017.12.03-09.56.36:837][200]LogFbx: SortedLinks :(27) LeftHandRing3
+[2017.12.03-09.56.36:837][200]LogFbx: SortedLinks :(28) LeftHandRing4
+[2017.12.03-09.56.36:838][200]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2017.12.03-09.56.36:838][200]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2017.12.03-09.56.36:838][200]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2017.12.03-09.56.36:838][200]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2017.12.03-09.56.36:838][200]LogFbx: SortedLinks :(33) RightShoulder
+[2017.12.03-09.56.36:838][200]LogFbx: SortedLinks :(34) RightArm
+[2017.12.03-09.56.36:838][200]LogFbx: SortedLinks :(35) RightForeArm
+[2017.12.03-09.56.36:838][200]LogFbx: SortedLinks :(36) RightHand
+[2017.12.03-09.56.36:838][200]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2017.12.03-09.56.36:838][200]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2017.12.03-09.56.36:839][200]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2017.12.03-09.56.36:839][200]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2017.12.03-09.56.36:839][200]LogFbx: SortedLinks :(41) RightHandThumb1
+[2017.12.03-09.56.36:839][200]LogFbx: SortedLinks :(42) RightHandThumb2
+[2017.12.03-09.56.36:839][200]LogFbx: SortedLinks :(43) RightHandThumb3
+[2017.12.03-09.56.36:839][200]LogFbx: SortedLinks :(44) RightHandThumb4
+[2017.12.03-09.56.36:839][200]LogFbx: SortedLinks :(45) RightHandIndex1
+[2017.12.03-09.56.36:839][200]LogFbx: SortedLinks :(46) RightHandIndex2
+[2017.12.03-09.56.36:839][200]LogFbx: SortedLinks :(47) RightHandIndex3
+[2017.12.03-09.56.36:839][200]LogFbx: SortedLinks :(48) RightHandIndex4
+[2017.12.03-09.56.36:839][200]LogFbx: SortedLinks :(49) RightHandRing1
+[2017.12.03-09.56.36:839][200]LogFbx: SortedLinks :(50) RightHandRing2
+[2017.12.03-09.56.36:839][200]LogFbx: SortedLinks :(51) RightHandRing3
+[2017.12.03-09.56.36:840][200]LogFbx: SortedLinks :(52) RightHandRing4
+[2017.12.03-09.56.36:840][200]LogFbx: SortedLinks :(53) RightHandPinky1
+[2017.12.03-09.56.36:840][200]LogFbx: SortedLinks :(54) RightHandPinky2
+[2017.12.03-09.56.36:840][200]LogFbx: SortedLinks :(55) RightHandPinky3
+[2017.12.03-09.56.36:840][200]LogFbx: SortedLinks :(56) RightHandPinky4
+[2017.12.03-09.56.36:840][200]LogFbx: SortedLinks :(57) RightUpLeg
+[2017.12.03-09.56.36:840][200]LogFbx: SortedLinks :(58) RightLeg
+[2017.12.03-09.56.36:840][200]LogFbx: SortedLinks :(59) RightFoot
+[2017.12.03-09.56.36:840][200]LogFbx: SortedLinks :(60) RightToeBase
+[2017.12.03-09.56.36:840][200]LogFbx: SortedLinks :(61) RightToe_End
+[2017.12.03-09.56.36:841][200]LogFbx: SortedLinks :(62) LeftUpLeg
+[2017.12.03-09.56.36:841][200]LogFbx: SortedLinks :(63) LeftLeg
+[2017.12.03-09.56.36:841][200]LogFbx: SortedLinks :(64) LeftFoot
+[2017.12.03-09.56.36:841][200]LogFbx: SortedLinks :(65) LeftToeBase
+[2017.12.03-09.56.36:841][200]LogFbx: SortedLinks :(66) LeftToe_End
+[2017.12.03-09.56.36:859][200]LogFbx: Parsing AnimStack mixamo.com
+[2017.12.03-09.56.36:912][200]LogLinker: Can't find file '/Game/Models/MainKid/Stop_Walking_Anim'
+[2017.12.03-09.56.36:913][200]LogLinker: Can't find file '/Game/Models/MainKid/Stop_Walking_Anim'
+[2017.12.03-09.56.38:489][200]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/MainKid/Stop_Walking_Anim.Stop_Walking_Anim
+[2017.12.03-09.56.38:795][200]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.03-09.56.38:795][200]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:RightEye  
+mixamorig:LeftEye  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandRing4  
+mixamorig:LeftHandPinky4  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandThumb4  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandRing4  
+mixamorig:RightHandPinky4  
+mixamorig:RightToe_End  
+mixamorig:LeftToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2017.12.03-09.56.38:796][200]FBXImport: Warning: Warning skeletal mesh influence count of 10 exceeds max count of 8. Influence truncation will occur. Maximum Ignored Weight 0 
+[2017.12.03-09.57.26:414][849]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Stop_Walking_Anim)
+[2017.12.03-09.57.46:662][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-09.57.46:662][155]PIE: New page: SIE session: Scene_01_02 (Dec 2, 2017, 7:57:46 PM)
+[2017.12.03-09.57.46:662][155]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.03-09.57.47:074][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.412204s)
+[2017.12.03-09.57.47:077][155]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-09.57.47:079][155]LogPlayLevel: PIE: World Init took: (0.003762s)
+[2017.12.03-09.57.47:079][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (0.417191s)
+[2017.12.03-09.57.47:124][155]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-09.57.47:154][155]LogInit: FAudioDevice initialized.
+[2017.12.03-09.57.47:198][155]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-09.57.47:210][155]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 60) at 2017.12.03-02.57.47
+[2017.12.03-09.57.47:217][155]LogWorld: Bringing up level for play took: 0.018434
+[2017.12.03-09.57.47:247][155]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 0.84
+[2017.12.03-09.58.42:072][931]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_04)
+[2017.12.03-09.59.37:978][751]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_04)
+[2017.12.03-10.01.04:128][ 36]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_04)
+[2017.12.03-10.02.31:310][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-10.02.31:310][340]PIE: New page: PIE session: Scene_01_02 (Dec 2, 2017, 8:02:31 PM)
+[2017.12.03-10.02.31:310][340]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.03-10.02.34:180][340]LogPlayLevel: PIE: StaticDuplicateObject took: (2.869605s)
+[2017.12.03-10.02.34:183][340]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-10.02.34:184][340]LogPlayLevel: PIE: World Init took: (0.003916s)
+[2017.12.03-10.02.34:186][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (2.875630s)
+[2017.12.03-10.02.34:350][340]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-10.02.34:377][340]LogInit: FAudioDevice initialized.
+[2017.12.03-10.02.34:418][340]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-10.02.34:447][340]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 60) at 2017.12.03-03.02.34
+[2017.12.03-10.02.34:451][340]LogWorld: Bringing up level for play took: 0.016436
+[2017.12.03-10.02.34:454][340]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 4.047
+[2017.12.03-10.04.24:165][238]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-10.04.24:441][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-10.04.24:441][238]PIE: New page: PIE session: Scene_01_02 (Dec 2, 2017, 8:04:24 PM)
+[2017.12.03-10.04.24:441][238]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.03-10.04.24:975][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.533830s)
+[2017.12.03-10.04.24:978][238]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-10.04.24:980][238]LogPlayLevel: PIE: World Init took: (0.004519s)
+[2017.12.03-10.04.24:981][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (0.539865s)
+[2017.12.03-10.04.25:238][238]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-10.04.25:407][238]LogInit: FAudioDevice initialized.
+[2017.12.03-10.04.25:482][238]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-10.04.25:529][238]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 60) at 2017.12.03-03.04.25
+[2017.12.03-10.04.25:531][238]LogWorld: Bringing up level for play took: 0.047021
+[2017.12.03-10.04.25:534][238]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 1.127
+[2017.12.03-10.05.51:795][424]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Stop_Walking_Anim)
+[2017.12.03-10.07.33:898][121]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-10.07.34:108][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-10.07.34:109][121]PIE: New page: PIE session: Scene_01_02 (Dec 2, 2017, 8:07:34 PM)
+[2017.12.03-10.07.34:110][121]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.03-10.07.34:465][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.354550s)
+[2017.12.03-10.07.34:467][121]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-10.07.34:467][121]LogPlayLevel: PIE: World Init took: (0.002637s)
+[2017.12.03-10.07.34:468][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (0.357878s)
+[2017.12.03-10.07.34:506][121]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-10.07.34:537][121]LogInit: FAudioDevice initialized.
+[2017.12.03-10.07.34:576][121]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-10.07.34:586][121]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 60) at 2017.12.03-03.07.34
+[2017.12.03-10.07.34:591][121]LogWorld: Bringing up level for play took: 0.014736
+[2017.12.03-10.07.34:600][121]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 0.193
+[2017.12.03-10.11.35:978][ 25]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-10.11.36:026][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-10.11.36:027][ 25]PIE: New page: PIE session: Scene_01_02 (Dec 2, 2017, 8:11:36 PM)
+[2017.12.03-10.11.36:027][ 25]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.03-10.11.36:732][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.705383s)
+[2017.12.03-10.11.36:735][ 25]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-10.11.36:736][ 25]LogPlayLevel: PIE: World Init took: (0.004035s)
+[2017.12.03-10.11.36:737][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (0.710781s)
+[2017.12.03-10.11.36:952][ 25]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-10.11.37:062][ 25]LogInit: FAudioDevice initialized.
+[2017.12.03-10.11.37:118][ 25]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-10.11.37:134][ 25]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 60) at 2017.12.03-03.11.37
+[2017.12.03-10.11.37:139][ 25]LogWorld: Bringing up level for play took: 0.020611
+[2017.12.03-10.11.37:142][ 25]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 0.735
+[2017.12.03-10.15.39:135][898]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-10.15.39:323][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-10.15.39:323][898]PIE: New page: PIE session: Scene_01_02 (Dec 2, 2017, 8:15:39 PM)
+[2017.12.03-10.15.39:323][898]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.03-10.15.39:534][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.210968s)
+[2017.12.03-10.15.39:535][898]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-10.15.39:535][898]LogPlayLevel: PIE: World Init took: (0.001339s)
+[2017.12.03-10.15.39:536][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (0.212865s)
+[2017.12.03-10.15.39:620][898]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-10.15.39:643][898]LogInit: FAudioDevice initialized.
+[2017.12.03-10.15.39:707][898]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-10.15.39:725][898]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 60) at 2017.12.03-03.15.39
+[2017.12.03-10.15.39:729][898]LogWorld: Bringing up level for play took: 0.021271
+[2017.12.03-10.15.39:733][898]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 1.327
+[2017.12.03-10.17.14:697][520]Cmd: TRANSACTION UNDO
+[2017.12.03-10.17.14:697][520]LogEditorTransaction: Undo Move Section
+[2017.12.03-10.19.24:539][681]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-10.19.24:772][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-10.19.24:773][681]PIE: New page: PIE session: Scene_01_02 (Dec 2, 2017, 8:19:24 PM)
+[2017.12.03-10.19.24:773][681]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.03-10.19.24:886][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112154s)
+[2017.12.03-10.19.24:890][681]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-10.19.24:891][681]LogPlayLevel: PIE: World Init took: (0.005203s)
+[2017.12.03-10.19.24:892][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (0.119139s)
+[2017.12.03-10.19.25:093][681]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-10.19.25:139][681]LogInit: FAudioDevice initialized.
+[2017.12.03-10.19.25:180][681]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-10.19.25:196][681]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 60) at 2017.12.03-03.19.25
+[2017.12.03-10.19.25:203][681]LogWorld: Bringing up level for play took: 0.022024
+[2017.12.03-10.19.25:206][681]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 0.799
+[2017.12.03-10.21.40:139][679]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-10.21.40:348][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-10.21.40:349][679]PIE: New page: PIE session: Scene_01_02 (Dec 2, 2017, 8:21:40 PM)
+[2017.12.03-10.21.40:751][679]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.03-10.21.40:849][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097550s)
+[2017.12.03-10.21.40:853][679]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-10.21.40:854][679]LogPlayLevel: PIE: World Init took: (0.005293s)
+[2017.12.03-10.21.40:856][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (0.105541s)
+[2017.12.03-10.21.40:946][679]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-10.21.40:977][679]LogInit: FAudioDevice initialized.
+[2017.12.03-10.21.41:032][679]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-10.21.41:043][679]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 60) at 2017.12.03-03.21.41
+[2017.12.03-10.21.41:047][679]LogWorld: Bringing up level for play took: 0.013583
+[2017.12.03-10.21.41:050][679]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 0.643
+[2017.12.03-10.22.57:219][739]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Stop_Walking_Anim)
+[2017.12.03-10.23.02:071][827]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Stop_Walking_Anim)
+[2017.12.03-10.23.28:117][347]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-10.23.28:183][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-10.23.28:184][347]PIE: New page: PIE session: Scene_01_02 (Dec 2, 2017, 8:23:28 PM)
+[2017.12.03-10.23.28:184][347]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.03-10.23.28:240][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055968s)
+[2017.12.03-10.23.28:243][347]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-10.23.28:244][347]LogPlayLevel: PIE: World Init took: (0.003686s)
+[2017.12.03-10.23.28:245][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (0.061057s)
+[2017.12.03-10.23.28:337][347]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-10.23.28:367][347]LogInit: FAudioDevice initialized.
+[2017.12.03-10.23.28:409][347]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-10.23.28:460][347]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 60) at 2017.12.03-03.23.28
+[2017.12.03-10.23.28:464][347]LogWorld: Bringing up level for play took: 0.054803
+[2017.12.03-10.23.28:468][347]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 0.061
+[2017.12.03-10.25.22:375][129]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-10.25.22:425][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-10.25.22:425][129]PIE: New page: PIE session: Scene_01_02 (Dec 2, 2017, 8:25:22 PM)
+[2017.12.03-10.25.22:425][129]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.03-10.25.22:524][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098996s)
+[2017.12.03-10.25.22:528][129]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-10.25.22:529][129]LogPlayLevel: PIE: World Init took: (0.003993s)
+[2017.12.03-10.25.22:529][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (0.103622s)
+[2017.12.03-10.25.22:575][129]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-10.25.22:609][129]LogInit: FAudioDevice initialized.
+[2017.12.03-10.25.22:656][129]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-10.25.22:668][129]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 60) at 2017.12.03-03.25.22
+[2017.12.03-10.25.22:687][129]LogWorld: Bringing up level for play took: 0.030011
+[2017.12.03-10.25.22:689][129]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 0.283
+[2017.12.03-10.26.46:389][360]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-10.26.46:457][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-10.26.46:457][360]PIE: New page: PIE session: Scene_01_02 (Dec 2, 2017, 8:26:46 PM)
+[2017.12.03-10.26.46:457][360]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.03-10.26.46:526][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068201s)
+[2017.12.03-10.26.46:528][360]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-10.26.46:529][360]LogPlayLevel: PIE: World Init took: (0.002965s)
+[2017.12.03-10.26.46:530][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (0.072388s)
+[2017.12.03-10.26.46:598][360]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-10.26.46:642][360]LogInit: FAudioDevice initialized.
+[2017.12.03-10.26.46:691][360]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-10.26.46:708][360]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 60) at 2017.12.03-03.26.46
+[2017.12.03-10.26.46:712][360]LogWorld: Bringing up level for play took: 0.019526
+[2017.12.03-10.26.46:716][360]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 0.309
+[2017.12.03-10.28.24:887][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Scene_01_02" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Content/Scenes/Scene_01_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.03-10.28.26:720][750]LogSavePackage: Save=1411.63ms
+[2017.12.03-10.28.26:720][750]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Saved/Scene_01_021973D6444C94757A8DB6978B392A8768.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Content/Scenes/Scene_01_02.umap'
+[2017.12.03-10.28.26:734][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Content/Scenes/Scene_01_02.umap
+[2017.12.03-10.28.26:953][750]LogFileHelpers: Saving map 'Scene_01_02' took 4.380
+[2017.12.03-10.28.27:107][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/MainKid/Stop_Walking" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Content/Models/MainKid/Stop_Walking.uasset" SILENT=true
+[2017.12.03-10.28.27:721][750]LogSavePackage: Save=592.94ms
+[2017.12.03-10.28.27:721][750]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Saved/Stop_WalkingCC18EF674B6D246220DD7F8B3E13C18C.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Content/Models/MainKid/Stop_Walking.uasset'
+[2017.12.03-10.28.27:728][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Content/Models/MainKid/Stop_Walking.uasset
+[2017.12.03-10.28.27:733][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation_Scenes/Scene_01" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset" SILENT=true
+[2017.12.03-10.28.29:036][750]LogSavePackage: Save=1218.86ms
+[2017.12.03-10.28.29:036][750]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Saved/Scene_0144326E924A8B2BE9F0F025B6E8C4BC77.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset'
+[2017.12.03-10.28.29:068][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset
+[2017.12.03-10.28.29:232][750]LogSavePackage: Save=89.42ms
+[2017.12.03-10.28.29:232][750]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Saved/Stop_Walking_PhysicsAsset297B9C87479D0E64C6CCFC9CA78CC588.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Content/Models/MainKid/Stop_Walking_PhysicsAsset.uasset'
+[2017.12.03-10.28.29:249][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Content/Models/MainKid/Stop_Walking_PhysicsAsset.uasset
+[2017.12.03-10.28.29:347][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/MainKid/Stop_Walking_Anim" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Content/Models/MainKid/Stop_Walking_Anim.uasset" SILENT=true
+[2017.12.03-10.28.29:596][750]LogSavePackage: Save=241.88ms
+[2017.12.03-10.28.29:596][750]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Saved/Stop_Walking_Anim98D0A8564F69DA3F2000E69A3AAC4E36.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Content/Models/MainKid/Stop_Walking_Anim.uasset'
+[2017.12.03-10.28.29:614][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Content/Models/MainKid/Stop_Walking_Anim.uasset
+[2017.12.03-10.47.13:498][132]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+=======
+LogInit: Base directory: F:/Unreal/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.03-08.44.59:965][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.03-08.44.59:965][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.03-08.44.59:972][  0]LogInit: Computer: SPAGHETTI
+[2017.12.03-08.44.59:972][  0]LogInit: User: default
+[2017.12.03-08.44.59:972][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.03-08.44.59:972][  0]LogInit: High frequency timer resolution =3.429153 MHz
+[2017.12.03-08.44.59:973][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.12.03-08.44.59:973][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.03-08.44.59:973][  0]LogMemory: Process Physical Memory: 278.01 MB used, 278.01 MB peak
+[2017.12.03-08.44.59:973][  0]LogMemory: Process Virtual Memory: 274.64 MB used, 274.64 MB peak
+[2017.12.03-08.44.59:973][  0]LogMemory: Physical Memory: 6989.84 MB used,  9361.29 MB free, 16351.14 MB total
+[2017.12.03-08.44.59:973][  0]LogMemory: Virtual Memory: 668.92 MB used,  9361.29 MB free, 134217728.00 MB total
+[2017.12.03-08.45.00:096][  0]LogInit: Using OS detected language (en-US).
+[2017.12.03-08.45.00:096][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.03-08.45.00:099][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.03-08.45.00:743][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.03-08.45.00:786][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2017.12.03-08.45.00:787][  0]LogD3D11RHI:       6064/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.03-08.45.00:788][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.03-08.45.00:788][  0]LogD3D11RHI:       0/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.03-08.45.00:788][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.03-08.45.00:791][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.03-08.45.00:791][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.03-08.45.00:791][  0]LogWindows: EnumDisplayDevices:
+[2017.12.03-08.45.00:791][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2017.12.03-08.45.00:792][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.12.03-08.45.00:792][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.12.03-08.45.00:792][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.12.03-08.45.00:792][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.03-08.45.00:792][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2017.12.03-08.45.00:792][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.12.03-08.45.00:792][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.12.03-08.45.00:792][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.12.03-08.45.00:826][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.03-08.45.00:847][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.03-08.45.00:849][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (../../../../Projects/The_Arsonist/The-Arsonist/Intermediate/Shaders/WorkingDirectory/344/).
+[2017.12.03-08.45.00:849][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/default.default-PC/AppData/Local/Temp/UnrealShaderWorkingDir/7920E03C48AB4D4C032919B132FB8475/'.
+[2017.12.03-08.45.00:849][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.03-08.45.01:744][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.03-08.45.01:788][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.03-08.45.01:833][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.03-08.45.01:879][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.03-08.45.01:924][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.03-08.45.01:968][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.03-08.45.02:011][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.03-08.45.02:056][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.03-08.45.02:094][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.03-08.45.02:137][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.03-08.45.02:180][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.03-08.45.02:222][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.03-08.45.02:268][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.03-08.45.02:313][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.03-08.45.02:355][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.03-08.45.02:441][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.03-08.45.02:441][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.03-08.45.02:472][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.03-08.45.02:553][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.03-08.45.02:579][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.03-08.45.02:621][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.03-08.45.02:664][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.03-08.45.02:707][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.03-08.45.02:750][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.03-08.45.02:750][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.03-08.45.03:182][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.03-08.45.03:263][  0]LogDerivedDataCache: Loaded boot cache 0.08s 93MB C:/Users/default.default-PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.03-08.45.03:263][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/default.default-PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.12.03-08.45.03:263][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Projects/The_Arsonist/The-Arsonist/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.03-08.45.03:263][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.03-08.45.03:263][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Projects/The_Arsonist/The-Arsonist/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.03-08.45.03:264][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.03-08.45.03:282][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.03-08.45.03:294][  0]LogDerivedDataCache: Using Local data cache path C:/Users/default.default-PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.03-08.45.03:305][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.03-08.45.03:305][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.03-08.45.03:306][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.03-08.45.03:306][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.03-08.45.03:581][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2017.12.03-08.45.03:695][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.03-08.45.03:837][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.12.03-08.45.04:108][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.03-08.45.04:140][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.03-08.45.04:140][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.03-08.45.04:140][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.03-08.45.04:140][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.03-08.45.04:140][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.03-08.45.04:462][  0]LogNetVersion: The_Arsonist , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3182256164)
+[2017.12.03-08.45.04:641][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.032053 seconds
+[2017.12.03-08.45.04:648][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.12.03-08.45.04:648][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.12.03-08.45.04:648][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.03-08.45.04:702][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.03-08.45.06:914][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.03-08.45.06:950][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.03-08.45.07:485][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.03-08.45.07:824][  0]SourceControl: Source control is disabled
+[2017.12.03-08.45.07:824][  0]SourceControl: Source control is disabled
+[2017.12.03-08.45.07:863][  0]SourceControl: Source control is disabled
+[2017.12.03-08.45.07:904][  0]SourceControl: Source control is disabled
+[2017.12.03-08.45.08:405][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.03-08.45.08:609][  0]LogOcInput: OculusInput pre-init called
+[2017.12.03-08.45.08:831][  0]LogEngine: Initializing Engine...
+[2017.12.03-08.45.08:839][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2017.12.03-08.45.09:046][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.03-08.45.09:046][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.03-08.45.09:148][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.03-08.45.09:155][  0]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.03-08.45.09:281][  0]LogInit: FAudioDevice initialized.
+[2017.12.03-08.45.09:411][  0]LogDerivedDataCache: Saved boot cache 0.13s 93MB C:/Users/default.default-PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.03-08.45.09:423][  0]LogInit: Texture streaming: Enabled
+[2017.12.03-08.45.09:518][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.03-08.45.09:694][  0]LogInit: Transaction tracking system initialized
+[2017.12.03-08.45.09:944][  0]BlueprintLog: New page: Editor Load
+[2017.12.03-08.45.10:655][  0]LocalizationService: Localization service is disabled
+[2017.12.03-08.45.11:202][  0]LogConsoleResponse: Display: 
+[2017.12.03-08.45.11:367][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.03-08.45.11:367][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.03-08.45.11:367][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.03-08.45.12:187][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/' took 0.02s
+[2017.12.03-08.45.12:226][  0]SourceControl: Source control is disabled
+[2017.12.03-08.45.12:226][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.03-08.45.12:226][  0]LightingResults: New page: Lighting Build
+[2017.12.03-08.45.12:260][  0]MapCheck: New page: Map Check
+[2017.12.03-08.45.12:260][  0]LightingResults: New page: Lighting Build
+[2017.12.03-08.45.12:458][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.12.03-08.45.12:463][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.03-08.45.12:473][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.03-08.45.12:511][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 37.774ms to complete.
+[2017.12.03-08.45.12:511][  0]LogFileHelpers: Loading map 'Template_Default' took 0.286
+[2017.12.03-08.45.12:578][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.03-08.45.12:701][  0]LogCollectionManager: Loaded 0 collections in 0.002865 seconds
+[2017.12.03-08.45.12:780][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Saved/Collections/' took 0.01s
+[2017.12.03-08.45.12:780][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/Developers/default/Collections/' took 0.01s
+[2017.12.03-08.45.12:780][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/Collections/' took 0.01s
+[2017.12.03-08.45.12:780][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.03-08.45.12:791][  0]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2386 classes and 500 folders.
+[2017.12.03-08.45.12:844][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.12.03-08.45.12:912][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.12.03-08.45.12:949][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.12.03-08.45.12:979][  0]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.03-08.45.12:983][  0]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.03-08.45.12:989][  0]LogSlate: Took 0.000554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.03-08.45.13:110][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2017.12.03-08.45.13:265][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.12.03-08.45.13:265][  0]LogLoad: (Engine Initialization) Total time: 14.88 seconds
+[2017.12.03-08.45.13:265][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.03-08.45.13:265][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.03-08.45.13:306][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.03-08.45.13:382][  1]LogAssetRegistry: Asset discovery search completed in 9.8216 seconds
+[2017.12.03-08.45.13:384][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.03-08.45.13:384][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000070 seconds (updated 0 objects)
+[2017.12.03-08.45.14:312][103]LogSlate: Took 0.000571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.03-08.45.17:362][310]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.03-08.45.18:365][422]LogFileCache: Retrieving MD5 hashes for directory 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/' took 5.08s
+[2017.12.03-08.45.34:738][349]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.03-08.45.35:563][349]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.03-08.45.37:222][349]LogTexture: Display: Building textures: MainKid_Top_Specular (AutoDXT, 512X512)
+[2017.12.03-08.45.37:222][349]LogTexture: Display: Building textures: MainKid_Top_Opacity (AutoDXT, 512X512)
+[2017.12.03-08.45.37:222][349]LogTexture: Display: Building textures: MainKid_Top_Gloss (AutoDXT, 512X512)
+[2017.12.03-08.45.37:222][349]LogTexture: Display: Building textures: MainKid_Top_Normal (BC5, 512X512)
+[2017.12.03-08.45.37:222][349]LogTexture: Display: Building textures: MainKid_Top_Diffuse (AutoDXT, 512X512)
+[2017.12.03-08.45.37:222][349]LogTexture: Display: Building textures: Picture6 (BGRA8, 660X887)
+[2017.12.03-08.45.37:222][349]LogTexture: Display: Building textures: Picture2 (AutoDXT, 600X748)
+[2017.12.03-08.45.37:222][349]LogTexture: Display: Building textures: Picture1 (BGRA8, 671X900)
+[2017.12.03-08.45.37:222][349]LogTexture: Display: Building textures: MainKid_Shoes_Opacity (AutoDXT, 512X512)
+[2017.12.03-08.45.37:222][349]LogTexture: Display: Building textures: MainKid_Shoes_Specular (AutoDXT, 512X512)
+[2017.12.03-08.45.37:222][349]LogTexture: Display: Building textures: MainKid_Shoes_Normal (BC5, 512X512)
+[2017.12.03-08.45.37:222][349]LogTexture: Display: Building textures: MainKid_Shoes_Gloss (AutoDXT, 512X512)
+[2017.12.03-08.45.37:222][349]LogTexture: Display: Building textures: MainKid_Shoes_Diffuse (AutoDXT, 512X512)
+[2017.12.03-08.45.37:222][349]LogTexture: Display: Building textures: MainKid_Hair_Specular (AutoDXT, 512X512)
+[2017.12.03-08.45.37:222][349]LogTexture: Display: Building textures: MainKid_Hair_Opacity (AutoDXT, 512X512)
+[2017.12.03-08.45.37:222][349]LogTexture: Display: Building textures: MainKid_Hair_Normal (BC5, 512X512)
+[2017.12.03-08.45.37:222][349]LogTexture: Display: Building textures: MainKid_Hair_Gloss (AutoDXT, 512X512)
+[2017.12.03-08.45.37:222][349]LogTexture: Display: Building textures: MainKid_Hair_Diffuse (AutoDXT, 512X512)
+[2017.12.03-08.45.37:222][349]LogTexture: Display: Building textures: MainKid_Body_Opacity (AutoDXT, 1024X1024)
+[2017.12.03-08.45.37:222][349]LogTexture: Display: Building textures: MainKid_Body_Specular (AutoDXT, 1024X1024)
+[2017.12.03-08.45.37:223][349]LogTexture: Display: Building textures: MainKid_Body_Gloss (AutoDXT, 1024X1024)
+[2017.12.03-08.45.37:223][349]LogTexture: Display: Building textures: MainKid_Body_Normal (BC5, 1024X1024)
+[2017.12.03-08.45.37:223][349]LogTexture: Display: Building textures: MainKid_Body_Diffuse (AutoDXT, 1024X1024)
+[2017.12.03-08.45.37:460][349]LogTexture: Display: Building textures: CarpetTexture3 (AutoDXT, 1024X1024)
+[2017.12.03-08.45.37:555][349]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-08.45.37:718][349]LogTexture: Display: Building textures: RugNormalSeamless1 (BGRA8, 894X894)
+[2017.12.03-08.45.37:896][349]LogTexture: Display: Building textures: Rug3Fixed (BGRA8, 973X973)
+[2017.12.03-08.45.37:897][349]LogTexture: Display: Building textures: MainKid_Bottom_Specular (AutoDXT, 512X512)
+[2017.12.03-08.45.37:897][349]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/MainKid/Scene2KidPlayingLookingUp_Anim.Scene2KidPlayingLookingUp_Anim
+[2017.12.03-08.45.37:931][349]LogTexture: Display: Building textures: MainKid_Bottom_Opacity (AutoDXT, 512X512)
+[2017.12.03-08.45.38:102][349]LogTexture: Display: Building textures: MainKid_Bottom_Normal (BC5, 512X512)
+[2017.12.03-08.45.38:102][349]LogTexture: Display: Building textures: MainKid_Bottom_Gloss (AutoDXT, 512X512)
+[2017.12.03-08.45.38:102][349]LogTexture: Display: Building textures: MainKid_Bottom_Diffuse (AutoDXT, 512X512)
+[2017.12.03-08.45.38:102][349]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2017.12.03-08.45.38:102][349]LogStaticMesh: Building static mesh CeilingFan2...
+[2017.12.03-08.45.41:419][349]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2017.12.03-08.45.41:419][349]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2017.12.03-08.45.41:419][349]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2017.12.03-08.45.41:419][349]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2017.12.03-08.45.41:419][349]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2017.12.03-08.45.41:419][349]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 128X512)
+[2017.12.03-08.45.41:419][349]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2017.12.03-08.45.41:419][349]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 1024X512)
+[2017.12.03-08.45.41:419][349]LogStaticMesh: Built static mesh [3.32s] /Game/Models/Objects/CeilingFan/NewFolder/CeilingFan2.CeilingFan2
+[2017.12.03-08.45.41:937][349]LogStaticMesh: Building static mesh pictures_Canvas1...
+[2017.12.03-08.45.41:940][349]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Objects/WallHangings/Picture1/pictures_Canvas1.pictures_Canvas1
+[2017.12.03-08.45.41:958][349]LogStaticMesh: Building static mesh pictures_Canvas2...
+[2017.12.03-08.45.41:962][349]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Objects/WallHangings/Picture2/pictures_Canvas2.pictures_Canvas2
+[2017.12.03-08.45.41:963][349]LogStaticMesh: Building static mesh pictures_Canvas6...
+[2017.12.03-08.45.41:967][349]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Objects/WallHangings/Picture6/pictures_Canvas6.pictures_Canvas6
+[2017.12.03-08.45.41:968][349]LogStaticMesh: Building static mesh pictures_Metal1...
+[2017.12.03-08.45.41:971][349]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Objects/WallHangings/Picture1/pictures_Metal1.pictures_Metal1
+[2017.12.03-08.45.41:972][349]LogStaticMesh: Building static mesh pictures_Metal2...
+[2017.12.03-08.45.41:974][349]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Objects/WallHangings/Picture2/pictures_Metal2.pictures_Metal2
+[2017.12.03-08.45.41:976][349]LogStaticMesh: Building static mesh pictures_Metal6...
+[2017.12.03-08.45.41:978][349]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Objects/WallHangings/Picture6/pictures_Metal6.pictures_Metal6
+[2017.12.03-08.45.41:992][349]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-08.45.42:116][349]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-08.45.42:241][349]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-08.45.42:360][349]LogMaterial: Missing cached shader map for material Pic6, compiling. 
+[2017.12.03-08.45.42:402][349]LogMaterial: Missing cached shader map for material Pic2, compiling. 
+[2017.12.03-08.45.42:433][349]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2017.12.03-08.45.42:469][349]LogMaterial: Missing cached shader map for material Side_1, compiling. 
+[2017.12.03-08.45.42:504][349]LogMaterial: Missing cached shader map for material Pic1, compiling. 
+[2017.12.03-08.45.42:572][349]LogMaterial: Missing cached shader map for material Material__0, compiling. 
+[2017.12.03-08.45.42:605][349]LogMaterial: Missing cached shader map for material 8_2, compiling. 
+[2017.12.03-08.45.42:641][349]LogMaterial: Missing cached shader map for material 5_2, compiling. 
+[2017.12.03-08.45.42:677][349]LogMaterial: Missing cached shader map for material 17_-_Default, compiling. 
+[2017.12.03-08.45.42:711][349]LogMaterial: Missing cached shader map for material 02_-_Default, compiling. 
+[2017.12.03-08.45.42:827][349]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-08.45.43:001][349]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-08.45.43:117][349]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-08.45.43:426][349]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-08.45.43:594][349]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Mother/Scene1MotherIdleReading_Anim.Scene1MotherIdleReading_Anim
+[2017.12.03-08.45.43:793][349]LogMaterial: Missing cached shader map for material Carpet, compiling. 
+[2017.12.03-08.45.43:881][349]LogMaterial: Missing cached shader map for material Rug1, compiling. 
+[2017.12.03-08.45.44:037][349]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-08.45.44:186][349]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-08.45.44:282][349]Cmd: MAP LOAD FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.03-08.45.44:282][349]LightingResults: New page: Lighting Build
+[2017.12.03-08.45.44:283][349]LoadErrors: New page: Loading map: Scene_01_02.umap
+[2017.12.03-08.45.44:284][349]MapCheck: New page: Map Check
+[2017.12.03-08.45.44:284][349]LightingResults: New page: Lighting Build
+[2017.12.03-08.45.44:319][349]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.03-08.45.44:374][349]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.03-08.45.44:473][349]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 98.978ms to complete.
+[2017.12.03-08.45.44:474][349]LogFileHelpers: Loading map 'Scene_01_02' took 0.195
+[2017.12.03-08.48.39:760][531]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-08.48.39:811][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-08.48.39:812][531]PIE: New page: PIE session: Scene_01_02 (Dec 2, 2017, 6:48:39 PM)
+[2017.12.03-08.48.39:812][531]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.03-08.48.39:825][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013024s)
+[2017.12.03-08.48.39:825][531]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-08.48.39:826][531]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2017.12.03-08.48.39:826][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (0.014071s)
+[2017.12.03-08.48.39:837][531]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.03-08.48.39:958][531]LogInit: FAudioDevice initialized.
+[2017.12.03-08.48.40:002][531]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-08.48.40:009][531]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 0) at 2017.12.03-01.48.40
+[2017.12.03-08.48.40:037][531]LogWorld: Bringing up level for play took: 0.033252
+[2017.12.03-08.48.40:073][531]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.12.03-08.48.40:074][531]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 1.045
+[2017.12.03-08.48.43:476][851]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-08.48.43:526][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-08.48.43:527][851]PIE: New page: PIE session: Scene_01_02 (Dec 2, 2017, 6:48:43 PM)
+[2017.12.03-08.48.43:527][851]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.03-08.48.43:540][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013160s)
+[2017.12.03-08.48.43:540][851]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-08.48.43:541][851]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2017.12.03-08.48.43:541][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (0.014218s)
+[2017.12.03-08.48.43:553][851]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.03-08.48.43:671][851]LogInit: FAudioDevice initialized.
+[2017.12.03-08.48.43:705][851]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-08.48.43:711][851]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 0) at 2017.12.03-01.48.43
+[2017.12.03-08.48.43:713][851]LogWorld: Bringing up level for play took: 0.007153
+[2017.12.03-08.48.43:714][851]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 0.686
+[2017.12.03-08.50.55:266][817]Cmd: TRANSACTION UNDO
+[2017.12.03-08.50.55:266][817]LogEditorTransaction: Undo Move Keys
+[2017.12.03-08.52.20:121][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation_Scenes/Scene_01" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset" SILENT=true
+[2017.12.03-08.52.20:200][149]LogSavePackage: Save=70.31ms
+[2017.12.03-08.52.20:200][149]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_010A325FCE441E42A4CC28369C67EE19DF.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset'
+[2017.12.03-08.52.20:201][149]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset
+[2017.12.03-08.52.59:154][984]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-08.52.59:170][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-08.52.59:170][984]PIE: New page: PIE session: Scene_01_02 (Dec 2, 2017, 6:52:59 PM)
+[2017.12.03-08.52.59:170][984]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.03-08.52.59:184][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013335s)
+[2017.12.03-08.52.59:184][984]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-08.52.59:185][984]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2017.12.03-08.52.59:185][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (0.014374s)
+[2017.12.03-08.52.59:198][984]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.03-08.52.59:318][984]LogInit: FAudioDevice initialized.
+[2017.12.03-08.52.59:352][984]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-08.52.59:358][984]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 0) at 2017.12.03-01.52.59
+[2017.12.03-08.52.59:360][984]LogWorld: Bringing up level for play took: 0.007415
+[2017.12.03-08.52.59:361][984]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 0.333
+[2017.12.03-08.53.02:118][211]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-08.53.02:134][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-08.53.02:134][211]PIE: New page: PIE session: Scene_01_02 (Dec 2, 2017, 6:53:02 PM)
+[2017.12.03-08.53.02:134][211]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.03-08.53.02:148][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013481s)
+[2017.12.03-08.53.02:149][211]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-08.53.02:149][211]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2017.12.03-08.53.02:149][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (0.014445s)
+[2017.12.03-08.53.02:164][211]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.03-08.53.02:287][211]LogInit: FAudioDevice initialized.
+[2017.12.03-08.53.02:321][211]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-08.53.02:328][211]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 0) at 2017.12.03-01.53.02
+[2017.12.03-08.53.02:330][211]LogWorld: Bringing up level for play took: 0.007664
+[2017.12.03-08.53.02:331][211]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 -0.697
+[2017.12.03-08.54.40:069][710]LogActorFactory: Actor Factory created FireTruck
+[2017.12.03-08.54.41:231][780]LogActorFactory: Actor Factory created FireTruck
+[2017.12.03-08.54.47:948][319]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.03-08.55.04:558][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-08.56.23:636][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-08.56.49:846][969]LogSlate: Took 0.000609 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.03-08.57.27:618][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-08.57.42:623][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-08.57.46:181][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-09.04.51:951][320]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Scene2KidPlayingLookingUp_Anim)
+[2017.12.03-09.04.53:188][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-09.05.55:545][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-09.06.49:727][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-09.08.08:540][772]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Scene2KidPlayingLookingUp_Anim)
+[2017.12.03-09.08.09:449][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-09.08.21:358][779]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Scene2KidPlayingLookingUp_Anim)
+[2017.12.03-09.08.22:645][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-09.09.46:741][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-09.10.33:724][100]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Scene2KidPlayingLookingUp_Anim)
+[2017.12.03-09.10.34:686][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-09.10.35:405][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-09.10.36:215][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-09.10.38:921][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-09.11.47:939][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-09.12.36:596][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-09.12.43:441][ 72]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Scene2KidPlayingLookingUp_Anim)
+[2017.12.03-09.12.45:029][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-09.13.43:279][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-09.15.00:579][557]Cmd: TRANSACTION UNDO
+[2017.12.03-09.15.00:579][557]LogEditorTransaction: Undo Rotate Actors
+[2017.12.03-09.15.54:023][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-09.15.57:018][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-09.17.26:605][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation_Scenes/Scene_01" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset" SILENT=true
+[2017.12.03-09.17.26:683][921]LogSavePackage: Save=70.10ms
+[2017.12.03-09.17.26:683][921]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_0194180AE84EF9B290E8E5519691D76B8F.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset'
+[2017.12.03-09.17.26:684][921]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset
+[2017.12.03-09.17.34:550][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck)
+[2017.12.03-09.17.40:450][872]Cmd: EDIT COPY
+[2017.12.03-09.17.40:867][906]Cmd: EDIT PASTE
+[2017.12.03-09.18.04:139][152]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_02)
+[2017.12.03-09.18.07:662][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck2)
+[2017.12.03-09.18.10:890][629]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.03-09.18.19:653][455]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_02)
+[2017.12.03-09.18.32:472][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation_Scenes/Scene_01" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset" SILENT=true
+[2017.12.03-09.18.32:549][187]LogSavePackage: Save=71.26ms
+[2017.12.03-09.18.32:549][187]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_01064A03644A8B971C2E11E1B8F91B3323.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset'
+[2017.12.03-09.18.32:550][187]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset
+[2017.12.03-09.18.36:710][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FireTruck2)
+[2017.12.03-09.19.31:366][862]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-09.19.31:383][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-09.19.31:384][862]PIE: New page: PIE session: Scene_01_02 (Dec 2, 2017, 7:19:31 PM)
+[2017.12.03-09.19.31:384][862]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.03-09.19.31:397][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013488s)
+[2017.12.03-09.19.31:398][862]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-09.19.31:398][862]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2017.12.03-09.19.31:398][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (0.014576s)
+[2017.12.03-09.19.31:412][862]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.03-09.19.31:532][862]LogInit: FAudioDevice initialized.
+[2017.12.03-09.19.31:567][862]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-09.19.31:574][862]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 0) at 2017.12.03-02.19.31
+[2017.12.03-09.19.31:576][862]LogWorld: Bringing up level for play took: 0.008654
+[2017.12.03-09.19.31:578][862]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 0.549
+[2017.12.03-09.20.42:450][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Scene_01_02" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.03-09.20.42:703][214]LogSavePackage: Save=236.76ms
+[2017.12.03-09.20.42:703][214]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_01_024706759740D223B256C769A2300A6738.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02.umap'
+[2017.12.03-09.20.42:704][214]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02.umap
+[2017.12.03-09.20.42:734][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Scene_01_02_BuiltData" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02_BuiltData.uasset" SILENT=true
+[2017.12.03-09.20.42:971][214]LogSavePackage: Save=216.68ms
+[2017.12.03-09.20.42:971][214]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_01_02_BuiltDataC8CDE03346028FFDBF400EAB99EB2941.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02_BuiltData.uasset'
+[2017.12.03-09.20.42:972][214]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02_BuiltData.uasset
+[2017.12.03-09.20.46:737][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation_Scenes/Scene_01" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset" SILENT=true
+[2017.12.03-09.20.46:814][547]LogSavePackage: Save=71.38ms
+[2017.12.03-09.20.46:814][547]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_019D89042F49167F902D75A5931E30904A.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset'
+[2017.12.03-09.20.46:815][547]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset
+[2017.12.03-09.21.10:978][214]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.03-09.21.11:156][215]Cmd: QUIT_EDITOR
+[2017.12.03-09.21.11:441][215]LogExit: Preparing to exit.
+[2017.12.03-09.21.11:849][215]LogDirectoryWatcher: A directory notification for 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/' was aborted.
+[2017.12.03-09.21.11:891][215]LogExit: Editor shut down
+[2017.12.03-09.21.11:894][215]LogExit: Transaction tracking system shut down
+[2017.12.03-09.21.12:048][215]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.03-09.21.12:049][215]LogDirectoryWatcher: A directory notification for '../../../../Projects/The_Arsonist/The-Arsonist/Content/' was aborted.
+[2017.12.03-09.21.12:049][215]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.03-09.21.12:049][215]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.03-09.21.12:049][215]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.03-09.21.12:115][215]LogExit: Object subsystem successfully closed.
+[2017.12.03-09.21.12:138][215]LogD3D11RHI: Shutdown
+[2017.12.03-09.21.12:138][215]LogD3D11RHI: CleanupD3DDevice
+[2017.12.03-09.21.12:273][215]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.03-09.21.12:281][215]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (534)
+[2017.12.03-09.21.12:281][215]LogModuleManager: Shutting down and abandoning module SequencerWidgets (532)
+[2017.12.03-09.21.12:281][215]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.12.03-09.21.12:281][215]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.12.03-09.21.12:281][215]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.12.03-09.21.12:281][215]LogDirectoryWatcher: A directory notification for 'F:/Unreal/UE_4.17/FeaturePacks/' was aborted.
+[2017.12.03-09.21.12:282][215]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.12.03-09.21.12:282][215]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.12.03-09.21.12:282][215]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.12.03-09.21.12:282][215]LogDirectoryWatcher: A directory notification for 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/Collections/' was aborted.
+[2017.12.03-09.21.12:282][215]LogDirectoryWatcher: A directory notification for 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/Developers/default/Collections/' was aborted.
+[2017.12.03-09.21.12:282][215]LogDirectoryWatcher: A directory notification for 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Saved/Collections/' was aborted.
+[2017.12.03-09.21.12:282][215]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.12.03-09.21.12:282][215]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.12.03-09.21.12:282][215]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.12.03-09.21.12:283][215]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.12.03-09.21.12:743][215]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.12.03-09.21.12:743][215]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.12.03-09.21.12:743][215]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.12.03-09.21.12:743][215]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.12.03-09.21.12:743][215]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.12.03-09.21.12:743][215]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.12.03-09.21.12:743][215]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.12.03-09.21.12:743][215]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.12.03-09.21.12:743][215]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.12.03-09.21.12:743][215]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.12.03-09.21.12:743][215]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.12.03-09.21.12:743][215]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.12.03-09.21.12:743][215]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.12.03-09.21.12:743][215]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.12.03-09.21.12:743][215]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.12.03-09.21.12:743][215]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.12.03-09.21.12:744][215]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.12.03-09.21.12:744][215]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.12.03-09.21.12:744][215]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.12.03-09.21.12:744][215]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.12.03-09.21.12:744][215]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.12.03-09.21.12:744][215]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.12.03-09.21.12:744][215]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.12.03-09.21.12:744][215]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.12.03-09.21.12:797][215]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.12.03-09.21.12:797][215]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.12.03-09.21.12:797][215]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.12.03-09.21.12:797][215]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.12.03-09.21.12:797][215]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.12.03-09.21.12:797][215]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.12.03-09.21.12:797][215]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.12.03-09.21.12:797][215]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.12.03-09.21.12:797][215]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.12.03-09.21.12:797][215]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.12.03-09.21.12:797][215]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.12.03-09.21.12:797][215]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.12.03-09.21.12:797][215]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.12.03-09.21.12:797][215]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.12.03-09.21.12:798][215]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.12.03-09.21.12:798][215]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.12.03-09.21.12:798][215]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.12.03-09.21.12:798][215]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.12.03-09.21.12:798][215]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.12.03-09.21.12:798][215]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.12.03-09.21.12:798][215]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.12.03-09.21.12:798][215]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.12.03-09.21.12:798][215]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.12.03-09.21.12:798][215]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.12.03-09.21.12:798][215]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.12.03-09.21.12:798][215]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.12.03-09.21.12:798][215]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.12.03-09.21.12:798][215]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.12.03-09.21.12:798][215]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.12.03-09.21.12:798][215]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.12.03-09.21.12:798][215]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.12.03-09.21.12:934][215]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.12.03-09.21.12:935][215]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.12.03-09.21.12:935][215]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.12.03-09.21.12:935][215]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.12.03-09.21.12:935][215]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.12.03-09.21.12:935][215]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.12.03-09.21.12:935][215]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.12.03-09.21.12:936][215]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.12.03-09.21.12:936][215]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.12.03-09.21.12:936][215]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.12.03-09.21.12:936][215]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.12.03-09.21.12:936][215]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.12.03-09.21.12:936][215]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.12.03-09.21.12:936][215]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.12.03-09.21.12:936][215]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.12.03-09.21.13:036][215]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.12.03-09.21.13:137][215]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.12.03-09.21.13:137][215]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.12.03-09.21.13:137][215]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.12.03-09.21.13:137][215]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.12.03-09.21.13:137][215]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.12.03-09.21.13:137][215]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.12.03-09.21.13:138][215]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.12.03-09.21.13:139][215]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.12.03-09.21.13:139][215]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.12.03-09.21.13:139][215]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.12.03-09.21.13:140][215]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.12.03-09.21.13:140][215]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.12.03-09.21.13:140][215]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.12.03-09.21.13:140][215]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.12.03-09.21.13:140][215]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.12.03-09.21.13:140][215]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.12.03-09.21.13:140][215]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.03-09.21.13:140][215]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.12.03-09.21.13:140][215]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.12.03-09.21.13:141][215]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.12.03-09.21.13:141][215]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.12.03-09.21.13:141][215]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.12.03-09.21.13:141][215]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.12.03-09.21.13:141][215]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.12.03-09.21.13:141][215]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.12.03-09.21.13:141][215]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.12.03-09.21.13:141][215]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.12.03-09.21.13:239][215]LogDerivedDataCache: Shutdown
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.12.03-09.21.13:239][215]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.12.03-09.21.13:240][215]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.12.03-09.21.13:240][215]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.12.03-09.21.13:240][215]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.12.03-09.21.13:240][215]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.12.03-09.21.13:240][215]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.12.03-09.21.13:240][215]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.12.03-09.21.13:240][215]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.12.03-09.21.13:240][215]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.03-09.21.13:240][215]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.03-09.21.13:240][215]LogOnline: Display: Unloading online subsystem: NULL
+[2017.12.03-09.21.13:240][215]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.03-09.21.13:240][215]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.03-09.21.13:240][215]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.03-09.21.13:240][215]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFA023346-478B-4AC5-18D0-DABA4EB6588A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.1-3586342%2B%2B%2BUE4%2BRelease-4.17&UserID=77a9eb4f462cfdf02b7f6988945b7494%7C678323adc543409c9e4b9a2089a91c33%7C80bd5cb6-d69c-4264-8e08-a361daa0d06d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.03-09.21.13:243][215]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.03-09.21.13:244][215]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.03-09.21.13:244][215]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.03-09.21.13:244][215]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.03-09.21.13:244][215]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.03-09.21.13:244][215]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.03-09.21.13:244][215]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.03-09.21.13:244][215]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.03-09.21.13:245][215]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.03-09.21.13:245][215]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.03-09.21.13:245][215]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.03-09.21.13:245][215]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.03-09.21.13:245][215]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.03-09.21.13:245][215]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.03-09.21.13:245][215]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.03-09.21.13:245][215]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.03-09.21.13:245][215]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.03-09.21.13:245][215]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.03-09.21.13:245][215]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.03-09.21.13:248][215]LogExit: Exiting.
+[2017.12.03-09.21.13:261][215]Log file closed, 12/03/17 02:21:13
+>>>>>>> 9f8165473cabd335584734cc9c79009089edfb45
