@@ -808,3 +808,2013 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2017.12.03-12.14.13:677][714]LogSavePackage: Save=330.12ms
 [2017.12.03-12.14.13:679][714]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Stop_Walking_AnimB269F35D49F7F16D30D961A421BD0C41.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/MainKid/Stop_Walking_Anim.uasset'
 [2017.12.03-12.14.13:705][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/MainKid/Stop_Walking_Anim.uasset
+[2017.12.03-12.15.35:878][316]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.15.35:879][316]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.15.40:788][316]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.15.41:227][316]Cmd: MAP LOAD FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Scenes/Scene_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.03-12.15.41:237][316]LightingResults: New page: Lighting Build
+[2017.12.03-12.15.41:265][316]LoadErrors: New page: Loading map: Scene_02.umap
+[2017.12.03-12.15.41:311][316]MapCheck: New page: Map Check
+[2017.12.03-12.15.41:311][316]LightingResults: New page: Lighting Build
+[2017.12.03-12.15.41:768][316]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.03-12.15.42:195][316]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.03-12.15.42:754][316]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 558.47ms to complete.
+[2017.12.03-12.15.42:760][316]LogFileHelpers: Loading map 'Scene_02' took 1.532
+[2017.12.03-12.15.52:253][584]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-12.15.52:291][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.15.52:292][584]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 10:15:52 PM)
+[2017.12.03-12.15.52:292][584]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.15.52:467][584]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.15.52:467][584]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.15.52:552][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.260232s)
+[2017.12.03-12.15.52:554][584]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.15.52:555][584]LogPlayLevel: PIE: World Init took: (0.002291s)
+[2017.12.03-12.15.52:555][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.263109s)
+[2017.12.03-12.15.52:604][584]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.15.52:621][584]LogInit: FAudioDevice initialized.
+[2017.12.03-12.15.52:716][584]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.15.52:738][584]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.15.52
+[2017.12.03-12.15.52:857][584]LogWorld: Bringing up level for play took: 0.138660
+[2017.12.03-12.15.52:863][584]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 0.456
+[2017.12.03-12.16.22:205][569]LogRenderer: Reallocating scene render targets to support 992x492 Format 9 NumSamples 1 (Frame:75).
+[2017.12.03-12.18.52:837][549]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush25)
+[2017.12.03-12.19.15:604][959]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.03-12.19.16:701][961]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.03-12.19.17:443][973]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.03-12.19.21:955][ 45]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.12.03-12.19.21:983][ 45]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2017.12.03-12.19.55:654][519]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/walkingteenscene.fbx)
+[2017.12.03-12.19.55:712][519]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.12.03-12.19.55:712][519]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.12.03-12.19.55:712][519]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.12.03-12.19.55:712][519]LogFbx: ItemName: Geometry, ItemCount : 7
+[2017.12.03-12.19.55:713][519]LogFbx: ItemName: Material, ItemCount : 5
+[2017.12.03-12.19.55:713][519]LogFbx: ItemName: Texture, ItemCount : 25
+[2017.12.03-12.19.55:713][519]LogFbx: ItemName: Model, ItemCount : 169
+[2017.12.03-12.19.55:713][519]LogFbx: ItemName: NodeAttribute, ItemCount : 162
+[2017.12.03-12.19.55:713][519]LogFbx: ItemName: AnimationCurveNode, ItemCount : 631
+[2017.12.03-12.19.55:713][519]LogFbx: ItemName: AnimationCurve, ItemCount : 915
+[2017.12.03-12.19.55:713][519]LogFbx: ItemName: Pose, ItemCount : 7
+[2017.12.03-12.19.55:713][519]LogFbx: ItemName: Deformer, ItemCount : 95
+[2017.12.03-12.19.55:713][519]LogFbx: ItemName: Character, ItemCount : 1
+[2017.12.03-12.19.55:714][519]LogFbx: ItemName: ControlSetPlug, ItemCount : 1
+[2017.12.03-12.19.55:714][519]LogFbx: ItemName: Video, ItemCount : 25
+[2017.12.03-12.19.55:736][519]LogFbx: Loading FBX Scene from D:/walkingteenscene.fbx
+[2017.12.03-12.19.56:917][519]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.03-12.19.59:723][519]LogFbx: Loading FBX Scene from D:/walkingteenscene.fbx
+[2017.12.03-12.20.00:061][519]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.03-12.20.00:069][519]LogFbx: =================================================
+[2017.12.03-12.20.00:069][519]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-12.20.00:069][519]LogFbx: 	Total Deformer Count 777322448.
+[2017.12.03-12.20.00:069][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.00:069][519]LogFbx: =================================================
+[2017.12.03-12.20.00:069][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.00:069][519]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-12.20.00:069][519]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-12.20.00:069][519]LogFbx: =================================================
+[2017.12.03-12.20.00:069][519]LogFbx: Dumping Node START [default1] 
+[2017.12.03-12.20.00:069][519]LogFbx: 	Total Deformer Count -493474120.
+[2017.12.03-12.20.00:069][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.00:069][519]LogFbx: =================================================
+[2017.12.03-12.20.00:069][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.00:069][519]LogFbx: 		[Node Attribute Child 1] default1 (Type Mesh).
+[2017.12.03-12.20.00:069][519]LogFbx: Dumping Node END [default1]
+[2017.12.03-12.20.00:069][519]LogFbx: =================================================
+[2017.12.03-12.20.00:069][519]LogFbx: Dumping Node START [Body] 
+[2017.12.03-12.20.00:069][519]LogFbx: 	Total Deformer Count 777321632.
+[2017.12.03-12.20.00:069][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.00:069][519]LogFbx: =================================================
+[2017.12.03-12.20.00:069][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.00:069][519]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-12.20.00:069][519]LogFbx: Dumping Node END [Body]
+[2017.12.03-12.20.00:069][519]LogFbx: =================================================
+[2017.12.03-12.20.00:069][519]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-12.20.00:069][519]LogFbx: 	Total Deformer Count 777321632.
+[2017.12.03-12.20.00:069][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.00:069][519]LogFbx: =================================================
+[2017.12.03-12.20.00:069][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.00:069][519]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-12.20.00:069][519]LogFbx: Dumping Node END [Tops]
+[2017.12.03-12.20.00:069][519]LogFbx: =================================================
+[2017.12.03-12.20.00:069][519]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-12.20.00:069][519]LogFbx: 	Total Deformer Count 777321632.
+[2017.12.03-12.20.00:069][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.00:069][519]LogFbx: =================================================
+[2017.12.03-12.20.00:069][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.00:069][519]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-12.20.00:069][519]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-12.20.00:069][519]LogFbx: =================================================
+[2017.12.03-12.20.00:069][519]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-12.20.00:069][519]LogFbx: 	Total Deformer Count 777321632.
+[2017.12.03-12.20.00:069][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.00:069][519]LogFbx: =================================================
+[2017.12.03-12.20.00:069][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.00:069][519]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-12.20.00:069][519]LogFbx: Dumping Node END [Hair]
+[2017.12.03-12.20.00:069][519]LogFbx: =================================================
+[2017.12.03-12.20.00:069][519]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-12.20.00:070][519]LogFbx: 	Total Deformer Count -493474232.
+[2017.12.03-12.20.00:070][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.00:070][519]LogFbx: =================================================
+[2017.12.03-12.20.00:070][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.00:070][519]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-12.20.00:070][519]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-12.20.00:070][519]LogFbx: =================================================
+[2017.12.03-12.20.00:070][519]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-12.20.00:070][519]LogFbx: 	Total Deformer Count 777319040.
+[2017.12.03-12.20.00:070][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.00:070][519]LogFbx: =================================================
+[2017.12.03-12.20.00:070][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.00:070][519]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-12.20.00:070][519]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-12.20.00:070][519]LogFbx: =================================================
+[2017.12.03-12.20.00:070][519]LogFbx: Dumping Node START [default1] 
+[2017.12.03-12.20.00:070][519]LogFbx: 	Total Deformer Count -493474232.
+[2017.12.03-12.20.00:070][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.00:070][519]LogFbx: =================================================
+[2017.12.03-12.20.00:070][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.00:070][519]LogFbx: 		[Node Attribute Child 1] default1 (Type Mesh).
+[2017.12.03-12.20.00:070][519]LogFbx: Dumping Node END [default1]
+[2017.12.03-12.20.00:070][519]LogFbx: =================================================
+[2017.12.03-12.20.00:071][519]LogFbx: Dumping Node START [Body] 
+[2017.12.03-12.20.00:071][519]LogFbx: 	Total Deformer Count 777318272.
+[2017.12.03-12.20.00:071][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.00:071][519]LogFbx: =================================================
+[2017.12.03-12.20.00:071][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.00:071][519]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-12.20.00:071][519]LogFbx: Dumping Node END [Body]
+[2017.12.03-12.20.00:071][519]LogFbx: =================================================
+[2017.12.03-12.20.00:071][519]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-12.20.00:071][519]LogFbx: 	Total Deformer Count 777318272.
+[2017.12.03-12.20.00:071][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.00:071][519]LogFbx: =================================================
+[2017.12.03-12.20.00:071][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.00:071][519]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-12.20.00:071][519]LogFbx: Dumping Node END [Tops]
+[2017.12.03-12.20.00:071][519]LogFbx: =================================================
+[2017.12.03-12.20.00:071][519]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-12.20.00:071][519]LogFbx: 	Total Deformer Count 777318272.
+[2017.12.03-12.20.00:071][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.00:071][519]LogFbx: =================================================
+[2017.12.03-12.20.00:071][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.00:071][519]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-12.20.00:071][519]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-12.20.00:071][519]LogFbx: =================================================
+[2017.12.03-12.20.00:071][519]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-12.20.00:071][519]LogFbx: 	Total Deformer Count 777318272.
+[2017.12.03-12.20.00:071][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.00:071][519]LogFbx: =================================================
+[2017.12.03-12.20.00:071][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.00:071][519]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-12.20.00:071][519]LogFbx: Dumping Node END [Hair]
+[2017.12.03-12.20.00:071][519]LogFbx: =================================================
+[2017.12.03-12.20.00:071][519]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-12.20.00:071][519]LogFbx: 	Total Deformer Count -493473280.
+[2017.12.03-12.20.00:071][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.00:071][519]LogFbx: =================================================
+[2017.12.03-12.20.00:071][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.00:071][519]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-12.20.00:071][519]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-12.20.00:076][519]LogFbx: Valid bind pose for Pose (skinCluster1) - Eyes
+[2017.12.03-12.20.00:076][519]LogFbx: Valid bind pose for Pose (skinCluster2) - Eyes
+[2017.12.03-12.20.00:076][519]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyes : The relative matrices do not match
+[2017.12.03-12.20.00:077][519]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2017.12.03-12.20.00:078][519]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2017.12.03-12.20.00:078][519]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2017.12.03-12.20.00:079][519]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Shoes : The relative matrices do not match
+[2017.12.03-12.20.00:079][519]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2017.12.03-12.20.00:080][519]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2017.12.03-12.20.00:080][519]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyes : The relative matrices do not match
+[2017.12.03-12.20.00:080][519]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2017.12.03-12.20.00:081][519]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2017.12.03-12.20.00:081][519]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2017.12.03-12.20.00:082][519]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Shoes : The relative matrices do not match
+[2017.12.03-12.20.00:082][519]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2017.12.03-12.20.00:082][519]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2017.12.03-12.20.00:082][519]LogFbx: Valid bind pose for Pose (skinCluster5) - Eyes
+[2017.12.03-12.20.00:083][519]LogFbx: Valid bind pose for Pose (skinCluster6) - Eyes
+[2017.12.03-12.20.00:083][519]LogFbx: Valid bind pose for Pose (skinCluster7) - Eyes
+[2017.12.03-12.20.00:086][519]LogLinker: Can't find file '/Game/Models/Teen/Bodymat'
+[2017.12.03-12.20.00:086][519]LogLinker: Can't find file '/Game/Models/Teen/Bodymat'
+[2017.12.03-12.20.00:307][519]LogMaterial: Warning: Material /Game/Models/Teen/Bodymat.Bodymat needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.03-12.20.00:314][519]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-12.20.01:057][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Body_Diffuse'
+[2017.12.03-12.20.01:058][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Body_Diffuse'
+[2017.12.03-12.20.01:068][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Body_Diffuse.png
+[2017.12.03-12.20.01:068][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Body_Specular'
+[2017.12.03-12.20.01:069][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Body_Specular'
+[2017.12.03-12.20.01:070][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Body_Specular.png
+[2017.12.03-12.20.01:071][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Body_Gloss'
+[2017.12.03-12.20.01:072][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Body_Gloss'
+[2017.12.03-12.20.01:072][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Body_Gloss.png
+[2017.12.03-12.20.01:073][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Body_Normal'
+[2017.12.03-12.20.01:074][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Body_Normal'
+[2017.12.03-12.20.01:075][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Body_Normal.png
+[2017.12.03-12.20.01:075][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Body_Opacity'
+[2017.12.03-12.20.01:076][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Body_Opacity'
+[2017.12.03-12.20.01:077][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Body_Opacity.png
+[2017.12.03-12.20.01:157][519]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-12.20.01:488][519]LogFbx: Triangulating skeletal mesh Eyes
+[2017.12.03-12.20.01:933][519]LogFbx: Triangulating skeletal mesh default1
+[2017.12.03-12.20.01:983][519]LogFbx: Triangulating skeletal mesh Body
+[2017.12.03-12.20.05:694][519]LogLinker: Can't find file '/Game/Models/Teen/Topmat'
+[2017.12.03-12.20.05:695][519]LogLinker: Can't find file '/Game/Models/Teen/Topmat'
+[2017.12.03-12.20.05:695][519]LogMaterial: Warning: Material /Game/Models/Teen/Topmat.Topmat needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.03-12.20.05:700][519]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-12.20.05:783][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Top_Diffuse'
+[2017.12.03-12.20.05:783][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Top_Diffuse'
+[2017.12.03-12.20.05:784][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Top_Diffuse.png
+[2017.12.03-12.20.05:784][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Top_Specular'
+[2017.12.03-12.20.05:784][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Top_Specular'
+[2017.12.03-12.20.05:785][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Top_Specular.png
+[2017.12.03-12.20.05:785][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Top_Gloss'
+[2017.12.03-12.20.05:785][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Top_Gloss'
+[2017.12.03-12.20.05:785][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Top_Gloss.png
+[2017.12.03-12.20.05:786][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Top_Normal'
+[2017.12.03-12.20.05:786][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Top_Normal'
+[2017.12.03-12.20.05:786][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Top_Normal.png
+[2017.12.03-12.20.05:786][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Top_Opacity'
+[2017.12.03-12.20.05:787][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Top_Opacity'
+[2017.12.03-12.20.05:787][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Top_Opacity.png
+[2017.12.03-12.20.05:791][519]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-12.20.05:869][519]LogFbx: Triangulating skeletal mesh Tops
+[2017.12.03-12.20.06:408][519]LogLinker: Can't find file '/Game/Models/Teen/Shoesmat'
+[2017.12.03-12.20.06:408][519]LogLinker: Can't find file '/Game/Models/Teen/Shoesmat'
+[2017.12.03-12.20.06:409][519]LogMaterial: Warning: Material /Game/Models/Teen/Shoesmat.Shoesmat needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.03-12.20.06:500][519]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-12.20.06:568][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Shoes_Diffuse'
+[2017.12.03-12.20.06:568][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Shoes_Diffuse'
+[2017.12.03-12.20.06:569][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Shoes_Diffuse.png
+[2017.12.03-12.20.06:569][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Shoes_Specular'
+[2017.12.03-12.20.06:569][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Shoes_Specular'
+[2017.12.03-12.20.06:569][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Shoes_Specular.png
+[2017.12.03-12.20.06:570][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Shoes_Gloss'
+[2017.12.03-12.20.06:570][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Shoes_Gloss'
+[2017.12.03-12.20.06:570][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Shoes_Gloss.png
+[2017.12.03-12.20.06:570][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Shoes_Normal'
+[2017.12.03-12.20.06:571][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Shoes_Normal'
+[2017.12.03-12.20.06:571][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Shoes_Normal.png
+[2017.12.03-12.20.06:571][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Shoes_Opacity'
+[2017.12.03-12.20.06:572][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Shoes_Opacity'
+[2017.12.03-12.20.06:572][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Shoes_Opacity.png
+[2017.12.03-12.20.06:827][519]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-12.20.06:913][519]LogFbx: Triangulating skeletal mesh Shoes
+[2017.12.03-12.20.08:601][519]LogLinker: Can't find file '/Game/Models/Teen/Hairmat'
+[2017.12.03-12.20.08:601][519]LogLinker: Can't find file '/Game/Models/Teen/Hairmat'
+[2017.12.03-12.20.08:601][519]LogMaterial: Warning: Material /Game/Models/Teen/Hairmat.Hairmat needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.03-12.20.08:607][519]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-12.20.08:691][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Hair_Diffuse'
+[2017.12.03-12.20.08:691][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Hair_Diffuse'
+[2017.12.03-12.20.08:692][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Hair_Diffuse.png
+[2017.12.03-12.20.08:692][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Hair_Specular'
+[2017.12.03-12.20.08:692][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Hair_Specular'
+[2017.12.03-12.20.08:692][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Hair_Specular.png
+[2017.12.03-12.20.08:693][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Hair_Gloss'
+[2017.12.03-12.20.08:693][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Hair_Gloss'
+[2017.12.03-12.20.08:693][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Hair_Gloss.png
+[2017.12.03-12.20.08:694][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Hair_Normal'
+[2017.12.03-12.20.08:694][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Hair_Normal'
+[2017.12.03-12.20.08:694][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Hair_Normal.png
+[2017.12.03-12.20.08:695][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Hair_Opacity'
+[2017.12.03-12.20.08:695][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Hair_Opacity'
+[2017.12.03-12.20.08:695][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Hair_Opacity.png
+[2017.12.03-12.20.08:753][519]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-12.20.08:849][519]LogFbx: Triangulating skeletal mesh Hair
+[2017.12.03-12.20.10:050][519]LogLinker: Can't find file '/Game/Models/Teen/Bottommat'
+[2017.12.03-12.20.10:050][519]LogLinker: Can't find file '/Game/Models/Teen/Bottommat'
+[2017.12.03-12.20.10:051][519]LogMaterial: Warning: Material /Game/Models/Teen/Bottommat.Bottommat needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.03-12.20.10:055][519]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-12.20.10:144][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Bottom_Diffuse'
+[2017.12.03-12.20.10:145][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Bottom_Diffuse'
+[2017.12.03-12.20.10:145][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Bottom_Diffuse.png
+[2017.12.03-12.20.10:145][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Bottom_Specular'
+[2017.12.03-12.20.10:145][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Bottom_Specular'
+[2017.12.03-12.20.10:146][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Bottom_Specular.png
+[2017.12.03-12.20.10:146][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Bottom_Gloss'
+[2017.12.03-12.20.10:146][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Bottom_Gloss'
+[2017.12.03-12.20.10:146][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Bottom_Gloss.png
+[2017.12.03-12.20.10:147][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Bottom_Normal'
+[2017.12.03-12.20.10:147][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Bottom_Normal'
+[2017.12.03-12.20.10:148][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Bottom_Normal.png
+[2017.12.03-12.20.10:148][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Bottom_Opacity'
+[2017.12.03-12.20.10:148][519]LogLinker: Can't find file '/Game/Models/Teen/Teen_Bottom_Opacity'
+[2017.12.03-12.20.10:148][519]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/jason/AppData/Local/Temp/Teen.fbm/Teen_Bottom_Opacity.png
+[2017.12.03-12.20.10:153][519]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-12.20.10:240][519]LogFbx: Triangulating skeletal mesh Bottoms
+[2017.12.03-12.20.11:312][519]LogFbx: Warning: Bones digested - 67  Depth of hierarchy - 12
+[2017.12.03-12.20.13:102][519]LogSkeletalMesh: Section 0: 10614 vertices, 39 active bones
+[2017.12.03-12.20.13:103][519]LogSkeletalMesh: Section 1: 1485 vertices, 20 active bones
+[2017.12.03-12.20.13:104][519]LogSkeletalMesh: Section 2: 4334 vertices, 6 active bones
+[2017.12.03-12.20.13:104][519]LogSkeletalMesh: Section 3: 3964 vertices, 3 active bones
+[2017.12.03-12.20.13:105][519]LogSkeletalMesh: Section 4: 2346 vertices, 10 active bones
+[2017.12.03-12.20.13:238][519]LogSkeletalMesh: Section 0: Material=0, 19032 triangles
+[2017.12.03-12.20.13:238][519]LogSkeletalMesh: Section 1: Material=1, 2318 triangles
+[2017.12.03-12.20.13:238][519]LogSkeletalMesh: Section 2: Material=2, 6628 triangles
+[2017.12.03-12.20.13:239][519]LogSkeletalMesh: Section 3: Material=3, 4752 triangles
+[2017.12.03-12.20.13:239][519]LogSkeletalMesh: Section 4: Material=4, 4050 triangles
+[2017.12.03-12.20.13:307][519]LogLinker: Can't find file '/Game/Models/Teen/walkingteenscene_Skeleton'
+[2017.12.03-12.20.13:307][519]LogLinker: Can't find file '/Game/Models/Teen/walkingteenscene_Skeleton'
+[2017.12.03-12.20.13:340][519]LogLinker: Can't find file '/Game/Models/Teen/walkingteenscene_PhysicsAsset'
+[2017.12.03-12.20.13:341][519]LogLinker: Can't find file '/Game/Models/Teen/walkingteenscene_PhysicsAsset'
+[2017.12.03-12.20.13:378][519]LogFbx: =================================================
+[2017.12.03-12.20.13:378][519]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-12.20.13:378][519]LogFbx: 	Total Deformer Count 901020640.
+[2017.12.03-12.20.13:378][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.13:378][519]LogFbx: =================================================
+[2017.12.03-12.20.13:378][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.13:378][519]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-12.20.13:378][519]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-12.20.13:378][519]LogFbx: =================================================
+[2017.12.03-12.20.13:379][519]LogFbx: Dumping Node START [default1] 
+[2017.12.03-12.20.13:379][519]LogFbx: 	Total Deformer Count 878146720.
+[2017.12.03-12.20.13:379][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.13:379][519]LogFbx: =================================================
+[2017.12.03-12.20.13:379][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.13:379][519]LogFbx: 		[Node Attribute Child 1] default1 (Type Mesh).
+[2017.12.03-12.20.13:379][519]LogFbx: Dumping Node END [default1]
+[2017.12.03-12.20.13:379][519]LogFbx: =================================================
+[2017.12.03-12.20.13:379][519]LogFbx: Dumping Node START [Body] 
+[2017.12.03-12.20.13:379][519]LogFbx: 	Total Deformer Count 901020544.
+[2017.12.03-12.20.13:379][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.13:379][519]LogFbx: =================================================
+[2017.12.03-12.20.13:379][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.13:379][519]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-12.20.13:379][519]LogFbx: Dumping Node END [Body]
+[2017.12.03-12.20.13:379][519]LogFbx: =================================================
+[2017.12.03-12.20.13:379][519]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-12.20.13:379][519]LogFbx: 	Total Deformer Count 901020544.
+[2017.12.03-12.20.13:379][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.13:379][519]LogFbx: =================================================
+[2017.12.03-12.20.13:379][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.13:379][519]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-12.20.13:379][519]LogFbx: Dumping Node END [Tops]
+[2017.12.03-12.20.13:379][519]LogFbx: =================================================
+[2017.12.03-12.20.13:379][519]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-12.20.13:379][519]LogFbx: 	Total Deformer Count 901020544.
+[2017.12.03-12.20.13:379][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.13:379][519]LogFbx: =================================================
+[2017.12.03-12.20.13:379][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.13:379][519]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-12.20.13:379][519]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-12.20.13:379][519]LogFbx: =================================================
+[2017.12.03-12.20.13:380][519]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-12.20.13:380][519]LogFbx: 	Total Deformer Count 901020544.
+[2017.12.03-12.20.13:380][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.13:380][519]LogFbx: =================================================
+[2017.12.03-12.20.13:380][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.13:380][519]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-12.20.13:380][519]LogFbx: Dumping Node END [Hair]
+[2017.12.03-12.20.13:380][519]LogFbx: =================================================
+[2017.12.03-12.20.13:380][519]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-12.20.13:380][519]LogFbx: 	Total Deformer Count 878146664.
+[2017.12.03-12.20.13:380][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.13:380][519]LogFbx: =================================================
+[2017.12.03-12.20.13:380][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.13:380][519]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-12.20.13:380][519]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-12.20.13:381][519]LogFbx: =================================================
+[2017.12.03-12.20.13:381][519]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-12.20.13:381][519]LogFbx: 	Total Deformer Count 901017952.
+[2017.12.03-12.20.13:381][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.13:381][519]LogFbx: =================================================
+[2017.12.03-12.20.13:381][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.13:381][519]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-12.20.13:381][519]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-12.20.13:381][519]LogFbx: =================================================
+[2017.12.03-12.20.13:381][519]LogFbx: Dumping Node START [default1] 
+[2017.12.03-12.20.13:381][519]LogFbx: 	Total Deformer Count 878146664.
+[2017.12.03-12.20.13:381][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.13:381][519]LogFbx: =================================================
+[2017.12.03-12.20.13:382][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.13:382][519]LogFbx: 		[Node Attribute Child 1] default1 (Type Mesh).
+[2017.12.03-12.20.13:382][519]LogFbx: Dumping Node END [default1]
+[2017.12.03-12.20.13:382][519]LogFbx: =================================================
+[2017.12.03-12.20.13:382][519]LogFbx: Dumping Node START [Body] 
+[2017.12.03-12.20.13:382][519]LogFbx: 	Total Deformer Count 901017184.
+[2017.12.03-12.20.13:382][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.13:382][519]LogFbx: =================================================
+[2017.12.03-12.20.13:382][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.13:382][519]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-12.20.13:382][519]LogFbx: Dumping Node END [Body]
+[2017.12.03-12.20.13:382][519]LogFbx: =================================================
+[2017.12.03-12.20.13:382][519]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-12.20.13:382][519]LogFbx: 	Total Deformer Count 901017184.
+[2017.12.03-12.20.13:382][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.13:382][519]LogFbx: =================================================
+[2017.12.03-12.20.13:382][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.13:382][519]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-12.20.13:382][519]LogFbx: Dumping Node END [Tops]
+[2017.12.03-12.20.13:382][519]LogFbx: =================================================
+[2017.12.03-12.20.13:382][519]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-12.20.13:382][519]LogFbx: 	Total Deformer Count 901017184.
+[2017.12.03-12.20.13:382][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.13:382][519]LogFbx: =================================================
+[2017.12.03-12.20.13:382][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.13:382][519]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-12.20.13:382][519]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-12.20.13:382][519]LogFbx: =================================================
+[2017.12.03-12.20.13:382][519]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-12.20.13:382][519]LogFbx: 	Total Deformer Count 901017184.
+[2017.12.03-12.20.13:382][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.13:383][519]LogFbx: =================================================
+[2017.12.03-12.20.13:383][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.13:383][519]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-12.20.13:383][519]LogFbx: Dumping Node END [Hair]
+[2017.12.03-12.20.13:383][519]LogFbx: =================================================
+[2017.12.03-12.20.13:383][519]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-12.20.13:383][519]LogFbx: 	Total Deformer Count 878146776.
+[2017.12.03-12.20.13:383][519]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.20.13:383][519]LogFbx: =================================================
+[2017.12.03-12.20.13:383][519]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.20.13:383][519]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-12.20.13:383][519]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(0) Hips
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(1) Spine
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(2) Spine1
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(3) Spine2
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(4) Neck
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(5) Head
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(7) RightEye
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(8) LeftEye
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(9) LeftShoulder
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(10) LeftArm
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(11) LeftForeArm
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(12) LeftHand
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(25) LeftHandRing1
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(26) LeftHandRing2
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(27) LeftHandRing3
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(28) LeftHandRing4
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2017.12.03-12.20.13:391][519]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(33) RightShoulder
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(34) RightArm
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(35) RightForeArm
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(36) RightHand
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(41) RightHandThumb1
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(42) RightHandThumb2
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(43) RightHandThumb3
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(44) RightHandThumb4
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(45) RightHandIndex1
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(46) RightHandIndex2
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(47) RightHandIndex3
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(48) RightHandIndex4
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(49) RightHandRing1
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(50) RightHandRing2
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(51) RightHandRing3
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(52) RightHandRing4
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(53) RightHandPinky1
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(54) RightHandPinky2
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(55) RightHandPinky3
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(56) RightHandPinky4
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(57) RightUpLeg
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(58) RightLeg
+[2017.12.03-12.20.13:392][519]LogFbx: SortedLinks :(59) RightFoot
+[2017.12.03-12.20.13:393][519]LogFbx: SortedLinks :(60) RightToeBase
+[2017.12.03-12.20.13:393][519]LogFbx: SortedLinks :(61) RightToe_End
+[2017.12.03-12.20.13:393][519]LogFbx: SortedLinks :(62) LeftUpLeg
+[2017.12.03-12.20.13:393][519]LogFbx: SortedLinks :(63) LeftLeg
+[2017.12.03-12.20.13:393][519]LogFbx: SortedLinks :(64) LeftFoot
+[2017.12.03-12.20.13:393][519]LogFbx: SortedLinks :(65) LeftToeBase
+[2017.12.03-12.20.13:393][519]LogFbx: SortedLinks :(66) LeftToe_End
+[2017.12.03-12.20.13:397][519]LogFbx: Parsing AnimStack Take 001
+[2017.12.03-12.20.13:491][519]LogLinker: Can't find file '/Game/Models/Teen/walkingteenscene_Anim'
+[2017.12.03-12.20.13:492][519]LogLinker: Can't find file '/Game/Models/Teen/walkingteenscene_Anim'
+[2017.12.03-12.20.21:555][519]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Teen/walkingteenscene_Anim.walkingteenscene_Anim
+[2017.12.03-12.20.21:734][519]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:RightEye  
+mixamorig:LeftEye  
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandRing4  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:LeftHandPinky4  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandThumb4  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandRing4  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+mixamorig:RightHandPinky4  
+mixamorig:RightToe_End  
+mixamorig:LeftToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2017.12.03-12.21.30:287][773]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-12.21.30:363][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.21.30:363][773]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 10:21:30 PM)
+[2017.12.03-12.21.30:363][773]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.21.30:621][773]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.21.30:621][773]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.21.31:620][773]LogPlayLevel: PIE: StaticDuplicateObject took: (1.256335s)
+[2017.12.03-12.21.31:621][773]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.21.31:621][773]LogPlayLevel: PIE: World Init took: (0.001504s)
+[2017.12.03-12.21.31:622][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (1.258435s)
+[2017.12.03-12.21.31:989][773]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.21.32:016][773]LogInit: FAudioDevice initialized.
+[2017.12.03-12.21.32:057][773]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.21.32:068][773]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.21.32
+[2017.12.03-12.21.32:071][773]LogWorld: Bringing up level for play took: 0.012723
+[2017.12.03-12.21.32:073][773]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 1.667
+[2017.12.03-12.21.56:332][255]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-12.21.58:396][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.21.58:396][255]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 10:21:58 PM)
+[2017.12.03-12.21.58:396][255]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.21.58:476][255]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.21.58:476][255]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.21.58:625][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.228584s)
+[2017.12.03-12.21.58:626][255]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.21.58:626][255]LogPlayLevel: PIE: World Init took: (0.001345s)
+[2017.12.03-12.21.58:626][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.230424s)
+[2017.12.03-12.21.58:660][255]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.21.58:686][255]LogInit: FAudioDevice initialized.
+[2017.12.03-12.21.58:724][255]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.21.58:736][255]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.21.58
+[2017.12.03-12.21.58:737][255]LogWorld: Bringing up level for play took: 0.012026
+[2017.12.03-12.21.58:740][255]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 0.334
+[2017.12.03-12.22.24:092][696]Cmd: TRANSACTION UNDO
+[2017.12.03-12.22.24:132][696]LogEditorTransaction: Undo Animatable Property Changed
+[2017.12.03-12.22.38:489][937]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-12.22.43:128][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.22.43:128][937]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 10:22:43 PM)
+[2017.12.03-12.22.43:128][937]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.22.43:180][937]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.22.43:180][937]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.22.43:194][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065891s)
+[2017.12.03-12.22.43:195][937]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.22.43:196][937]LogPlayLevel: PIE: World Init took: (0.001304s)
+[2017.12.03-12.22.43:196][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.067909s)
+[2017.12.03-12.22.43:231][937]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.22.43:256][937]LogInit: FAudioDevice initialized.
+[2017.12.03-12.22.43:298][937]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.22.43:309][937]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.22.43
+[2017.12.03-12.22.43:311][937]LogWorld: Bringing up level for play took: 0.011657
+[2017.12.03-12.22.43:313][937]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 0.907
+[2017.12.03-12.22.58:048][236]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (walkingteenscene_Anim)
+[2017.12.03-12.23.04:526][317]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-12.23.06:322][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.23.06:323][317]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 10:23:06 PM)
+[2017.12.03-12.23.06:323][317]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.23.06:457][317]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.23.06:457][317]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.23.06:524][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.200848s)
+[2017.12.03-12.23.06:525][317]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.23.06:525][317]LogPlayLevel: PIE: World Init took: (0.001267s)
+[2017.12.03-12.23.06:525][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.202550s)
+[2017.12.03-12.23.06:558][317]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.23.06:584][317]LogInit: FAudioDevice initialized.
+[2017.12.03-12.23.06:627][317]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.23.06:637][317]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.23.06
+[2017.12.03-12.23.06:639][317]LogWorld: Bringing up level for play took: 0.011278
+[2017.12.03-12.23.06:642][317]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 0.235
+[2017.12.03-12.23.15:636][525]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (walkingteenscene_Anim)
+[2017.12.03-12.23.21:318][633]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-12.23.21:389][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.23.21:389][633]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 10:23:21 PM)
+[2017.12.03-12.23.21:390][633]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.23.21:469][633]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.23.21:469][633]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.23.21:486][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096238s)
+[2017.12.03-12.23.21:487][633]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.23.21:487][633]LogPlayLevel: PIE: World Init took: (0.001364s)
+[2017.12.03-12.23.21:488][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.098155s)
+[2017.12.03-12.23.21:527][633]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.23.21:555][633]LogInit: FAudioDevice initialized.
+[2017.12.03-12.23.21:595][633]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.23.21:606][633]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.23.21
+[2017.12.03-12.23.21:608][633]LogWorld: Bringing up level for play took: 0.011855
+[2017.12.03-12.23.21:611][633]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 1.204
+[2017.12.03-12.23.29:038][802]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (walkingteenscene_Anim)
+[2017.12.03-12.24.08:630][399]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-12.24.08:679][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.24.08:679][399]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 10:24:08 PM)
+[2017.12.03-12.24.08:679][399]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.24.08:706][399]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.24.08:706][399]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.24.08:725][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045310s)
+[2017.12.03-12.24.08:726][399]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.24.08:727][399]LogPlayLevel: PIE: World Init took: (0.001749s)
+[2017.12.03-12.24.08:727][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.047687s)
+[2017.12.03-12.24.08:770][399]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.24.08:790][399]LogInit: FAudioDevice initialized.
+[2017.12.03-12.24.08:826][399]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.24.08:836][399]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.24.08
+[2017.12.03-12.24.08:838][399]LogWorld: Bringing up level for play took: 0.010805
+[2017.12.03-12.24.08:841][399]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 0.434
+[2017.12.03-12.24.22:044][673]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (walkingteenscene_Anim)
+[2017.12.03-12.24.25:886][727]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-12.24.25:936][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.24.25:937][727]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 10:24:25 PM)
+[2017.12.03-12.24.25:937][727]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.24.25:962][727]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.24.25:962][727]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.24.25:977][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039071s)
+[2017.12.03-12.24.25:977][727]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.24.25:978][727]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2017.12.03-12.24.25:978][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.040469s)
+[2017.12.03-12.24.26:007][727]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.24.26:058][727]LogInit: FAudioDevice initialized.
+[2017.12.03-12.24.26:093][727]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.24.26:104][727]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.24.26
+[2017.12.03-12.24.26:106][727]LogWorld: Bringing up level for play took: 0.012186
+[2017.12.03-12.24.26:109][727]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 -0.298
+[2017.12.03-12.25.07:225][313]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (walkingteenscene_Anim)
+[2017.12.03-12.27.06:618][659]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-12.27.06:666][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.27.06:667][659]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 10:27:06 PM)
+[2017.12.03-12.27.06:667][659]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.27.06:689][659]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.27.06:689][659]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.27.06:701][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033996s)
+[2017.12.03-12.27.06:702][659]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.27.06:747][659]LogPlayLevel: PIE: World Init took: (0.045995s)
+[2017.12.03-12.27.06:747][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.080586s)
+[2017.12.03-12.27.06:785][659]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.27.06:815][659]LogInit: FAudioDevice initialized.
+[2017.12.03-12.27.06:858][659]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.27.06:868][659]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.27.06
+[2017.12.03-12.27.06:870][659]LogWorld: Bringing up level for play took: 0.011911
+[2017.12.03-12.27.06:873][659]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 0.466
+[2017.12.03-12.27.35:923][160]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (walkingteenscene_Anim)
+[2017.12.03-12.28.49:733][997]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-12.28.49:875][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.28.49:876][997]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 10:28:49 PM)
+[2017.12.03-12.28.49:876][997]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.28.49:947][997]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.28.49:947][997]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.28.49:987][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110571s)
+[2017.12.03-12.28.49:991][997]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.28.49:992][997]LogPlayLevel: PIE: World Init took: (0.005160s)
+[2017.12.03-12.28.49:993][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.116962s)
+[2017.12.03-12.28.50:114][997]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.28.50:138][997]LogInit: FAudioDevice initialized.
+[2017.12.03-12.28.50:178][997]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.28.50:189][997]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.28.50
+[2017.12.03-12.28.50:191][997]LogWorld: Bringing up level for play took: 0.012104
+[2017.12.03-12.28.50:194][997]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 -0.213
+[2017.12.03-12.29.47:252][847]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-12.29.47:362][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.29.47:362][847]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 10:29:47 PM)
+[2017.12.03-12.29.47:363][847]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.29.47:431][847]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.29.47:431][847]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.29.47:464][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101088s)
+[2017.12.03-12.29.47:467][847]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.29.47:468][847]LogPlayLevel: PIE: World Init took: (0.003099s)
+[2017.12.03-12.29.47:468][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.105262s)
+[2017.12.03-12.29.47:559][847]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.29.47:620][847]LogInit: FAudioDevice initialized.
+[2017.12.03-12.29.47:681][847]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.29.47:709][847]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.29.47
+[2017.12.03-12.29.47:713][847]LogWorld: Bringing up level for play took: 0.030444
+[2017.12.03-12.29.47:720][847]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 1.313
+[2017.12.03-12.30.06:070][241]Cmd: TRANSACTION UNDO
+[2017.12.03-12.30.06:070][241]LogEditorTransaction: Undo Animatable Property Changed
+[2017.12.03-12.30.06:950][251]Cmd: TRANSACTION UNDO
+[2017.12.03-12.30.06:950][251]LogEditorTransaction: Undo Animatable Property Changed
+[2017.12.03-12.30.07:567][260]Cmd: TRANSACTION UNDO
+[2017.12.03-12.30.07:567][260]LogEditorTransaction: Undo Move Actors
+[2017.12.03-12.30.08:427][271]Cmd: TRANSACTION UNDO
+[2017.12.03-12.30.08:427][271]LogEditorTransaction: Undo Select Actors/Components
+[2017.12.03-12.30.10:132][295]Cmd: TRANSACTION UNDO
+[2017.12.03-12.30.10:232][295]LogEditorTransaction: Undo Delete Selected Keys
+[2017.12.03-12.30.11:747][311]Cmd: TRANSACTION UNDO
+[2017.12.03-12.30.11:747][311]LogEditorTransaction: Undo Select Actors/Components
+[2017.12.03-12.30.12:369][320]Cmd: TRANSACTION UNDO
+[2017.12.03-12.30.12:369][320]LogEditorTransaction: Undo Select Actors/Components
+[2017.12.03-12.30.13:175][332]Cmd: TRANSACTION UNDO
+[2017.12.03-12.30.13:175][332]LogEditorTransaction: Undo Delete Selected Keys
+[2017.12.03-12.30.14:103][343]Cmd: TRANSACTION UNDO
+[2017.12.03-12.30.14:103][343]LogEditorTransaction: Undo Select Actors/Components
+[2017.12.03-12.30.14:658][351]Cmd: TRANSACTION UNDO
+[2017.12.03-12.30.14:658][351]LogEditorTransaction: Undo Select Actors/Components
+[2017.12.03-12.30.15:260][360]Cmd: TRANSACTION UNDO
+[2017.12.03-12.30.15:260][360]LogEditorTransaction: Undo Delete Selected Keys
+[2017.12.03-12.30.16:022][369]Cmd: TRANSACTION UNDO
+[2017.12.03-12.30.16:022][369]LogEditorTransaction: Undo Select Actors/Components
+[2017.12.03-12.30.16:573][377]Cmd: TRANSACTION UNDO
+[2017.12.03-12.30.16:574][377]LogEditorTransaction: Undo Select Actors/Components
+[2017.12.03-12.30.17:378][389]Cmd: TRANSACTION UNDO
+[2017.12.03-12.30.17:378][389]LogEditorTransaction: Undo Delete Selected Keys
+[2017.12.03-12.30.18:197][399]Cmd: TRANSACTION UNDO
+[2017.12.03-12.30.18:212][399]LogEditorTransaction: Undo Select Actors/Components
+[2017.12.03-12.30.39:617][700]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-12.30.39:747][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.30.39:748][700]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 10:30:39 PM)
+[2017.12.03-12.30.39:749][700]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.30.39:810][700]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.30.39:811][700]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.30.39:849][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100122s)
+[2017.12.03-12.30.39:852][700]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.30.39:853][700]LogPlayLevel: PIE: World Init took: (0.003341s)
+[2017.12.03-12.30.39:853][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.104737s)
+[2017.12.03-12.30.39:918][700]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.30.39:941][700]LogInit: FAudioDevice initialized.
+[2017.12.03-12.30.39:978][700]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.30.40:049][700]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.30.40
+[2017.12.03-12.30.40:051][700]LogWorld: Bringing up level for play took: 0.072096
+[2017.12.03-12.30.40:053][700]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 -0.353
+[2017.12.03-12.31.39:636][498]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Animations/TeenWalkingToKneel.fbx)
+[2017.12.03-12.31.39:701][498]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.12.03-12.31.39:701][498]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.12.03-12.31.39:701][498]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.12.03-12.31.39:701][498]LogFbx: ItemName: Geometry, ItemCount : 7
+[2017.12.03-12.31.39:701][498]LogFbx: ItemName: Material, ItemCount : 5
+[2017.12.03-12.31.39:701][498]LogFbx: ItemName: Texture, ItemCount : 25
+[2017.12.03-12.31.39:701][498]LogFbx: ItemName: Model, ItemCount : 75
+[2017.12.03-12.31.39:701][498]LogFbx: ItemName: NodeAttribute, ItemCount : 68
+[2017.12.03-12.31.39:701][498]LogFbx: ItemName: AnimationCurveNode, ItemCount : 276
+[2017.12.03-12.31.39:701][498]LogFbx: ItemName: AnimationCurve, ItemCount : 165
+[2017.12.03-12.31.39:701][498]LogFbx: ItemName: Pose, ItemCount : 7
+[2017.12.03-12.31.39:701][498]LogFbx: ItemName: Deformer, ItemCount : 95
+[2017.12.03-12.31.39:702][498]LogFbx: ItemName: Character, ItemCount : 1
+[2017.12.03-12.31.39:702][498]LogFbx: ItemName: Video, ItemCount : 25
+[2017.12.03-12.31.39:731][498]LogFbx: Loading FBX Scene from D:/Animations/TeenWalkingToKneel.fbx
+[2017.12.03-12.31.40:243][498]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.03-12.31.42:515][498]LogFbx: Loading FBX Scene from D:/Animations/TeenWalkingToKneel.fbx
+[2017.12.03-12.31.42:708][498]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.03-12.31.42:713][498]LogFbx: =================================================
+[2017.12.03-12.31.42:713][498]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-12.31.42:713][498]LogFbx: 	Total Deformer Count 826811792.
+[2017.12.03-12.31.42:713][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.31.42:713][498]LogFbx: =================================================
+[2017.12.03-12.31.42:713][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.31.42:714][498]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-12.31.42:714][498]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-12.31.42:714][498]LogFbx: =================================================
+[2017.12.03-12.31.42:714][498]LogFbx: Dumping Node START [default1] 
+[2017.12.03-12.31.42:714][498]LogFbx: 	Total Deformer Count 785124952.
+[2017.12.03-12.31.42:714][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.31.42:714][498]LogFbx: =================================================
+[2017.12.03-12.31.42:714][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.31.42:714][498]LogFbx: 		[Node Attribute Child 1] default1 (Type Mesh).
+[2017.12.03-12.31.42:714][498]LogFbx: Dumping Node END [default1]
+[2017.12.03-12.31.42:714][498]LogFbx: =================================================
+[2017.12.03-12.31.42:714][498]LogFbx: Dumping Node START [Body] 
+[2017.12.03-12.31.42:714][498]LogFbx: 	Total Deformer Count 826806608.
+[2017.12.03-12.31.42:714][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.31.42:714][498]LogFbx: =================================================
+[2017.12.03-12.31.42:714][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.31.42:714][498]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-12.31.42:714][498]LogFbx: Dumping Node END [Body]
+[2017.12.03-12.31.42:714][498]LogFbx: =================================================
+[2017.12.03-12.31.42:714][498]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-12.31.42:714][498]LogFbx: 	Total Deformer Count 826806608.
+[2017.12.03-12.31.42:714][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.31.42:714][498]LogFbx: =================================================
+[2017.12.03-12.31.42:714][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.31.42:714][498]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-12.31.42:714][498]LogFbx: Dumping Node END [Tops]
+[2017.12.03-12.31.42:714][498]LogFbx: =================================================
+[2017.12.03-12.31.42:714][498]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-12.31.42:714][498]LogFbx: 	Total Deformer Count 826806608.
+[2017.12.03-12.31.42:714][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.31.42:714][498]LogFbx: =================================================
+[2017.12.03-12.31.42:715][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.31.42:715][498]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-12.31.42:715][498]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-12.31.42:715][498]LogFbx: =================================================
+[2017.12.03-12.31.42:715][498]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-12.31.42:715][498]LogFbx: 	Total Deformer Count 826806608.
+[2017.12.03-12.31.42:715][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.31.42:715][498]LogFbx: =================================================
+[2017.12.03-12.31.42:715][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.31.42:715][498]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-12.31.42:715][498]LogFbx: Dumping Node END [Hair]
+[2017.12.03-12.31.42:715][498]LogFbx: =================================================
+[2017.12.03-12.31.42:715][498]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-12.31.42:715][498]LogFbx: 	Total Deformer Count 785130664.
+[2017.12.03-12.31.42:715][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.31.42:715][498]LogFbx: =================================================
+[2017.12.03-12.31.42:715][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.31.42:715][498]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-12.31.42:715][498]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-12.31.42:715][498]LogFbx: =================================================
+[2017.12.03-12.31.42:715][498]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-12.31.42:715][498]LogFbx: 	Total Deformer Count 826809488.
+[2017.12.03-12.31.42:715][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.31.42:715][498]LogFbx: =================================================
+[2017.12.03-12.31.42:715][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.31.42:715][498]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-12.31.42:715][498]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-12.31.42:716][498]LogFbx: =================================================
+[2017.12.03-12.31.42:716][498]LogFbx: Dumping Node START [default1] 
+[2017.12.03-12.31.42:716][498]LogFbx: 	Total Deformer Count 785130664.
+[2017.12.03-12.31.42:716][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.31.42:716][498]LogFbx: =================================================
+[2017.12.03-12.31.42:716][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.31.42:716][498]LogFbx: 		[Node Attribute Child 1] default1 (Type Mesh).
+[2017.12.03-12.31.42:716][498]LogFbx: Dumping Node END [default1]
+[2017.12.03-12.31.42:716][498]LogFbx: =================================================
+[2017.12.03-12.31.42:716][498]LogFbx: Dumping Node START [Body] 
+[2017.12.03-12.31.42:716][498]LogFbx: 	Total Deformer Count 826810832.
+[2017.12.03-12.31.42:716][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.31.42:716][498]LogFbx: =================================================
+[2017.12.03-12.31.42:716][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.31.42:716][498]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-12.31.42:716][498]LogFbx: Dumping Node END [Body]
+[2017.12.03-12.31.42:716][498]LogFbx: =================================================
+[2017.12.03-12.31.42:716][498]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-12.31.42:716][498]LogFbx: 	Total Deformer Count 826810832.
+[2017.12.03-12.31.42:716][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.31.42:716][498]LogFbx: =================================================
+[2017.12.03-12.31.42:716][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.31.42:716][498]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-12.31.42:716][498]LogFbx: Dumping Node END [Tops]
+[2017.12.03-12.31.42:716][498]LogFbx: =================================================
+[2017.12.03-12.31.42:716][498]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-12.31.42:716][498]LogFbx: 	Total Deformer Count 926661024.
+[2017.12.03-12.31.42:716][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.31.42:716][498]LogFbx: =================================================
+[2017.12.03-12.31.42:716][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.31.42:717][498]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-12.31.42:717][498]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-12.31.42:717][498]LogFbx: =================================================
+[2017.12.03-12.31.42:717][498]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-12.31.42:717][498]LogFbx: 	Total Deformer Count 926661024.
+[2017.12.03-12.31.42:717][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.31.42:717][498]LogFbx: =================================================
+[2017.12.03-12.31.42:717][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.31.42:717][498]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-12.31.42:717][498]LogFbx: Dumping Node END [Hair]
+[2017.12.03-12.31.42:717][498]LogFbx: =================================================
+[2017.12.03-12.31.42:717][498]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-12.31.42:717][498]LogFbx: 	Total Deformer Count 785132904.
+[2017.12.03-12.31.42:717][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.31.42:717][498]LogFbx: =================================================
+[2017.12.03-12.31.42:717][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.31.42:717][498]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-12.31.42:717][498]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-12.31.42:719][498]LogFbx: Valid bind pose for Pose (skinCluster1) - Eyes
+[2017.12.03-12.31.42:719][498]LogFbx: Valid bind pose for Pose (skinCluster2) - Eyes
+[2017.12.03-12.31.42:721][498]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyes : The relative matrices do not match
+[2017.12.03-12.31.42:721][498]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2017.12.03-12.31.42:722][498]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2017.12.03-12.31.42:723][498]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2017.12.03-12.31.42:723][498]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Shoes : The relative matrices do not match
+[2017.12.03-12.31.42:724][498]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2017.12.03-12.31.42:725][498]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2017.12.03-12.31.42:726][498]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyes : The relative matrices do not match
+[2017.12.03-12.31.42:726][498]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2017.12.03-12.31.42:727][498]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2017.12.03-12.31.42:727][498]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2017.12.03-12.31.42:727][498]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Shoes : The relative matrices do not match
+[2017.12.03-12.31.42:728][498]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2017.12.03-12.31.42:728][498]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2017.12.03-12.31.42:728][498]LogFbx: Valid bind pose for Pose (skinCluster5) - Eyes
+[2017.12.03-12.31.42:728][498]LogFbx: Valid bind pose for Pose (skinCluster6) - Eyes
+[2017.12.03-12.31.42:729][498]LogFbx: Valid bind pose for Pose (skinCluster7) - Eyes
+[2017.12.03-12.31.42:733][498]LogFbx: Triangulating skeletal mesh Eyes
+[2017.12.03-12.31.43:025][498]LogFbx: Triangulating skeletal mesh default1
+[2017.12.03-12.31.43:062][498]LogFbx: Triangulating skeletal mesh Body
+[2017.12.03-12.31.50:816][498]LogFbx: Triangulating skeletal mesh Tops
+[2017.12.03-12.31.51:500][498]LogFbx: Triangulating skeletal mesh Shoes
+[2017.12.03-12.31.53:683][498]LogFbx: Triangulating skeletal mesh Hair
+[2017.12.03-12.31.55:192][498]LogFbx: Triangulating skeletal mesh Bottoms
+[2017.12.03-12.31.56:932][498]LogFbx: Warning: Bones digested - 67  Depth of hierarchy - 12
+[2017.12.03-12.32.00:467][498]LogSkeletalMesh: Section 0: 10614 vertices, 39 active bones
+[2017.12.03-12.32.00:469][498]LogSkeletalMesh: Section 1: 1485 vertices, 20 active bones
+[2017.12.03-12.32.00:470][498]LogSkeletalMesh: Section 2: 4334 vertices, 6 active bones
+[2017.12.03-12.32.00:471][498]LogSkeletalMesh: Section 3: 3964 vertices, 3 active bones
+[2017.12.03-12.32.00:471][498]LogSkeletalMesh: Section 4: 2346 vertices, 10 active bones
+[2017.12.03-12.32.00:750][498]LogSkeletalMesh: Section 0: Material=0, 19032 triangles
+[2017.12.03-12.32.00:750][498]LogSkeletalMesh: Section 1: Material=1, 2318 triangles
+[2017.12.03-12.32.00:750][498]LogSkeletalMesh: Section 2: Material=2, 6628 triangles
+[2017.12.03-12.32.00:750][498]LogSkeletalMesh: Section 3: Material=3, 4752 triangles
+[2017.12.03-12.32.00:750][498]LogSkeletalMesh: Section 4: Material=4, 4050 triangles
+[2017.12.03-12.32.00:883][498]LogLinker: Can't find file '/Game/Models/Teen/TeenWalkingToKneel_PhysicsAsset'
+[2017.12.03-12.32.00:885][498]LogLinker: Can't find file '/Game/Models/Teen/TeenWalkingToKneel_PhysicsAsset'
+[2017.12.03-12.32.00:916][498]LogFbx: =================================================
+[2017.12.03-12.32.00:916][498]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-12.32.00:916][498]LogFbx: 	Total Deformer Count 287050864.
+[2017.12.03-12.32.00:916][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.32.00:917][498]LogFbx: =================================================
+[2017.12.03-12.32.00:917][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.32.00:917][498]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-12.32.00:917][498]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-12.32.00:917][498]LogFbx: =================================================
+[2017.12.03-12.32.00:917][498]LogFbx: Dumping Node START [default1] 
+[2017.12.03-12.32.00:917][498]LogFbx: 	Total Deformer Count 785132624.
+[2017.12.03-12.32.00:917][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.32.00:917][498]LogFbx: =================================================
+[2017.12.03-12.32.00:917][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.32.00:917][498]LogFbx: 		[Node Attribute Child 1] default1 (Type Mesh).
+[2017.12.03-12.32.00:917][498]LogFbx: Dumping Node END [default1]
+[2017.12.03-12.32.00:917][498]LogFbx: =================================================
+[2017.12.03-12.32.00:917][498]LogFbx: Dumping Node START [Body] 
+[2017.12.03-12.32.00:918][498]LogFbx: 	Total Deformer Count 287050528.
+[2017.12.03-12.32.00:918][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.32.00:918][498]LogFbx: =================================================
+[2017.12.03-12.32.00:918][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.32.00:918][498]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-12.32.00:918][498]LogFbx: Dumping Node END [Body]
+[2017.12.03-12.32.00:918][498]LogFbx: =================================================
+[2017.12.03-12.32.00:918][498]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-12.32.00:918][498]LogFbx: 	Total Deformer Count 287050528.
+[2017.12.03-12.32.00:918][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.32.00:918][498]LogFbx: =================================================
+[2017.12.03-12.32.00:918][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.32.00:918][498]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-12.32.00:918][498]LogFbx: Dumping Node END [Tops]
+[2017.12.03-12.32.00:918][498]LogFbx: =================================================
+[2017.12.03-12.32.00:918][498]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-12.32.00:918][498]LogFbx: 	Total Deformer Count 287050528.
+[2017.12.03-12.32.00:918][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.32.00:918][498]LogFbx: =================================================
+[2017.12.03-12.32.00:919][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.32.00:919][498]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-12.32.00:919][498]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-12.32.00:919][498]LogFbx: =================================================
+[2017.12.03-12.32.00:919][498]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-12.32.00:919][498]LogFbx: 	Total Deformer Count 287050528.
+[2017.12.03-12.32.00:919][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.32.00:919][498]LogFbx: =================================================
+[2017.12.03-12.32.00:919][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.32.00:919][498]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-12.32.00:919][498]LogFbx: Dumping Node END [Hair]
+[2017.12.03-12.32.00:919][498]LogFbx: =================================================
+[2017.12.03-12.32.00:919][498]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-12.32.00:919][498]LogFbx: 	Total Deformer Count 785132568.
+[2017.12.03-12.32.00:919][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.32.00:919][498]LogFbx: =================================================
+[2017.12.03-12.32.00:919][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.32.00:919][498]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-12.32.00:920][498]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-12.32.00:920][498]LogFbx: =================================================
+[2017.12.03-12.32.00:920][498]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-12.32.00:920][498]LogFbx: 	Total Deformer Count 861185904.
+[2017.12.03-12.32.00:921][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.32.00:921][498]LogFbx: =================================================
+[2017.12.03-12.32.00:921][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.32.00:921][498]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-12.32.00:921][498]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-12.32.00:921][498]LogFbx: =================================================
+[2017.12.03-12.32.00:921][498]LogFbx: Dumping Node START [default1] 
+[2017.12.03-12.32.00:921][498]LogFbx: 	Total Deformer Count 785132568.
+[2017.12.03-12.32.00:921][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.32.00:921][498]LogFbx: =================================================
+[2017.12.03-12.32.00:921][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.32.00:921][498]LogFbx: 		[Node Attribute Child 1] default1 (Type Mesh).
+[2017.12.03-12.32.00:921][498]LogFbx: Dumping Node END [default1]
+[2017.12.03-12.32.00:921][498]LogFbx: =================================================
+[2017.12.03-12.32.00:921][498]LogFbx: Dumping Node START [Body] 
+[2017.12.03-12.32.00:922][498]LogFbx: 	Total Deformer Count -322731680.
+[2017.12.03-12.32.00:922][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.32.00:922][498]LogFbx: =================================================
+[2017.12.03-12.32.00:922][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.32.00:922][498]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-12.32.00:922][498]LogFbx: Dumping Node END [Body]
+[2017.12.03-12.32.00:922][498]LogFbx: =================================================
+[2017.12.03-12.32.00:922][498]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-12.32.00:922][498]LogFbx: 	Total Deformer Count -322731680.
+[2017.12.03-12.32.00:922][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.32.00:922][498]LogFbx: =================================================
+[2017.12.03-12.32.00:922][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.32.00:922][498]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-12.32.00:922][498]LogFbx: Dumping Node END [Tops]
+[2017.12.03-12.32.00:922][498]LogFbx: =================================================
+[2017.12.03-12.32.00:922][498]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-12.32.00:922][498]LogFbx: 	Total Deformer Count -322731680.
+[2017.12.03-12.32.00:923][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.32.00:923][498]LogFbx: =================================================
+[2017.12.03-12.32.00:923][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.32.00:923][498]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-12.32.00:923][498]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-12.32.00:923][498]LogFbx: =================================================
+[2017.12.03-12.32.00:923][498]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-12.32.00:923][498]LogFbx: 	Total Deformer Count -322731680.
+[2017.12.03-12.32.00:923][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.32.00:923][498]LogFbx: =================================================
+[2017.12.03-12.32.00:923][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.32.00:923][498]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-12.32.00:923][498]LogFbx: Dumping Node END [Hair]
+[2017.12.03-12.32.00:923][498]LogFbx: =================================================
+[2017.12.03-12.32.00:924][498]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-12.32.00:924][498]LogFbx: 	Total Deformer Count 785128536.
+[2017.12.03-12.32.00:924][498]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.32.00:924][498]LogFbx: =================================================
+[2017.12.03-12.32.00:924][498]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.32.00:924][498]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-12.32.00:924][498]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-12.32.00:930][498]LogFbx: SortedLinks :(0) Hips
+[2017.12.03-12.32.00:930][498]LogFbx: SortedLinks :(1) Spine
+[2017.12.03-12.32.00:930][498]LogFbx: SortedLinks :(2) Spine1
+[2017.12.03-12.32.00:931][498]LogFbx: SortedLinks :(3) Spine2
+[2017.12.03-12.32.00:931][498]LogFbx: SortedLinks :(4) Neck
+[2017.12.03-12.32.00:931][498]LogFbx: SortedLinks :(5) Head
+[2017.12.03-12.32.00:931][498]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.12.03-12.32.00:931][498]LogFbx: SortedLinks :(7) RightEye
+[2017.12.03-12.32.00:931][498]LogFbx: SortedLinks :(8) LeftEye
+[2017.12.03-12.32.00:931][498]LogFbx: SortedLinks :(9) LeftShoulder
+[2017.12.03-12.32.00:931][498]LogFbx: SortedLinks :(10) LeftArm
+[2017.12.03-12.32.00:931][498]LogFbx: SortedLinks :(11) LeftForeArm
+[2017.12.03-12.32.00:931][498]LogFbx: SortedLinks :(12) LeftHand
+[2017.12.03-12.32.00:931][498]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2017.12.03-12.32.00:931][498]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2017.12.03-12.32.00:931][498]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2017.12.03-12.32.00:931][498]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2017.12.03-12.32.00:931][498]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2017.12.03-12.32.00:931][498]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2017.12.03-12.32.00:931][498]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2017.12.03-12.32.00:931][498]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(25) LeftHandRing1
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(26) LeftHandRing2
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(27) LeftHandRing3
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(28) LeftHandRing4
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(33) RightShoulder
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(34) RightArm
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(35) RightForeArm
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(36) RightHand
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2017.12.03-12.32.00:932][498]LogFbx: SortedLinks :(41) RightHandThumb1
+[2017.12.03-12.32.00:933][498]LogFbx: SortedLinks :(42) RightHandThumb2
+[2017.12.03-12.32.00:933][498]LogFbx: SortedLinks :(43) RightHandThumb3
+[2017.12.03-12.32.00:933][498]LogFbx: SortedLinks :(44) RightHandThumb4
+[2017.12.03-12.32.00:933][498]LogFbx: SortedLinks :(45) RightHandIndex1
+[2017.12.03-12.32.00:933][498]LogFbx: SortedLinks :(46) RightHandIndex2
+[2017.12.03-12.32.00:933][498]LogFbx: SortedLinks :(47) RightHandIndex3
+[2017.12.03-12.32.00:933][498]LogFbx: SortedLinks :(48) RightHandIndex4
+[2017.12.03-12.32.00:933][498]LogFbx: SortedLinks :(49) RightHandRing1
+[2017.12.03-12.32.00:933][498]LogFbx: SortedLinks :(50) RightHandRing2
+[2017.12.03-12.32.00:933][498]LogFbx: SortedLinks :(51) RightHandRing3
+[2017.12.03-12.32.00:933][498]LogFbx: SortedLinks :(52) RightHandRing4
+[2017.12.03-12.32.00:933][498]LogFbx: SortedLinks :(53) RightHandPinky1
+[2017.12.03-12.32.00:934][498]LogFbx: SortedLinks :(54) RightHandPinky2
+[2017.12.03-12.32.00:934][498]LogFbx: SortedLinks :(55) RightHandPinky3
+[2017.12.03-12.32.00:934][498]LogFbx: SortedLinks :(56) RightHandPinky4
+[2017.12.03-12.32.00:934][498]LogFbx: SortedLinks :(57) RightUpLeg
+[2017.12.03-12.32.00:934][498]LogFbx: SortedLinks :(58) RightLeg
+[2017.12.03-12.32.00:934][498]LogFbx: SortedLinks :(59) RightFoot
+[2017.12.03-12.32.00:934][498]LogFbx: SortedLinks :(60) RightToeBase
+[2017.12.03-12.32.00:934][498]LogFbx: SortedLinks :(61) RightToe_End
+[2017.12.03-12.32.00:934][498]LogFbx: SortedLinks :(62) LeftUpLeg
+[2017.12.03-12.32.00:934][498]LogFbx: SortedLinks :(63) LeftLeg
+[2017.12.03-12.32.00:934][498]LogFbx: SortedLinks :(64) LeftFoot
+[2017.12.03-12.32.00:934][498]LogFbx: SortedLinks :(65) LeftToeBase
+[2017.12.03-12.32.00:934][498]LogFbx: SortedLinks :(66) LeftToe_End
+[2017.12.03-12.32.00:948][498]LogFbx: Parsing AnimStack Take 001
+[2017.12.03-12.32.00:968][498]LogLinker: Can't find file '/Game/Models/Teen/TeenWalkingToKneel_Anim'
+[2017.12.03-12.32.00:968][498]LogLinker: Can't find file '/Game/Models/Teen/TeenWalkingToKneel_Anim'
+[2017.12.03-12.32.02:975][498]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Teen/TeenWalkingToKneel_Anim.TeenWalkingToKneel_Anim
+[2017.12.03-12.32.02:988][498]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'Hips' 
+[2017.12.03-12.32.02:988][498]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'Spine' 
+[2017.12.03-12.32.02:988][498]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'Spine1' 
+[2017.12.03-12.32.02:988][498]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'Spine2' 
+[2017.12.03-12.32.02:988][498]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'Head' 
+[2017.12.03-12.32.02:988][498]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'LeftArm' 
+[2017.12.03-12.32.02:988][498]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'LeftHand' 
+[2017.12.03-12.32.02:988][498]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'RightArm' 
+[2017.12.03-12.32.02:988][498]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'RightHand' 
+[2017.12.03-12.32.02:989][498]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'RightUpLeg' 
+[2017.12.03-12.32.02:989][498]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'RightLeg' 
+[2017.12.03-12.32.02:989][498]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'RightFoot' 
+[2017.12.03-12.32.02:989][498]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'LeftUpLeg' 
+[2017.12.03-12.32.02:989][498]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'LeftLeg' 
+[2017.12.03-12.32.02:989][498]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'LeftFoot' 
+[2017.12.03-12.32.03:008][498]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:RightEye  
+mixamorig:LeftEye  
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandRing4  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:LeftHandPinky4  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandThumb4  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandRing4  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+mixamorig:RightHandPinky4  
+mixamorig:RightToe_End  
+mixamorig:LeftToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2017.12.03-12.32.03:875][499]LogSavePackage: Save=509.53ms
+[2017.12.03-12.32.03:875][499]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Scene_02_Auto29BDB626542864932B85415A9959B4CFE.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Scenes/Scene_02_Auto2.umap'
+[2017.12.03-12.32.03:879][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Scenes/Scene_02_Auto2.umap
+[2017.12.03-12.32.03:884][499]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Scene_02' took 0.589
+[2017.12.03-12.32.03:884][499]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.589
+[2017.12.03-12.32.03:887][499]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Teen/walkingteenscene] ([1] browsable assets)...
+[2017.12.03-12.32.03:956][499]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Models/Teen/walkingteenscene.walkingteenscene]
+[2017.12.03-12.32.03:956][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Teen/walkingteenscene]
+[2017.12.03-12.32.04:317][499]LogSavePackage: Save=351.36ms
+[2017.12.03-12.32.04:320][499]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/walkingteenscene_Auto290D6933243EF7D33939B88815D1279C3.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/walkingteenscene_Auto2.uasset'
+[2017.12.03-12.32.04:324][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/walkingteenscene_Auto2.uasset
+[2017.12.03-12.32.04:328][499]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation_Scenes/Scene_02] ([1] browsable assets)...
+[2017.12.03-12.32.04:328][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation_Scenes/Scene_02]
+[2017.12.03-12.32.04:836][499]LogSavePackage: Save=426.84ms
+[2017.12.03-12.32.04:836][499]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Scene_02_Auto222BAA90B4881A48DA9BE7DAD2B4E3A35.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Animation_Scenes/Scene_02_Auto2.uasset'
+[2017.12.03-12.32.04:840][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Animation_Scenes/Scene_02_Auto2.uasset
+[2017.12.03-12.32.04:843][499]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Teen/Bodymat] ([1] browsable assets)...
+[2017.12.03-12.32.05:021][499]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Teen/Bodymat.Bodymat]
+[2017.12.03-12.32.05:021][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Teen/Bodymat]
+[2017.12.03-12.32.05:297][499]LogSavePackage: Save=248.05ms
+[2017.12.03-12.32.05:297][499]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Bodymat_Auto2694E48364691950E54133D88C6ADCDA9.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/Bodymat_Auto2.uasset'
+[2017.12.03-12.32.05:301][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/Bodymat_Auto2.uasset
+[2017.12.03-12.32.05:305][499]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Teen/TeenWalkingToKneel_PhysicsAsset] ([1] browsable assets)...
+[2017.12.03-12.32.05:305][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Teen/TeenWalkingToKneel_PhysicsAsset]
+[2017.12.03-12.32.05:407][499]LogSavePackage: Save=93.23ms
+[2017.12.03-12.32.05:407][499]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/TeenWalkingToKneel_PhysicsAsset_Auto291E71B884C156A198D79AB89D59336B6.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/TeenWalkingToKneel_PhysicsAsset_Auto2.uasset'
+[2017.12.03-12.32.05:411][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/TeenWalkingToKneel_PhysicsAsset_Auto2.uasset
+[2017.12.03-12.32.05:413][499]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Teen/TeenWalkingToKneel_Anim] ([1] browsable assets)...
+[2017.12.03-12.32.05:496][499]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Teen/TeenWalkingToKneel_Anim.TeenWalkingToKneel_Anim]
+[2017.12.03-12.32.05:496][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Teen/TeenWalkingToKneel_Anim]
+[2017.12.03-12.32.05:570][499]LogSavePackage: Save=64.51ms
+[2017.12.03-12.32.05:570][499]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/TeenWalkingToKneel_Anim_Auto2984B99BB4FCF7BF418761DA3541AE4DD.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/TeenWalkingToKneel_Anim_Auto2.uasset'
+[2017.12.03-12.32.05:573][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/TeenWalkingToKneel_Anim_Auto2.uasset
+[2017.12.03-12.32.05:576][499]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Teen/Topmat] ([1] browsable assets)...
+[2017.12.03-12.32.05:895][499]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Teen/Topmat.Topmat]
+[2017.12.03-12.32.05:895][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Teen/Topmat]
+[2017.12.03-12.32.05:979][499]LogSavePackage: Save=64.30ms
+[2017.12.03-12.32.05:979][499]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Topmat_Auto2483D1ED54AA77E3B68B3DAAA7B464336.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/Topmat_Auto2.uasset'
+[2017.12.03-12.32.05:983][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/Topmat_Auto2.uasset
+[2017.12.03-12.32.05:986][499]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Teen/Shoesmat] ([1] browsable assets)...
+[2017.12.03-12.32.06:070][499]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Teen/Shoesmat.Shoesmat]
+[2017.12.03-12.32.06:070][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Teen/Shoesmat]
+[2017.12.03-12.32.06:146][499]LogSavePackage: Save=66.19ms
+[2017.12.03-12.32.06:146][499]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Shoesmat_Auto26E63485046B47994BFF98EA2D0931A27.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/Shoesmat_Auto2.uasset'
+[2017.12.03-12.32.06:150][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/Shoesmat_Auto2.uasset
+[2017.12.03-12.32.06:152][499]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Teen/Hairmat] ([1] browsable assets)...
+[2017.12.03-12.32.06:242][499]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Teen/Hairmat.Hairmat]
+[2017.12.03-12.32.06:242][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Teen/Hairmat]
+[2017.12.03-12.32.06:328][499]LogSavePackage: Save=78.60ms
+[2017.12.03-12.32.06:328][499]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Hairmat_Auto28BB6018742DA80B47DEC8DB7DD69D497.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/Hairmat_Auto2.uasset'
+[2017.12.03-12.32.06:332][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/Hairmat_Auto2.uasset
+[2017.12.03-12.32.06:335][499]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Teen/Bottommat] ([1] browsable assets)...
+[2017.12.03-12.32.06:418][499]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Teen/Bottommat.Bottommat]
+[2017.12.03-12.32.06:418][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Teen/Bottommat]
+[2017.12.03-12.32.06:506][499]LogSavePackage: Save=79.41ms
+[2017.12.03-12.32.06:507][499]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Bottommat_Auto2BCFAD266421A713F86EBE595B7FA01DE.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/Bottommat_Auto2.uasset'
+[2017.12.03-12.32.06:509][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/Bottommat_Auto2.uasset
+[2017.12.03-12.32.06:510][499]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Teen/walkingteenscene_Skeleton] ([1] browsable assets)...
+[2017.12.03-12.32.06:510][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Teen/walkingteenscene_Skeleton]
+[2017.12.03-12.32.06:631][499]LogSavePackage: Save=8.56ms
+[2017.12.03-12.32.06:632][499]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/walkingteenscene_Skeleton_Auto23C2C2820483313E5547DE18CEF318048.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/walkingteenscene_Skeleton_Auto2.uasset'
+[2017.12.03-12.32.06:633][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/walkingteenscene_Skeleton_Auto2.uasset
+[2017.12.03-12.32.06:634][499]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Teen/walkingteenscene_PhysicsAsset] ([1] browsable assets)...
+[2017.12.03-12.32.06:634][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Teen/walkingteenscene_PhysicsAsset]
+[2017.12.03-12.32.06:654][499]LogSavePackage: Save=17.14ms
+[2017.12.03-12.32.06:654][499]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/walkingteenscene_PhysicsAsset_Auto2E02B37804C503A83B44F76BB5E14D378.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/walkingteenscene_PhysicsAsset_Auto2.uasset'
+[2017.12.03-12.32.06:656][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/walkingteenscene_PhysicsAsset_Auto2.uasset
+[2017.12.03-12.32.06:657][499]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Teen/walkingteenscene_Anim] ([1] browsable assets)...
+[2017.12.03-12.32.06:690][499]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Teen/walkingteenscene_Anim.walkingteenscene_Anim]
+[2017.12.03-12.32.06:690][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Teen/walkingteenscene_Anim]
+[2017.12.03-12.32.06:726][499]LogSavePackage: Save=32.87ms
+[2017.12.03-12.32.06:726][499]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/walkingteenscene_Anim_Auto29107B4A54C97532BF8FA6A9A02904DF5.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/walkingteenscene_Anim_Auto2.uasset'
+[2017.12.03-12.32.06:728][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/walkingteenscene_Anim_Auto2.uasset
+[2017.12.03-12.32.06:728][499]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Teen/TeenWalkingToKneel] ([1] browsable assets)...
+[2017.12.03-12.32.06:759][499]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Models/Teen/TeenWalkingToKneel.TeenWalkingToKneel]
+[2017.12.03-12.32.06:759][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Teen/TeenWalkingToKneel]
+[2017.12.03-12.32.06:862][499]LogSavePackage: Save=99.67ms
+[2017.12.03-12.32.06:862][499]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/TeenWalkingToKneel_Auto294899DE647D995C9AD4EE9821CBDD3B9.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/TeenWalkingToKneel_Auto2.uasset'
+[2017.12.03-12.32.06:863][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/TeenWalkingToKneel_Auto2.uasset
+[2017.12.03-12.32.06:863][499]LogFileHelpers: Auto-saving content packages took 2.978
+[2017.12.03-12.32.27:017][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseModel20)
+[2017.12.03-12.32.29:290][866]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenWalkingToKneel_Anim)
+[2017.12.03-12.32.38:029][ 35]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenWalkingToKneel_Anim)
+[2017.12.03-12.32.47:236][222]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenWalkingToKneel_Anim)
+[2017.12.03-12.32.59:529][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseModel20)
+[2017.12.03-12.33.01:220][495]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenWalkingToKneel_Anim)
+[2017.12.03-12.33.07:580][619]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenWalkingToKneel_Anim)
+[2017.12.03-12.33.13:093][726]Cmd: TRANSACTION UNDO
+[2017.12.03-12.33.13:093][726]LogEditorTransaction: Undo Animatable Property Changed
+[2017.12.03-12.33.22:334][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseModel20)
+[2017.12.03-12.33.25:271][973]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenWalkingToKneel_Anim)
+[2017.12.03-12.33.36:036][201]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenWalkingToKneel_Anim)
+[2017.12.03-12.33.50:756][523]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenWalkingToKneel_Anim)
+[2017.12.03-12.33.57:798][627]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenWalkingToKneel_Anim)
+[2017.12.03-12.34.11:840][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.34.11:840][874]PIE: New page: SIE session: Scene_02 (Dec 2, 2017, 10:34:11 PM)
+[2017.12.03-12.34.11:840][874]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.34.11:859][874]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.34.11:859][874]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.34.11:871][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031163s)
+[2017.12.03-12.34.11:872][874]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.34.11:873][874]LogPlayLevel: PIE: World Init took: (0.001349s)
+[2017.12.03-12.34.11:873][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.032967s)
+[2017.12.03-12.34.11:904][874]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.34.11:923][874]LogInit: FAudioDevice initialized.
+[2017.12.03-12.34.11:962][874]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.34.11:972][874]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.34.11
+[2017.12.03-12.34.11:975][874]LogWorld: Bringing up level for play took: 0.012123
+[2017.12.03-12.34.11:975][874]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.12.03-12.34.12:046][874]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 -0.36
+[2017.12.03-12.34.19:116][976]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenWalkingToKneel_Anim)
+[2017.12.03-12.34.24:064][ 71]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenWalkingToKneel_Anim)
+[2017.12.03-12.34.28:565][171]LogTemp: Repeating last play command: Simulate
+[2017.12.03-12.34.28:606][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.34.28:607][171]PIE: New page: SIE session: Scene_02 (Dec 2, 2017, 10:34:28 PM)
+[2017.12.03-12.34.28:607][171]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.34.28:625][171]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.34.28:625][171]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.34.28:635][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028082s)
+[2017.12.03-12.34.28:636][171]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.34.28:636][171]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2017.12.03-12.34.28:637][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.029780s)
+[2017.12.03-12.34.28:665][171]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.34.28:681][171]LogInit: FAudioDevice initialized.
+[2017.12.03-12.34.28:726][171]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.34.28:753][171]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.34.28
+[2017.12.03-12.34.28:758][171]LogWorld: Bringing up level for play took: 0.029795
+[2017.12.03-12.34.28:759][171]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.12.03-12.34.28:763][171]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 0.356
+[2017.12.03-12.34.32:893][222]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (HouseModel33)
+[2017.12.03-12.34.57:797][548]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenWalkingToKneel_Anim)
+[2017.12.03-12.34.59:121][568]Cmd: DELETE
+[2017.12.03-12.34.59:121][568]Cmd: ACTOR DELETE
+[2017.12.03-12.34.59:896][568]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.12.03-12.34.59:956][568]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2017.12.03-12.36.42:051][270]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenWalkingToKneel_Anim)
+[2017.12.03-12.36.54:851][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseModel20)
+[2017.12.03-12.36.58:205][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.36.58:205][573]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 10:36:58 PM)
+[2017.12.03-12.36.58:268][573]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.36.58:835][573]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.36.58:836][573]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.37.00:948][573]LogPlayLevel: PIE: StaticDuplicateObject took: (2.679723s)
+[2017.12.03-12.37.00:951][573]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.37.00:952][573]LogPlayLevel: PIE: World Init took: (0.003895s)
+[2017.12.03-12.37.00:953][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (2.684914s)
+[2017.12.03-12.37.01:053][573]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.37.01:130][573]LogInit: FAudioDevice initialized.
+[2017.12.03-12.37.01:356][573]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.37.01:384][573]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.37.01
+[2017.12.03-12.37.01:389][573]LogWorld: Bringing up level for play took: 0.030759
+[2017.12.03-12.37.01:395][573]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 2.988
+[2017.12.03-12.38.11:033][143]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenWalkingToKneel_Anim)
+[2017.12.03-12.38.15:611][216]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (walkingteenscene_Anim)
+[2017.12.03-12.38.16:910][229]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.03-12.38.18:384][245]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenWalkingToKneel_Anim)
+[2017.12.03-12.38.19:536][261]Cmd: DELETE
+[2017.12.03-12.38.19:536][261]Cmd: ACTOR DELETE
+[2017.12.03-12.38.19:537][261]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.12.03-12.38.19:588][261]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2017.12.03-12.38.20:879][287]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (walkingteenscene_Anim)
+[2017.12.03-12.38.54:366][860]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Animations/TeenKneeling.fbx)
+[2017.12.03-12.38.54:473][860]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.12.03-12.38.54:473][860]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.12.03-12.38.54:473][860]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.12.03-12.38.54:474][860]LogFbx: ItemName: Geometry, ItemCount : 7
+[2017.12.03-12.38.54:474][860]LogFbx: ItemName: Material, ItemCount : 5
+[2017.12.03-12.38.54:474][860]LogFbx: ItemName: Texture, ItemCount : 25
+[2017.12.03-12.38.54:474][860]LogFbx: ItemName: Model, ItemCount : 116
+[2017.12.03-12.38.54:474][860]LogFbx: ItemName: NodeAttribute, ItemCount : 109
+[2017.12.03-12.38.54:474][860]LogFbx: ItemName: AnimationCurveNode, ItemCount : 432
+[2017.12.03-12.38.54:474][860]LogFbx: ItemName: AnimationCurve, ItemCount : 466
+[2017.12.03-12.38.54:474][860]LogFbx: ItemName: Pose, ItemCount : 7
+[2017.12.03-12.38.54:474][860]LogFbx: ItemName: Deformer, ItemCount : 95
+[2017.12.03-12.38.54:474][860]LogFbx: ItemName: Character, ItemCount : 1
+[2017.12.03-12.38.54:474][860]LogFbx: ItemName: ControlSetPlug, ItemCount : 1
+[2017.12.03-12.38.54:475][860]LogFbx: ItemName: Video, ItemCount : 25
+[2017.12.03-12.38.54:499][860]LogFbx: Loading FBX Scene from D:/Animations/TeenKneeling.fbx
+[2017.12.03-12.38.56:049][860]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.03-12.38.59:921][860]LogFbx: Loading FBX Scene from D:/Animations/TeenKneeling.fbx
+[2017.12.03-12.39.00:471][860]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.03-12.39.00:481][860]LogFbx: =================================================
+[2017.12.03-12.39.00:481][860]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-12.39.00:481][860]LogFbx: 	Total Deformer Count 1756250064.
+[2017.12.03-12.39.00:481][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.00:481][860]LogFbx: =================================================
+[2017.12.03-12.39.00:481][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.00:481][860]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-12.39.00:481][860]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-12.39.00:481][860]LogFbx: =================================================
+[2017.12.03-12.39.00:481][860]LogFbx: Dumping Node START [default1] 
+[2017.12.03-12.39.00:481][860]LogFbx: 	Total Deformer Count 861554240.
+[2017.12.03-12.39.00:481][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.00:481][860]LogFbx: =================================================
+[2017.12.03-12.39.00:481][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.00:481][860]LogFbx: 		[Node Attribute Child 1] default1 (Type Mesh).
+[2017.12.03-12.39.00:481][860]LogFbx: Dumping Node END [default1]
+[2017.12.03-12.39.00:481][860]LogFbx: =================================================
+[2017.12.03-12.39.00:481][860]LogFbx: Dumping Node START [Body] 
+[2017.12.03-12.39.00:481][860]LogFbx: 	Total Deformer Count 1756249248.
+[2017.12.03-12.39.00:481][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.00:482][860]LogFbx: =================================================
+[2017.12.03-12.39.00:482][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.00:482][860]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-12.39.00:482][860]LogFbx: Dumping Node END [Body]
+[2017.12.03-12.39.00:482][860]LogFbx: =================================================
+[2017.12.03-12.39.00:482][860]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-12.39.00:482][860]LogFbx: 	Total Deformer Count 1756249248.
+[2017.12.03-12.39.00:482][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.00:482][860]LogFbx: =================================================
+[2017.12.03-12.39.00:482][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.00:482][860]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-12.39.00:482][860]LogFbx: Dumping Node END [Tops]
+[2017.12.03-12.39.00:482][860]LogFbx: =================================================
+[2017.12.03-12.39.00:482][860]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-12.39.00:482][860]LogFbx: 	Total Deformer Count 1756249248.
+[2017.12.03-12.39.00:482][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.00:482][860]LogFbx: =================================================
+[2017.12.03-12.39.00:482][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.00:482][860]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-12.39.00:482][860]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-12.39.00:482][860]LogFbx: =================================================
+[2017.12.03-12.39.00:482][860]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-12.39.00:482][860]LogFbx: 	Total Deformer Count 1756249248.
+[2017.12.03-12.39.00:482][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.00:482][860]LogFbx: =================================================
+[2017.12.03-12.39.00:482][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.00:482][860]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-12.39.00:482][860]LogFbx: Dumping Node END [Hair]
+[2017.12.03-12.39.00:482][860]LogFbx: =================================================
+[2017.12.03-12.39.00:482][860]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-12.39.00:483][860]LogFbx: 	Total Deformer Count 861554296.
+[2017.12.03-12.39.00:483][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.00:483][860]LogFbx: =================================================
+[2017.12.03-12.39.00:483][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.00:483][860]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-12.39.00:483][860]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-12.39.00:483][860]LogFbx: =================================================
+[2017.12.03-12.39.00:483][860]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-12.39.00:483][860]LogFbx: 	Total Deformer Count 1756246800.
+[2017.12.03-12.39.00:483][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.00:484][860]LogFbx: =================================================
+[2017.12.03-12.39.00:484][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.00:484][860]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-12.39.00:484][860]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-12.39.00:484][860]LogFbx: =================================================
+[2017.12.03-12.39.00:484][860]LogFbx: Dumping Node START [default1] 
+[2017.12.03-12.39.00:484][860]LogFbx: 	Total Deformer Count 861554296.
+[2017.12.03-12.39.00:484][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.00:484][860]LogFbx: =================================================
+[2017.12.03-12.39.00:484][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.00:484][860]LogFbx: 		[Node Attribute Child 1] default1 (Type Mesh).
+[2017.12.03-12.39.00:484][860]LogFbx: Dumping Node END [default1]
+[2017.12.03-12.39.00:484][860]LogFbx: =================================================
+[2017.12.03-12.39.00:484][860]LogFbx: Dumping Node START [Body] 
+[2017.12.03-12.39.00:484][860]LogFbx: 	Total Deformer Count 1756246032.
+[2017.12.03-12.39.00:484][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.00:484][860]LogFbx: =================================================
+[2017.12.03-12.39.00:484][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.00:484][860]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-12.39.00:484][860]LogFbx: Dumping Node END [Body]
+[2017.12.03-12.39.00:484][860]LogFbx: =================================================
+[2017.12.03-12.39.00:484][860]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-12.39.00:484][860]LogFbx: 	Total Deformer Count 1756246032.
+[2017.12.03-12.39.00:484][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.00:484][860]LogFbx: =================================================
+[2017.12.03-12.39.00:484][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.00:484][860]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-12.39.00:484][860]LogFbx: Dumping Node END [Tops]
+[2017.12.03-12.39.00:484][860]LogFbx: =================================================
+[2017.12.03-12.39.00:485][860]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-12.39.00:485][860]LogFbx: 	Total Deformer Count 1756246032.
+[2017.12.03-12.39.00:485][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.00:485][860]LogFbx: =================================================
+[2017.12.03-12.39.00:485][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.00:485][860]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-12.39.00:485][860]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-12.39.00:485][860]LogFbx: =================================================
+[2017.12.03-12.39.00:485][860]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-12.39.00:485][860]LogFbx: 	Total Deformer Count 1756246032.
+[2017.12.03-12.39.00:485][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.00:485][860]LogFbx: =================================================
+[2017.12.03-12.39.00:485][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.00:485][860]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-12.39.00:485][860]LogFbx: Dumping Node END [Hair]
+[2017.12.03-12.39.00:485][860]LogFbx: =================================================
+[2017.12.03-12.39.00:485][860]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-12.39.00:485][860]LogFbx: 	Total Deformer Count 861555248.
+[2017.12.03-12.39.00:485][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.00:485][860]LogFbx: =================================================
+[2017.12.03-12.39.00:485][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.00:485][860]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-12.39.00:485][860]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-12.39.00:489][860]LogFbx: Valid bind pose for Pose (skinCluster1) - Eyes
+[2017.12.03-12.39.00:489][860]LogFbx: Valid bind pose for Pose (skinCluster2) - Eyes
+[2017.12.03-12.39.00:490][860]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyes : The relative matrices do not match
+[2017.12.03-12.39.00:491][860]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2017.12.03-12.39.00:492][860]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2017.12.03-12.39.00:493][860]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2017.12.03-12.39.00:494][860]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Shoes : The relative matrices do not match
+[2017.12.03-12.39.00:495][860]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2017.12.03-12.39.00:496][860]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2017.12.03-12.39.00:496][860]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyes : The relative matrices do not match
+[2017.12.03-12.39.00:497][860]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2017.12.03-12.39.00:497][860]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2017.12.03-12.39.00:497][860]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2017.12.03-12.39.00:498][860]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Shoes : The relative matrices do not match
+[2017.12.03-12.39.00:498][860]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2017.12.03-12.39.00:498][860]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2017.12.03-12.39.00:498][860]LogFbx: Valid bind pose for Pose (skinCluster5) - Eyes
+[2017.12.03-12.39.00:499][860]LogFbx: Valid bind pose for Pose (skinCluster6) - Eyes
+[2017.12.03-12.39.00:499][860]LogFbx: Valid bind pose for Pose (skinCluster7) - Eyes
+[2017.12.03-12.39.00:504][860]LogFbx: Triangulating skeletal mesh Eyes
+[2017.12.03-12.39.00:858][860]LogFbx: Triangulating skeletal mesh default1
+[2017.12.03-12.39.00:952][860]LogFbx: Triangulating skeletal mesh Body
+[2017.12.03-12.39.06:186][860]LogFbx: Triangulating skeletal mesh Tops
+[2017.12.03-12.39.07:131][860]LogFbx: Triangulating skeletal mesh Shoes
+[2017.12.03-12.39.09:728][860]LogFbx: Triangulating skeletal mesh Hair
+[2017.12.03-12.39.12:508][860]LogFbx: Triangulating skeletal mesh Bottoms
+[2017.12.03-12.39.14:861][860]LogFbx: Warning: Bones digested - 67  Depth of hierarchy - 12
+[2017.12.03-12.39.17:107][860]LogSkeletalMesh: Section 0: 10614 vertices, 39 active bones
+[2017.12.03-12.39.17:185][860]LogSkeletalMesh: Section 1: 1485 vertices, 20 active bones
+[2017.12.03-12.39.17:186][860]LogSkeletalMesh: Section 2: 4334 vertices, 6 active bones
+[2017.12.03-12.39.17:186][860]LogSkeletalMesh: Section 3: 3964 vertices, 3 active bones
+[2017.12.03-12.39.17:254][860]LogSkeletalMesh: Section 4: 2346 vertices, 10 active bones
+[2017.12.03-12.39.17:465][860]LogSkeletalMesh: Section 0: Material=0, 19032 triangles
+[2017.12.03-12.39.17:465][860]LogSkeletalMesh: Section 1: Material=1, 2318 triangles
+[2017.12.03-12.39.17:465][860]LogSkeletalMesh: Section 2: Material=2, 6628 triangles
+[2017.12.03-12.39.17:465][860]LogSkeletalMesh: Section 3: Material=3, 4752 triangles
+[2017.12.03-12.39.17:465][860]LogSkeletalMesh: Section 4: Material=4, 4050 triangles
+[2017.12.03-12.39.17:602][860]LogLinker: Can't find file '/Game/Models/Teen/TeenKneeling_PhysicsAsset'
+[2017.12.03-12.39.17:603][860]LogLinker: Can't find file '/Game/Models/Teen/TeenKneeling_PhysicsAsset'
+[2017.12.03-12.39.17:647][860]LogFbx: =================================================
+[2017.12.03-12.39.17:647][860]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-12.39.17:647][860]LogFbx: 	Total Deformer Count 1756241472.
+[2017.12.03-12.39.17:647][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.17:647][860]LogFbx: =================================================
+[2017.12.03-12.39.17:647][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.17:647][860]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-12.39.17:647][860]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-12.39.17:648][860]LogFbx: =================================================
+[2017.12.03-12.39.17:648][860]LogFbx: Dumping Node START [default1] 
+[2017.12.03-12.39.17:648][860]LogFbx: 	Total Deformer Count 861560288.
+[2017.12.03-12.39.17:648][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.17:648][860]LogFbx: =================================================
+[2017.12.03-12.39.17:648][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.17:648][860]LogFbx: 		[Node Attribute Child 1] default1 (Type Mesh).
+[2017.12.03-12.39.17:648][860]LogFbx: Dumping Node END [default1]
+[2017.12.03-12.39.17:648][860]LogFbx: =================================================
+[2017.12.03-12.39.17:648][860]LogFbx: Dumping Node START [Body] 
+[2017.12.03-12.39.17:649][860]LogFbx: 	Total Deformer Count 1756237152.
+[2017.12.03-12.39.17:649][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.17:649][860]LogFbx: =================================================
+[2017.12.03-12.39.17:649][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.17:649][860]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-12.39.17:649][860]LogFbx: Dumping Node END [Body]
+[2017.12.03-12.39.17:649][860]LogFbx: =================================================
+[2017.12.03-12.39.17:649][860]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-12.39.17:649][860]LogFbx: 	Total Deformer Count 1756237152.
+[2017.12.03-12.39.17:649][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.17:650][860]LogFbx: =================================================
+[2017.12.03-12.39.17:650][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.17:650][860]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-12.39.17:650][860]LogFbx: Dumping Node END [Tops]
+[2017.12.03-12.39.17:650][860]LogFbx: =================================================
+[2017.12.03-12.39.17:650][860]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-12.39.17:650][860]LogFbx: 	Total Deformer Count 1756237152.
+[2017.12.03-12.39.17:650][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.17:650][860]LogFbx: =================================================
+[2017.12.03-12.39.17:650][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.17:651][860]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-12.39.17:651][860]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-12.39.17:651][860]LogFbx: =================================================
+[2017.12.03-12.39.17:651][860]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-12.39.17:651][860]LogFbx: 	Total Deformer Count 1756237152.
+[2017.12.03-12.39.17:651][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.17:651][860]LogFbx: =================================================
+[2017.12.03-12.39.17:651][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.17:651][860]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-12.39.17:652][860]LogFbx: Dumping Node END [Hair]
+[2017.12.03-12.39.17:652][860]LogFbx: =================================================
+[2017.12.03-12.39.17:652][860]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-12.39.17:652][860]LogFbx: 	Total Deformer Count 861558104.
+[2017.12.03-12.39.17:652][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.17:652][860]LogFbx: =================================================
+[2017.12.03-12.39.17:652][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.17:652][860]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-12.39.17:652][860]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-12.39.17:654][860]LogFbx: =================================================
+[2017.12.03-12.39.17:654][860]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-12.39.17:654][860]LogFbx: 	Total Deformer Count 1756234752.
+[2017.12.03-12.39.17:655][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.17:655][860]LogFbx: =================================================
+[2017.12.03-12.39.17:655][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.17:655][860]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-12.39.17:655][860]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-12.39.17:655][860]LogFbx: =================================================
+[2017.12.03-12.39.17:655][860]LogFbx: Dumping Node START [default1] 
+[2017.12.03-12.39.17:655][860]LogFbx: 	Total Deformer Count 861558104.
+[2017.12.03-12.39.17:655][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.17:656][860]LogFbx: =================================================
+[2017.12.03-12.39.17:656][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.17:656][860]LogFbx: 		[Node Attribute Child 1] default1 (Type Mesh).
+[2017.12.03-12.39.17:656][860]LogFbx: Dumping Node END [default1]
+[2017.12.03-12.39.17:656][860]LogFbx: =================================================
+[2017.12.03-12.39.17:656][860]LogFbx: Dumping Node START [Body] 
+[2017.12.03-12.39.17:656][860]LogFbx: 	Total Deformer Count 1756233984.
+[2017.12.03-12.39.17:656][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.17:656][860]LogFbx: =================================================
+[2017.12.03-12.39.17:656][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.17:657][860]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-12.39.17:657][860]LogFbx: Dumping Node END [Body]
+[2017.12.03-12.39.17:657][860]LogFbx: =================================================
+[2017.12.03-12.39.17:657][860]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-12.39.17:657][860]LogFbx: 	Total Deformer Count 359470448.
+[2017.12.03-12.39.17:657][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.17:657][860]LogFbx: =================================================
+[2017.12.03-12.39.17:657][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.17:658][860]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-12.39.17:658][860]LogFbx: Dumping Node END [Tops]
+[2017.12.03-12.39.17:658][860]LogFbx: =================================================
+[2017.12.03-12.39.17:658][860]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-12.39.17:658][860]LogFbx: 	Total Deformer Count 359470448.
+[2017.12.03-12.39.17:658][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.17:658][860]LogFbx: =================================================
+[2017.12.03-12.39.17:658][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.17:658][860]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-12.39.17:659][860]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-12.39.17:659][860]LogFbx: =================================================
+[2017.12.03-12.39.17:659][860]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-12.39.17:659][860]LogFbx: 	Total Deformer Count 359470448.
+[2017.12.03-12.39.17:659][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.17:659][860]LogFbx: =================================================
+[2017.12.03-12.39.17:659][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.17:659][860]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-12.39.17:659][860]LogFbx: Dumping Node END [Hair]
+[2017.12.03-12.39.17:659][860]LogFbx: =================================================
+[2017.12.03-12.39.17:659][860]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-12.39.17:659][860]LogFbx: 	Total Deformer Count 861568296.
+[2017.12.03-12.39.17:659][860]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.39.17:659][860]LogFbx: =================================================
+[2017.12.03-12.39.17:659][860]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.39.17:659][860]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-12.39.17:659][860]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-12.39.17:669][860]LogFbx: SortedLinks :(0) Hips
+[2017.12.03-12.39.17:669][860]LogFbx: SortedLinks :(1) Spine
+[2017.12.03-12.39.17:669][860]LogFbx: SortedLinks :(2) Spine1
+[2017.12.03-12.39.17:669][860]LogFbx: SortedLinks :(3) Spine2
+[2017.12.03-12.39.17:669][860]LogFbx: SortedLinks :(4) Neck
+[2017.12.03-12.39.17:669][860]LogFbx: SortedLinks :(5) Head
+[2017.12.03-12.39.17:669][860]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(7) RightEye
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(8) LeftEye
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(9) LeftShoulder
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(10) LeftArm
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(11) LeftForeArm
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(12) LeftHand
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(25) LeftHandRing1
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(26) LeftHandRing2
+[2017.12.03-12.39.17:670][860]LogFbx: SortedLinks :(27) LeftHandRing3
+[2017.12.03-12.39.17:671][860]LogFbx: SortedLinks :(28) LeftHandRing4
+[2017.12.03-12.39.17:671][860]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2017.12.03-12.39.17:671][860]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2017.12.03-12.39.17:671][860]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2017.12.03-12.39.17:671][860]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2017.12.03-12.39.17:671][860]LogFbx: SortedLinks :(33) RightShoulder
+[2017.12.03-12.39.17:671][860]LogFbx: SortedLinks :(34) RightArm
+[2017.12.03-12.39.17:671][860]LogFbx: SortedLinks :(35) RightForeArm
+[2017.12.03-12.39.17:671][860]LogFbx: SortedLinks :(36) RightHand
+[2017.12.03-12.39.17:671][860]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2017.12.03-12.39.17:671][860]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2017.12.03-12.39.17:672][860]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2017.12.03-12.39.17:672][860]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2017.12.03-12.39.17:672][860]LogFbx: SortedLinks :(41) RightHandThumb1
+[2017.12.03-12.39.17:672][860]LogFbx: SortedLinks :(42) RightHandThumb2
+[2017.12.03-12.39.17:672][860]LogFbx: SortedLinks :(43) RightHandThumb3
+[2017.12.03-12.39.17:672][860]LogFbx: SortedLinks :(44) RightHandThumb4
+[2017.12.03-12.39.17:672][860]LogFbx: SortedLinks :(45) RightHandIndex1
+[2017.12.03-12.39.17:672][860]LogFbx: SortedLinks :(46) RightHandIndex2
+[2017.12.03-12.39.17:672][860]LogFbx: SortedLinks :(47) RightHandIndex3
+[2017.12.03-12.39.17:672][860]LogFbx: SortedLinks :(48) RightHandIndex4
+[2017.12.03-12.39.17:672][860]LogFbx: SortedLinks :(49) RightHandRing1
+[2017.12.03-12.39.17:672][860]LogFbx: SortedLinks :(50) RightHandRing2
+[2017.12.03-12.39.17:672][860]LogFbx: SortedLinks :(51) RightHandRing3
+[2017.12.03-12.39.17:672][860]LogFbx: SortedLinks :(52) RightHandRing4
+[2017.12.03-12.39.17:672][860]LogFbx: SortedLinks :(53) RightHandPinky1
+[2017.12.03-12.39.17:672][860]LogFbx: SortedLinks :(54) RightHandPinky2
+[2017.12.03-12.39.17:672][860]LogFbx: SortedLinks :(55) RightHandPinky3
+[2017.12.03-12.39.17:672][860]LogFbx: SortedLinks :(56) RightHandPinky4
+[2017.12.03-12.39.17:673][860]LogFbx: SortedLinks :(57) RightUpLeg
+[2017.12.03-12.39.17:673][860]LogFbx: SortedLinks :(58) RightLeg
+[2017.12.03-12.39.17:673][860]LogFbx: SortedLinks :(59) RightFoot
+[2017.12.03-12.39.17:673][860]LogFbx: SortedLinks :(60) RightToeBase
+[2017.12.03-12.39.17:673][860]LogFbx: SortedLinks :(61) RightToe_End
+[2017.12.03-12.39.17:673][860]LogFbx: SortedLinks :(62) LeftUpLeg
+[2017.12.03-12.39.17:673][860]LogFbx: SortedLinks :(63) LeftLeg
+[2017.12.03-12.39.17:673][860]LogFbx: SortedLinks :(64) LeftFoot
+[2017.12.03-12.39.17:673][860]LogFbx: SortedLinks :(65) LeftToeBase
+[2017.12.03-12.39.17:673][860]LogFbx: SortedLinks :(66) LeftToe_End
+[2017.12.03-12.39.17:679][860]LogFbx: Parsing AnimStack Take 001
+[2017.12.03-12.39.17:969][860]LogLinker: Can't find file '/Game/Models/Teen/TeenKneeling_Anim'
+[2017.12.03-12.39.17:970][860]LogLinker: Can't find file '/Game/Models/Teen/TeenKneeling_Anim'
+[2017.12.03-12.39.36:284][860]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Teen/TeenKneeling_Anim.TeenKneeling_Anim
+[2017.12.03-12.39.36:954][860]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:RightEye  
+mixamorig:LeftEye  
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandRing4  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:LeftHandPinky4  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandThumb4  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandRing4  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+mixamorig:RightHandPinky4  
+mixamorig:RightToe_End  
+mixamorig:LeftToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2017.12.03-12.39.49:861][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.39.49:862][158]PIE: New page: SIE session: Scene_02 (Dec 2, 2017, 10:39:49 PM)
+[2017.12.03-12.39.49:901][158]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.39.49:977][158]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.39.49:978][158]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.39.50:021][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119781s)
+[2017.12.03-12.39.50:024][158]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.39.50:025][158]LogPlayLevel: PIE: World Init took: (0.003848s)
+[2017.12.03-12.39.50:026][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.124812s)
+[2017.12.03-12.39.50:106][158]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.39.50:130][158]LogInit: FAudioDevice initialized.
+[2017.12.03-12.39.50:170][158]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.39.50:180][158]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.39.50
+[2017.12.03-12.39.50:182][158]LogWorld: Bringing up level for play took: 0.010995
+[2017.12.03-12.39.50:183][158]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.12.03-12.39.50:185][158]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 -0.222
+[2017.12.03-12.40.05:731][489]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenKneeling_Anim)
+[2017.12.03-12.40.16:965][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseModel18)
+[2017.12.03-12.40.32:487][881]LogTemp: Repeating last play command: Simulate
+[2017.12.03-12.40.32:589][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.40.32:590][881]PIE: New page: SIE session: Scene_02 (Dec 2, 2017, 10:40:32 PM)
+[2017.12.03-12.40.32:591][881]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.40.32:642][881]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.40.32:643][881]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.40.32:681][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090117s)
+[2017.12.03-12.40.32:684][881]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.40.32:685][881]LogPlayLevel: PIE: World Init took: (0.004095s)
+[2017.12.03-12.40.32:686][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.095171s)
+[2017.12.03-12.40.32:767][881]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.40.32:823][881]LogInit: FAudioDevice initialized.
+[2017.12.03-12.40.32:883][881]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.40.32:911][881]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.40.32
+[2017.12.03-12.40.32:917][881]LogWorld: Bringing up level for play took: 0.032005
+[2017.12.03-12.40.32:918][881]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.12.03-12.40.32:922][881]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 0.515
+[2017.12.03-12.40.34:247][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseModel20)
+[2017.12.03-12.40.35:158][902]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenKneeling_Anim)
+[2017.12.03-12.40.43:954][ 42]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenKneeling_Anim)
+[2017.12.03-12.41.03:585][431]Cmd: EDCALLBACK SURFPROPS
+[2017.12.03-12.41.04:856][457]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenKneeling_Anim)
+[2017.12.03-12.41.07:402][499]LogTemp: Repeating last play command: Simulate
+[2017.12.03-12.41.07:456][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.41.07:456][499]PIE: New page: SIE session: Scene_02 (Dec 2, 2017, 10:41:07 PM)
+[2017.12.03-12.41.07:519][499]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.41.07:544][499]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.41.07:544][499]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.41.07:558][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038548s)
+[2017.12.03-12.41.07:559][499]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.41.07:560][499]LogPlayLevel: PIE: World Init took: (0.001596s)
+[2017.12.03-12.41.07:560][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.040599s)
+[2017.12.03-12.41.07:586][499]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.41.07:607][499]LogInit: FAudioDevice initialized.
+[2017.12.03-12.41.07:646][499]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.41.07:658][499]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.41.07
+[2017.12.03-12.41.07:659][499]LogWorld: Bringing up level for play took: 0.012276
+[2017.12.03-12.41.07:660][499]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.12.03-12.41.07:662][499]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 -0.745
+[2017.12.03-12.41.32:850][897]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Env_Fire_Grate_01)
+[2017.12.03-12.42.28:470][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseModel18)
+[2017.12.03-12.42.31:490][466]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenKneeling_Anim)
+[2017.12.03-12.42.35:407][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseModel18)
+[2017.12.03-12.42.49:541][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseModel18)
+[2017.12.03-12.43.02:796][116]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenKneeling_Anim)
+[2017.12.03-12.43.16:822][425]LogTemp: Repeating last play command: Simulate
+[2017.12.03-12.43.16:861][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.43.16:862][425]PIE: New page: SIE session: Scene_02 (Dec 2, 2017, 10:43:16 PM)
+[2017.12.03-12.43.16:862][425]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.43.16:920][425]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.43.16:920][425]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.43.16:933][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070659s)
+[2017.12.03-12.43.16:934][425]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.43.16:934][425]LogPlayLevel: PIE: World Init took: (0.001531s)
+[2017.12.03-12.43.16:935][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.072683s)
+[2017.12.03-12.43.16:967][425]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.43.16:988][425]LogInit: FAudioDevice initialized.
+[2017.12.03-12.43.17:023][425]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.43.17:033][425]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.43.17
+[2017.12.03-12.43.17:035][425]LogWorld: Bringing up level for play took: 0.011517
+[2017.12.03-12.43.17:036][425]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.12.03-12.43.17:037][425]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 0.631
+[2017.12.03-12.43.50:831][ 57]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenKneeling_Anim)
+[2017.12.03-12.43.59:264][218]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TeenKneeling_Anim)
+[2017.12.03-12.44.01:889][267]LogTemp: Repeating last play command: Simulate
+[2017.12.03-12.44.01:964][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.44.01:965][267]PIE: New page: SIE session: Scene_02 (Dec 2, 2017, 10:44:01 PM)
+[2017.12.03-12.44.01:966][267]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.44.02:020][267]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.44.02:020][267]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.44.02:053][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086658s)
+[2017.12.03-12.44.02:056][267]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.44.02:057][267]LogPlayLevel: PIE: World Init took: (0.004053s)
+[2017.12.03-12.44.02:058][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.091879s)
+[2017.12.03-12.44.02:147][267]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.44.02:202][267]LogInit: FAudioDevice initialized.
+[2017.12.03-12.44.02:258][267]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.44.02:288][267]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.44.02
+[2017.12.03-12.44.02:292][267]LogWorld: Bringing up level for play took: 0.032831
+[2017.12.03-12.44.02:294][267]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.12.03-12.44.02:298][267]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 -0.109
+[2017.12.03-12.45.59:568][201]LogTemp: Repeating last play command: Simulate
+[2017.12.03-12.45.59:608][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.45.59:609][201]PIE: New page: SIE session: Scene_02 (Dec 2, 2017, 10:45:59 PM)
+[2017.12.03-12.45.59:609][201]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.45.59:629][201]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.45.59:629][201]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.45.59:642][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033392s)
+[2017.12.03-12.45.59:644][201]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.45.59:644][201]LogPlayLevel: PIE: World Init took: (0.001399s)
+[2017.12.03-12.45.59:644][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.035318s)
+[2017.12.03-12.45.59:673][201]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.45.59:692][201]LogInit: FAudioDevice initialized.
+[2017.12.03-12.45.59:727][201]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.45.59:736][201]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.45.59
+[2017.12.03-12.45.59:737][201]LogWorld: Bringing up level for play took: 0.010178
+[2017.12.03-12.45.59:738][201]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.12.03-12.45.59:739][201]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 -0.668
+[2017.12.03-12.46.17:455][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.46.17:455][620]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 10:46:17 PM)
+[2017.12.03-12.46.17:528][620]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.46.17:582][620]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.46.17:583][620]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.46.17:617][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088559s)
+[2017.12.03-12.46.17:619][620]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.46.17:620][620]LogPlayLevel: PIE: World Init took: (0.002874s)
+[2017.12.03-12.46.17:621][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.093456s)
+[2017.12.03-12.46.17:693][620]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.46.17:748][620]LogInit: FAudioDevice initialized.
+[2017.12.03-12.46.17:805][620]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.46.17:843][620]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.46.17
+[2017.12.03-12.46.17:848][620]LogWorld: Bringing up level for play took: 0.041049
+[2017.12.03-12.46.17:856][620]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 -0.55
+[2017.12.03-12.46.36:244][152]Cmd: SELECT NONE
+[2017.12.03-12.46.46:292][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseModel18)
+[2017.12.03-12.50.30:196][806]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-12.50.30:309][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.50.30:309][806]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 10:50:30 PM)
+[2017.12.03-12.50.30:310][806]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.50.30:374][806]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.50.30:374][806]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.50.30:413][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102917s)
+[2017.12.03-12.50.30:418][806]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.50.30:419][806]LogPlayLevel: PIE: World Init took: (0.005124s)
+[2017.12.03-12.50.30:420][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.109261s)
+[2017.12.03-12.50.30:511][806]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.50.30:531][806]LogInit: FAudioDevice initialized.
+[2017.12.03-12.50.30:568][806]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.50.30:578][806]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.50.30
+[2017.12.03-12.50.30:581][806]LogWorld: Bringing up level for play took: 0.012598
+[2017.12.03-12.50.30:584][806]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 0.177
+[2017.12.03-12.51.03:127][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseModel18)
+[2017.12.03-12.51.18:754][163]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Env_Fire_Grate_01)
+[2017.12.03-12.51.31:065][462]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-12.51.31:126][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.51.31:127][462]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 10:51:31 PM)
+[2017.12.03-12.51.31:128][462]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.51.31:198][462]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.51.31:198][462]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.51.31:236][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.107942s)
+[2017.12.03-12.51.31:239][462]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.51.31:239][462]LogPlayLevel: PIE: World Init took: (0.003076s)
+[2017.12.03-12.51.31:240][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.112024s)
+[2017.12.03-12.51.31:347][462]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.51.31:405][462]LogInit: FAudioDevice initialized.
+[2017.12.03-12.51.31:464][462]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.51.31:495][462]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.51.31
+[2017.12.03-12.51.31:501][462]LogWorld: Bringing up level for play took: 0.035220
+[2017.12.03-12.51.31:508][462]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 1.101
+[2017.12.03-12.52.03:864][415]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-12.52.03:911][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.52.03:911][415]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 10:52:03 PM)
+[2017.12.03-12.52.03:912][415]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.52.03:948][415]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.52.03:948][415]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.52.03:964][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051993s)
+[2017.12.03-12.52.03:965][415]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.52.03:966][415]LogPlayLevel: PIE: World Init took: (0.002424s)
+[2017.12.03-12.52.03:967][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.055263s)
+[2017.12.03-12.52.04:016][415]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.52.04:040][415]LogInit: FAudioDevice initialized.
+[2017.12.03-12.52.04:081][415]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.52.04:092][415]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.52.04
+[2017.12.03-12.52.04:094][415]LogWorld: Bringing up level for play took: 0.012355
+[2017.12.03-12.52.04:096][415]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 -0.31
+[2017.12.03-12.53.43:268][827]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-12.53.43:312][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.53.43:313][827]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 10:53:43 PM)
+[2017.12.03-12.53.43:314][827]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.53.43:429][827]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.53.43:429][827]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.53.43:439][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124471s)
+[2017.12.03-12.53.43:440][827]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.53.43:440][827]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2017.12.03-12.53.43:440][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.126298s)
+[2017.12.03-12.53.43:466][827]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.53.43:486][827]LogInit: FAudioDevice initialized.
+[2017.12.03-12.53.43:528][827]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.53.43:537][827]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.53.43
+[2017.12.03-12.53.43:539][827]LogWorld: Bringing up level for play took: 0.010414
+[2017.12.03-12.53.43:541][827]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 1.134
+[2017.12.03-12.54.35:157][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseModel18)
+[2017.12.03-12.55.49:509][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Scene_02" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Scenes/Scene_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.03-12.55.50:033][133]LogSavePackage: Save=357.67ms
+[2017.12.03-12.55.50:033][133]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Scene_02AB4ED50A4CD9032025514AA212E0A1DE.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Scenes/Scene_02.umap'
+[2017.12.03-12.55.50:060][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Scenes/Scene_02.umap
+[2017.12.03-12.55.50:207][133]LogFileHelpers: Saving map 'Scene_02' took 29.294
+[2017.12.03-12.55.50:280][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Teen/walkingteenscene" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/walkingteenscene.uasset" SILENT=true
+[2017.12.03-12.55.50:597][133]LogSavePackage: Save=310.65ms
+[2017.12.03-12.55.50:597][133]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/walkingteensceneE074B6D048E33B17EF9BD4B70946B049.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/walkingteenscene.uasset'
+[2017.12.03-12.55.50:631][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/walkingteenscene.uasset
+[2017.12.03-12.55.50:642][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation_Scenes/Scene_02" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Animation_Scenes/Scene_02.uasset" SILENT=true
+[2017.12.03-12.55.51:018][133]LogSavePackage: Save=290.91ms
+[2017.12.03-12.55.51:018][133]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Scene_02A7289B3A49254FC3C3C4E885FB9E2785.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Animation_Scenes/Scene_02.uasset'
+[2017.12.03-12.55.51:076][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Animation_Scenes/Scene_02.uasset
+[2017.12.03-12.55.51:218][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Teen/Bodymat" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Bodymat.uasset" SILENT=true
+[2017.12.03-12.55.51:287][133]LogSavePackage: Save=61.97ms
+[2017.12.03-12.55.51:288][133]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Bodymat6A91AA0945BA582507835C8F9693F96F.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Bodymat.uasset'
+[2017.12.03-12.55.51:327][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Bodymat.uasset
+[2017.12.03-12.55.51:419][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Teen/TeenKneeling" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/TeenKneeling.uasset" SILENT=true
+[2017.12.03-12.55.51:738][133]LogSavePackage: Save=295.26ms
+[2017.12.03-12.55.51:740][133]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/TeenKneeling5D2007494FD45BB8976F17991FB4A859.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/TeenKneeling.uasset'
+[2017.12.03-12.55.51:744][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/TeenKneeling.uasset
+[2017.12.03-12.55.51:791][133]LogSavePackage: Save=38.65ms
+[2017.12.03-12.55.51:791][133]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/TeenKneeling_PhysicsAsset09A7238243278C0B616C22AE9B1146F1.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/TeenKneeling_PhysicsAsset.uasset'
+[2017.12.03-12.55.51:796][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/TeenKneeling_PhysicsAsset.uasset
+[2017.12.03-12.55.51:830][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Teen/Topmat" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Topmat.uasset" SILENT=true
+[2017.12.03-12.55.51:872][133]LogSavePackage: Save=22.05ms
+[2017.12.03-12.55.51:872][133]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Topmat96EB98104824C7D712408B94F4642D20.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Topmat.uasset'
+[2017.12.03-12.55.51:885][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Topmat.uasset
+[2017.12.03-12.55.51:918][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Teen/Shoesmat" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Shoesmat.uasset" SILENT=true
+[2017.12.03-12.55.51:946][133]LogSavePackage: Save=24.30ms
+[2017.12.03-12.55.51:946][133]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/ShoesmatCDC130A64118AB52ACA708A5B0DA6808.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Shoesmat.uasset'
+[2017.12.03-12.55.52:064][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Shoesmat.uasset
+[2017.12.03-12.55.52:130][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Teen/Hairmat" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Hairmat.uasset" SILENT=true
+[2017.12.03-12.55.52:156][133]LogSavePackage: Save=22.47ms
+[2017.12.03-12.55.52:156][133]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/HairmatEDD7E2EF4D837B4B669697A2F6322598.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Hairmat.uasset'
+[2017.12.03-12.55.52:171][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Hairmat.uasset
+[2017.12.03-12.55.52:205][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Teen/Bottommat" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Bottommat.uasset" SILENT=true
+[2017.12.03-12.55.52:230][133]LogSavePackage: Save=22.17ms
+[2017.12.03-12.55.52:230][133]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Bottommat974645994C1DBF06A20F39B6D2A591BA.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Bottommat.uasset'
+[2017.12.03-12.55.52:242][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Bottommat.uasset
+[2017.12.03-12.55.52:437][133]LogSavePackage: Save=8.25ms
+[2017.12.03-12.55.52:437][133]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/walkingteenscene_Skeleton9141B2C4458A5290B7B72D8486616AA7.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/walkingteenscene_Skeleton.uasset'
+[2017.12.03-12.55.52:446][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/walkingteenscene_Skeleton.uasset
+[2017.12.03-12.55.52:482][133]LogSavePackage: Save=16.58ms
+[2017.12.03-12.55.52:482][133]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/walkingteenscene_PhysicsAssetF685BE1949FB4DD26762CFA26A4EC4AD.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/walkingteenscene_PhysicsAsset.uasset'
+[2017.12.03-12.55.52:490][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/walkingteenscene_PhysicsAsset.uasset
+[2017.12.03-12.55.52:558][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Teen/walkingteenscene_Anim" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/walkingteenscene_Anim.uasset" SILENT=true
+[2017.12.03-12.55.52:667][133]LogSavePackage: Save=101.96ms
+[2017.12.03-12.55.52:667][133]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/walkingteenscene_Anim27CF5499487E27D252CDE3869948C850.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/walkingteenscene_Anim.uasset'
+[2017.12.03-12.55.52:703][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/walkingteenscene_Anim.uasset
+[2017.12.03-12.55.52:779][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Teen/TeenKneeling_Anim" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/TeenKneeling_Anim.uasset" SILENT=true
+[2017.12.03-12.55.52:968][133]LogSavePackage: Save=162.54ms
+[2017.12.03-12.55.52:968][133]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/TeenKneeling_Anim4579D74C402CC310FBF5BA8D6B388D98.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/TeenKneeling_Anim.uasset'
+[2017.12.03-12.55.52:980][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/TeenKneeling_Anim.uasset
