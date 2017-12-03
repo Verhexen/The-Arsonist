@@ -2818,3 +2818,1344 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2017.12.03-12.55.52:968][133]LogSavePackage: Save=162.54ms
 [2017.12.03-12.55.52:968][133]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/TeenKneeling_Anim4579D74C402CC310FBF5BA8D6B388D98.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/TeenKneeling_Anim.uasset'
 [2017.12.03-12.55.52:980][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/TeenKneeling_Anim.uasset
+[2017.12.03-12.58.02:061][622]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/walkingteenscene1.fbx)
+[2017.12.03-12.58.02:256][622]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.12.03-12.58.02:256][622]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.12.03-12.58.02:256][622]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.12.03-12.58.02:256][622]LogFbx: ItemName: Geometry, ItemCount : 7
+[2017.12.03-12.58.02:256][622]LogFbx: ItemName: Material, ItemCount : 5
+[2017.12.03-12.58.02:256][622]LogFbx: ItemName: Texture, ItemCount : 25
+[2017.12.03-12.58.02:257][622]LogFbx: ItemName: Model, ItemCount : 169
+[2017.12.03-12.58.02:257][622]LogFbx: ItemName: NodeAttribute, ItemCount : 162
+[2017.12.03-12.58.02:257][622]LogFbx: ItemName: AnimationCurveNode, ItemCount : 631
+[2017.12.03-12.58.02:257][622]LogFbx: ItemName: AnimationCurve, ItemCount : 915
+[2017.12.03-12.58.02:257][622]LogFbx: ItemName: Pose, ItemCount : 7
+[2017.12.03-12.58.02:257][622]LogFbx: ItemName: Deformer, ItemCount : 95
+[2017.12.03-12.58.02:257][622]LogFbx: ItemName: Character, ItemCount : 1
+[2017.12.03-12.58.02:257][622]LogFbx: ItemName: ControlSetPlug, ItemCount : 1
+[2017.12.03-12.58.02:257][622]LogFbx: ItemName: Video, ItemCount : 25
+[2017.12.03-12.58.02:315][622]LogFbx: Loading FBX Scene from D:/walkingteenscene1.fbx
+[2017.12.03-12.58.03:617][622]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.03-12.58.06:597][622]LogFbx: Loading FBX Scene from D:/walkingteenscene1.fbx
+[2017.12.03-12.58.07:720][622]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.03-12.58.07:731][622]LogFbx: =================================================
+[2017.12.03-12.58.07:731][622]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-12.58.07:731][622]LogFbx: 	Total Deformer Count 1951023056.
+[2017.12.03-12.58.07:731][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.07:731][622]LogFbx: =================================================
+[2017.12.03-12.58.07:731][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.07:731][622]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-12.58.07:731][622]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-12.58.07:731][622]LogFbx: =================================================
+[2017.12.03-12.58.07:731][622]LogFbx: Dumping Node START [default1] 
+[2017.12.03-12.58.07:731][622]LogFbx: 	Total Deformer Count 927137936.
+[2017.12.03-12.58.07:731][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.07:731][622]LogFbx: =================================================
+[2017.12.03-12.58.07:731][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.07:732][622]LogFbx: 		[Node Attribute Child 1] default1 (Type Mesh).
+[2017.12.03-12.58.07:732][622]LogFbx: Dumping Node END [default1]
+[2017.12.03-12.58.07:732][622]LogFbx: =================================================
+[2017.12.03-12.58.07:732][622]LogFbx: Dumping Node START [Body] 
+[2017.12.03-12.58.07:732][622]LogFbx: 	Total Deformer Count 1951022240.
+[2017.12.03-12.58.07:732][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.07:732][622]LogFbx: =================================================
+[2017.12.03-12.58.07:732][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.07:732][622]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-12.58.07:732][622]LogFbx: Dumping Node END [Body]
+[2017.12.03-12.58.07:732][622]LogFbx: =================================================
+[2017.12.03-12.58.07:732][622]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-12.58.07:732][622]LogFbx: 	Total Deformer Count 1951022240.
+[2017.12.03-12.58.07:732][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.07:732][622]LogFbx: =================================================
+[2017.12.03-12.58.07:732][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.07:732][622]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-12.58.07:732][622]LogFbx: Dumping Node END [Tops]
+[2017.12.03-12.58.07:732][622]LogFbx: =================================================
+[2017.12.03-12.58.07:732][622]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-12.58.07:732][622]LogFbx: 	Total Deformer Count 1951022240.
+[2017.12.03-12.58.07:732][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.07:732][622]LogFbx: =================================================
+[2017.12.03-12.58.07:732][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.07:732][622]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-12.58.07:732][622]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-12.58.07:732][622]LogFbx: =================================================
+[2017.12.03-12.58.07:732][622]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-12.58.07:732][622]LogFbx: 	Total Deformer Count 1951022240.
+[2017.12.03-12.58.07:732][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.07:732][622]LogFbx: =================================================
+[2017.12.03-12.58.07:732][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.07:733][622]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-12.58.07:733][622]LogFbx: Dumping Node END [Hair]
+[2017.12.03-12.58.07:733][622]LogFbx: =================================================
+[2017.12.03-12.58.07:733][622]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-12.58.07:733][622]LogFbx: 	Total Deformer Count 927142920.
+[2017.12.03-12.58.07:733][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.07:733][622]LogFbx: =================================================
+[2017.12.03-12.58.07:733][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.07:733][622]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-12.58.07:733][622]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-12.58.07:734][622]LogFbx: =================================================
+[2017.12.03-12.58.07:734][622]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-12.58.07:734][622]LogFbx: 	Total Deformer Count 1951019648.
+[2017.12.03-12.58.07:734][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.07:734][622]LogFbx: =================================================
+[2017.12.03-12.58.07:734][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.07:734][622]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-12.58.07:734][622]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-12.58.07:734][622]LogFbx: =================================================
+[2017.12.03-12.58.07:734][622]LogFbx: Dumping Node START [default1] 
+[2017.12.03-12.58.07:734][622]LogFbx: 	Total Deformer Count 927142920.
+[2017.12.03-12.58.07:734][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.07:734][622]LogFbx: =================================================
+[2017.12.03-12.58.07:734][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.07:734][622]LogFbx: 		[Node Attribute Child 1] default1 (Type Mesh).
+[2017.12.03-12.58.07:734][622]LogFbx: Dumping Node END [default1]
+[2017.12.03-12.58.07:734][622]LogFbx: =================================================
+[2017.12.03-12.58.07:734][622]LogFbx: Dumping Node START [Body] 
+[2017.12.03-12.58.07:734][622]LogFbx: 	Total Deformer Count 1951018880.
+[2017.12.03-12.58.07:734][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.07:734][622]LogFbx: =================================================
+[2017.12.03-12.58.07:734][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.07:734][622]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-12.58.07:734][622]LogFbx: Dumping Node END [Body]
+[2017.12.03-12.58.07:735][622]LogFbx: =================================================
+[2017.12.03-12.58.07:735][622]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-12.58.07:735][622]LogFbx: 	Total Deformer Count 1951018880.
+[2017.12.03-12.58.07:735][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.07:735][622]LogFbx: =================================================
+[2017.12.03-12.58.07:735][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.07:735][622]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-12.58.07:735][622]LogFbx: Dumping Node END [Tops]
+[2017.12.03-12.58.07:735][622]LogFbx: =================================================
+[2017.12.03-12.58.07:735][622]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-12.58.07:735][622]LogFbx: 	Total Deformer Count 1951018880.
+[2017.12.03-12.58.07:735][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.07:735][622]LogFbx: =================================================
+[2017.12.03-12.58.07:735][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.07:735][622]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-12.58.07:735][622]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-12.58.07:735][622]LogFbx: =================================================
+[2017.12.03-12.58.07:735][622]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-12.58.07:735][622]LogFbx: 	Total Deformer Count 1951018880.
+[2017.12.03-12.58.07:735][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.07:735][622]LogFbx: =================================================
+[2017.12.03-12.58.07:735][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.07:735][622]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-12.58.07:735][622]LogFbx: Dumping Node END [Hair]
+[2017.12.03-12.58.07:735][622]LogFbx: =================================================
+[2017.12.03-12.58.07:735][622]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-12.58.07:735][622]LogFbx: 	Total Deformer Count 927153616.
+[2017.12.03-12.58.07:735][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.07:735][622]LogFbx: =================================================
+[2017.12.03-12.58.07:735][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.07:735][622]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-12.58.07:735][622]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-12.58.07:787][622]LogFbx: Valid bind pose for Pose (skinCluster1) - Eyes
+[2017.12.03-12.58.07:787][622]LogFbx: Valid bind pose for Pose (skinCluster2) - Eyes
+[2017.12.03-12.58.07:788][622]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyes : The relative matrices do not match
+[2017.12.03-12.58.07:789][622]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2017.12.03-12.58.07:790][622]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2017.12.03-12.58.07:790][622]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2017.12.03-12.58.07:791][622]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Shoes : The relative matrices do not match
+[2017.12.03-12.58.07:792][622]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2017.12.03-12.58.07:793][622]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2017.12.03-12.58.07:793][622]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyes : The relative matrices do not match
+[2017.12.03-12.58.07:794][622]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2017.12.03-12.58.07:794][622]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2017.12.03-12.58.07:795][622]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2017.12.03-12.58.07:795][622]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Shoes : The relative matrices do not match
+[2017.12.03-12.58.07:795][622]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2017.12.03-12.58.07:796][622]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2017.12.03-12.58.07:796][622]LogFbx: Valid bind pose for Pose (skinCluster5) - Eyes
+[2017.12.03-12.58.07:796][622]LogFbx: Valid bind pose for Pose (skinCluster6) - Eyes
+[2017.12.03-12.58.07:796][622]LogFbx: Valid bind pose for Pose (skinCluster7) - Eyes
+[2017.12.03-12.58.07:799][622]LogFbx: Triangulating skeletal mesh Eyes
+[2017.12.03-12.58.08:112][622]LogFbx: Triangulating skeletal mesh default1
+[2017.12.03-12.58.08:158][622]LogFbx: Triangulating skeletal mesh Body
+[2017.12.03-12.58.14:448][622]LogFbx: Triangulating skeletal mesh Tops
+[2017.12.03-12.58.15:790][622]LogFbx: Triangulating skeletal mesh Shoes
+[2017.12.03-12.58.17:928][622]LogFbx: Triangulating skeletal mesh Hair
+[2017.12.03-12.58.20:307][622]LogFbx: Triangulating skeletal mesh Bottoms
+[2017.12.03-12.58.21:456][622]LogFbx: Warning: Bones digested - 67  Depth of hierarchy - 12
+[2017.12.03-12.58.24:913][622]LogSkeletalMesh: Section 0: 10614 vertices, 39 active bones
+[2017.12.03-12.58.24:964][622]LogSkeletalMesh: Section 1: 1485 vertices, 20 active bones
+[2017.12.03-12.58.24:965][622]LogSkeletalMesh: Section 2: 4334 vertices, 6 active bones
+[2017.12.03-12.58.24:965][622]LogSkeletalMesh: Section 3: 3964 vertices, 3 active bones
+[2017.12.03-12.58.24:966][622]LogSkeletalMesh: Section 4: 2346 vertices, 10 active bones
+[2017.12.03-12.58.25:076][622]LogSkeletalMesh: Section 0: Material=0, 19032 triangles
+[2017.12.03-12.58.25:076][622]LogSkeletalMesh: Section 1: Material=1, 2318 triangles
+[2017.12.03-12.58.25:076][622]LogSkeletalMesh: Section 2: Material=2, 6628 triangles
+[2017.12.03-12.58.25:076][622]LogSkeletalMesh: Section 3: Material=3, 4752 triangles
+[2017.12.03-12.58.25:076][622]LogSkeletalMesh: Section 4: Material=4, 4050 triangles
+[2017.12.03-12.58.25:138][622]LogLinker: Can't find file '/Game/Models/Teen/walkingteenscene1_PhysicsAsset'
+[2017.12.03-12.58.25:139][622]LogLinker: Can't find file '/Game/Models/Teen/walkingteenscene1_PhysicsAsset'
+[2017.12.03-12.58.25:153][622]LogFbx: =================================================
+[2017.12.03-12.58.25:153][622]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-12.58.25:153][622]LogFbx: 	Total Deformer Count 1951013552.
+[2017.12.03-12.58.25:153][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.25:153][622]LogFbx: =================================================
+[2017.12.03-12.58.25:153][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.25:153][622]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-12.58.25:153][622]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-12.58.25:153][622]LogFbx: =================================================
+[2017.12.03-12.58.25:153][622]LogFbx: Dumping Node START [default1] 
+[2017.12.03-12.58.25:153][622]LogFbx: 	Total Deformer Count 927144936.
+[2017.12.03-12.58.25:153][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.25:153][622]LogFbx: =================================================
+[2017.12.03-12.58.25:153][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.25:153][622]LogFbx: 		[Node Attribute Child 1] default1 (Type Mesh).
+[2017.12.03-12.58.25:153][622]LogFbx: Dumping Node END [default1]
+[2017.12.03-12.58.25:153][622]LogFbx: =================================================
+[2017.12.03-12.58.25:153][622]LogFbx: Dumping Node START [Body] 
+[2017.12.03-12.58.25:153][622]LogFbx: 	Total Deformer Count 1951014608.
+[2017.12.03-12.58.25:153][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.25:153][622]LogFbx: =================================================
+[2017.12.03-12.58.25:153][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.25:153][622]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-12.58.25:153][622]LogFbx: Dumping Node END [Body]
+[2017.12.03-12.58.25:153][622]LogFbx: =================================================
+[2017.12.03-12.58.25:153][622]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-12.58.25:153][622]LogFbx: 	Total Deformer Count 1951014608.
+[2017.12.03-12.58.25:153][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.25:153][622]LogFbx: =================================================
+[2017.12.03-12.58.25:153][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.25:153][622]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-12.58.25:153][622]LogFbx: Dumping Node END [Tops]
+[2017.12.03-12.58.25:153][622]LogFbx: =================================================
+[2017.12.03-12.58.25:153][622]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-12.58.25:153][622]LogFbx: 	Total Deformer Count 1951014608.
+[2017.12.03-12.58.25:153][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.25:153][622]LogFbx: =================================================
+[2017.12.03-12.58.25:153][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.25:153][622]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-12.58.25:153][622]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-12.58.25:153][622]LogFbx: =================================================
+[2017.12.03-12.58.25:153][622]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-12.58.25:153][622]LogFbx: 	Total Deformer Count 1951014608.
+[2017.12.03-12.58.25:153][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.25:153][622]LogFbx: =================================================
+[2017.12.03-12.58.25:153][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.25:153][622]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-12.58.25:153][622]LogFbx: Dumping Node END [Hair]
+[2017.12.03-12.58.25:154][622]LogFbx: =================================================
+[2017.12.03-12.58.25:154][622]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-12.58.25:154][622]LogFbx: 	Total Deformer Count 927146224.
+[2017.12.03-12.58.25:154][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.25:154][622]LogFbx: =================================================
+[2017.12.03-12.58.25:154][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.25:154][622]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-12.58.25:154][622]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-12.58.25:154][622]LogFbx: =================================================
+[2017.12.03-12.58.25:154][622]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-12.58.25:154][622]LogFbx: 	Total Deformer Count 1951007600.
+[2017.12.03-12.58.25:155][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.25:155][622]LogFbx: =================================================
+[2017.12.03-12.58.25:155][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.25:155][622]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-12.58.25:155][622]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-12.58.25:155][622]LogFbx: =================================================
+[2017.12.03-12.58.25:155][622]LogFbx: Dumping Node START [default1] 
+[2017.12.03-12.58.25:155][622]LogFbx: 	Total Deformer Count 927146224.
+[2017.12.03-12.58.25:155][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.25:155][622]LogFbx: =================================================
+[2017.12.03-12.58.25:155][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.25:155][622]LogFbx: 		[Node Attribute Child 1] default1 (Type Mesh).
+[2017.12.03-12.58.25:155][622]LogFbx: Dumping Node END [default1]
+[2017.12.03-12.58.25:155][622]LogFbx: =================================================
+[2017.12.03-12.58.25:155][622]LogFbx: Dumping Node START [Body] 
+[2017.12.03-12.58.25:155][622]LogFbx: 	Total Deformer Count 1935852496.
+[2017.12.03-12.58.25:155][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.25:155][622]LogFbx: =================================================
+[2017.12.03-12.58.25:155][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.25:155][622]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-12.58.25:155][622]LogFbx: Dumping Node END [Body]
+[2017.12.03-12.58.25:155][622]LogFbx: =================================================
+[2017.12.03-12.58.25:155][622]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-12.58.25:155][622]LogFbx: 	Total Deformer Count 1935852496.
+[2017.12.03-12.58.25:155][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.25:155][622]LogFbx: =================================================
+[2017.12.03-12.58.25:155][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.25:155][622]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-12.58.25:155][622]LogFbx: Dumping Node END [Tops]
+[2017.12.03-12.58.25:155][622]LogFbx: =================================================
+[2017.12.03-12.58.25:155][622]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-12.58.25:155][622]LogFbx: 	Total Deformer Count 1935852496.
+[2017.12.03-12.58.25:155][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.25:155][622]LogFbx: =================================================
+[2017.12.03-12.58.25:155][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.25:155][622]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-12.58.25:155][622]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-12.58.25:155][622]LogFbx: =================================================
+[2017.12.03-12.58.25:155][622]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-12.58.25:155][622]LogFbx: 	Total Deformer Count 1935852496.
+[2017.12.03-12.58.25:155][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.25:155][622]LogFbx: =================================================
+[2017.12.03-12.58.25:155][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.25:155][622]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-12.58.25:155][622]LogFbx: Dumping Node END [Hair]
+[2017.12.03-12.58.25:155][622]LogFbx: =================================================
+[2017.12.03-12.58.25:155][622]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-12.58.25:155][622]LogFbx: 	Total Deformer Count 927138384.
+[2017.12.03-12.58.25:155][622]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.03-12.58.25:155][622]LogFbx: =================================================
+[2017.12.03-12.58.25:155][622]LogFbx: 	Attribute () Type (4).
+[2017.12.03-12.58.25:156][622]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-12.58.25:156][622]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-12.58.25:159][622]LogFbx: SortedLinks :(0) Hips
+[2017.12.03-12.58.25:159][622]LogFbx: SortedLinks :(1) Spine
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(2) Spine1
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(3) Spine2
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(4) Neck
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(5) Head
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(7) RightEye
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(8) LeftEye
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(9) LeftShoulder
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(10) LeftArm
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(11) LeftForeArm
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(12) LeftHand
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(25) LeftHandRing1
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(26) LeftHandRing2
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(27) LeftHandRing3
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(28) LeftHandRing4
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(33) RightShoulder
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(34) RightArm
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(35) RightForeArm
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(36) RightHand
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(41) RightHandThumb1
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(42) RightHandThumb2
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(43) RightHandThumb3
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(44) RightHandThumb4
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(45) RightHandIndex1
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(46) RightHandIndex2
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(47) RightHandIndex3
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(48) RightHandIndex4
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(49) RightHandRing1
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(50) RightHandRing2
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(51) RightHandRing3
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(52) RightHandRing4
+[2017.12.03-12.58.25:160][622]LogFbx: SortedLinks :(53) RightHandPinky1
+[2017.12.03-12.58.25:161][622]LogFbx: SortedLinks :(54) RightHandPinky2
+[2017.12.03-12.58.25:161][622]LogFbx: SortedLinks :(55) RightHandPinky3
+[2017.12.03-12.58.25:161][622]LogFbx: SortedLinks :(56) RightHandPinky4
+[2017.12.03-12.58.25:161][622]LogFbx: SortedLinks :(57) RightUpLeg
+[2017.12.03-12.58.25:161][622]LogFbx: SortedLinks :(58) RightLeg
+[2017.12.03-12.58.25:161][622]LogFbx: SortedLinks :(59) RightFoot
+[2017.12.03-12.58.25:161][622]LogFbx: SortedLinks :(60) RightToeBase
+[2017.12.03-12.58.25:161][622]LogFbx: SortedLinks :(61) RightToe_End
+[2017.12.03-12.58.25:161][622]LogFbx: SortedLinks :(62) LeftUpLeg
+[2017.12.03-12.58.25:161][622]LogFbx: SortedLinks :(63) LeftLeg
+[2017.12.03-12.58.25:161][622]LogFbx: SortedLinks :(64) LeftFoot
+[2017.12.03-12.58.25:161][622]LogFbx: SortedLinks :(65) LeftToeBase
+[2017.12.03-12.58.25:161][622]LogFbx: SortedLinks :(66) LeftToe_End
+[2017.12.03-12.58.25:163][622]LogFbx: Parsing AnimStack Take 001
+[2017.12.03-12.58.25:257][622]LogLinker: Can't find file '/Game/Models/Teen/walkingteenscene1_Anim'
+[2017.12.03-12.58.25:258][622]LogLinker: Can't find file '/Game/Models/Teen/walkingteenscene1_Anim'
+[2017.12.03-12.58.36:923][622]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Teen/walkingteenscene1_Anim.walkingteenscene1_Anim
+[2017.12.03-12.58.37:097][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'Hips' 
+[2017.12.03-12.58.37:097][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'Spine' 
+[2017.12.03-12.58.37:097][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'Spine1' 
+[2017.12.03-12.58.37:097][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'Spine2' 
+[2017.12.03-12.58.37:097][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'Head' 
+[2017.12.03-12.58.37:097][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'LeftArm' 
+[2017.12.03-12.58.37:097][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'LeftHand' 
+[2017.12.03-12.58.37:097][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'RightArm' 
+[2017.12.03-12.58.37:098][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'RightHand' 
+[2017.12.03-12.58.37:098][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'RightUpLeg' 
+[2017.12.03-12.58.37:098][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'RightLeg' 
+[2017.12.03-12.58.37:098][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'RightFoot' 
+[2017.12.03-12.58.37:098][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'LeftUpLeg' 
+[2017.12.03-12.58.37:098][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'LeftLeg' 
+[2017.12.03-12.58.37:098][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'LeftFoot' 
+[2017.12.03-12.58.37:099][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'Hips' 
+[2017.12.03-12.58.37:099][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'Spine' 
+[2017.12.03-12.58.37:099][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'Spine1' 
+[2017.12.03-12.58.37:099][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'Spine2' 
+[2017.12.03-12.58.37:099][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'Head' 
+[2017.12.03-12.58.37:099][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'LeftArm' 
+[2017.12.03-12.58.37:099][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'LeftHand' 
+[2017.12.03-12.58.37:099][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'RightArm' 
+[2017.12.03-12.58.37:099][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'RightHand' 
+[2017.12.03-12.58.37:099][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'RightUpLeg' 
+[2017.12.03-12.58.37:100][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'RightLeg' 
+[2017.12.03-12.58.37:100][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'RightFoot' 
+[2017.12.03-12.58.37:100][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'LeftUpLeg' 
+[2017.12.03-12.58.37:100][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'LeftLeg' 
+[2017.12.03-12.58.37:100][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'LeftFoot' 
+[2017.12.03-12.58.37:350][622]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:RightEye  
+mixamorig:LeftEye  
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandRing4  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:LeftHandPinky4  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandThumb4  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandRing4  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+mixamorig:RightHandPinky4  
+mixamorig:RightToe_End  
+mixamorig:LeftToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2017.12.03-12.59.45:611][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-12.59.45:612][608]PIE: New page: SIE session: Scene_02 (Dec 2, 2017, 10:59:45 PM)
+[2017.12.03-12.59.45:612][608]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-12.59.45:633][608]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-12.59.45:634][608]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-12.59.45:646][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033780s)
+[2017.12.03-12.59.45:648][608]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-12.59.45:649][608]LogPlayLevel: PIE: World Init took: (0.002439s)
+[2017.12.03-12.59.45:649][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.036792s)
+[2017.12.03-12.59.45:684][608]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-12.59.45:710][608]LogInit: FAudioDevice initialized.
+[2017.12.03-12.59.45:764][608]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-12.59.45:840][608]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-05.59.45
+[2017.12.03-12.59.45:846][608]LogWorld: Bringing up level for play took: 0.071043
+[2017.12.03-12.59.45:847][608]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.12.03-12.59.45:850][608]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 -0.557
+[2017.12.03-13.00.01:140][860]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (walkingteenscene1)
+[2017.12.03-13.00.02:658][886]Cmd: DELETE
+[2017.12.03-13.00.02:658][886]Cmd: ACTOR DELETE
+[2017.12.03-13.00.02:661][886]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.12.03-13.00.02:741][886]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2017.12.03-13.00.03:395][898]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (walkingteenscene_Anim2)
+[2017.12.03-13.00.28:108][289]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (walkingteenscene_Anim2)
+[2017.12.03-13.00.39:810][493]LogTemp: Repeating last play command: Simulate
+[2017.12.03-13.00.39:848][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-13.00.39:848][493]PIE: New page: SIE session: Scene_02 (Dec 2, 2017, 11:00:39 PM)
+[2017.12.03-13.00.39:848][493]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-13.00.39:864][493]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-13.00.39:864][493]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-13.00.39:873][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024955s)
+[2017.12.03-13.00.39:874][493]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-13.00.39:874][493]LogPlayLevel: PIE: World Init took: (0.001112s)
+[2017.12.03-13.00.39:875][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.026386s)
+[2017.12.03-13.00.39:896][493]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-13.00.39:939][493]LogInit: FAudioDevice initialized.
+[2017.12.03-13.00.39:995][493]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-13.00.40:034][493]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-06.00.40
+[2017.12.03-13.00.40:039][493]LogWorld: Bringing up level for play took: 0.042359
+[2017.12.03-13.00.40:041][493]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.12.03-13.00.40:045][493]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 -0.361
+[2017.12.03-13.01.46:336][725]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (walkingteenscene_Anim2)
+[2017.12.03-13.01.56:096][894]LogTemp: Repeating last play command: Simulate
+[2017.12.03-13.01.56:137][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-13.01.56:138][894]PIE: New page: SIE session: Scene_02 (Dec 2, 2017, 11:01:56 PM)
+[2017.12.03-13.01.56:138][894]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-13.01.56:159][894]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-13.01.56:159][894]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-13.01.56:173][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034346s)
+[2017.12.03-13.01.56:174][894]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-13.01.56:174][894]LogPlayLevel: PIE: World Init took: (0.001266s)
+[2017.12.03-13.01.56:174][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.036072s)
+[2017.12.03-13.01.56:236][894]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-13.01.56:253][894]LogInit: FAudioDevice initialized.
+[2017.12.03-13.01.56:296][894]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-13.01.56:305][894]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-06.01.56
+[2017.12.03-13.01.56:307][894]LogWorld: Bringing up level for play took: 0.010122
+[2017.12.03-13.01.56:308][894]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.12.03-13.01.56:309][894]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 -0.098
+[2017.12.03-13.02.28:237][441]Cmd: SELECT NONE
+[2017.12.03-13.04.38:920][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-13.04.38:920][835]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 11:04:38 PM)
+[2017.12.03-13.04.38:951][835]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-13.04.38:967][835]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-13.04.38:967][835]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-13.04.38:976][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025220s)
+[2017.12.03-13.04.38:977][835]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-13.04.38:977][835]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2017.12.03-13.04.38:977][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.026831s)
+[2017.12.03-13.04.39:035][835]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-13.04.39:052][835]LogInit: FAudioDevice initialized.
+[2017.12.03-13.04.39:094][835]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-13.04.39:114][835]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-06.04.39
+[2017.12.03-13.04.39:119][835]LogWorld: Bringing up level for play took: 0.025159
+[2017.12.03-13.04.39:126][835]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 0.72
+[2017.12.03-13.05.39:871][274]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_04)
+[2017.12.03-13.05.55:603][413]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Breathing Idle.fbx)
+[2017.12.03-13.05.55:833][413]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.12.03-13.05.55:833][413]LogFbx: ItemName: NodeAttribute, ItemCount : 67
+[2017.12.03-13.05.55:833][413]LogFbx: ItemName: Model, ItemCount : 74
+[2017.12.03-13.05.55:833][413]LogFbx: ItemName: Material, ItemCount : 5
+[2017.12.03-13.05.55:833][413]LogFbx: ItemName: Texture, ItemCount : 25
+[2017.12.03-13.05.55:834][413]LogFbx: ItemName: Video, ItemCount : 25
+[2017.12.03-13.05.55:834][413]LogFbx: ItemName: Geometry, ItemCount : 7
+[2017.12.03-13.05.55:834][413]LogFbx: ItemName: Deformer, ItemCount : 95
+[2017.12.03-13.05.55:834][413]LogFbx: ItemName: Pose, ItemCount : 1
+[2017.12.03-13.05.55:834][413]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.12.03-13.05.55:834][413]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.12.03-13.05.55:834][413]LogFbx: ItemName: AnimationCurveNode, ItemCount : 70
+[2017.12.03-13.05.55:834][413]LogFbx: ItemName: AnimationCurve, ItemCount : 471
+[2017.12.03-13.05.55:861][413]LogFbx: Loading FBX Scene from D:/Breathing Idle.fbx
+[2017.12.03-13.05.56:660][413]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.03-13.06.00:122][413]LogFbx: Loading FBX Scene from D:/Breathing Idle.fbx
+[2017.12.03-13.06.00:540][413]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.03-13.06.00:558][413]LogFbx: =================================================
+[2017.12.03-13.06.00:558][413]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-13.06.00:559][413]LogFbx: 	Total Deformer Count 2027356064.
+[2017.12.03-13.06.00:559][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.00:559][413]LogFbx: =================================================
+[2017.12.03-13.06.00:559][413]LogFbx: 	Attribute (Eyesmesh) Type (4).
+[2017.12.03-13.06.00:559][413]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-13.06.00:559][413]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-13.06.00:559][413]LogFbx: =================================================
+[2017.12.03-13.06.00:559][413]LogFbx: Dumping Node START [default] 
+[2017.12.03-13.06.00:559][413]LogFbx: 	Total Deformer Count 1943864224.
+[2017.12.03-13.06.00:559][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.00:559][413]LogFbx: =================================================
+[2017.12.03-13.06.00:559][413]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2017.12.03-13.06.00:559][413]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.03-13.06.00:559][413]LogFbx: Dumping Node END [default]
+[2017.12.03-13.06.00:559][413]LogFbx: =================================================
+[2017.12.03-13.06.00:559][413]LogFbx: Dumping Node START [Body] 
+[2017.12.03-13.06.00:559][413]LogFbx: 	Total Deformer Count 2027355296.
+[2017.12.03-13.06.00:559][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.00:560][413]LogFbx: =================================================
+[2017.12.03-13.06.00:560][413]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2017.12.03-13.06.00:560][413]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-13.06.00:560][413]LogFbx: Dumping Node END [Body]
+[2017.12.03-13.06.00:560][413]LogFbx: =================================================
+[2017.12.03-13.06.00:560][413]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-13.06.00:560][413]LogFbx: 	Total Deformer Count 2027355296.
+[2017.12.03-13.06.00:560][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.00:560][413]LogFbx: =================================================
+[2017.12.03-13.06.00:560][413]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2017.12.03-13.06.00:560][413]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-13.06.00:560][413]LogFbx: Dumping Node END [Tops]
+[2017.12.03-13.06.00:560][413]LogFbx: =================================================
+[2017.12.03-13.06.00:560][413]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-13.06.00:560][413]LogFbx: 	Total Deformer Count 2027355296.
+[2017.12.03-13.06.00:560][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.00:560][413]LogFbx: =================================================
+[2017.12.03-13.06.00:560][413]LogFbx: 	Attribute (Shoesmesh) Type (4).
+[2017.12.03-13.06.00:561][413]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-13.06.00:561][413]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-13.06.00:561][413]LogFbx: =================================================
+[2017.12.03-13.06.00:561][413]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-13.06.00:561][413]LogFbx: 	Total Deformer Count 2027355296.
+[2017.12.03-13.06.00:561][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.00:561][413]LogFbx: =================================================
+[2017.12.03-13.06.00:561][413]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2017.12.03-13.06.00:561][413]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-13.06.00:561][413]LogFbx: Dumping Node END [Hair]
+[2017.12.03-13.06.00:561][413]LogFbx: =================================================
+[2017.12.03-13.06.00:561][413]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-13.06.00:562][413]LogFbx: 	Total Deformer Count 1943866464.
+[2017.12.03-13.06.00:562][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.00:562][413]LogFbx: =================================================
+[2017.12.03-13.06.00:562][413]LogFbx: 	Attribute (Bottomsmesh) Type (4).
+[2017.12.03-13.06.00:562][413]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-13.06.00:562][413]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-13.06.00:564][413]LogFbx: =================================================
+[2017.12.03-13.06.00:564][413]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-13.06.00:564][413]LogFbx: 	Total Deformer Count 2027352944.
+[2017.12.03-13.06.00:564][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.00:564][413]LogFbx: =================================================
+[2017.12.03-13.06.00:564][413]LogFbx: 	Attribute (Eyesmesh) Type (4).
+[2017.12.03-13.06.00:564][413]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-13.06.00:564][413]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-13.06.00:564][413]LogFbx: =================================================
+[2017.12.03-13.06.00:564][413]LogFbx: Dumping Node START [default] 
+[2017.12.03-13.06.00:564][413]LogFbx: 	Total Deformer Count 1943866464.
+[2017.12.03-13.06.00:565][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.00:565][413]LogFbx: =================================================
+[2017.12.03-13.06.00:565][413]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2017.12.03-13.06.00:565][413]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.03-13.06.00:565][413]LogFbx: Dumping Node END [default]
+[2017.12.03-13.06.00:565][413]LogFbx: =================================================
+[2017.12.03-13.06.00:565][413]LogFbx: Dumping Node START [Body] 
+[2017.12.03-13.06.00:565][413]LogFbx: 	Total Deformer Count 2027352176.
+[2017.12.03-13.06.00:565][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.00:565][413]LogFbx: =================================================
+[2017.12.03-13.06.00:565][413]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2017.12.03-13.06.00:565][413]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-13.06.00:565][413]LogFbx: Dumping Node END [Body]
+[2017.12.03-13.06.00:565][413]LogFbx: =================================================
+[2017.12.03-13.06.00:565][413]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-13.06.00:565][413]LogFbx: 	Total Deformer Count 2027352176.
+[2017.12.03-13.06.00:566][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.00:566][413]LogFbx: =================================================
+[2017.12.03-13.06.00:566][413]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2017.12.03-13.06.00:566][413]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-13.06.00:566][413]LogFbx: Dumping Node END [Tops]
+[2017.12.03-13.06.00:567][413]LogFbx: =================================================
+[2017.12.03-13.06.00:567][413]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-13.06.00:567][413]LogFbx: 	Total Deformer Count 2027352176.
+[2017.12.03-13.06.00:567][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.00:567][413]LogFbx: =================================================
+[2017.12.03-13.06.00:567][413]LogFbx: 	Attribute (Shoesmesh) Type (4).
+[2017.12.03-13.06.00:567][413]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-13.06.00:567][413]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-13.06.00:567][413]LogFbx: =================================================
+[2017.12.03-13.06.00:567][413]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-13.06.00:567][413]LogFbx: 	Total Deformer Count 2027352176.
+[2017.12.03-13.06.00:567][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.00:567][413]LogFbx: =================================================
+[2017.12.03-13.06.00:567][413]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2017.12.03-13.06.00:567][413]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-13.06.00:567][413]LogFbx: Dumping Node END [Hair]
+[2017.12.03-13.06.00:568][413]LogFbx: =================================================
+[2017.12.03-13.06.00:568][413]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-13.06.00:568][413]LogFbx: 	Total Deformer Count 1943865568.
+[2017.12.03-13.06.00:568][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.00:568][413]LogFbx: =================================================
+[2017.12.03-13.06.00:568][413]LogFbx: 	Attribute (Bottomsmesh) Type (4).
+[2017.12.03-13.06.00:568][413]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-13.06.00:568][413]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-13.06.00:580][413]LogFbx: Valid bind pose for Pose (BindPose) - Eyes
+[2017.12.03-13.06.00:587][413]LogFbx: Triangulating skeletal mesh Eyes
+[2017.12.03-13.06.01:100][413]LogFbx: Triangulating skeletal mesh default
+[2017.12.03-13.06.01:125][413]LogFbx: Triangulating skeletal mesh Body
+[2017.12.03-13.06.06:208][413]LogFbx: Triangulating skeletal mesh Tops
+[2017.12.03-13.06.07:315][413]LogFbx: Triangulating skeletal mesh Shoes
+[2017.12.03-13.06.09:527][413]LogFbx: Triangulating skeletal mesh Hair
+[2017.12.03-13.06.10:561][413]LogFbx: Triangulating skeletal mesh Bottoms
+[2017.12.03-13.06.12:785][413]LogFbx: Warning: Bones digested - 67  Depth of hierarchy - 12
+[2017.12.03-13.06.14:349][413]LogSkeletalMesh: Section 0: 10614 vertices, 39 active bones
+[2017.12.03-13.06.14:350][413]LogSkeletalMesh: Section 1: 1485 vertices, 20 active bones
+[2017.12.03-13.06.14:350][413]LogSkeletalMesh: Section 2: 4334 vertices, 6 active bones
+[2017.12.03-13.06.14:351][413]LogSkeletalMesh: Section 3: 3964 vertices, 3 active bones
+[2017.12.03-13.06.14:351][413]LogSkeletalMesh: Section 4: 2346 vertices, 10 active bones
+[2017.12.03-13.06.14:450][413]LogSkeletalMesh: Section 0: Material=0, 19032 triangles
+[2017.12.03-13.06.14:450][413]LogSkeletalMesh: Section 1: Material=1, 2318 triangles
+[2017.12.03-13.06.14:450][413]LogSkeletalMesh: Section 2: Material=2, 6628 triangles
+[2017.12.03-13.06.14:450][413]LogSkeletalMesh: Section 3: Material=3, 4752 triangles
+[2017.12.03-13.06.14:450][413]LogSkeletalMesh: Section 4: Material=4, 4050 triangles
+[2017.12.03-13.06.14:503][413]LogLinker: Can't find file '/Game/Models/Teen/Breathing_Idle_PhysicsAsset'
+[2017.12.03-13.06.14:504][413]LogLinker: Can't find file '/Game/Models/Teen/Breathing_Idle_PhysicsAsset'
+[2017.12.03-13.06.14:557][413]LogFbx: =================================================
+[2017.12.03-13.06.14:557][413]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-13.06.14:557][413]LogFbx: 	Total Deformer Count 2027349248.
+[2017.12.03-13.06.14:557][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.14:557][413]LogFbx: =================================================
+[2017.12.03-13.06.14:557][413]LogFbx: 	Attribute (Eyesmesh) Type (4).
+[2017.12.03-13.06.14:557][413]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-13.06.14:557][413]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-13.06.14:557][413]LogFbx: =================================================
+[2017.12.03-13.06.14:557][413]LogFbx: Dumping Node START [default] 
+[2017.12.03-13.06.14:557][413]LogFbx: 	Total Deformer Count 1943876096.
+[2017.12.03-13.06.14:557][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.14:557][413]LogFbx: =================================================
+[2017.12.03-13.06.14:557][413]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2017.12.03-13.06.14:557][413]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.03-13.06.14:557][413]LogFbx: Dumping Node END [default]
+[2017.12.03-13.06.14:557][413]LogFbx: =================================================
+[2017.12.03-13.06.14:558][413]LogFbx: Dumping Node START [Body] 
+[2017.12.03-13.06.14:558][413]LogFbx: 	Total Deformer Count 2027343824.
+[2017.12.03-13.06.14:558][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.14:558][413]LogFbx: =================================================
+[2017.12.03-13.06.14:558][413]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2017.12.03-13.06.14:558][413]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-13.06.14:558][413]LogFbx: Dumping Node END [Body]
+[2017.12.03-13.06.14:558][413]LogFbx: =================================================
+[2017.12.03-13.06.14:558][413]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-13.06.14:558][413]LogFbx: 	Total Deformer Count 2027343824.
+[2017.12.03-13.06.14:558][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.14:558][413]LogFbx: =================================================
+[2017.12.03-13.06.14:558][413]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2017.12.03-13.06.14:558][413]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-13.06.14:558][413]LogFbx: Dumping Node END [Tops]
+[2017.12.03-13.06.14:558][413]LogFbx: =================================================
+[2017.12.03-13.06.14:558][413]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-13.06.14:558][413]LogFbx: 	Total Deformer Count 2027343824.
+[2017.12.03-13.06.14:558][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.14:558][413]LogFbx: =================================================
+[2017.12.03-13.06.14:558][413]LogFbx: 	Attribute (Shoesmesh) Type (4).
+[2017.12.03-13.06.14:558][413]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-13.06.14:558][413]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-13.06.14:558][413]LogFbx: =================================================
+[2017.12.03-13.06.14:558][413]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-13.06.14:558][413]LogFbx: 	Total Deformer Count 2027343824.
+[2017.12.03-13.06.14:558][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.14:558][413]LogFbx: =================================================
+[2017.12.03-13.06.14:558][413]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2017.12.03-13.06.14:558][413]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-13.06.14:558][413]LogFbx: Dumping Node END [Hair]
+[2017.12.03-13.06.14:558][413]LogFbx: =================================================
+[2017.12.03-13.06.14:558][413]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-13.06.14:558][413]LogFbx: 	Total Deformer Count 1943863440.
+[2017.12.03-13.06.14:558][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.14:558][413]LogFbx: =================================================
+[2017.12.03-13.06.14:558][413]LogFbx: 	Attribute (Bottomsmesh) Type (4).
+[2017.12.03-13.06.14:558][413]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-13.06.14:558][413]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-13.06.14:559][413]LogFbx: =================================================
+[2017.12.03-13.06.14:559][413]LogFbx: Dumping Node START [Eyes] 
+[2017.12.03-13.06.14:559][413]LogFbx: 	Total Deformer Count 2027341520.
+[2017.12.03-13.06.14:559][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.14:559][413]LogFbx: =================================================
+[2017.12.03-13.06.14:559][413]LogFbx: 	Attribute (Eyesmesh) Type (4).
+[2017.12.03-13.06.14:559][413]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.12.03-13.06.14:559][413]LogFbx: Dumping Node END [Eyes]
+[2017.12.03-13.06.14:559][413]LogFbx: =================================================
+[2017.12.03-13.06.14:559][413]LogFbx: Dumping Node START [default] 
+[2017.12.03-13.06.14:559][413]LogFbx: 	Total Deformer Count 1943863440.
+[2017.12.03-13.06.14:559][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.14:559][413]LogFbx: =================================================
+[2017.12.03-13.06.14:559][413]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2017.12.03-13.06.14:559][413]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.03-13.06.14:559][413]LogFbx: Dumping Node END [default]
+[2017.12.03-13.06.14:559][413]LogFbx: =================================================
+[2017.12.03-13.06.14:559][413]LogFbx: Dumping Node START [Body] 
+[2017.12.03-13.06.14:559][413]LogFbx: 	Total Deformer Count 2027340752.
+[2017.12.03-13.06.14:559][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.14:559][413]LogFbx: =================================================
+[2017.12.03-13.06.14:559][413]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2017.12.03-13.06.14:559][413]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.03-13.06.14:559][413]LogFbx: Dumping Node END [Body]
+[2017.12.03-13.06.14:559][413]LogFbx: =================================================
+[2017.12.03-13.06.14:559][413]LogFbx: Dumping Node START [Tops] 
+[2017.12.03-13.06.14:559][413]LogFbx: 	Total Deformer Count 2027340752.
+[2017.12.03-13.06.14:559][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.14:559][413]LogFbx: =================================================
+[2017.12.03-13.06.14:559][413]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2017.12.03-13.06.14:559][413]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2017.12.03-13.06.14:559][413]LogFbx: Dumping Node END [Tops]
+[2017.12.03-13.06.14:559][413]LogFbx: =================================================
+[2017.12.03-13.06.14:559][413]LogFbx: Dumping Node START [Shoes] 
+[2017.12.03-13.06.14:559][413]LogFbx: 	Total Deformer Count 2098511776.
+[2017.12.03-13.06.14:559][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.14:559][413]LogFbx: =================================================
+[2017.12.03-13.06.14:559][413]LogFbx: 	Attribute (Shoesmesh) Type (4).
+[2017.12.03-13.06.14:559][413]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2017.12.03-13.06.14:559][413]LogFbx: Dumping Node END [Shoes]
+[2017.12.03-13.06.14:559][413]LogFbx: =================================================
+[2017.12.03-13.06.14:559][413]LogFbx: Dumping Node START [Hair] 
+[2017.12.03-13.06.14:559][413]LogFbx: 	Total Deformer Count 2098511776.
+[2017.12.03-13.06.14:559][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.14:559][413]LogFbx: =================================================
+[2017.12.03-13.06.14:559][413]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2017.12.03-13.06.14:559][413]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2017.12.03-13.06.14:559][413]LogFbx: Dumping Node END [Hair]
+[2017.12.03-13.06.14:559][413]LogFbx: =================================================
+[2017.12.03-13.06.14:559][413]LogFbx: Dumping Node START [Bottoms] 
+[2017.12.03-13.06.14:560][413]LogFbx: 	Total Deformer Count 1943865176.
+[2017.12.03-13.06.14:560][413]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.03-13.06.14:560][413]LogFbx: =================================================
+[2017.12.03-13.06.14:560][413]LogFbx: 	Attribute (Bottomsmesh) Type (4).
+[2017.12.03-13.06.14:560][413]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2017.12.03-13.06.14:560][413]LogFbx: Dumping Node END [Bottoms]
+[2017.12.03-13.06.14:561][413]LogFbx: SortedLinks :(0) Hips
+[2017.12.03-13.06.14:561][413]LogFbx: SortedLinks :(1) Spine
+[2017.12.03-13.06.14:561][413]LogFbx: SortedLinks :(2) Spine1
+[2017.12.03-13.06.14:561][413]LogFbx: SortedLinks :(3) Spine2
+[2017.12.03-13.06.14:561][413]LogFbx: SortedLinks :(4) Neck
+[2017.12.03-13.06.14:561][413]LogFbx: SortedLinks :(5) Head
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(7) RightEye
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(8) LeftEye
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(9) LeftShoulder
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(10) LeftArm
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(11) LeftForeArm
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(12) LeftHand
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(25) LeftHandRing1
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(26) LeftHandRing2
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(27) LeftHandRing3
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(28) LeftHandRing4
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(33) RightShoulder
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(34) RightArm
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(35) RightForeArm
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(36) RightHand
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(41) RightHandThumb1
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(42) RightHandThumb2
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(43) RightHandThumb3
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(44) RightHandThumb4
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(45) RightHandIndex1
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(46) RightHandIndex2
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(47) RightHandIndex3
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(48) RightHandIndex4
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(49) RightHandRing1
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(50) RightHandRing2
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(51) RightHandRing3
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(52) RightHandRing4
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(53) RightHandPinky1
+[2017.12.03-13.06.14:562][413]LogFbx: SortedLinks :(54) RightHandPinky2
+[2017.12.03-13.06.14:563][413]LogFbx: SortedLinks :(55) RightHandPinky3
+[2017.12.03-13.06.14:563][413]LogFbx: SortedLinks :(56) RightHandPinky4
+[2017.12.03-13.06.14:563][413]LogFbx: SortedLinks :(57) RightUpLeg
+[2017.12.03-13.06.14:563][413]LogFbx: SortedLinks :(58) RightLeg
+[2017.12.03-13.06.14:563][413]LogFbx: SortedLinks :(59) RightFoot
+[2017.12.03-13.06.14:563][413]LogFbx: SortedLinks :(60) RightToeBase
+[2017.12.03-13.06.14:563][413]LogFbx: SortedLinks :(61) RightToe_End
+[2017.12.03-13.06.14:563][413]LogFbx: SortedLinks :(62) LeftUpLeg
+[2017.12.03-13.06.14:563][413]LogFbx: SortedLinks :(63) LeftLeg
+[2017.12.03-13.06.14:563][413]LogFbx: SortedLinks :(64) LeftFoot
+[2017.12.03-13.06.14:563][413]LogFbx: SortedLinks :(65) LeftToeBase
+[2017.12.03-13.06.14:563][413]LogFbx: SortedLinks :(66) LeftToe_End
+[2017.12.03-13.06.14:563][413]LogFbx: Parsing AnimStack mixamo.com
+[2017.12.03-13.06.14:579][413]LogLinker: Can't find file '/Game/Models/Teen/Breathing_Idle_Anim'
+[2017.12.03-13.06.14:579][413]LogLinker: Can't find file '/Game/Models/Teen/Breathing_Idle_Anim'
+[2017.12.03-13.06.22:405][413]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Teen/Breathing_Idle_Anim.Breathing_Idle_Anim
+[2017.12.03-13.06.22:804][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'Hips' 
+[2017.12.03-13.06.22:805][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'Spine' 
+[2017.12.03-13.06.22:805][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'Spine1' 
+[2017.12.03-13.06.22:805][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'Spine2' 
+[2017.12.03-13.06.22:806][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'Head' 
+[2017.12.03-13.06.22:806][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'LeftArm' 
+[2017.12.03-13.06.22:806][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'LeftHand' 
+[2017.12.03-13.06.22:806][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'RightArm' 
+[2017.12.03-13.06.22:806][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'RightHand' 
+[2017.12.03-13.06.22:807][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'RightUpLeg' 
+[2017.12.03-13.06.22:807][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'RightLeg' 
+[2017.12.03-13.06.22:807][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'RightFoot' 
+[2017.12.03-13.06.22:807][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'LeftUpLeg' 
+[2017.12.03-13.06.22:807][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'LeftLeg' 
+[2017.12.03-13.06.22:808][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.walkingteenscene_Anim_4.SkeletalMeshComponent0' Bone: 'LeftFoot' 
+[2017.12.03-13.06.22:810][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'Hips' 
+[2017.12.03-13.06.22:810][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'Spine' 
+[2017.12.03-13.06.22:810][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'Spine1' 
+[2017.12.03-13.06.22:810][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'Spine2' 
+[2017.12.03-13.06.22:810][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'Head' 
+[2017.12.03-13.06.22:811][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'LeftArm' 
+[2017.12.03-13.06.22:811][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'LeftHand' 
+[2017.12.03-13.06.22:811][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'RightArm' 
+[2017.12.03-13.06.22:812][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'RightHand' 
+[2017.12.03-13.06.22:812][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'RightUpLeg' 
+[2017.12.03-13.06.22:812][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'RightLeg' 
+[2017.12.03-13.06.22:812][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'RightFoot' 
+[2017.12.03-13.06.22:812][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'LeftUpLeg' 
+[2017.12.03-13.06.22:812][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'LeftLeg' 
+[2017.12.03-13.06.22:812][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_02.Scene_02:PersistentLevel.TeenKneeling_Anim_10.SkeletalMeshComponent0' Bone: 'LeftFoot' 
+[2017.12.03-13.06.22:900][413]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.03-13.06.22:900][413]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:RightEye  
+mixamorig:LeftEye  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandRing4  
+mixamorig:LeftHandPinky4  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandThumb4  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandRing4  
+mixamorig:RightHandPinky4  
+mixamorig:RightToe_End  
+mixamorig:LeftToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2017.12.03-13.06.22:900][413]FBXImport: Warning: Warning skeletal mesh influence count of 12 exceeds max count of 8. Influence truncation will occur. Maximum Ignored Weight 0 
+[2017.12.03-13.07.07:079][189]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Breathing_Idle_Anim)
+[2017.12.03-13.07.18:780][443]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Breathing_Idle_Anim)
+[2017.12.03-13.07.26:622][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseModel29)
+[2017.12.03-13.07.27:684][626]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_04)
+[2017.12.03-13.07.34:743][751]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Breathing_Idle_Anim)
+[2017.12.03-13.09.45:703][689]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-13.09.45:745][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-13.09.45:745][689]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 11:09:45 PM)
+[2017.12.03-13.09.45:806][689]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-13.09.45:822][689]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-13.09.45:822][689]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-13.09.45:831][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024986s)
+[2017.12.03-13.09.45:834][689]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-13.09.45:834][689]LogPlayLevel: PIE: World Init took: (0.002639s)
+[2017.12.03-13.09.45:834][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.028200s)
+[2017.12.03-13.09.45:875][689]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-13.09.45:896][689]LogInit: FAudioDevice initialized.
+[2017.12.03-13.09.45:972][689]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-13.09.46:082][689]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-06.09.46
+[2017.12.03-13.09.46:090][689]LogWorld: Bringing up level for play took: 0.116541
+[2017.12.03-13.09.46:097][689]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 -0.309
+[2017.12.03-13.11.06:360][522]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-13.11.06:410][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-13.11.06:411][522]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 11:11:06 PM)
+[2017.12.03-13.11.06:458][522]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-13.11.06:484][522]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-13.11.06:484][522]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-13.11.06:499][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040936s)
+[2017.12.03-13.11.06:500][522]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-13.11.06:500][522]LogPlayLevel: PIE: World Init took: (0.001295s)
+[2017.12.03-13.11.06:502][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.043480s)
+[2017.12.03-13.11.06:532][522]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-13.11.06:549][522]LogInit: FAudioDevice initialized.
+[2017.12.03-13.11.06:586][522]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-13.11.06:596][522]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-06.11.06
+[2017.12.03-13.11.06:598][522]LogWorld: Bringing up level for play took: 0.010803
+[2017.12.03-13.11.06:600][522]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 0.193
+[2017.12.03-13.12.25:425][559]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_04)
+[2017.12.03-13.12.36:289][745]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Breathing_Idle_Anim)
+[2017.12.03-13.12.45:913][958]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_04)
+[2017.12.03-13.12.49:493][ 20]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Breathing_Idle_Anim)
+[2017.12.03-13.12.58:263][204]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_04)
+[2017.12.03-13.13.01:177][251]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Breathing_Idle_Anim)
+[2017.12.03-13.13.05:795][344]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_04)
+[2017.12.03-13.13.09:654][409]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Breathing_Idle_Anim)
+[2017.12.03-13.13.17:398][563]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_04)
+[2017.12.03-13.13.20:624][623]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Breathing_Idle_Anim)
+[2017.12.03-13.13.25:064][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseModel19)
+[2017.12.03-13.13.26:292][734]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_04)
+[2017.12.03-13.13.31:178][812]Cmd: SELECT NONE
+[2017.12.03-13.13.37:226][851]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.1129 seconds. Added 1 classes and 0 folders.
+[2017.12.03-13.13.37:612][851]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-13.13.45:976][851]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-13.13.46:230][851]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-13.13.46:674][851]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.03-13.13.47:941][851]LogSlate: Took 0.207634 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.03-13.13.57:233][852]LogSlate: Took 0.036653 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.03-13.14.03:716][925]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-13.14.10:638][  5]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-13.14.10:792][  5]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-13.14.14:252][ 52]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-13.14.14:442][ 52]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.03-13.14.14:530][ 52]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.03-13.14.17:617][103]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-13.14.17:845][103]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.03-13.14.23:159][187]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-13.14.23:347][187]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.12.03-13.14.23:410][187]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.03-13.14.23:427][187]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.12.03-13.14.25:665][227]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-13.14.25:877][227]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.12.03-13.14.28:095][256]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-13.14.28:278][256]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.12.03-13.14.28:332][256]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.03-13.14.28:351][256]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.12.03-13.14.28:379][256]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.12.03-13.14.32:714][329]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-13.14.32:947][329]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.12.03-13.14.36:439][388]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-13.14.36:927][388]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.12.03-13.14.37:003][388]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.03-13.14.37:027][388]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.12.03-13.14.37:046][388]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.12.03-13.14.37:086][388]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.12.03-13.14.43:683][512]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-13.14.44:094][512]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.12.03-13.15.18:517][148]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-13.15.19:137][148]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.12.03-13.15.19:297][148]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.03-13.15.19:441][148]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.12.03-13.15.19:501][148]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.12.03-13.15.19:557][148]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.12.03-13.15.19:583][148]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.12.03-13.15.21:422][175]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-13.15.21:720][175]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.12.03-13.15.42:912][560]LogMaterialEditor: Saving and Compiling material Bodymat
+[2017.12.03-13.15.54:073][560]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-13.15.54:588][560]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-13.15.55:698][560]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-13.15.56:292][560]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat, compiling. 
+[2017.12.03-13.16.11:770][560]TextureStreamingBuild: Display: Compiling optional shaders took 15.575 seconds.
+[2017.12.03-13.16.32:959][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Teen/Bodymat" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Bodymat.uasset" SILENT=true
+[2017.12.03-13.16.33:223][560]LogSavePackage: Save=112.74ms
+[2017.12.03-13.16.33:224][560]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/BodymatA73E3CA6471FB92FBD3857A36BAAECD1.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Bodymat.uasset'
+[2017.12.03-13.16.33:236][560]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Bodymat.uasset
+[2017.12.03-13.16.33:328][560]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.12.03-13.16.33:328][560]MaterialEditorStats: Vertex shader: 33 instructions
+[2017.12.03-13.16.33:328][560]MaterialEditorStats: Texture samplers: 7/16
+[2017.12.03-13.16.33:328][560]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.03-13.16.34:585][561]LogSavePackage: Save=394.56ms
+[2017.12.03-13.16.34:585][561]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Scene_02_Auto3CF26747E40CC6CD6A012B695C6CD767B.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Scenes/Scene_02_Auto3.umap'
+[2017.12.03-13.16.34:587][561]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Scenes/Scene_02_Auto3.umap
+[2017.12.03-13.16.34:591][561]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Scene_02' took 0.517
+[2017.12.03-13.16.34:591][561]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.517
+[2017.12.03-13.16.34:651][561]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation_Scenes/Scene_02] ([1] browsable assets)...
+[2017.12.03-13.16.34:651][561]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation_Scenes/Scene_02]
+[2017.12.03-13.16.34:747][561]LogSavePackage: Save=76.34ms
+[2017.12.03-13.16.34:747][561]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Scene_02_Auto3440D0B46421B1F112042EBA15B12BE6C.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Animation_Scenes/Scene_02_Auto3.uasset'
+[2017.12.03-13.16.34:776][561]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Animation_Scenes/Scene_02_Auto3.uasset
+[2017.12.03-13.16.34:777][561]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Teen/walkingteenscene1] ([1] browsable assets)...
+[2017.12.03-13.16.34:801][561]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Models/Teen/walkingteenscene1.walkingteenscene1]
+[2017.12.03-13.16.34:801][561]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Teen/walkingteenscene1]
+[2017.12.03-13.16.34:909][561]LogSavePackage: Save=103.35ms
+[2017.12.03-13.16.34:909][561]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/walkingteenscene1_Auto36D7081C34B6B23A7A22BE1AEE0E052C2.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/walkingteenscene1_Auto3.uasset'
+[2017.12.03-13.16.34:913][561]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/walkingteenscene1_Auto3.uasset
+[2017.12.03-13.16.34:917][561]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Teen/walkingteenscene1_PhysicsAsset] ([1] browsable assets)...
+[2017.12.03-13.16.34:917][561]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Teen/walkingteenscene1_PhysicsAsset]
+[2017.12.03-13.16.34:997][561]LogSavePackage: Save=49.55ms
+[2017.12.03-13.16.34:998][561]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/walkingteenscene1_PhysicsAsset_Auto35D1B54BD442CABD604A5E6AEA345132C.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/walkingteenscene1_PhysicsAsset_Auto3.uasset'
+[2017.12.03-13.16.35:002][561]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/walkingteenscene1_PhysicsAsset_Auto3.uasset
+[2017.12.03-13.16.35:007][561]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Teen/walkingteenscene1_Anim] ([1] browsable assets)...
+[2017.12.03-13.16.35:079][561]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Teen/walkingteenscene1_Anim.walkingteenscene1_Anim]
+[2017.12.03-13.16.35:079][561]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Teen/walkingteenscene1_Anim]
+[2017.12.03-13.16.35:186][561]LogSavePackage: Save=99.09ms
+[2017.12.03-13.16.35:186][561]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/walkingteenscene1_Anim_Auto33D4AA699432772AB8AA7BD9778466571.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/walkingteenscene1_Anim_Auto3.uasset'
+[2017.12.03-13.16.35:190][561]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/walkingteenscene1_Anim_Auto3.uasset
+[2017.12.03-13.16.35:194][561]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Teen/Breathing_Idle] ([1] browsable assets)...
+[2017.12.03-13.16.35:258][561]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Models/Teen/Breathing_Idle.Breathing_Idle]
+[2017.12.03-13.16.35:258][561]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Teen/Breathing_Idle]
+[2017.12.03-13.16.35:575][561]LogSavePackage: Save=307.38ms
+[2017.12.03-13.16.35:575][561]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Breathing_Idle_Auto3963EEDAB46C5A7281CA02B9753F1748A.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/Breathing_Idle_Auto3.uasset'
+[2017.12.03-13.16.35:704][561]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/Breathing_Idle_Auto3.uasset
+[2017.12.03-13.16.35:708][561]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Teen/Breathing_Idle_PhysicsAsset] ([1] browsable assets)...
+[2017.12.03-13.16.35:708][561]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Teen/Breathing_Idle_PhysicsAsset]
+[2017.12.03-13.16.35:793][561]LogSavePackage: Save=74.57ms
+[2017.12.03-13.16.35:793][561]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Breathing_Idle_PhysicsAsset_Auto3E75A0C204D92DE198B98289EDFA6655D.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/Breathing_Idle_PhysicsAsset_Auto3.uasset'
+[2017.12.03-13.16.35:798][561]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/Breathing_Idle_PhysicsAsset_Auto3.uasset
+[2017.12.03-13.16.35:801][561]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Teen/Breathing_Idle_Anim] ([1] browsable assets)...
+[2017.12.03-13.16.35:885][561]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Teen/Breathing_Idle_Anim.Breathing_Idle_Anim]
+[2017.12.03-13.16.35:885][561]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Teen/Breathing_Idle_Anim]
+[2017.12.03-13.16.36:122][561]LogSavePackage: Save=88.43ms
+[2017.12.03-13.16.36:123][561]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Breathing_Idle_Anim_Auto39FBBFBAC49D02577D36AB69779A88016.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/Breathing_Idle_Anim_Auto3.uasset'
+[2017.12.03-13.16.36:127][561]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Teen/Breathing_Idle_Anim_Auto3.uasset
+[2017.12.03-13.16.36:127][561]LogFileHelpers: Auto-saving content packages took 1.536
+[2017.12.03-13.17.07:892][161]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-13.17.08:673][161]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-13.17.08:842][161]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-13.17.09:072][161]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.03-13.17.14:130][250]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-13.17.17:658][318]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-13.17.17:776][318]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-13.17.25:301][449]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-13.17.25:414][449]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.12.03-13.17.25:458][449]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.12.03-13.17.28:308][488]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-13.17.28:394][488]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.12.03-13.17.32:102][557]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-13.17.32:254][557]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2017.12.03-13.17.32:301][557]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.12.03-13.17.32:327][557]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2017.12.03-13.17.35:507][618]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-13.17.35:663][618]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2017.12.03-13.17.39:109][679]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-13.17.39:229][679]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2017.12.03-13.17.39:305][679]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.12.03-13.17.39:351][679]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2017.12.03-13.17.39:361][679]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2017.12.03-13.17.41:604][722]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-13.17.41:743][722]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2017.12.03-13.17.43:571][753]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-13.17.43:691][753]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2017.12.03-13.17.43:788][753]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.12.03-13.17.43:799][753]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2017.12.03-13.17.43:809][753]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2017.12.03-13.17.43:819][753]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2017.12.03-13.17.49:000][844]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-13.17.49:188][844]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2017.12.03-13.17.50:717][869]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-13.17.50:939][869]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2017.12.03-13.17.51:005][869]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.12.03-13.17.51:016][869]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2017.12.03-13.17.51:091][869]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2017.12.03-13.17.51:109][869]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2017.12.03-13.17.51:119][869]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2017.12.03-13.17.53:148][902]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-13.17.53:368][902]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2017.12.03-13.18.06:474][151]LogMaterialEditor: Saving and Compiling material Bottommat
+[2017.12.03-13.18.08:393][151]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-13.18.08:779][151]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-13.18.09:313][151]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-13.18.09:599][151]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bottommat, compiling. 
+[2017.12.03-13.18.26:198][151]TextureStreamingBuild: Display: Compiling optional shaders took 16.639 seconds.
+[2017.12.03-13.18.46:713][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Teen/Bottommat" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Bottommat.uasset" SILENT=true
+[2017.12.03-13.18.47:010][151]LogSavePackage: Save=116.89ms
+[2017.12.03-13.18.47:011][151]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Bottommat77F50F444E0DAB448D6F15835ED95E3D.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Bottommat.uasset'
+[2017.12.03-13.18.47:025][151]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Bottommat.uasset
+[2017.12.03-13.18.47:059][151]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.12.03-13.18.47:059][151]MaterialEditorStats: Vertex shader: 33 instructions
+[2017.12.03-13.18.47:059][151]MaterialEditorStats: Texture samplers: 7/16
+[2017.12.03-13.18.47:059][151]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.03-13.18.58:336][366]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-13.18.59:338][366]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-13.19.00:043][366]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-13.19.00:326][366]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.03-13.19.07:834][494]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-13.19.13:638][601]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-13.19.13:773][601]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-13.19.25:602][826]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-13.19.25:774][826]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2017.12.03-13.19.25:853][826]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2017.12.03-13.19.27:875][864]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-13.19.27:990][864]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2017.12.03-13.19.31:393][924]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-13.19.31:489][924]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2017.12.03-13.19.31:569][924]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2017.12.03-13.19.31:605][924]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2017.12.03-13.19.33:708][964]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-13.19.33:813][964]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2017.12.03-13.19.39:491][ 71]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-13.19.39:692][ 71]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2017.12.03-13.19.39:787][ 71]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2017.12.03-13.19.39:797][ 71]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2017.12.03-13.19.39:843][ 71]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2017.12.03-13.19.42:865][126]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-13.19.42:959][126]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2017.12.03-13.19.45:190][165]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-13.19.45:313][165]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2017.12.03-13.19.45:366][165]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2017.12.03-13.19.45:376][165]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2017.12.03-13.19.45:386][165]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2017.12.03-13.19.45:397][165]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2017.12.03-13.19.49:862][252]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-13.19.50:023][252]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2017.12.03-13.19.52:259][292]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-13.19.52:594][292]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2017.12.03-13.19.52:705][292]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2017.12.03-13.19.52:726][292]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2017.12.03-13.19.52:735][292]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2017.12.03-13.19.52:749][292]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2017.12.03-13.19.52:782][292]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2017.12.03-13.19.55:533][342]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-13.19.55:694][342]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2017.12.03-13.20.11:567][653]LogMaterialEditor: Saving and Compiling material Hairmat
+[2017.12.03-13.20.13:271][653]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-13.20.13:518][653]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-13.20.13:858][653]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-13.20.14:291][653]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hairmat, compiling. 
+[2017.12.03-13.20.30:654][653]TextureStreamingBuild: Display: Compiling optional shaders took 16.401 seconds.
+[2017.12.03-13.20.51:001][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Teen/Hairmat" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Hairmat.uasset" SILENT=true
+[2017.12.03-13.20.51:125][653]LogSavePackage: Save=35.78ms
+[2017.12.03-13.20.51:125][653]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Hairmat40869C814F0C866814692FB0B49AD489.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Hairmat.uasset'
+[2017.12.03-13.20.51:139][653]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Hairmat.uasset
+[2017.12.03-13.20.51:174][653]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.12.03-13.20.51:174][653]MaterialEditorStats: Vertex shader: 33 instructions
+[2017.12.03-13.20.51:174][653]MaterialEditorStats: Texture samplers: 7/16
+[2017.12.03-13.20.51:174][653]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.03-13.21.13:329][101]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-13.21.13:508][101]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-13.21.13:612][101]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-13.21.13:709][101]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.03-13.21.20:024][220]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-13.21.30:443][414]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-13.21.30:601][414]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2017.12.03-13.21.30:710][414]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2017.12.03-13.21.32:615][450]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-13.21.32:727][450]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2017.12.03-13.21.37:009][528]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-13.21.37:106][528]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2017.12.03-13.21.37:178][528]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2017.12.03-13.21.37:223][528]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2017.12.03-13.21.40:510][591]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-13.21.40:643][591]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2017.12.03-13.21.41:920][612]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-13.21.42:030][612]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_17, compiling. 
+[2017.12.03-13.21.42:064][612]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2017.12.03-13.21.42:085][612]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2017.12.03-13.21.42:096][612]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_17, compiling. 
+[2017.12.03-13.21.45:096][671]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-13.21.45:268][671]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_17, compiling. 
+[2017.12.03-13.21.46:734][693]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-13.21.46:873][693]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2017.12.03-13.21.46:945][693]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2017.12.03-13.21.46:980][693]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2017.12.03-13.21.47:010][693]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_17, compiling. 
+[2017.12.03-13.21.47:038][693]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2017.12.03-13.21.52:576][800]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-13.21.52:669][800]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-13.21.56:560][873]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-13.21.56:900][873]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2017.12.03-13.22.00:293][935]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-13.22.00:466][935]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2017.12.03-13.22.00:535][935]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2017.12.03-13.22.00:545][935]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2017.12.03-13.22.00:556][935]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_17, compiling. 
+[2017.12.03-13.22.00:608][935]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2017.12.03-13.22.00:618][935]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2017.12.03-13.22.03:073][977]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-13.22.03:382][977]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2017.12.03-13.22.17:869][266]LogMaterialEditor: Saving and Compiling material Shoesmat
+[2017.12.03-13.22.19:556][266]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-13.22.19:839][266]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-13.22.20:482][266]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-13.22.20:933][266]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shoesmat, compiling. 
+[2017.12.03-13.22.37:990][266]TextureStreamingBuild: Display: Compiling optional shaders took 17.082 seconds.
+[2017.12.03-13.22.58:704][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Teen/Shoesmat" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Shoesmat.uasset" SILENT=true
+[2017.12.03-13.22.58:933][266]LogSavePackage: Save=91.67ms
+[2017.12.03-13.22.58:933][266]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Shoesmat503E88C74D794BC91424FC9056C7F68C.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Shoesmat.uasset'
+[2017.12.03-13.22.58:945][266]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Shoesmat.uasset
+[2017.12.03-13.22.58:993][266]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.12.03-13.22.58:993][266]MaterialEditorStats: Vertex shader: 33 instructions
+[2017.12.03-13.22.58:993][266]MaterialEditorStats: Texture samplers: 7/16
+[2017.12.03-13.22.58:993][266]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.03-13.23.10:819][477]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-13.23.11:297][477]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-13.23.11:496][477]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-13.23.11:667][477]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.03-13.23.16:970][573]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-13.23.22:053][672]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-13.23.22:182][672]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-13.23.29:305][809]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-13.23.29:401][809]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2017.12.03-13.23.29:461][809]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2017.12.03-13.23.31:582][850]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-13.23.31:704][850]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2017.12.03-13.23.33:247][875]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-13.23.33:397][875]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2017.12.03-13.23.33:468][875]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2017.12.03-13.23.33:483][875]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2017.12.03-13.23.35:358][908]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-13.23.35:490][908]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2017.12.03-13.23.37:268][937]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-13.23.37:336][937]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_22, compiling. 
+[2017.12.03-13.23.37:441][937]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2017.12.03-13.23.37:556][937]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2017.12.03-13.23.37:569][937]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_22, compiling. 
+[2017.12.03-13.23.40:185][986]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-13.23.40:300][986]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_22, compiling. 
+[2017.12.03-13.23.43:289][ 39]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-13.23.43:365][ 39]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_23, compiling. 
+[2017.12.03-13.23.43:396][ 39]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2017.12.03-13.23.43:408][ 39]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2017.12.03-13.23.43:453][ 39]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_22, compiling. 
+[2017.12.03-13.23.43:464][ 39]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_23, compiling. 
+[2017.12.03-13.23.45:274][ 72]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-13.23.45:443][ 72]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_23, compiling. 
+[2017.12.03-13.23.48:630][131]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-13.23.48:790][131]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_24, compiling. 
+[2017.12.03-13.23.48:931][131]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2017.12.03-13.23.48:948][131]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2017.12.03-13.23.49:001][131]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_22, compiling. 
+[2017.12.03-13.23.49:012][131]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_23, compiling. 
+[2017.12.03-13.23.49:040][131]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_24, compiling. 
+[2017.12.03-13.23.51:857][185]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-13.23.52:080][185]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_24, compiling. 
+[2017.12.03-13.24.08:077][503]LogMaterialEditor: Saving and Compiling material Topmat
+[2017.12.03-13.24.10:008][503]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-13.24.10:474][503]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-13.24.11:024][503]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-13.24.11:361][503]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Topmat, compiling. 
+[2017.12.03-13.24.32:430][503]TextureStreamingBuild: Display: Compiling optional shaders took 21.116 seconds.
+[2017.12.03-13.24.53:282][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Teen/Topmat" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Topmat.uasset" SILENT=true
+[2017.12.03-13.24.53:491][503]LogSavePackage: Save=134.23ms
+[2017.12.03-13.24.53:491][503]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Topmat106F415A48A70CDB34B8AFB4F5239419.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Topmat.uasset'
+[2017.12.03-13.24.53:514][503]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Topmat.uasset
+[2017.12.03-13.24.53:539][503]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.12.03-13.24.53:539][503]MaterialEditorStats: Vertex shader: 33 instructions
+[2017.12.03-13.24.53:539][503]MaterialEditorStats: Texture samplers: 7/16
+[2017.12.03-13.24.53:540][503]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.03-13.25.14:698][924]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-13.25.14:946][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-13.25.14:948][924]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 11:25:14 PM)
+[2017.12.03-13.25.14:954][924]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-13.25.15:510][924]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-13.25.15:510][924]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-13.25.17:069][924]LogPlayLevel: PIE: StaticDuplicateObject took: (2.114642s)
+[2017.12.03-13.25.17:072][924]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-13.25.17:074][924]LogPlayLevel: PIE: World Init took: (0.004948s)
+[2017.12.03-13.25.17:075][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (2.120753s)
+[2017.12.03-13.25.17:168][924]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-13.25.17:242][924]LogInit: FAudioDevice initialized.
+[2017.12.03-13.25.17:307][924]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-13.25.17:426][924]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-06.25.17
+[2017.12.03-13.25.17:439][924]LogWorld: Bringing up level for play took: 0.130004
+[2017.12.03-13.25.17:463][924]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 3.055
+[2017.12.03-13.27.44:396][907]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-13.27.44:508][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-13.27.44:509][907]PIE: New page: PIE session: Scene_02 (Dec 2, 2017, 11:27:44 PM)
+[2017.12.03-13.27.44:629][907]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_02
+[2017.12.03-13.27.44:684][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52' invalid (798 verts, 0 indices).
+[2017.12.03-13.27.44:684][907]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_Scene_02.Scene_02:PersistentLevel.ModelComponent_52.BodySetup_52 when we are unable to.
+[2017.12.03-13.27.44:723][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094180s)
+[2017.12.03-13.27.44:726][907]LogAIModule: Creating AISystem for world Scene_02
+[2017.12.03-13.27.44:727][907]LogPlayLevel: PIE: World Init took: (0.003474s)
+[2017.12.03-13.27.44:728][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_02.Scene_02 to /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 (0.098929s)
+[2017.12.03-13.27.44:827][907]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-13.27.44:884][907]LogInit: FAudioDevice initialized.
+[2017.12.03-13.27.44:937][907]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-13.27.44:971][907]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_02.Scene_02 up for play (max tick rate 60) at 2017.12.03-06.27.44
+[2017.12.03-13.27.44:977][907]LogWorld: Bringing up level for play took: 0.038612
+[2017.12.03-13.27.44:985][907]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_02 0.579
+[2017.12.03-13.29.03:194][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Scene_02" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Scenes/Scene_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.03-13.29.04:431][432]LogSavePackage: Save=1080.88ms
+[2017.12.03-13.29.04:431][432]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Scene_023F95A5BE400209925F7C5C9052436822.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Scenes/Scene_02.umap'
+[2017.12.03-13.29.04:623][432]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Scenes/Scene_02.umap
+[2017.12.03-13.29.04:932][432]LogFileHelpers: Saving map 'Scene_02' took 32.665
+[2017.12.03-13.29.04:949][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation_Scenes/Scene_02" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Animation_Scenes/Scene_02.uasset" SILENT=true
+[2017.12.03-13.29.05:179][432]LogSavePackage: Save=149.53ms
+[2017.12.03-13.29.05:179][432]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Scene_026FC88239418B51FC5545C88B5BC25422.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Animation_Scenes/Scene_02.uasset'
+[2017.12.03-13.29.05:194][432]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Animation_Scenes/Scene_02.uasset
+[2017.12.03-13.29.05:374][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Teen/walkingteenscene1" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/walkingteenscene1.uasset" SILENT=true
+[2017.12.03-13.29.05:473][432]LogSavePackage: Save=96.20ms
+[2017.12.03-13.29.05:473][432]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/walkingteenscene18002A9F748B7D51B855E63BE80EEB88F.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/walkingteenscene1.uasset'
+[2017.12.03-13.29.05:484][432]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/walkingteenscene1.uasset
+[2017.12.03-13.29.05:810][432]LogSavePackage: Save=65.45ms
+[2017.12.03-13.29.05:810][432]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/walkingteenscene1_PhysicsAssetBC4A6D2F421280850C36D18454107F9F.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/walkingteenscene1_PhysicsAsset.uasset'
+[2017.12.03-13.29.05:933][432]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/walkingteenscene1_PhysicsAsset.uasset
+[2017.12.03-13.29.06:020][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Teen/walkingteenscene1_Anim" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/walkingteenscene1_Anim.uasset" SILENT=true
+[2017.12.03-13.29.06:114][432]LogSavePackage: Save=85.45ms
+[2017.12.03-13.29.06:114][432]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/walkingteenscene1_Anim97701CA94801D467E8784B99A6B02D2B.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/walkingteenscene1_Anim.uasset'
+[2017.12.03-13.29.06:130][432]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/walkingteenscene1_Anim.uasset
+[2017.12.03-13.29.06:161][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Teen/Breathing_Idle" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Breathing_Idle.uasset" SILENT=true
+[2017.12.03-13.29.06:270][432]LogSavePackage: Save=106.65ms
+[2017.12.03-13.29.06:270][432]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Breathing_Idle33F20B694796FEEFC334BE9782E62800.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Breathing_Idle.uasset'
+[2017.12.03-13.29.06:280][432]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Breathing_Idle.uasset
+[2017.12.03-13.29.06:310][432]LogSavePackage: Save=19.37ms
+[2017.12.03-13.29.06:310][432]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Breathing_Idle_PhysicsAsset8C70DCAF43A248B54DD35AB2D3DDEADE.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Breathing_Idle_PhysicsAsset.uasset'
+[2017.12.03-13.29.06:322][432]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Breathing_Idle_PhysicsAsset.uasset
+[2017.12.03-13.29.06:363][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Teen/Breathing_Idle_Anim" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Breathing_Idle_Anim.uasset" SILENT=true
+[2017.12.03-13.29.06:412][432]LogSavePackage: Save=35.24ms
+[2017.12.03-13.29.06:412][432]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Breathing_Idle_AnimAA3694944D52FE6324056A84FADF017B.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Breathing_Idle_Anim.uasset'
+[2017.12.03-13.29.06:417][432]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Teen/Breathing_Idle_Anim.uasset
