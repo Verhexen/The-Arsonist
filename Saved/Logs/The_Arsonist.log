@@ -918,3 +918,4 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2017.12.03-10.28.29:596][750]LogSavePackage: Save=241.88ms
 [2017.12.03-10.28.29:596][750]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Saved/Stop_Walking_Anim98D0A8564F69DA3F2000E69A3AAC4E36.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Content/Models/MainKid/Stop_Walking_Anim.uasset'
 [2017.12.03-10.28.29:614][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonist/Content/Models/MainKid/Stop_Walking_Anim.uasset
+[2017.12.03-10.47.13:498][132]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
