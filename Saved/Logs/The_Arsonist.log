@@ -5253,3 +5253,941 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2017.12.03-14.01.58:411][621]LogSavePackage: Save=14402.16ms
 [2017.12.03-14.01.58:520][621]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Book_Open_Roughness70CEBDEB4C714F5A856796AE44518616.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Objects/Book/Textures/Book_Open_Roughness.uasset'
 [2017.12.03-14.01.58:585][621]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Objects/Book/Textures/Book_Open_Roughness.uasset
+[2017.12.03-14.02.05:689][621]LogStreaming: Warning: Took 304.78ms to ProcessLoadedPackages
+[2017.12.03-14.19.27:306][481]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.12.03-14.19.37:992][482]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.12.03-14.22.01:322][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Beard_AmbientOcclusion.png)
+[2017.12.03-14.22.07:861][566]LogTexture: Display: Building textures: Grandfather_Beard_AmbientOcclusion (AutoDXT, 512X512)
+[2017.12.03-14.22.11:257][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Beard_BaseColor.png)
+[2017.12.03-14.22.11:668][566]LogTexture: Display: Building textures: Grandfather_Beard_BaseColor (AutoDXT, 512X512)
+[2017.12.03-14.22.12:972][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Beard_Metallic.png)
+[2017.12.03-14.22.13:209][566]LogTexture: Display: Building textures: Grandfather_Beard_Metallic (AutoDXT, 512X512)
+[2017.12.03-14.22.13:765][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Beard_Normal.png)
+[2017.12.03-14.22.14:872][566]LogTexture: Display: Building textures: Grandfather_Beard_Normal (BC5, 512X512)
+[2017.12.03-14.22.15:669][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Beard_Roughness.png)
+[2017.12.03-14.22.15:900][566]LogTexture: Display: Building textures: Grandfather_Beard_Roughness (AutoDXT, 512X512)
+[2017.12.03-14.22.16:550][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Body_AmbientOcclusion.png)
+[2017.12.03-14.22.16:918][566]LogTexture: Display: Building textures: Grandfather_Body_AmbientOcclusion (AutoDXT, 1024X1024)
+[2017.12.03-14.22.18:235][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Body_BaseColor.png)
+[2017.12.03-14.22.18:619][566]LogTexture: Display: Building textures: Grandfather_Body_BaseColor (AutoDXT, 1024X1024)
+[2017.12.03-14.22.22:192][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Body_Metallic.png)
+[2017.12.03-14.22.22:419][566]LogTexture: Display: Building textures: Grandfather_Body_Metallic (AutoDXT, 1024X1024)
+[2017.12.03-14.22.22:768][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Body_Normal.png)
+[2017.12.03-14.22.23:720][566]LogTexture: Display: Building textures: Grandfather_Body_Normal (BC5, 1024X1024)
+[2017.12.03-14.22.24:476][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Body_Roughness.png)
+[2017.12.03-14.22.24:729][566]LogTexture: Display: Building textures: Grandfather_Body_Roughness (AutoDXT, 1024X1024)
+[2017.12.03-14.22.28:452][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Bottom_AmbientOcclusion.png)
+[2017.12.03-14.22.28:511][566]LogTexture: Display: Building textures: Grandfather_Bottom_AmbientOcclusion (AutoDXT, 512X512)
+[2017.12.03-14.22.29:425][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Bottom_BaseColor.png)
+[2017.12.03-14.22.30:043][566]LogTexture: Display: Building textures: Grandfather_Bottom_BaseColor (AutoDXT, 512X512)
+[2017.12.03-14.22.30:718][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Bottom_Metallic.png)
+[2017.12.03-14.22.30:883][566]LogTexture: Display: Building textures: Grandfather_Bottom_Metallic (AutoDXT, 512X512)
+[2017.12.03-14.22.31:201][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Bottom_Normal.png)
+[2017.12.03-14.22.31:473][566]LogTexture: Display: Building textures: Grandfather_Bottom_Normal (BC5, 512X512)
+[2017.12.03-14.22.31:612][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Bottom_Roughness.png)
+[2017.12.03-14.22.31:734][566]LogTexture: Display: Building textures: Grandfather_Bottom_Roughness (AutoDXT, 512X512)
+[2017.12.03-14.22.32:838][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Eyewear_AmbientOcclusion.png)
+[2017.12.03-14.22.33:012][566]LogTexture: Display: Building textures: Grandfather_Eyewear_AmbientOcclusion (AutoDXT, 512X512)
+[2017.12.03-14.22.33:546][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Eyewear_BaseColor.png)
+[2017.12.03-14.22.33:810][566]LogTexture: Display: Building textures: Grandfather_Eyewear_BaseColor (AutoDXT, 512X512)
+[2017.12.03-14.22.34:777][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Eyewear_Metallic.png)
+[2017.12.03-14.22.34:892][566]LogTexture: Display: Building textures: Grandfather_Eyewear_Metallic (AutoDXT, 512X512)
+[2017.12.03-14.22.35:407][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Eyewear_Normal.png)
+[2017.12.03-14.22.35:702][566]LogTexture: Display: Building textures: Grandfather_Eyewear_Normal (BC5, 512X512)
+[2017.12.03-14.22.35:973][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Eyewear_Roughness.png)
+[2017.12.03-14.22.36:031][566]LogTexture: Display: Building textures: Grandfather_Eyewear_Roughness (AutoDXT, 512X512)
+[2017.12.03-14.22.36:204][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Hair_AmbientOcclusion.png)
+[2017.12.03-14.22.36:275][566]LogTexture: Display: Building textures: Grandfather_Hair_AmbientOcclusion (AutoDXT, 512X512)
+[2017.12.03-14.22.36:908][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Hair_BaseColor.png)
+[2017.12.03-14.22.37:596][566]LogTexture: Display: Building textures: Grandfather_Hair_BaseColor (AutoDXT, 512X512)
+[2017.12.03-14.22.37:886][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Hair_Metallic.png)
+[2017.12.03-14.22.38:051][566]LogTexture: Display: Building textures: Grandfather_Hair_Metallic (AutoDXT, 512X512)
+[2017.12.03-14.22.38:254][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Hair_Normal.png)
+[2017.12.03-14.22.38:503][566]LogTexture: Display: Building textures: Grandfather_Hair_Normal (BC5, 512X512)
+[2017.12.03-14.22.39:003][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Hair_Roughness.png)
+[2017.12.03-14.22.39:144][566]LogTexture: Display: Building textures: Grandfather_Hair_Roughness (AutoDXT, 512X512)
+[2017.12.03-14.22.39:607][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Moustache_AmbientOcclusion.png)
+[2017.12.03-14.22.39:705][566]LogTexture: Display: Building textures: Grandfather_Moustache_AmbientOcclusion (AutoDXT, 512X512)
+[2017.12.03-14.22.40:018][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Moustache_BaseColor.png)
+[2017.12.03-14.22.40:155][566]LogTexture: Display: Building textures: Grandfather_Moustache_BaseColor (AutoDXT, 512X512)
+[2017.12.03-14.22.40:791][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Moustache_Metallic.png)
+[2017.12.03-14.22.40:875][566]LogTexture: Display: Building textures: Grandfather_Moustache_Metallic (AutoDXT, 512X512)
+[2017.12.03-14.22.41:198][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Moustache_Normal.png)
+[2017.12.03-14.22.41:620][566]LogTexture: Display: Building textures: Grandfather_Moustache_Normal (BC5, 512X512)
+[2017.12.03-14.22.41:791][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Moustache_Roughness.png)
+[2017.12.03-14.22.41:961][566]LogTexture: Display: Building textures: Grandfather_Moustache_Roughness (AutoDXT, 512X512)
+[2017.12.03-14.22.42:696][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Shoes_AmbientOcclusion.png)
+[2017.12.03-14.22.42:759][566]LogTexture: Display: Building textures: Grandfather_Shoes_AmbientOcclusion (AutoDXT, 512X512)
+[2017.12.03-14.22.43:047][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Shoes_BaseColor.png)
+[2017.12.03-14.22.43:226][566]LogTexture: Display: Building textures: Grandfather_Shoes_BaseColor (AutoDXT, 512X512)
+[2017.12.03-14.22.43:964][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Shoes_Metallic.png)
+[2017.12.03-14.22.44:069][566]LogTexture: Display: Building textures: Grandfather_Shoes_Metallic (AutoDXT, 512X512)
+[2017.12.03-14.22.44:485][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Shoes_Normal.png)
+[2017.12.03-14.22.44:903][566]LogTexture: Display: Building textures: Grandfather_Shoes_Normal (BC5, 512X512)
+[2017.12.03-14.22.45:245][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Shoes_Roughness.png)
+[2017.12.03-14.22.45:414][566]LogTexture: Display: Building textures: Grandfather_Shoes_Roughness (AutoDXT, 512X512)
+[2017.12.03-14.22.45:819][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Top_AmbientOcclusion.png)
+[2017.12.03-14.22.45:929][566]LogTexture: Display: Building textures: Grandfather_Top_AmbientOcclusion (AutoDXT, 512X512)
+[2017.12.03-14.22.46:591][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Top_BaseColor.png)
+[2017.12.03-14.22.46:724][566]LogTexture: Display: Building textures: Grandfather_Top_BaseColor (AutoDXT, 512X512)
+[2017.12.03-14.22.47:417][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Top_Metallic.png)
+[2017.12.03-14.22.47:607][566]LogTexture: Display: Building textures: Grandfather_Top_Metallic (AutoDXT, 512X512)
+[2017.12.03-14.22.47:759][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Top_Normal.png)
+[2017.12.03-14.22.48:026][566]LogTexture: Display: Building textures: Grandfather_Top_Normal (BC5, 512X512)
+[2017.12.03-14.22.48:463][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Nicholas/Desktop/Grandfather/Grandfather_Top_Roughness.png)
+[2017.12.03-14.22.48:676][566]LogTexture: Display: Building textures: Grandfather_Top_Roughness (AutoDXT, 512X512)
+[2017.12.03-14.26.14:461][649]LogEditorViewport: Clicking on Actor (context menu): CineCameraActor (Camera_02)
+[2017.12.03-14.26.30:434][650]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (Luxury_Couch_SofaBackCushion)
+[2017.12.03-14.27.05:684][740]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (Luxury_Couch_CouchCushion)
+[2017.12.03-14.27.15:553][755]LogMaterial: Missing cached shader map for material Beardmat, compiling. 
+[2017.12.03-14.27.36:832][755]LogMaterial: Missing cached shader map for material Beardmat, compiling. 
+[2017.12.03-14.27.37:317][755]LogMaterial: Missing cached shader map for material Beardmat, compiling. 
+[2017.12.03-14.27.37:846][755]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.03-14.27.42:762][756]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Scene_01_02' took 1.602
+[2017.12.03-14.27.42:883][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Beard_AmbientOcclusion] ([1] browsable assets)...
+[2017.12.03-14.27.43:012][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Beard_AmbientOcclusion.Grandfather_Beard_AmbientOcclusion]
+[2017.12.03-14.27.43:013][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Beard_AmbientOcclusion]
+[2017.12.03-14.27.43:279][756]LogSavePackage: Save=177.12ms
+[2017.12.03-14.27.43:279][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Beard_AmbientOcclusion_Auto53E333B3C444A34E9EA7789920400AEC0.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Beard_AmbientOcclusion_Auto5.uasset'
+[2017.12.03-14.27.43:281][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Beard_AmbientOcclusion_Auto5.uasset
+[2017.12.03-14.27.43:337][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Beard_BaseColor] ([1] browsable assets)...
+[2017.12.03-14.27.43:356][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Beard_BaseColor.Grandfather_Beard_BaseColor]
+[2017.12.03-14.27.43:356][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Beard_BaseColor]
+[2017.12.03-14.27.43:389][756]LogSavePackage: Save=28.80ms
+[2017.12.03-14.27.43:389][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Beard_BaseColor_Auto5C3F3FF3E4B15A2A421A932952824040A.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Beard_BaseColor_Auto5.uasset'
+[2017.12.03-14.27.43:391][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Beard_BaseColor_Auto5.uasset
+[2017.12.03-14.27.43:392][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Beard_Metallic] ([1] browsable assets)...
+[2017.12.03-14.27.43:486][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Beard_Metallic.Grandfather_Beard_Metallic]
+[2017.12.03-14.27.43:486][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Beard_Metallic]
+[2017.12.03-14.27.43:538][756]LogSavePackage: Save=48.11ms
+[2017.12.03-14.27.43:538][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Beard_Metallic_Auto570DFCC9144BD0DF4129C07A47E7E9D80.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Beard_Metallic_Auto5.uasset'
+[2017.12.03-14.27.43:540][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Beard_Metallic_Auto5.uasset
+[2017.12.03-14.27.43:541][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Beard_Normal] ([1] browsable assets)...
+[2017.12.03-14.27.43:587][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Beard_Normal.Grandfather_Beard_Normal]
+[2017.12.03-14.27.43:587][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Beard_Normal]
+[2017.12.03-14.27.43:638][756]LogSavePackage: Save=47.61ms
+[2017.12.03-14.27.43:639][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Beard_Normal_Auto527811F2D44A22870EA6B19B2A539D4AF.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Beard_Normal_Auto5.uasset'
+[2017.12.03-14.27.43:641][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Beard_Normal_Auto5.uasset
+[2017.12.03-14.27.43:642][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Beard_Roughness] ([1] browsable assets)...
+[2017.12.03-14.27.43:680][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Beard_Roughness.Grandfather_Beard_Roughness]
+[2017.12.03-14.27.43:680][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Beard_Roughness]
+[2017.12.03-14.27.43:706][756]LogSavePackage: Save=22.47ms
+[2017.12.03-14.27.43:707][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Beard_Roughness_Auto5532B06414B3F4E6DE382FD8A6AD180DB.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Beard_Roughness_Auto5.uasset'
+[2017.12.03-14.27.43:708][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Beard_Roughness_Auto5.uasset
+[2017.12.03-14.27.43:709][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Body_AmbientOcclusion] ([1] browsable assets)...
+[2017.12.03-14.27.43:768][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Body_AmbientOcclusion.Grandfather_Body_AmbientOcclusion]
+[2017.12.03-14.27.43:768][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Body_AmbientOcclusion]
+[2017.12.03-14.27.43:796][756]LogSavePackage: Save=24.55ms
+[2017.12.03-14.27.43:796][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Body_AmbientOcclusion_Auto58283788C43371263D4F63EB1298A9885.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Body_AmbientOcclusion_Auto5.uasset'
+[2017.12.03-14.27.43:798][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Body_AmbientOcclusion_Auto5.uasset
+[2017.12.03-14.27.43:799][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Body_BaseColor] ([1] browsable assets)...
+[2017.12.03-14.27.43:817][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Body_BaseColor.Grandfather_Body_BaseColor]
+[2017.12.03-14.27.43:817][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Body_BaseColor]
+[2017.12.03-14.27.43:869][756]LogSavePackage: Save=47.69ms
+[2017.12.03-14.27.43:869][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Body_BaseColor_Auto5C6C984B84C95B1AA1A586FB146E234F5.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Body_BaseColor_Auto5.uasset'
+[2017.12.03-14.27.43:871][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Body_BaseColor_Auto5.uasset
+[2017.12.03-14.27.43:872][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Body_Metallic] ([1] browsable assets)...
+[2017.12.03-14.27.43:882][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Body_Metallic.Grandfather_Body_Metallic]
+[2017.12.03-14.27.43:882][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Body_Metallic]
+[2017.12.03-14.27.43:906][756]LogSavePackage: Save=20.79ms
+[2017.12.03-14.27.43:906][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Body_Metallic_Auto599D94BC8430F9C10A7FAAEA0CE1CF60F.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Body_Metallic_Auto5.uasset'
+[2017.12.03-14.27.43:908][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Body_Metallic_Auto5.uasset
+[2017.12.03-14.27.43:909][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Body_Normal] ([1] browsable assets)...
+[2017.12.03-14.27.43:953][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Body_Normal.Grandfather_Body_Normal]
+[2017.12.03-14.27.43:953][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Body_Normal]
+[2017.12.03-14.27.43:991][756]LogSavePackage: Save=34.61ms
+[2017.12.03-14.27.43:991][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Body_Normal_Auto53DB068CC414DF23CAB9F1B863E19E70B.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Body_Normal_Auto5.uasset'
+[2017.12.03-14.27.43:993][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Body_Normal_Auto5.uasset
+[2017.12.03-14.27.43:994][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Body_Roughness] ([1] browsable assets)...
+[2017.12.03-14.27.44:011][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Body_Roughness.Grandfather_Body_Roughness]
+[2017.12.03-14.27.44:011][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Body_Roughness]
+[2017.12.03-14.27.44:076][756]LogSavePackage: Save=61.28ms
+[2017.12.03-14.27.44:077][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Body_Roughness_Auto59EF3793047628DE56CFE20AB877DE066.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Body_Roughness_Auto5.uasset'
+[2017.12.03-14.27.44:079][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Body_Roughness_Auto5.uasset
+[2017.12.03-14.27.44:080][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Bottom_AmbientOcclusion] ([1] browsable assets)...
+[2017.12.03-14.27.44:099][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Bottom_AmbientOcclusion.Grandfather_Bottom_AmbientOcclusion]
+[2017.12.03-14.27.44:099][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Bottom_AmbientOcclusion]
+[2017.12.03-14.27.44:128][756]LogSavePackage: Save=26.04ms
+[2017.12.03-14.27.44:128][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Bottom_AmbientOcclusion_Auto529B3F1D34586D2AB4F9685A4F129A22B.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Bottom_AmbientOcclusion_Auto5.uasset'
+[2017.12.03-14.27.44:130][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Bottom_AmbientOcclusion_Auto5.uasset
+[2017.12.03-14.27.44:131][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Bottom_BaseColor] ([1] browsable assets)...
+[2017.12.03-14.27.44:150][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Bottom_BaseColor.Grandfather_Bottom_BaseColor]
+[2017.12.03-14.27.44:150][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Bottom_BaseColor]
+[2017.12.03-14.27.44:182][756]LogSavePackage: Save=28.37ms
+[2017.12.03-14.27.44:182][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Bottom_BaseColor_Auto503245B8D48BE4383404DA182CE972BA2.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Bottom_BaseColor_Auto5.uasset'
+[2017.12.03-14.27.44:183][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Bottom_BaseColor_Auto5.uasset
+[2017.12.03-14.27.44:184][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Bottom_Metallic] ([1] browsable assets)...
+[2017.12.03-14.27.44:407][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Bottom_Metallic.Grandfather_Bottom_Metallic]
+[2017.12.03-14.27.44:407][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Bottom_Metallic]
+[2017.12.03-14.27.44:428][756]LogSavePackage: Save=16.98ms
+[2017.12.03-14.27.44:428][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Bottom_Metallic_Auto581644D1E4424EA83A23205A3F532C882.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Bottom_Metallic_Auto5.uasset'
+[2017.12.03-14.27.44:430][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Bottom_Metallic_Auto5.uasset
+[2017.12.03-14.27.44:431][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Bottom_Normal] ([1] browsable assets)...
+[2017.12.03-14.27.44:449][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Bottom_Normal.Grandfather_Bottom_Normal]
+[2017.12.03-14.27.44:449][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Bottom_Normal]
+[2017.12.03-14.27.44:488][756]LogSavePackage: Save=35.27ms
+[2017.12.03-14.27.44:488][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Bottom_Normal_Auto5A03EB68540657B916EFBDDBF1E0C1558.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Bottom_Normal_Auto5.uasset'
+[2017.12.03-14.27.44:490][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Bottom_Normal_Auto5.uasset
+[2017.12.03-14.27.44:491][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Bottom_Roughness] ([1] browsable assets)...
+[2017.12.03-14.27.44:509][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Bottom_Roughness.Grandfather_Bottom_Roughness]
+[2017.12.03-14.27.44:509][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Bottom_Roughness]
+[2017.12.03-14.27.44:608][756]LogSavePackage: Save=95.69ms
+[2017.12.03-14.27.44:611][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Bottom_Roughness_Auto5FE0181F745E6BC0D52E5ECB1BB9F56DB.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Bottom_Roughness_Auto5.uasset'
+[2017.12.03-14.27.44:614][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Bottom_Roughness_Auto5.uasset
+[2017.12.03-14.27.44:615][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Eyewear_AmbientOcclusion] ([1] browsable assets)...
+[2017.12.03-14.27.44:632][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Eyewear_AmbientOcclusion.Grandfather_Eyewear_AmbientOcclusion]
+[2017.12.03-14.27.44:632][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Eyewear_AmbientOcclusion]
+[2017.12.03-14.27.44:657][756]LogSavePackage: Save=22.09ms
+[2017.12.03-14.27.44:657][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Eyewear_AmbientOcclusion_Auto5DB5486FB470469CE7D56A09562CED347.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Eyewear_AmbientOcclusion_Auto5.uasset'
+[2017.12.03-14.27.44:659][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Eyewear_AmbientOcclusion_Auto5.uasset
+[2017.12.03-14.27.44:660][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Eyewear_BaseColor] ([1] browsable assets)...
+[2017.12.03-14.27.44:702][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Eyewear_BaseColor.Grandfather_Eyewear_BaseColor]
+[2017.12.03-14.27.44:703][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Eyewear_BaseColor]
+[2017.12.03-14.27.44:777][756]LogSavePackage: Save=71.48ms
+[2017.12.03-14.27.44:777][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Eyewear_BaseColor_Auto57294EDC34F2855D7F9D9C58DB798EFA8.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Eyewear_BaseColor_Auto5.uasset'
+[2017.12.03-14.27.44:779][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Eyewear_BaseColor_Auto5.uasset
+[2017.12.03-14.27.44:780][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Eyewear_Metallic] ([1] browsable assets)...
+[2017.12.03-14.27.44:793][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Eyewear_Metallic.Grandfather_Eyewear_Metallic]
+[2017.12.03-14.27.44:793][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Eyewear_Metallic]
+[2017.12.03-14.27.44:814][756]LogSavePackage: Save=17.68ms
+[2017.12.03-14.27.44:815][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Eyewear_Metallic_Auto5CB83A5FF4B94E983A0D0A69A238E2477.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Eyewear_Metallic_Auto5.uasset'
+[2017.12.03-14.27.44:817][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Eyewear_Metallic_Auto5.uasset
+[2017.12.03-14.27.44:818][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Eyewear_Normal] ([1] browsable assets)...
+[2017.12.03-14.27.44:852][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Eyewear_Normal.Grandfather_Eyewear_Normal]
+[2017.12.03-14.27.44:852][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Eyewear_Normal]
+[2017.12.03-14.27.44:903][756]LogSavePackage: Save=47.39ms
+[2017.12.03-14.27.44:903][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Eyewear_Normal_Auto55F41311D4E6A2BF591CA01ACF2FBC983.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Eyewear_Normal_Auto5.uasset'
+[2017.12.03-14.27.44:905][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Eyewear_Normal_Auto5.uasset
+[2017.12.03-14.27.44:906][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Eyewear_Roughness] ([1] browsable assets)...
+[2017.12.03-14.27.44:920][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Eyewear_Roughness.Grandfather_Eyewear_Roughness]
+[2017.12.03-14.27.44:920][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Eyewear_Roughness]
+[2017.12.03-14.27.44:946][756]LogSavePackage: Save=22.40ms
+[2017.12.03-14.27.44:946][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Eyewear_Roughness_Auto545DF836F483C07C6CFBCCC9C1B01D39C.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Eyewear_Roughness_Auto5.uasset'
+[2017.12.03-14.27.44:947][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Eyewear_Roughness_Auto5.uasset
+[2017.12.03-14.27.44:948][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Hair_AmbientOcclusion] ([1] browsable assets)...
+[2017.12.03-14.27.44:966][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Hair_AmbientOcclusion.Grandfather_Hair_AmbientOcclusion]
+[2017.12.03-14.27.44:966][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Hair_AmbientOcclusion]
+[2017.12.03-14.27.45:472][756]LogSavePackage: Save=502.88ms
+[2017.12.03-14.27.45:474][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Hair_AmbientOcclusion_Auto5E7C8D38D4EDBE7CB5C6DAC9E8D185CB9.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Hair_AmbientOcclusion_Auto5.uasset'
+[2017.12.03-14.27.45:476][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Hair_AmbientOcclusion_Auto5.uasset
+[2017.12.03-14.27.45:477][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Hair_BaseColor] ([1] browsable assets)...
+[2017.12.03-14.27.45:489][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Hair_BaseColor.Grandfather_Hair_BaseColor]
+[2017.12.03-14.27.45:489][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Hair_BaseColor]
+[2017.12.03-14.27.45:781][756]LogSavePackage: Save=289.14ms
+[2017.12.03-14.27.45:785][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Hair_BaseColor_Auto5B7301375404406FA1F99BB883BB90397.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Hair_BaseColor_Auto5.uasset'
+[2017.12.03-14.27.45:790][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Hair_BaseColor_Auto5.uasset
+[2017.12.03-14.27.45:793][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Hair_Metallic] ([1] browsable assets)...
+[2017.12.03-14.27.45:823][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Hair_Metallic.Grandfather_Hair_Metallic]
+[2017.12.03-14.27.45:824][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Hair_Metallic]
+[2017.12.03-14.27.45:897][756]LogSavePackage: Save=64.81ms
+[2017.12.03-14.27.45:897][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Hair_Metallic_Auto5567CD7EB4D560A6ADD3470865B87F6F7.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Hair_Metallic_Auto5.uasset'
+[2017.12.03-14.27.45:902][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Hair_Metallic_Auto5.uasset
+[2017.12.03-14.27.45:905][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Hair_Normal] ([1] browsable assets)...
+[2017.12.03-14.27.45:959][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Hair_Normal.Grandfather_Hair_Normal]
+[2017.12.03-14.27.45:959][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Hair_Normal]
+[2017.12.03-14.27.46:100][756]LogSavePackage: Save=130.67ms
+[2017.12.03-14.27.46:101][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Hair_Normal_Auto5A37BCC964546E204310340A617AEE654.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Hair_Normal_Auto5.uasset'
+[2017.12.03-14.27.46:103][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Hair_Normal_Auto5.uasset
+[2017.12.03-14.27.46:104][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Hair_Roughness] ([1] browsable assets)...
+[2017.12.03-14.27.46:122][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Hair_Roughness.Grandfather_Hair_Roughness]
+[2017.12.03-14.27.46:122][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Hair_Roughness]
+[2017.12.03-14.27.46:142][756]LogSavePackage: Save=16.41ms
+[2017.12.03-14.27.46:142][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Hair_Roughness_Auto5C3B88BB540462BDB8B0B74AF9BB88D72.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Hair_Roughness_Auto5.uasset'
+[2017.12.03-14.27.46:144][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Hair_Roughness_Auto5.uasset
+[2017.12.03-14.27.46:144][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Moustache_AmbientOcclusion] ([1] browsable assets)...
+[2017.12.03-14.27.46:162][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Moustache_AmbientOcclusion.Grandfather_Moustache_AmbientOcclusion]
+[2017.12.03-14.27.46:162][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Moustache_AmbientOcclusion]
+[2017.12.03-14.27.46:264][756]LogSavePackage: Save=99.39ms
+[2017.12.03-14.27.46:264][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Moustache_AmbientOcclusion_Auto55C3AD00A4A2B5A75E86EC39C7007520A.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Moustache_AmbientOcclusion_Auto5.uasset'
+[2017.12.03-14.27.46:266][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Moustache_AmbientOcclusion_Auto5.uasset
+[2017.12.03-14.27.46:267][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Moustache_BaseColor] ([1] browsable assets)...
+[2017.12.03-14.27.46:284][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Moustache_BaseColor.Grandfather_Moustache_BaseColor]
+[2017.12.03-14.27.46:285][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Moustache_BaseColor]
+[2017.12.03-14.27.46:317][756]LogSavePackage: Save=28.04ms
+[2017.12.03-14.27.46:317][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Moustache_BaseColor_Auto508B68B9C44086A633F3A14A5FFA7ED1D.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Moustache_BaseColor_Auto5.uasset'
+[2017.12.03-14.27.46:319][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Moustache_BaseColor_Auto5.uasset
+[2017.12.03-14.27.46:320][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Moustache_Metallic] ([1] browsable assets)...
+[2017.12.03-14.27.46:330][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Moustache_Metallic.Grandfather_Moustache_Metallic]
+[2017.12.03-14.27.46:330][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Moustache_Metallic]
+[2017.12.03-14.27.46:353][756]LogSavePackage: Save=18.48ms
+[2017.12.03-14.27.46:353][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Moustache_Metallic_Auto59C0AA7084EA0699282DE07B7A263CA98.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Moustache_Metallic_Auto5.uasset'
+[2017.12.03-14.27.46:354][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Moustache_Metallic_Auto5.uasset
+[2017.12.03-14.27.46:356][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Moustache_Normal] ([1] browsable assets)...
+[2017.12.03-14.27.46:374][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Moustache_Normal.Grandfather_Moustache_Normal]
+[2017.12.03-14.27.46:374][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Moustache_Normal]
+[2017.12.03-14.27.46:439][756]LogSavePackage: Save=62.11ms
+[2017.12.03-14.27.46:440][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Moustache_Normal_Auto5867D61ED4D69A91DBA28FFAE4A444F35.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Moustache_Normal_Auto5.uasset'
+[2017.12.03-14.27.46:441][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Moustache_Normal_Auto5.uasset
+[2017.12.03-14.27.46:442][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Moustache_Roughness] ([1] browsable assets)...
+[2017.12.03-14.27.46:459][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Moustache_Roughness.Grandfather_Moustache_Roughness]
+[2017.12.03-14.27.46:459][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Moustache_Roughness]
+[2017.12.03-14.27.46:488][756]LogSavePackage: Save=25.64ms
+[2017.12.03-14.27.46:490][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Moustache_Roughness_Auto5CF81F8D5449F179E469EB8BD4B3787FF.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Moustache_Roughness_Auto5.uasset'
+[2017.12.03-14.27.46:491][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Moustache_Roughness_Auto5.uasset
+[2017.12.03-14.27.46:492][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Shoes_AmbientOcclusion] ([1] browsable assets)...
+[2017.12.03-14.27.46:510][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Shoes_AmbientOcclusion.Grandfather_Shoes_AmbientOcclusion]
+[2017.12.03-14.27.46:510][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Shoes_AmbientOcclusion]
+[2017.12.03-14.27.46:540][756]LogSavePackage: Save=26.85ms
+[2017.12.03-14.27.46:541][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Shoes_AmbientOcclusion_Auto5D682A9514D69247B4D456DA15503DFA2.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Shoes_AmbientOcclusion_Auto5.uasset'
+[2017.12.03-14.27.46:542][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Shoes_AmbientOcclusion_Auto5.uasset
+[2017.12.03-14.27.46:543][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Shoes_BaseColor] ([1] browsable assets)...
+[2017.12.03-14.27.46:561][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Shoes_BaseColor.Grandfather_Shoes_BaseColor]
+[2017.12.03-14.27.46:561][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Shoes_BaseColor]
+[2017.12.03-14.27.46:589][756]LogSavePackage: Save=24.90ms
+[2017.12.03-14.27.46:590][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Shoes_BaseColor_Auto54A4D58294C0DC38A2BDEC5815B5994FA.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Shoes_BaseColor_Auto5.uasset'
+[2017.12.03-14.27.46:591][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Shoes_BaseColor_Auto5.uasset
+[2017.12.03-14.27.46:592][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Shoes_Metallic] ([1] browsable assets)...
+[2017.12.03-14.27.46:620][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Shoes_Metallic.Grandfather_Shoes_Metallic]
+[2017.12.03-14.27.46:620][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Shoes_Metallic]
+[2017.12.03-14.27.46:641][756]LogSavePackage: Save=17.81ms
+[2017.12.03-14.27.46:641][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Shoes_Metallic_Auto52C1D47DB43AB5399FA62038586B9F233.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Shoes_Metallic_Auto5.uasset'
+[2017.12.03-14.27.46:643][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Shoes_Metallic_Auto5.uasset
+[2017.12.03-14.27.46:644][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Shoes_Normal] ([1] browsable assets)...
+[2017.12.03-14.27.46:663][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Shoes_Normal.Grandfather_Shoes_Normal]
+[2017.12.03-14.27.46:663][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Shoes_Normal]
+[2017.12.03-14.27.46:751][756]LogSavePackage: Save=84.17ms
+[2017.12.03-14.27.46:751][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Shoes_Normal_Auto5A65C6E98412427618E700BB0AD3A01B3.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Shoes_Normal_Auto5.uasset'
+[2017.12.03-14.27.46:753][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Shoes_Normal_Auto5.uasset
+[2017.12.03-14.27.46:754][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Shoes_Roughness] ([1] browsable assets)...
+[2017.12.03-14.27.46:771][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Shoes_Roughness.Grandfather_Shoes_Roughness]
+[2017.12.03-14.27.46:771][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Shoes_Roughness]
+[2017.12.03-14.27.46:825][756]LogSavePackage: Save=50.26ms
+[2017.12.03-14.27.46:825][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Shoes_Roughness_Auto552B23931499867B0529BDEA627BAC2BB.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Shoes_Roughness_Auto5.uasset'
+[2017.12.03-14.27.46:827][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Shoes_Roughness_Auto5.uasset
+[2017.12.03-14.27.46:828][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Top_AmbientOcclusion] ([1] browsable assets)...
+[2017.12.03-14.27.46:845][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Top_AmbientOcclusion.Grandfather_Top_AmbientOcclusion]
+[2017.12.03-14.27.46:845][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Top_AmbientOcclusion]
+[2017.12.03-14.27.47:008][756]LogSavePackage: Save=159.99ms
+[2017.12.03-14.27.47:008][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Top_AmbientOcclusion_Auto524CF7B234F0324A50AC70E8004BC0EA1.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Top_AmbientOcclusion_Auto5.uasset'
+[2017.12.03-14.27.47:010][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Top_AmbientOcclusion_Auto5.uasset
+[2017.12.03-14.27.47:011][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Top_BaseColor] ([1] browsable assets)...
+[2017.12.03-14.27.47:028][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Top_BaseColor.Grandfather_Top_BaseColor]
+[2017.12.03-14.27.47:029][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Top_BaseColor]
+[2017.12.03-14.27.47:056][756]LogSavePackage: Save=23.36ms
+[2017.12.03-14.27.47:056][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Top_BaseColor_Auto5EEA5E8964FFB624F62857794D20DA8B5.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Top_BaseColor_Auto5.uasset'
+[2017.12.03-14.27.47:057][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Top_BaseColor_Auto5.uasset
+[2017.12.03-14.27.47:058][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Top_Metallic] ([1] browsable assets)...
+[2017.12.03-14.27.47:069][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Top_Metallic.Grandfather_Top_Metallic]
+[2017.12.03-14.27.47:069][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Top_Metallic]
+[2017.12.03-14.27.47:090][756]LogSavePackage: Save=17.99ms
+[2017.12.03-14.27.47:090][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Top_Metallic_Auto5AD3678CC4BBDD0887443E7B50AF3119F.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Top_Metallic_Auto5.uasset'
+[2017.12.03-14.27.47:092][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Top_Metallic_Auto5.uasset
+[2017.12.03-14.27.47:093][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Top_Normal] ([1] browsable assets)...
+[2017.12.03-14.27.47:113][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Top_Normal.Grandfather_Top_Normal]
+[2017.12.03-14.27.47:113][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Top_Normal]
+[2017.12.03-14.27.47:247][756]LogSavePackage: Save=129.15ms
+[2017.12.03-14.27.47:248][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Top_Normal_Auto5BF41B8144E9C11C61DEB3A9B909DA093.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Top_Normal_Auto5.uasset'
+[2017.12.03-14.27.47:250][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Top_Normal_Auto5.uasset
+[2017.12.03-14.27.47:251][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Grandpa/Textures/Grandfather_Top_Roughness] ([1] browsable assets)...
+[2017.12.03-14.27.47:267][756]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Grandpa/Textures/Grandfather_Top_Roughness.Grandfather_Top_Roughness]
+[2017.12.03-14.27.47:267][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Grandpa/Textures/Grandfather_Top_Roughness]
+[2017.12.03-14.27.47:346][756]LogSavePackage: Save=75.64ms
+[2017.12.03-14.27.47:346][756]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Top_Roughness_Auto5B004524C43C17051C1115FBE00F5D785.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Top_Roughness_Auto5.uasset'
+[2017.12.03-14.27.47:348][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Autosaves/Game/Models/Grandpa/Textures/Grandfather_Top_Roughness_Auto5.uasset
+[2017.12.03-14.27.47:348][756]LogFileHelpers: Auto-saving content packages took 4.585
+[2017.12.03-14.27.54:924][828]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.12.03-14.27.54:924][828]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.12.03-14.27.54:924][828]MaterialEditorStats: Texture samplers: 1/16
+[2017.12.03-14.32.12:091][618]LogMaterial: Missing cached shader map for material Beardmat, compiling. 
+[2017.12.03-14.32.22:659][744]LogMaterial: Missing cached shader map for material Beardmat, compiling. 
+[2017.12.03-14.32.22:956][744]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2017.12.03-14.32.23:129][744]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2017.12.03-14.32.26:210][780]LogMaterial: Missing cached shader map for material Beardmat, compiling. 
+[2017.12.03-14.32.26:407][780]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2017.12.03-14.32.30:231][828]LogMaterial: Missing cached shader map for material Beardmat, compiling. 
+[2017.12.03-14.32.30:468][828]LogMaterial: Missing cached shader map for material Beardmat, compiling. 
+[2017.12.03-14.32.32:004][845]LogMaterial: Missing cached shader map for material Beardmat, compiling. 
+[2017.12.03-14.32.32:127][845]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2017.12.03-14.32.32:189][845]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2017.12.03-14.32.32:219][845]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2017.12.03-14.32.35:977][889]LogMaterial: Missing cached shader map for material Beardmat, compiling. 
+[2017.12.03-14.32.36:105][889]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2017.12.03-14.32.37:945][906]LogMaterial: Missing cached shader map for material Beardmat, compiling. 
+[2017.12.03-14.32.38:578][906]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_31, compiling. 
+[2017.12.03-14.32.38:862][906]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2017.12.03-14.32.38:999][906]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2017.12.03-14.32.39:357][906]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_31, compiling. 
+[2017.12.03-14.32.42:162][931]LogMaterial: Missing cached shader map for material Beardmat, compiling. 
+[2017.12.03-14.32.42:380][931]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_31, compiling. 
+[2017.12.03-14.32.44:779][942]LogMaterial: Missing cached shader map for material Beardmat, compiling. 
+[2017.12.03-14.32.44:959][942]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_32, compiling. 
+[2017.12.03-14.32.45:026][942]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2017.12.03-14.32.45:125][942]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2017.12.03-14.32.45:169][942]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_31, compiling. 
+[2017.12.03-14.32.45:224][942]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_32, compiling. 
+[2017.12.03-14.32.48:074][977]LogMaterial: Missing cached shader map for material Beardmat, compiling. 
+[2017.12.03-14.32.48:194][977]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_32, compiling. 
+[2017.12.03-14.32.50:296][  1]LogMaterial: Missing cached shader map for material Beardmat, compiling. 
+[2017.12.03-14.32.50:406][  1]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_33, compiling. 
+[2017.12.03-14.32.50:474][  1]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2017.12.03-14.32.50:542][  1]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2017.12.03-14.32.50:551][  1]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_31, compiling. 
+[2017.12.03-14.32.50:564][  1]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_32, compiling. 
+[2017.12.03-14.32.50:574][  1]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_33, compiling. 
+[2017.12.03-14.32.53:230][ 33]LogMaterial: Missing cached shader map for material Beardmat, compiling. 
+[2017.12.03-14.32.53:375][ 33]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_33, compiling. 
+[2017.12.03-14.32.55:318][ 59]LogMaterialEditor: Saving and Compiling material Beardmat
+[2017.12.03-14.33.03:247][ 59]LogMaterial: Missing cached shader map for material Beardmat, compiling. 
+[2017.12.03-14.33.03:754][ 59]LogMaterial: Missing cached shader map for material Beardmat, compiling. 
+[2017.12.03-14.33.04:489][ 59]LogMaterial: Missing cached shader map for material Beardmat, compiling. 
+[2017.12.03-14.33.04:790][ 59]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Beardmat, compiling. 
+[2017.12.03-14.33.12:783][ 59]TextureStreamingBuild: Display: Compiling optional shaders took 8.112 seconds.
+[2017.12.03-14.33.23:284][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Grandpa/Beardmat" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Beardmat.uasset" SILENT=true
+[2017.12.03-14.33.23:710][ 59]LogSavePackage: Save=154.99ms
+[2017.12.03-14.33.23:710][ 59]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Beardmat7FDC8DEB402A1C2FA4572DA845A9247E.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Beardmat.uasset'
+[2017.12.03-14.33.23:775][ 59]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Beardmat.uasset
+[2017.12.03-14.33.23:943][ 59]MaterialEditorStats: Base pass shader: 98 instructions
+[2017.12.03-14.33.23:962][ 59]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.03-14.33.23:962][ 59]MaterialEditorStats: Texture samplers: 7/16
+[2017.12.03-14.33.23:962][ 59]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.03-14.40.51:420][674]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-14.40.52:326][674]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-14.40.52:689][674]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-14.40.52:904][674]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.03-14.41.08:315][841]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-14.41.16:912][939]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-14.41.17:053][939]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-14.41.29:196][ 79]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-14.41.29:342][ 79]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_34, compiling. 
+[2017.12.03-14.41.29:423][ 79]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_34, compiling. 
+[2017.12.03-14.41.32:467][115]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-14.41.32:766][115]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_34, compiling. 
+[2017.12.03-14.42.10:714][594]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-14.42.11:075][594]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_35, compiling. 
+[2017.12.03-14.42.11:127][594]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_34, compiling. 
+[2017.12.03-14.42.11:181][594]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_35, compiling. 
+[2017.12.03-14.42.13:585][623]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-14.42.13:876][623]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_35, compiling. 
+[2017.12.03-14.42.15:548][643]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-14.42.15:787][643]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_36, compiling. 
+[2017.12.03-14.42.15:824][643]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_34, compiling. 
+[2017.12.03-14.42.15:835][643]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_35, compiling. 
+[2017.12.03-14.42.15:883][643]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_36, compiling. 
+[2017.12.03-14.42.19:070][682]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-14.42.19:263][682]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_36, compiling. 
+[2017.12.03-14.42.23:892][739]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-14.42.24:200][739]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_37, compiling. 
+[2017.12.03-14.42.24:239][739]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_34, compiling. 
+[2017.12.03-14.42.24:314][739]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_35, compiling. 
+[2017.12.03-14.42.24:379][739]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_36, compiling. 
+[2017.12.03-14.42.24:389][739]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_37, compiling. 
+[2017.12.03-14.42.27:513][776]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-14.42.27:881][776]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_37, compiling. 
+[2017.12.03-14.42.29:446][795]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-14.42.29:774][795]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_38, compiling. 
+[2017.12.03-14.42.29:854][795]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_34, compiling. 
+[2017.12.03-14.42.29:864][795]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_35, compiling. 
+[2017.12.03-14.42.29:926][795]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_36, compiling. 
+[2017.12.03-14.42.30:000][795]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_37, compiling. 
+[2017.12.03-14.42.30:032][795]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_38, compiling. 
+[2017.12.03-14.42.33:093][832]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-14.42.33:444][832]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_38, compiling. 
+[2017.12.03-14.42.40:163][914]LogMaterialEditor: Saving and Compiling material Bodymat
+[2017.12.03-14.42.41:586][914]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-14.42.41:924][914]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-14.42.42:391][914]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.12.03-14.42.43:382][914]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat, compiling. 
+[2017.12.03-14.42.58:918][914]TextureStreamingBuild: Display: Compiling optional shaders took 15.648 seconds.
+[2017.12.03-14.43.20:007][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Grandpa/Bodymat" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Bodymat.uasset" SILENT=true
+[2017.12.03-14.43.20:145][914]LogSavePackage: Save=59.99ms
+[2017.12.03-14.43.20:145][914]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/BodymatD44DFC1F488F3C5AED33DBBD80C94AEC.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Bodymat.uasset'
+[2017.12.03-14.43.20:159][914]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Bodymat.uasset
+[2017.12.03-14.43.20:167][914]MaterialEditorStats: Base pass shader: 100 instructions
+[2017.12.03-14.43.20:167][914]MaterialEditorStats: Vertex shader: 33 instructions
+[2017.12.03-14.43.20:167][914]MaterialEditorStats: Texture samplers: 7/16
+[2017.12.03-14.43.20:168][914]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.03-14.43.33:339][ 75]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.43.33:940][ 75]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.43.34:023][ 75]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.43.34:117][ 75]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.03-14.43.43:879][193]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.44.22:930][669]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.12.03-14.44.22:930][669]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.12.03-14.44.22:930][669]MaterialEditorStats: Texture samplers: 1/16
+[2017.12.03-14.45.12:409][267]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.45.12:624][267]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.45.47:225][698]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.45.47:321][698]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_39, compiling. 
+[2017.12.03-14.45.47:547][698]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_39, compiling. 
+[2017.12.03-14.45.49:894][726]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.45.50:007][726]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_39, compiling. 
+[2017.12.03-14.45.58:536][832]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.45.58:645][832]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_40, compiling. 
+[2017.12.03-14.45.58:757][832]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_39, compiling. 
+[2017.12.03-14.45.58:860][832]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_40, compiling. 
+[2017.12.03-14.46.06:746][928]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.46.06:852][928]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_40, compiling. 
+[2017.12.03-14.46.09:140][956]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.46.09:267][956]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_41, compiling. 
+[2017.12.03-14.46.09:338][956]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_39, compiling. 
+[2017.12.03-14.46.09:431][956]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_40, compiling. 
+[2017.12.03-14.46.09:490][956]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_41, compiling. 
+[2017.12.03-14.46.14:721][ 21]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.46.14:842][ 21]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_41, compiling. 
+[2017.12.03-14.46.16:612][ 43]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.46.16:734][ 43]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_42, compiling. 
+[2017.12.03-14.46.16:809][ 43]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_39, compiling. 
+[2017.12.03-14.46.16:874][ 43]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_40, compiling. 
+[2017.12.03-14.46.16:927][ 43]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_41, compiling. 
+[2017.12.03-14.46.16:938][ 43]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_42, compiling. 
+[2017.12.03-14.46.20:245][ 83]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.46.20:400][ 83]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_42, compiling. 
+[2017.12.03-14.46.27:065][164]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.46.27:167][164]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_43, compiling. 
+[2017.12.03-14.46.27:207][164]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_39, compiling. 
+[2017.12.03-14.46.27:370][164]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_40, compiling. 
+[2017.12.03-14.46.27:429][164]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_41, compiling. 
+[2017.12.03-14.46.27:455][164]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_42, compiling. 
+[2017.12.03-14.46.27:465][164]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_43, compiling. 
+[2017.12.03-14.46.31:618][213]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.46.59:681][554]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.46.59:790][554]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_44, compiling. 
+[2017.12.03-14.46.59:853][554]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_39, compiling. 
+[2017.12.03-14.46.59:908][554]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_40, compiling. 
+[2017.12.03-14.46.59:926][554]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_41, compiling. 
+[2017.12.03-14.46.59:958][554]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_42, compiling. 
+[2017.12.03-14.46.59:978][554]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_44, compiling. 
+[2017.12.03-14.47.04:817][614]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.47.04:958][614]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_44, compiling. 
+[2017.12.03-14.47.07:598][649]LogMaterialEditor: Saving and Compiling material Bottommat
+[2017.12.03-14.47.08:976][649]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.47.09:130][649]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.47.09:478][649]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.12.03-14.47.09:660][649]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bottommat, compiling. 
+[2017.12.03-14.47.18:354][649]TextureStreamingBuild: Display: Compiling optional shaders took 8.730 seconds.
+[2017.12.03-14.47.28:756][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Grandpa/Bottommat" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Bottommat.uasset" SILENT=true
+[2017.12.03-14.47.29:042][649]LogSavePackage: Save=122.51ms
+[2017.12.03-14.47.29:042][649]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Bottommat7DAC166241DCEA7E6182C68D511DB6B2.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Bottommat.uasset'
+[2017.12.03-14.47.29:078][649]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Bottommat.uasset
+[2017.12.03-14.47.29:144][649]MaterialEditorStats: Base pass shader: 98 instructions
+[2017.12.03-14.47.29:144][649]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.03-14.47.29:145][649]MaterialEditorStats: Texture samplers: 7/16
+[2017.12.03-14.47.29:145][649]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.03-14.47.51:227][949]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2017.12.03-14.47.51:765][949]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2017.12.03-14.47.51:943][949]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2017.12.03-14.47.52:162][949]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.03-14.47.59:953][ 39]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2017.12.03-14.48.07:026][127]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2017.12.03-14.48.07:186][127]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2017.12.03-14.48.27:995][385]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2017.12.03-14.48.28:120][385]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_45, compiling. 
+[2017.12.03-14.48.28:201][385]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_45, compiling. 
+[2017.12.03-14.48.33:634][453]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2017.12.03-14.48.33:774][453]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_45, compiling. 
+[2017.12.03-14.48.39:844][527]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2017.12.03-14.48.39:938][527]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_46, compiling. 
+[2017.12.03-14.48.40:022][527]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_45, compiling. 
+[2017.12.03-14.48.40:035][527]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_46, compiling. 
+[2017.12.03-14.48.42:568][558]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2017.12.03-14.48.42:673][558]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_46, compiling. 
+[2017.12.03-14.48.45:549][594]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2017.12.03-14.48.45:642][594]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_47, compiling. 
+[2017.12.03-14.48.45:747][594]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_45, compiling. 
+[2017.12.03-14.48.45:784][594]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_46, compiling. 
+[2017.12.03-14.48.45:846][594]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_47, compiling. 
+[2017.12.03-14.48.48:020][619]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2017.12.03-14.48.48:145][619]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_47, compiling. 
+[2017.12.03-14.48.51:089][656]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2017.12.03-14.48.51:203][656]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_48, compiling. 
+[2017.12.03-14.48.51:255][656]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_45, compiling. 
+[2017.12.03-14.48.51:303][656]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_46, compiling. 
+[2017.12.03-14.48.51:343][656]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_47, compiling. 
+[2017.12.03-14.48.51:411][656]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_48, compiling. 
+[2017.12.03-14.48.54:106][690]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2017.12.03-14.48.54:260][690]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_48, compiling. 
+[2017.12.03-14.48.56:709][721]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2017.12.03-14.48.56:911][721]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_49, compiling. 
+[2017.12.03-14.48.56:997][721]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_45, compiling. 
+[2017.12.03-14.48.57:066][721]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_46, compiling. 
+[2017.12.03-14.48.57:091][721]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_47, compiling. 
+[2017.12.03-14.48.57:101][721]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_48, compiling. 
+[2017.12.03-14.48.57:142][721]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_49, compiling. 
+[2017.12.03-14.49.00:862][766]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2017.12.03-14.49.00:953][766]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_49, compiling. 
+[2017.12.03-14.49.03:916][804]LogMaterialEditor: Saving and Compiling material Eyewearmat
+[2017.12.03-14.49.05:395][804]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2017.12.03-14.49.06:274][804]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2017.12.03-14.49.06:854][804]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2017.12.03-14.49.07:105][804]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eyewearmat, compiling. 
+[2017.12.03-14.49.16:185][804]TextureStreamingBuild: Display: Compiling optional shaders took 9.132 seconds.
+[2017.12.03-14.49.26:310][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Grandpa/Eyewearmat" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Eyewearmat.uasset" SILENT=true
+[2017.12.03-14.49.26:413][804]LogSavePackage: Save=26.88ms
+[2017.12.03-14.49.26:413][804]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/EyewearmatDAC42CF34B44C9DEB4C8B49611692BC4.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Eyewearmat.uasset'
+[2017.12.03-14.49.26:425][804]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Eyewearmat.uasset
+[2017.12.03-14.49.26:435][804]MaterialEditorStats: Base pass shader: 98 instructions
+[2017.12.03-14.49.26:435][804]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.03-14.49.26:435][804]MaterialEditorStats: Texture samplers: 7/16
+[2017.12.03-14.49.26:435][804]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.03-14.49.32:301][874]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.49.32:573][874]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.49.32:621][874]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.49.32:730][874]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.03-14.49.38:317][933]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.49.47:537][ 45]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.49.47:629][ 45]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_50, compiling. 
+[2017.12.03-14.49.47:699][ 45]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_50, compiling. 
+[2017.12.03-14.49.50:228][ 75]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.49.50:315][ 75]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_50, compiling. 
+[2017.12.03-14.49.51:711][ 92]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.49.51:796][ 92]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_51, compiling. 
+[2017.12.03-14.49.51:919][ 92]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_50, compiling. 
+[2017.12.03-14.49.51:952][ 92]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_51, compiling. 
+[2017.12.03-14.49.54:352][121]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.49.54:474][121]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_51, compiling. 
+[2017.12.03-14.49.56:255][143]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.49.56:348][143]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_52, compiling. 
+[2017.12.03-14.49.56:434][143]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_50, compiling. 
+[2017.12.03-14.49.56:455][143]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_51, compiling. 
+[2017.12.03-14.49.56:467][143]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_52, compiling. 
+[2017.12.03-14.49.59:407][179]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.49.59:516][179]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_52, compiling. 
+[2017.12.03-14.50.01:204][199]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.50.01:308][199]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_53, compiling. 
+[2017.12.03-14.50.01:349][199]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_50, compiling. 
+[2017.12.03-14.50.01:379][199]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_51, compiling. 
+[2017.12.03-14.50.01:433][199]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_52, compiling. 
+[2017.12.03-14.50.01:445][199]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_53, compiling. 
+[2017.12.03-14.50.04:462][236]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.50.04:607][236]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_53, compiling. 
+[2017.12.03-14.50.06:707][263]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.50.06:818][263]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_54, compiling. 
+[2017.12.03-14.50.06:904][263]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_50, compiling. 
+[2017.12.03-14.50.06:937][263]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_51, compiling. 
+[2017.12.03-14.50.06:948][263]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_52, compiling. 
+[2017.12.03-14.50.06:989][263]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_53, compiling. 
+[2017.12.03-14.50.07:010][263]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_54, compiling. 
+[2017.12.03-14.50.16:891][387]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.50.17:050][387]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_54, compiling. 
+[2017.12.03-14.50.20:148][427]LogMaterialEditor: Saving and Compiling material Hairmat
+[2017.12.03-14.50.21:661][427]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.50.21:900][427]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.50.22:228][427]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.50.22:442][427]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hairmat, compiling. 
+[2017.12.03-14.50.34:516][427]TextureStreamingBuild: Display: Compiling optional shaders took 12.118 seconds.
+[2017.12.03-14.50.45:325][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Grandpa/Hairmat" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Hairmat.uasset" SILENT=true
+[2017.12.03-14.50.45:594][427]LogSavePackage: Save=105.04ms
+[2017.12.03-14.50.45:594][427]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Hairmat62D7FF2849CD3EEA1FBA439204A66A07.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Hairmat.uasset'
+[2017.12.03-14.50.45:631][427]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Hairmat.uasset
+[2017.12.03-14.50.45:682][427]MaterialEditorStats: Base pass shader: 98 instructions
+[2017.12.03-14.50.45:682][427]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.03-14.50.45:682][427]MaterialEditorStats: Texture samplers: 7/16
+[2017.12.03-14.50.45:682][427]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.03-14.52.26:190][714]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.52.26:487][714]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.52.27:392][723]LogMaterialEditor: Saving and Compiling material Hairmat
+[2017.12.03-14.52.28:662][723]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.52.28:842][723]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.52.28:980][723]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.12.03-14.52.29:307][723]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hairmat, compiling. 
+[2017.12.03-14.52.38:898][723]TextureStreamingBuild: Display: Compiling optional shaders took 9.779 seconds.
+[2017.12.03-14.52.48:940][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Grandpa/Hairmat" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Hairmat.uasset" SILENT=true
+[2017.12.03-14.52.48:985][723]LogSavePackage: Save=25.61ms
+[2017.12.03-14.52.48:985][723]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Hairmat9E921074494D54C00B16539D96E2FA6D.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Hairmat.uasset'
+[2017.12.03-14.52.48:998][723]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Hairmat.uasset
+[2017.12.03-14.52.49:015][723]MaterialEditorStats: Base pass shader: 98 instructions
+[2017.12.03-14.52.49:015][723]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.03-14.52.49:015][723]MaterialEditorStats: Texture samplers: 7/16
+[2017.12.03-14.52.49:015][723]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.03-14.54.26:584][972]LogMaterial: Missing cached shader map for material Moustachemat, compiling. 
+[2017.12.03-14.54.27:348][972]LogMaterial: Missing cached shader map for material Moustachemat, compiling. 
+[2017.12.03-14.54.27:491][972]LogMaterial: Missing cached shader map for material Moustachemat, compiling. 
+[2017.12.03-14.54.27:565][972]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.03-14.54.33:185][ 35]LogMaterial: Missing cached shader map for material Moustachemat, compiling. 
+[2017.12.03-14.54.58:277][354]LogMaterial: Missing cached shader map for material Moustachemat, compiling. 
+[2017.12.03-14.54.58:419][354]LogMaterial: Missing cached shader map for material Moustachemat, compiling. 
+[2017.12.03-14.55.10:127][497]LogMaterial: Missing cached shader map for material Moustachemat, compiling. 
+[2017.12.03-14.55.10:242][497]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_55, compiling. 
+[2017.12.03-14.55.10:280][497]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_55, compiling. 
+[2017.12.03-14.55.13:230][533]LogMaterial: Missing cached shader map for material Moustachemat, compiling. 
+[2017.12.03-14.55.13:316][533]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_55, compiling. 
+[2017.12.03-14.55.15:134][556]LogMaterial: Missing cached shader map for material Moustachemat, compiling. 
+[2017.12.03-14.55.15:260][556]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_56, compiling. 
+[2017.12.03-14.55.15:343][556]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_55, compiling. 
+[2017.12.03-14.55.15:413][556]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_56, compiling. 
+[2017.12.03-14.55.33:768][786]LogMaterial: Missing cached shader map for material Moustachemat, compiling. 
+[2017.12.03-14.55.33:985][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_56, compiling. 
+[2017.12.03-14.55.39:473][856]LogMaterial: Missing cached shader map for material Moustachemat, compiling. 
+[2017.12.03-14.55.39:582][856]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_57, compiling. 
+[2017.12.03-14.55.39:626][856]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_55, compiling. 
+[2017.12.03-14.55.39:650][856]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_56, compiling. 
+[2017.12.03-14.55.39:661][856]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_57, compiling. 
+[2017.12.03-14.55.50:455][989]LogMaterial: Missing cached shader map for material Moustachemat, compiling. 
+[2017.12.03-14.55.50:578][989]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_57, compiling. 
+[2017.12.03-14.55.55:222][ 48]LogMaterial: Missing cached shader map for material Moustachemat, compiling. 
+[2017.12.03-14.55.55:319][ 48]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_58, compiling. 
+[2017.12.03-14.55.55:527][ 48]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_55, compiling. 
+[2017.12.03-14.55.55:537][ 48]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_56, compiling. 
+[2017.12.03-14.55.55:563][ 48]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_57, compiling. 
+[2017.12.03-14.55.55:606][ 48]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_58, compiling. 
+[2017.12.03-14.55.58:057][ 79]LogMaterial: Missing cached shader map for material Moustachemat, compiling. 
+[2017.12.03-14.55.58:201][ 79]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_58, compiling. 
+[2017.12.03-14.56.03:029][138]LogMaterial: Missing cached shader map for material Moustachemat, compiling. 
+[2017.12.03-14.56.03:120][138]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_59, compiling. 
+[2017.12.03-14.56.03:197][138]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_55, compiling. 
+[2017.12.03-14.56.03:207][138]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_56, compiling. 
+[2017.12.03-14.56.03:217][138]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_57, compiling. 
+[2017.12.03-14.56.03:227][138]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_58, compiling. 
+[2017.12.03-14.56.03:237][138]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_59, compiling. 
+[2017.12.03-14.56.06:619][180]LogMaterial: Missing cached shader map for material Moustachemat, compiling. 
+[2017.12.03-14.56.06:766][180]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_59, compiling. 
+[2017.12.03-14.56.14:797][282]LogMaterialEditor: Saving and Compiling material Moustachemat
+[2017.12.03-14.56.16:237][282]LogMaterial: Missing cached shader map for material Moustachemat, compiling. 
+[2017.12.03-14.56.16:454][282]LogMaterial: Missing cached shader map for material Moustachemat, compiling. 
+[2017.12.03-14.56.16:746][282]LogMaterial: Missing cached shader map for material Moustachemat, compiling. 
+[2017.12.03-14.56.17:045][282]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Moustachemat, compiling. 
+[2017.12.03-14.56.26:766][282]TextureStreamingBuild: Display: Compiling optional shaders took 9.825 seconds.
+[2017.12.03-14.56.37:392][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Grandpa/Moustachemat" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Moustachemat.uasset" SILENT=true
+[2017.12.03-14.56.37:496][282]LogSavePackage: Save=51.22ms
+[2017.12.03-14.56.37:496][282]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/MoustachematB635F966439EFB040955049A6618D576.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Moustachemat.uasset'
+[2017.12.03-14.56.37:528][282]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Moustachemat.uasset
+[2017.12.03-14.56.37:573][282]MaterialEditorStats: Base pass shader: 98 instructions
+[2017.12.03-14.56.37:574][282]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.03-14.56.37:574][282]MaterialEditorStats: Texture samplers: 7/16
+[2017.12.03-14.56.37:574][282]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.03-14.56.49:937][433]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-14.56.50:516][433]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-14.56.50:617][433]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-14.56.50:719][433]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.03-14.56.55:648][489]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-14.57.00:985][555]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-14.57.01:110][555]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-14.57.26:134][865]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-14.57.26:233][865]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_60, compiling. 
+[2017.12.03-14.57.26:443][865]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_60, compiling. 
+[2017.12.03-14.57.30:048][911]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-14.57.30:194][911]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_60, compiling. 
+[2017.12.03-14.57.32:375][938]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-14.57.32:452][938]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_61, compiling. 
+[2017.12.03-14.57.32:551][938]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_60, compiling. 
+[2017.12.03-14.57.32:603][938]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_61, compiling. 
+[2017.12.03-14.57.38:106][  7]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-14.57.38:240][  7]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_61, compiling. 
+[2017.12.03-14.57.40:766][ 39]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-14.57.40:987][ 39]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_62, compiling. 
+[2017.12.03-14.57.41:068][ 39]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_60, compiling. 
+[2017.12.03-14.57.41:118][ 39]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_61, compiling. 
+[2017.12.03-14.57.41:152][ 39]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_62, compiling. 
+[2017.12.03-14.57.44:234][ 78]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-14.57.44:481][ 78]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_62, compiling. 
+[2017.12.03-14.57.46:264][101]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-14.57.46:361][101]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_63, compiling. 
+[2017.12.03-14.57.46:402][101]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_60, compiling. 
+[2017.12.03-14.57.46:600][101]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_61, compiling. 
+[2017.12.03-14.57.46:627][101]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_62, compiling. 
+[2017.12.03-14.57.46:661][101]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_63, compiling. 
+[2017.12.03-14.57.49:133][132]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-14.57.49:230][132]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_63, compiling. 
+[2017.12.03-14.57.51:523][161]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-14.57.51:621][161]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_64, compiling. 
+[2017.12.03-14.57.51:684][161]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_60, compiling. 
+[2017.12.03-14.57.51:707][161]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_61, compiling. 
+[2017.12.03-14.57.51:718][161]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_62, compiling. 
+[2017.12.03-14.57.51:748][161]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_63, compiling. 
+[2017.12.03-14.57.51:798][161]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_64, compiling. 
+[2017.12.03-14.57.55:178][203]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-14.57.55:318][203]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_64, compiling. 
+[2017.12.03-14.58.01:056][275]LogMaterialEditor: Saving and Compiling material Shoesmat
+[2017.12.03-14.58.02:422][275]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-14.58.02:582][275]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-14.58.02:777][275]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.12.03-14.58.02:927][275]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shoesmat, compiling. 
+[2017.12.03-14.58.11:804][275]TextureStreamingBuild: Display: Compiling optional shaders took 8.889 seconds.
+[2017.12.03-14.58.21:923][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Grandpa/Shoesmat" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Shoesmat.uasset" SILENT=true
+[2017.12.03-14.58.22:007][275]LogSavePackage: Save=23.60ms
+[2017.12.03-14.58.22:007][275]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Shoesmat89D9C24D40B9179EF711809ECBE9863E.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Shoesmat.uasset'
+[2017.12.03-14.58.22:018][275]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Shoesmat.uasset
+[2017.12.03-14.58.22:030][275]MaterialEditorStats: Base pass shader: 98 instructions
+[2017.12.03-14.58.22:030][275]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.03-14.58.22:030][275]MaterialEditorStats: Texture samplers: 7/16
+[2017.12.03-14.58.22:030][275]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.03-14.58.28:003][353]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-14.58.28:726][353]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-14.58.28:872][353]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-14.58.28:994][353]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.03-14.58.37:430][453]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-14.58.41:474][503]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-14.58.41:599][503]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-14.58.51:201][620]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-14.58.51:290][620]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_65, compiling. 
+[2017.12.03-14.58.51:352][620]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_65, compiling. 
+[2017.12.03-14.58.56:147][680]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-14.58.56:270][680]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_65, compiling. 
+[2017.12.03-14.58.59:765][725]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-14.58.59:865][725]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_66, compiling. 
+[2017.12.03-14.59.00:060][725]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_65, compiling. 
+[2017.12.03-14.59.00:071][725]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_66, compiling. 
+[2017.12.03-14.59.11:356][868]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-14.59.11:495][868]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_66, compiling. 
+[2017.12.03-14.59.14:303][902]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-14.59.14:398][902]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_67, compiling. 
+[2017.12.03-14.59.14:441][902]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_65, compiling. 
+[2017.12.03-14.59.14:463][902]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_66, compiling. 
+[2017.12.03-14.59.14:491][902]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_67, compiling. 
+[2017.12.03-14.59.19:240][961]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-14.59.19:337][961]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_67, compiling. 
+[2017.12.03-14.59.20:852][981]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-14.59.20:977][981]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_68, compiling. 
+[2017.12.03-14.59.21:051][981]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_65, compiling. 
+[2017.12.03-14.59.21:106][981]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_66, compiling. 
+[2017.12.03-14.59.21:118][981]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_67, compiling. 
+[2017.12.03-14.59.21:134][981]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_68, compiling. 
+[2017.12.03-14.59.23:994][ 17]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-14.59.24:257][ 17]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_68, compiling. 
+[2017.12.03-14.59.25:735][ 36]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-14.59.25:865][ 36]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_69, compiling. 
+[2017.12.03-14.59.25:951][ 36]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_65, compiling. 
+[2017.12.03-14.59.26:007][ 36]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_66, compiling. 
+[2017.12.03-14.59.26:029][ 36]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_67, compiling. 
+[2017.12.03-14.59.26:061][ 36]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_68, compiling. 
+[2017.12.03-14.59.26:071][ 36]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_69, compiling. 
+[2017.12.03-14.59.29:121][ 74]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-14.59.29:246][ 74]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_69, compiling. 
+[2017.12.03-14.59.37:100][175]LogMaterialEditor: Saving and Compiling material Topmat
+[2017.12.03-14.59.38:503][175]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-14.59.38:652][175]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-14.59.38:833][175]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.12.03-14.59.39:026][175]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Topmat, compiling. 
+[2017.12.03-14.59.48:120][175]TextureStreamingBuild: Display: Compiling optional shaders took 9.131 seconds.
+[2017.12.03-14.59.58:199][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Grandpa/Topmat" FILE="../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Topmat.uasset" SILENT=true
+[2017.12.03-14.59.58:285][175]LogSavePackage: Save=25.15ms
+[2017.12.03-14.59.58:285][175]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Topmat7E2ED6D648102DB1A694E898B3838C91.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Topmat.uasset'
+[2017.12.03-14.59.58:315][175]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Topmat.uasset
+[2017.12.03-14.59.58:370][175]MaterialEditorStats: Base pass shader: 98 instructions
+[2017.12.03-14.59.58:370][175]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.03-14.59.58:370][175]MaterialEditorStats: Texture samplers: 7/16
+[2017.12.03-14.59.58:370][175]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.03-15.00.07:488][256]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.03-15.00.08:508][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.03-15.00.08:796][256]PIE: New page: PIE session: Scene_01_02 (Dec 3, 2017, 1:00:08 AM)
+[2017.12.03-15.00.09:032][256]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.03-15.00.11:831][256]LogPlayLevel: PIE: StaticDuplicateObject took: (2.780809s)
+[2017.12.03-15.00.11:915][256]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.03-15.00.12:026][256]LogPlayLevel: PIE: World Init took: (0.195007s)
+[2017.12.03-15.00.12:043][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (3.019921s)
+[2017.12.03-15.00.12:919][256]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.03-15.00.13:681][256]LogInit: FAudioDevice initialized.
+[2017.12.03-15.00.14:072][256]LogLoad: Game class is 'GameModeBase'
+[2017.12.03-15.00.14:951][256]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 60) at 2017.12.03-08.00.14
+[2017.12.03-15.00.15:188][256]LogWorld: Bringing up level for play took: 0.793658
+[2017.12.03-15.00.16:180][256]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 7.756
+[2017.12.03-15.01.31:930][738]LogSavePackage: Save=209.13ms
+[2017.12.03-15.01.31:930][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Beard_AmbientOcclusion970D0ADF4DB2CA50E2D7E9B08BC70205.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Beard_AmbientOcclusion.uasset'
+[2017.12.03-15.01.31:965][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Beard_AmbientOcclusion.uasset
+[2017.12.03-15.01.32:348][738]LogSavePackage: Save=314.37ms
+[2017.12.03-15.01.32:348][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Beard_BaseColor46B24EAF4F648663FE252387B7566E85.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Beard_BaseColor.uasset'
+[2017.12.03-15.01.32:393][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Beard_BaseColor.uasset
+[2017.12.03-15.01.32:541][738]LogSavePackage: Save=98.32ms
+[2017.12.03-15.01.32:541][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Beard_MetallicDE67A3A44140394B8FCECFA70BFFCF11.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Beard_Metallic.uasset'
+[2017.12.03-15.01.32:583][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Beard_Metallic.uasset
+[2017.12.03-15.01.33:160][738]LogSavePackage: Save=413.37ms
+[2017.12.03-15.01.33:160][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Beard_NormalEB925DA648B983636075F6AB53145509.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Beard_Normal.uasset'
+[2017.12.03-15.01.33:178][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Beard_Normal.uasset
+[2017.12.03-15.01.33:302][738]LogSavePackage: Save=100.78ms
+[2017.12.03-15.01.33:303][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Beard_RoughnessF3285C4D438FD059FF35FB9E58C4364C.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Beard_Roughness.uasset'
+[2017.12.03-15.01.33:318][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Beard_Roughness.uasset
+[2017.12.03-15.01.33:691][738]LogSavePackage: Save=306.38ms
+[2017.12.03-15.01.33:691][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Body_AmbientOcclusion7DE9B08F4405DAB84EA3BCB893F350CC.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Body_AmbientOcclusion.uasset'
+[2017.12.03-15.01.33:734][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Body_AmbientOcclusion.uasset
+[2017.12.03-15.01.35:051][738]LogSavePackage: Save=1227.72ms
+[2017.12.03-15.01.35:051][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Body_BaseColorEEB0E1FD4C4964286760A9992D9FFC94.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Body_BaseColor.uasset'
+[2017.12.03-15.01.35:096][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Body_BaseColor.uasset
+[2017.12.03-15.01.35:590][738]LogSavePackage: Save=351.78ms
+[2017.12.03-15.01.35:590][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Body_MetallicCD1664424869CC8481BA03A00BD08D18.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Body_Metallic.uasset'
+[2017.12.03-15.01.35:636][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Body_Metallic.uasset
+[2017.12.03-15.01.36:691][738]LogSavePackage: Save=949.60ms
+[2017.12.03-15.01.36:692][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Body_NormalA9850D43402BF24412A07CBA3A3127F4.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Body_Normal.uasset'
+[2017.12.03-15.01.36:737][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Body_Normal.uasset
+[2017.12.03-15.01.37:636][738]LogSavePackage: Save=797.27ms
+[2017.12.03-15.01.37:637][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Body_RoughnessD12264134264F15B34B2109724006188.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Body_Roughness.uasset'
+[2017.12.03-15.01.37:678][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Body_Roughness.uasset
+[2017.12.03-15.01.38:015][738]LogSavePackage: Save=217.12ms
+[2017.12.03-15.01.38:016][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Bottom_AmbientOcclusionDDB343314A6AB6B86B74FFA440DEBC36.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Bottom_AmbientOcclusion.uasset'
+[2017.12.03-15.01.38:057][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Bottom_AmbientOcclusion.uasset
+[2017.12.03-15.01.38:513][738]LogSavePackage: Save=321.70ms
+[2017.12.03-15.01.38:513][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Bottom_BaseColorC6F107DD4E4FA9ED9F62E5AA15B10A88.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Bottom_BaseColor.uasset'
+[2017.12.03-15.01.38:529][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Bottom_BaseColor.uasset
+[2017.12.03-15.01.38:630][738]LogSavePackage: Save=34.81ms
+[2017.12.03-15.01.38:630][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Bottom_Metallic68DFD2FA44C9BE6815860F9FE4B1BCC6.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Bottom_Metallic.uasset'
+[2017.12.03-15.01.38:644][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Bottom_Metallic.uasset
+[2017.12.03-15.01.39:300][738]LogSavePackage: Save=498.08ms
+[2017.12.03-15.01.39:301][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Bottom_Normal63CFB4B84E1F1742B50213AB2F7815B8.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Bottom_Normal.uasset'
+[2017.12.03-15.01.39:347][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Bottom_Normal.uasset
+[2017.12.03-15.01.39:815][738]LogSavePackage: Save=239.15ms
+[2017.12.03-15.01.39:815][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Bottom_RoughnessCC280F384936883888F4488F0BD61D47.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Bottom_Roughness.uasset'
+[2017.12.03-15.01.39:870][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Bottom_Roughness.uasset
+[2017.12.03-15.01.40:102][738]LogSavePackage: Save=70.39ms
+[2017.12.03-15.01.40:102][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Eyewear_AmbientOcclusionAB42D1144F243CCD801AFC99DF27A13D.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Eyewear_AmbientOcclusion.uasset'
+[2017.12.03-15.01.40:118][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Eyewear_AmbientOcclusion.uasset
+[2017.12.03-15.01.40:372][738]LogSavePackage: Save=174.24ms
+[2017.12.03-15.01.40:372][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Eyewear_BaseColorF146EF43463173EBF3501BB369C5E418.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Eyewear_BaseColor.uasset'
+[2017.12.03-15.01.40:389][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Eyewear_BaseColor.uasset
+[2017.12.03-15.01.40:607][738]LogSavePackage: Save=151.77ms
+[2017.12.03-15.01.40:607][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Eyewear_Metallic7247EBBE4B0449632AD448836B79552E.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Eyewear_Metallic.uasset'
+[2017.12.03-15.01.40:627][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Eyewear_Metallic.uasset
+[2017.12.03-15.01.40:825][738]LogSavePackage: Save=115.32ms
+[2017.12.03-15.01.40:825][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Eyewear_Normal7F0C6C344656C27AEDAB6B8EF3707B60.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Eyewear_Normal.uasset'
+[2017.12.03-15.01.40:844][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Eyewear_Normal.uasset
+[2017.12.03-15.01.40:963][738]LogSavePackage: Save=66.55ms
+[2017.12.03-15.01.40:963][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Eyewear_RoughnessDA91CA95411262AE210528BA16FAC8AD.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Eyewear_Roughness.uasset'
+[2017.12.03-15.01.40:976][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Eyewear_Roughness.uasset
+[2017.12.03-15.01.41:066][738]LogSavePackage: Save=67.04ms
+[2017.12.03-15.01.41:067][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Hair_AmbientOcclusion11AE203843A5208C7BDDB69DE1F03317.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Hair_AmbientOcclusion.uasset'
+[2017.12.03-15.01.41:080][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Hair_AmbientOcclusion.uasset
+[2017.12.03-15.01.41:191][738]LogSavePackage: Save=53.83ms
+[2017.12.03-15.01.41:191][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Hair_BaseColor7F6B65644C4BD21FC42FBEA6D733490E.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Hair_BaseColor.uasset'
+[2017.12.03-15.01.41:204][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Hair_BaseColor.uasset
+[2017.12.03-15.01.41:263][738]LogSavePackage: Save=41.03ms
+[2017.12.03-15.01.41:264][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Hair_Metallic68AA70854E23301D75A74F893153982E.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Hair_Metallic.uasset'
+[2017.12.03-15.01.41:277][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Hair_Metallic.uasset
+[2017.12.03-15.01.41:616][738]LogSavePackage: Save=278.12ms
+[2017.12.03-15.01.41:616][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Hair_Normal3FA261C74C993274C30F2C8B63C32DC1.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Hair_Normal.uasset'
+[2017.12.03-15.01.41:653][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Hair_Normal.uasset
+[2017.12.03-15.01.41:794][738]LogSavePackage: Save=83.38ms
+[2017.12.03-15.01.41:794][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Hair_Roughness8F6C010F4A4BCCF0DCADE2A360922C57.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Hair_Roughness.uasset'
+[2017.12.03-15.01.41:829][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Hair_Roughness.uasset
+[2017.12.03-15.01.42:127][738]LogSavePackage: Save=230.29ms
+[2017.12.03-15.01.42:128][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Moustache_AmbientOcclusion4E4438BB4487558C2C2D6E99A1D237DF.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Moustache_AmbientOcclusion.uasset'
+[2017.12.03-15.01.42:172][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Moustache_AmbientOcclusion.uasset
+[2017.12.03-15.01.42:574][738]LogSavePackage: Save=229.60ms
+[2017.12.03-15.01.42:574][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Moustache_BaseColorB8A169CB4D95A3985D3117BE26661A89.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Moustache_BaseColor.uasset'
+[2017.12.03-15.01.42:614][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Moustache_BaseColor.uasset
+[2017.12.03-15.01.42:807][738]LogSavePackage: Save=147.77ms
+[2017.12.03-15.01.42:808][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Moustache_MetallicF5BF36F54434A3C1BB673D8F475B8FD2.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Moustache_Metallic.uasset'
+[2017.12.03-15.01.42:850][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Moustache_Metallic.uasset
+[2017.12.03-15.01.43:317][738]LogSavePackage: Save=265.79ms
+[2017.12.03-15.01.43:317][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Moustache_Normal1E2A7F0841F4C435CC5B599638DD2C3B.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Moustache_Normal.uasset'
+[2017.12.03-15.01.43:358][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Moustache_Normal.uasset
+[2017.12.03-15.01.43:687][738]LogSavePackage: Save=154.43ms
+[2017.12.03-15.01.43:687][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Moustache_Roughness9C3247C24C2A0E10568F6FB96F46A32C.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Moustache_Roughness.uasset'
+[2017.12.03-15.01.43:723][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Moustache_Roughness.uasset
+[2017.12.03-15.01.44:383][738]LogSavePackage: Save=489.79ms
+[2017.12.03-15.01.44:385][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Shoes_AmbientOcclusion91DBA71C4D2A02811921A69BDA7CF5F5.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Shoes_AmbientOcclusion.uasset'
+[2017.12.03-15.01.44:437][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Shoes_AmbientOcclusion.uasset
+[2017.12.03-15.01.44:819][738]LogSavePackage: Save=286.49ms
+[2017.12.03-15.01.44:819][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Shoes_BaseColor522CE5BA4DA172E6297DD1BB20068770.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Shoes_BaseColor.uasset'
+[2017.12.03-15.01.44:864][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Shoes_BaseColor.uasset
+[2017.12.03-15.01.44:946][738]LogSavePackage: Save=38.63ms
+[2017.12.03-15.01.44:946][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Shoes_Metallic03B1ADAD4CBA6F036277CA8F150B8691.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Shoes_Metallic.uasset'
+[2017.12.03-15.01.44:963][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Shoes_Metallic.uasset
+[2017.12.03-15.01.45:250][738]LogSavePackage: Save=208.67ms
+[2017.12.03-15.01.45:250][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Shoes_Normal4852E19A4A7CDEEF5416A39D8658B88E.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Shoes_Normal.uasset'
+[2017.12.03-15.01.45:263][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Shoes_Normal.uasset
+[2017.12.03-15.01.45:409][738]LogSavePackage: Save=90.26ms
+[2017.12.03-15.01.45:409][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Shoes_Roughness43D056A34BE73BB13C237A82644E6136.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Shoes_Roughness.uasset'
+[2017.12.03-15.01.45:421][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Shoes_Roughness.uasset
+[2017.12.03-15.01.45:548][738]LogSavePackage: Save=94.25ms
+[2017.12.03-15.01.45:548][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Top_AmbientOcclusion77DAB7B647B27BCD1C725C8510DE6F47.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Top_AmbientOcclusion.uasset'
+[2017.12.03-15.01.45:582][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Top_AmbientOcclusion.uasset
+[2017.12.03-15.01.45:985][738]LogSavePackage: Save=344.38ms
+[2017.12.03-15.01.45:985][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Top_BaseColor36AC5A954218F0ED3C4077925B75E1CB.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Top_BaseColor.uasset'
+[2017.12.03-15.01.46:021][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Top_BaseColor.uasset
+[2017.12.03-15.01.46:224][738]LogSavePackage: Save=79.21ms
+[2017.12.03-15.01.46:224][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Top_MetallicE712AFAB4C18B5C3418AE7AC7F4C332E.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Top_Metallic.uasset'
+[2017.12.03-15.01.46:261][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Top_Metallic.uasset
+[2017.12.03-15.01.47:009][738]LogSavePackage: Save=599.65ms
+[2017.12.03-15.01.47:012][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Top_NormalB8C2694D489D71428BD6438D8BCE7EDB.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Top_Normal.uasset'
+[2017.12.03-15.01.47:042][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Top_Normal.uasset
+[2017.12.03-15.01.47:414][738]LogSavePackage: Save=133.71ms
+[2017.12.03-15.01.47:414][738]LogSavePackage: Moving '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Saved/Grandfather_Top_RoughnessDA5D6A3940DAECC5A6009F96E94EC9FF.tmp' to '../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Top_Roughness.uasset'
+[2017.12.03-15.01.47:620][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nicholas/Documents/GitHub/The-Arsonis/Content/Models/Grandpa/Textures/Grandfather_Top_Roughness.uasset
