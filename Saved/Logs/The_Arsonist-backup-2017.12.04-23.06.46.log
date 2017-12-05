@@ -1,0 +1,1156 @@
+﻿Log file open, 12/03/17 17:20:25
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: The_Arsonist
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-60569126) SRandInit(-60569126).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.178898
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: F:/Unreal/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.04-00.20.26:424][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.04-00.20.26:424][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.04-00.20.26:447][  0]LogInit: Computer: SPAGHETTI
+[2017.12.04-00.20.26:447][  0]LogInit: User: default
+[2017.12.04-00.20.26:447][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.04-00.20.26:447][  0]LogInit: High frequency timer resolution =3.429153 MHz
+[2017.12.04-00.20.26:447][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.12.04-00.20.26:447][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.04-00.20.26:447][  0]LogMemory: Process Physical Memory: 278.27 MB used, 278.27 MB peak
+[2017.12.04-00.20.26:447][  0]LogMemory: Process Virtual Memory: 274.52 MB used, 274.52 MB peak
+[2017.12.04-00.20.26:447][  0]LogMemory: Physical Memory: 7196.53 MB used,  9154.61 MB free, 16351.14 MB total
+[2017.12.04-00.20.26:448][  0]LogMemory: Virtual Memory: 668.92 MB used,  9154.61 MB free, 134217728.00 MB total
+[2017.12.04-00.20.26:580][  0]LogInit: Using OS detected language (en-US).
+[2017.12.04-00.20.26:580][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.04-00.20.26:583][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.04-00.20.27:288][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.04-00.20.27:336][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2017.12.04-00.20.27:336][  0]LogD3D11RHI:       6064/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.04-00.20.27:337][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.04-00.20.27:337][  0]LogD3D11RHI:       0/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.04-00.20.27:337][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.04-00.20.27:341][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.04-00.20.27:341][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.04-00.20.27:341][  0]LogWindows: EnumDisplayDevices:
+[2017.12.04-00.20.27:341][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2017.12.04-00.20.27:341][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.12.04-00.20.27:342][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.12.04-00.20.27:342][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.12.04-00.20.27:342][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.04-00.20.27:342][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2017.12.04-00.20.27:342][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.12.04-00.20.27:342][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.12.04-00.20.27:342][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.12.04-00.20.27:374][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.04-00.20.27:385][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.04-00.20.27:387][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (../../../../Projects/The_Arsonist/The-Arsonist/Intermediate/Shaders/WorkingDirectory/14056/).
+[2017.12.04-00.20.27:387][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/default.default-PC/AppData/Local/Temp/UnrealShaderWorkingDir/0E478F744BA7097F54D757A1BDD901A0/'.
+[2017.12.04-00.20.27:387][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.04-00.20.28:318][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.04-00.20.28:364][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.04-00.20.28:411][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.04-00.20.28:457][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.04-00.20.28:502][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.04-00.20.28:549][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.04-00.20.28:597][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.04-00.20.28:644][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.04-00.20.28:683][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.04-00.20.28:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.04-00.20.28:775][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.04-00.20.28:820][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.04-00.20.28:864][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.04-00.20.28:908][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.04-00.20.28:953][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.04-00.20.29:043][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.04-00.20.29:043][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.04-00.20.29:076][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.04-00.20.29:160][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.04-00.20.29:190][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.04-00.20.29:234][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.04-00.20.29:278][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.04-00.20.29:323][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.04-00.20.29:368][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.04-00.20.29:368][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.04-00.20.29:812][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.04-00.20.29:889][  0]LogDerivedDataCache: Loaded boot cache 0.08s 93MB C:/Users/default.default-PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.04-00.20.29:889][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/default.default-PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.12.04-00.20.29:889][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Projects/The_Arsonist/The-Arsonist/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.04-00.20.29:889][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.04-00.20.29:889][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Projects/The_Arsonist/The-Arsonist/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.04-00.20.29:889][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.04-00.20.29:906][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.04-00.20.29:918][  0]LogDerivedDataCache: Using Local data cache path C:/Users/default.default-PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.04-00.20.29:929][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.04-00.20.29:929][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.04-00.20.29:930][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.04-00.20.29:930][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.04-00.20.30:219][  0]LogAssetRegistry: FAssetRegistry took 0.0274 seconds to start up
+[2017.12.04-00.20.30:339][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.04-00.20.30:494][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.12.04-00.20.30:771][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.04-00.20.30:806][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.04-00.20.30:806][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.04-00.20.30:806][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.04-00.20.30:806][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.04-00.20.30:806][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.04-00.20.31:158][  0]LogNetVersion: The_Arsonist , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3182256164)
+[2017.12.04-00.20.31:359][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.039006 seconds
+[2017.12.04-00.20.31:366][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.12.04-00.20.31:366][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.12.04-00.20.31:366][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.04-00.20.31:425][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.04-00.20.33:783][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.04-00.20.33:821][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.04-00.20.34:394][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.04-00.20.34:766][  0]SourceControl: Source control is disabled
+[2017.12.04-00.20.34:766][  0]SourceControl: Source control is disabled
+[2017.12.04-00.20.34:807][  0]SourceControl: Source control is disabled
+[2017.12.04-00.20.34:849][  0]SourceControl: Source control is disabled
+[2017.12.04-00.20.35:371][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.04-00.20.35:584][  0]LogOcInput: OculusInput pre-init called
+[2017.12.04-00.20.35:822][  0]LogEngine: Initializing Engine...
+[2017.12.04-00.20.35:832][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2017.12.04-00.20.36:051][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.04-00.20.36:052][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.04-00.20.36:162][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.04-00.20.36:169][  0]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.04-00.20.36:299][  0]LogInit: FAudioDevice initialized.
+[2017.12.04-00.20.36:422][  0]LogDerivedDataCache: Saved boot cache 0.12s 93MB C:/Users/default.default-PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.04-00.20.36:435][  0]LogInit: Texture streaming: Enabled
+[2017.12.04-00.20.36:535][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.04-00.20.36:722][  0]LogInit: Transaction tracking system initialized
+[2017.12.04-00.20.36:993][  0]BlueprintLog: New page: Editor Load
+[2017.12.04-00.20.37:780][  0]LocalizationService: Localization service is disabled
+[2017.12.04-00.20.38:382][  0]LogConsoleResponse: Display: 
+[2017.12.04-00.20.38:571][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.04-00.20.38:571][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.04-00.20.38:571][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.04-00.20.38:858][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/' took 0.03s
+[2017.12.04-00.20.39:504][  0]SourceControl: Source control is disabled
+[2017.12.04-00.20.39:504][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.04-00.20.39:505][  0]LightingResults: New page: Lighting Build
+[2017.12.04-00.20.39:540][  0]MapCheck: New page: Map Check
+[2017.12.04-00.20.39:540][  0]LightingResults: New page: Lighting Build
+[2017.12.04-00.20.39:753][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.12.04-00.20.39:759][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.04-00.20.39:771][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.04-00.20.39:810][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 38.916ms to complete.
+[2017.12.04-00.20.39:810][  0]LogFileHelpers: Loading map 'Template_Default' took 0.306
+[2017.12.04-00.20.39:861][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.04-00.20.40:006][  0]LogCollectionManager: Loaded 0 collections in 0.002322 seconds
+[2017.12.04-00.20.40:079][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Saved/Collections/' took 0.01s
+[2017.12.04-00.20.40:079][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/Developers/default/Collections/' took 0.01s
+[2017.12.04-00.20.40:079][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/Collections/' took 0.01s
+[2017.12.04-00.20.40:079][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.04-00.20.40:088][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2386 classes and 500 folders.
+[2017.12.04-00.20.40:145][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.12.04-00.20.40:938][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.12.04-00.20.40:999][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.12.04-00.20.41:021][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.04-00.20.41:024][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.04-00.20.41:045][  0]LogSlate: Took 0.012141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.04-00.20.41:213][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2017.12.04-00.20.41:360][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.12.04-00.20.41:360][  0]LogLoad: (Engine Initialization) Total time: 16.77 seconds
+[2017.12.04-00.20.41:361][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.04-00.20.41:361][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.04-00.20.41:401][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.04-00.20.41:586][  1]LogAssetRegistry: Asset discovery search completed in 11.3892 seconds
+[2017.12.04-00.20.41:589][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.04-00.20.41:589][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2017.12.04-00.20.45:593][469]LogSlate: Took 0.021833 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.04-00.20.46:576][586]LogFileCache: Retrieving MD5 hashes for directory 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/' took 5.19s
+[2017.12.04-00.20.48:691][833]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.04-00.20.49:532][833]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.04-00.20.50:311][833]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2017.12.04-00.20.50:311][833]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 256X64)
+[2017.12.04-00.20.50:312][833]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2017.12.04-00.20.50:312][833]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2017.12.04-00.20.50:312][833]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2017.12.04-00.20.50:312][833]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 128X128)
+[2017.12.04-00.20.50:312][833]LogTexture: Display: Building textures: WallpaperTexture3 (BGRA8, 614X614)
+[2017.12.04-00.20.50:312][833]LogTexture: Display: Building textures: орех (BGRA8, 390X779)
+[2017.12.04-00.20.50:312][833]LogTexture: Display: Building textures: Rug4Fixed (AutoDXT, 988X988)
+[2017.12.04-00.20.50:963][833]LogTexture: Display: Building textures: Picture4 (AutoDXT, 900X900)
+[2017.12.04-00.20.53:812][833]LogTexture: Display: Building textures: T_Wood_Floor_Walnut_D (AutoDXT, 2048X2048)
+[2017.12.04-00.20.53:828][833]LogMaterial: Missing cached shader map for material Rug2, compiling. 
+[2017.12.04-00.20.53:893][833]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13' invalid (356 verts, 0 indices).
+[2017.12.04-00.20.53:893][833]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13.BodySetup_5 when we are unable to.
+[2017.12.04-00.20.53:896][833]LogStaticMesh: Building static mesh pictures_Canvas4...
+[2017.12.04-00.20.53:932][833]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Objects/WallHangings/PIcture4/pictures_Canvas4.pictures_Canvas4
+[2017.12.04-00.20.54:037][833]LogStaticMesh: Building static mesh pictures_Metal4...
+[2017.12.04-00.20.54:039][833]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Objects/WallHangings/PIcture4/pictures_Metal4.pictures_Metal4
+[2017.12.04-00.20.54:085][833]LogStaticMesh: Building static mesh Table1...
+[2017.12.04-00.20.56:184][833]LogStaticMesh: Built static mesh [2.10s] /Game/Models/Objects/Table/Table1.Table1
+[2017.12.04-00.20.56:613][833]LogMaterial: Missing cached shader map for material Wallpaper2, compiling. 
+[2017.12.04-00.20.56:669][833]LogMaterial: Missing cached shader map for material phong4, compiling. 
+[2017.12.04-00.20.56:701][833]LogMaterial: Missing cached shader map for material phong3, compiling. 
+[2017.12.04-00.20.56:735][833]LogMaterial: Missing cached shader map for material phong2, compiling. 
+[2017.12.04-00.20.56:802][833]LogMaterial: Missing cached shader map for material 03_-_Default, compiling. 
+[2017.12.04-00.20.56:873][833]LogMaterial: Missing cached shader map for material Pic4, compiling. 
+[2017.12.04-00.20.56:902][833]LogAIModule: Creating AISystem for world SecondRoom
+[2017.12.04-00.20.56:929][833]Cmd: MAP LOAD FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/SecondRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.04-00.20.56:929][833]LightingResults: New page: Lighting Build
+[2017.12.04-00.20.56:930][833]LoadErrors: New page: Loading map: SecondRoom.umap
+[2017.12.04-00.20.56:941][833]MapCheck: New page: Map Check
+[2017.12.04-00.20.56:941][833]LightingResults: New page: Lighting Build
+[2017.12.04-00.20.56:964][833]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.04-00.20.57:015][833]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.04-00.20.57:075][833]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.832ms to complete.
+[2017.12.04-00.20.57:076][833]LogFileHelpers: Loading map 'SecondRoom' took 0.148
+[2017.12.04-00.22.06:949][516]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_02)
+[2017.12.04-00.22.49:755][379]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.04-00.22.49:806][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-00.22.49:807][379]PIE: New page: PIE session: SecondRoom (Dec 3, 2017, 10:22:49 AM)
+[2017.12.04-00.22.49:807][379]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SecondRoom
+[2017.12.04-00.22.49:812][379]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13' invalid (356 verts, 0 indices).
+[2017.12.04-00.22.49:812][379]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13.BodySetup_5 when we are unable to.
+[2017.12.04-00.22.49:813][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006419s)
+[2017.12.04-00.22.49:814][379]LogAIModule: Creating AISystem for world SecondRoom
+[2017.12.04-00.22.49:814][379]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2017.12.04-00.22.49:814][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SecondRoom.SecondRoom to /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom (0.007372s)
+[2017.12.04-00.22.49:856][379]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.04-00.22.49:983][379]LogInit: FAudioDevice initialized.
+[2017.12.04-00.22.50:045][379]LogLoad: Game class is 'GameModeBase'
+[2017.12.04-00.22.50:048][379]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom up for play (max tick rate 0) at 2017.12.03-17.22.50
+[2017.12.04-00.22.50:049][379]LogWorld: Bringing up level for play took: 0.002620
+[2017.12.04-00.22.50:135][379]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.12.04-00.22.50:143][379]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_SecondRoom 1.115
+[2017.12.04-00.22.50:187][379]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.12.04-00.23.15:563][307]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Mom)
+[2017.12.04-00.23.24:739][996]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Mom)
+[2017.12.04-00.23.29:298][347]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.12.04-00.23.29:307][347]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.12.04-00.23.30:999][505]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_01)
+[2017.12.04-00.24.58:000][867]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_01)
+[2017.12.04-00.28.58:583][576]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_01)
+[2017.12.04-00.29.40:022][207]Cmd: TRANSACTION UNDO
+[2017.12.04-00.29.40:023][207]LogEditorTransaction: Undo Move Section
+[2017.12.04-00.29.40:035][207]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.04-00.30.20:553][178]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_01)
+[2017.12.04-00.30.51:765][400]Cmd: TRANSACTION UNDO
+[2017.12.04-00.30.51:765][400]LogEditorTransaction: Undo Add Keys at Current Time
+[2017.12.04-00.30.55:854][666]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_01)
+[2017.12.04-00.35.41:489][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SecondRoom" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Saved/Autosaves/Game/Scenes/SecondRoom_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.12.04-00.35.41:562][470]LogSavePackage: Save=65.13ms
+[2017.12.04-00.35.41:562][470]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/SecondRoom_Auto15E0B363F490013C2E6EC2FA3FF939E36.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Autosaves/Game/Scenes/SecondRoom_Auto1.umap'
+[2017.12.04-00.35.41:563][470]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Saved/Autosaves/Game/Scenes/SecondRoom_Auto1.umap
+[2017.12.04-00.35.41:564][470]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/SecondRoom' took 0.085
+[2017.12.04-00.35.41:564][470]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.085
+[2017.12.04-00.35.41:566][470]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation_Scenes/Scene_04] ([1] browsable assets)...
+[2017.12.04-00.35.41:566][470]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation_Scenes/Scene_04]
+[2017.12.04-00.35.41:591][470]LogSavePackage: Save=20.05ms
+[2017.12.04-00.35.41:591][470]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_04_Auto18278E4FD4564CE993C2FE98524F31CA0.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Autosaves/Game/Animation_Scenes/Scene_04_Auto1.uasset'
+[2017.12.04-00.35.41:607][470]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Saved/Autosaves/Game/Animation_Scenes/Scene_04_Auto1.uasset
+[2017.12.04-00.35.41:607][470]LogFileHelpers: Auto-saving content packages took 0.041
+[2017.12.04-00.37.50:917][668]Cmd: TRANSACTION UNDO
+[2017.12.04-00.37.50:917][668]LogEditorTransaction: Undo Select Actors/Components
+[2017.12.04-00.37.51:399][684]Cmd: TRANSACTION UNDO
+[2017.12.04-00.37.51:399][684]LogEditorTransaction: Undo Select Actors/Components
+[2017.12.04-00.37.51:824][703]Cmd: TRANSACTION UNDO
+[2017.12.04-00.37.51:824][703]LogEditorTransaction: Undo Select Actors/Components
+[2017.12.04-00.37.52:305][722]Cmd: TRANSACTION UNDO
+[2017.12.04-00.37.52:305][722]LogEditorTransaction: Undo Select Actors/Components
+[2017.12.04-00.37.53:141][765]Cmd: TRANSACTION UNDO
+[2017.12.04-00.37.53:141][765]LogEditorTransaction: Undo Select Actors/Components
+[2017.12.04-00.37.53:766][795]Cmd: TRANSACTION UNDO
+[2017.12.04-00.37.53:766][795]LogEditorTransaction: Undo Select Actors/Components
+[2017.12.04-00.37.53:925][798]Cmd: TRANSACTION UNDO
+[2017.12.04-00.37.53:925][798]LogEditorTransaction: Undo Select Actors/Components
+[2017.12.04-00.37.54:075][800]Cmd: TRANSACTION UNDO
+[2017.12.04-00.37.54:075][800]LogEditorTransaction: Undo Select Actors/Components
+[2017.12.04-00.37.54:272][805]Cmd: TRANSACTION UNDO
+[2017.12.04-00.37.54:272][805]LogEditorTransaction: Undo Set Float Key Value
+[2017.12.04-00.42.04:083][529]Cmd: SELECT NONE
+[2017.12.04-00.44.23:320][184]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_02)
+[2017.12.04-00.44.55:909][463]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_02)
+[2017.12.04-00.45.29:519][928]LogSlate: Took 0.023198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.04-00.46.39:457][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation_Scenes/Scene_04" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_04.uasset" SILENT=true
+[2017.12.04-00.46.39:495][ 96]LogSavePackage: Save=30.75ms
+[2017.12.04-00.46.39:495][ 96]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_04FCCE03934BC266213A16E3A16F009C19.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_04.uasset'
+[2017.12.04-00.46.39:508][ 96]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_04.uasset
+[2017.12.04-00.47.04:732][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SecondRoom" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Saved/Autosaves/Game/Scenes/SecondRoom_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.12.04-00.47.04:803][207]LogSavePackage: Save=64.30ms
+[2017.12.04-00.47.04:803][207]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/SecondRoom_Auto2B05AEB614F50559812832D947FE88EB8.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Autosaves/Game/Scenes/SecondRoom_Auto2.umap'
+[2017.12.04-00.47.04:804][207]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Saved/Autosaves/Game/Scenes/SecondRoom_Auto2.umap
+[2017.12.04-00.47.04:807][207]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/SecondRoom' took 0.084
+[2017.12.04-00.47.04:807][207]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.084
+[2017.12.04-00.53.16:122][812]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_02)
+[2017.12.04-00.53.38:920][666]Cmd: TRANSACTION UNDO
+[2017.12.04-00.53.38:920][666]LogEditorTransaction: Undo Animatable Property Changed
+[2017.12.04-00.53.40:582][788]Cmd: TRANSACTION UNDO
+[2017.12.04-00.53.40:582][788]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.04-00.53.40:631][788]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13' invalid (356 verts, 0 indices).
+[2017.12.04-00.53.40:631][788]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13.BodySetup_5 when we are unable to.
+[2017.12.04-00.53.42:488][950]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_02)
+[2017.12.04-00.53.45:057][147]Cmd: TRANSACTION UNDO
+[2017.12.04-00.53.45:057][147]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.04-00.53.45:112][147]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13' invalid (356 verts, 0 indices).
+[2017.12.04-00.53.45:112][147]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13.BodySetup_5 when we are unable to.
+[2017.12.04-00.53.45:475][171]Cmd: TRANSACTION UNDO
+[2017.12.04-00.53.45:475][171]LogEditorTransaction: Undo Move Components
+[2017.12.04-00.53.45:534][171]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13' invalid (356 verts, 0 indices).
+[2017.12.04-00.53.45:534][171]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13.BodySetup_5 when we are unable to.
+[2017.12.04-00.53.45:728][184]Cmd: TRANSACTION UNDO
+[2017.12.04-00.53.45:728][184]LogEditorTransaction: Undo Move Components
+[2017.12.04-00.53.46:058][210]Cmd: TRANSACTION UNDO
+[2017.12.04-00.53.46:058][210]LogEditorTransaction: Undo Move Components
+[2017.12.04-00.53.46:342][232]Cmd: TRANSACTION UNDO
+[2017.12.04-00.53.46:342][232]LogEditorTransaction: Undo Move Components
+[2017.12.04-00.53.46:623][254]Cmd: TRANSACTION UNDO
+[2017.12.04-00.53.46:623][254]LogEditorTransaction: Undo Rotate Components
+[2017.12.04-00.53.46:876][273]Cmd: TRANSACTION UNDO
+[2017.12.04-00.53.46:876][273]LogEditorTransaction: Undo Rotate Components
+[2017.12.04-00.53.47:077][288]Cmd: TRANSACTION UNDO
+[2017.12.04-00.53.47:077][288]LogEditorTransaction: Undo Rotate Components
+[2017.12.04-00.53.47:301][305]Cmd: TRANSACTION UNDO
+[2017.12.04-00.53.47:301][305]LogEditorTransaction: Undo Move Components
+[2017.12.04-00.53.47:632][331]Cmd: TRANSACTION UNDO
+[2017.12.04-00.53.47:632][331]LogEditorTransaction: Undo Move Components
+[2017.12.04-00.56.27:453][930]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_02)
+[2017.12.04-00.56.32:734][334]Cmd: TRANSACTION UNDO
+[2017.12.04-00.56.32:734][334]LogEditorTransaction: Undo Move Actors
+[2017.12.04-00.56.35:386][533]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Env_Fire_Grate_01)
+[2017.12.04-00.57.40:393][879]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_02)
+[2017.12.04-00.58.36:126][338]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_02)
+[2017.12.04-01.02.26:634][784]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.04-01.02.26:649][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-01.02.26:649][784]PIE: New page: PIE session: SecondRoom (Dec 3, 2017, 11:02:26 AM)
+[2017.12.04-01.02.26:649][784]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SecondRoom
+[2017.12.04-01.02.26:654][784]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13' invalid (356 verts, 0 indices).
+[2017.12.04-01.02.26:654][784]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13.BodySetup_5 when we are unable to.
+[2017.12.04-01.02.26:655][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006021s)
+[2017.12.04-01.02.26:656][784]LogAIModule: Creating AISystem for world SecondRoom
+[2017.12.04-01.02.26:656][784]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2017.12.04-01.02.26:656][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SecondRoom.SecondRoom to /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom (0.007096s)
+[2017.12.04-01.02.26:694][784]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.04-01.02.26:822][784]LogInit: FAudioDevice initialized.
+[2017.12.04-01.02.26:867][784]LogLoad: Game class is 'GameModeBase'
+[2017.12.04-01.02.26:870][784]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom up for play (max tick rate 0) at 2017.12.03-18.02.26
+[2017.12.04-01.02.26:870][784]LogWorld: Bringing up level for play took: 0.002077
+[2017.12.04-01.02.26:877][784]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_SecondRoom -0.151
+[2017.12.04-01.03.43:776][510]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.04-01.03.43:791][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-01.03.43:791][510]PIE: New page: PIE session: SecondRoom (Dec 3, 2017, 11:03:43 AM)
+[2017.12.04-01.03.43:791][510]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SecondRoom
+[2017.12.04-01.03.43:796][510]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13' invalid (356 verts, 0 indices).
+[2017.12.04-01.03.43:796][510]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13.BodySetup_5 when we are unable to.
+[2017.12.04-01.03.43:797][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005901s)
+[2017.12.04-01.03.43:798][510]LogAIModule: Creating AISystem for world SecondRoom
+[2017.12.04-01.03.43:798][510]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2017.12.04-01.03.43:798][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SecondRoom.SecondRoom to /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom (0.006838s)
+[2017.12.04-01.03.43:810][510]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.04-01.03.43:932][510]LogInit: FAudioDevice initialized.
+[2017.12.04-01.03.43:980][510]LogLoad: Game class is 'GameModeBase'
+[2017.12.04-01.03.43:983][510]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom up for play (max tick rate 0) at 2017.12.03-18.03.43
+[2017.12.04-01.03.43:983][510]LogWorld: Bringing up level for play took: 0.001907
+[2017.12.04-01.03.43:990][510]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_SecondRoom 0.962
+[2017.12.04-01.04.12:842][286]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_02)
+[2017.12.04-01.04.18:086][677]Cmd: EDIT COPY
+[2017.12.04-01.04.18:806][732]Cmd: EDIT PASTE
+[2017.12.04-01.07.01:957][723]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_3)
+[2017.12.04-01.07.42:894][880]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Env_Fire_Grate_01)
+[2017.12.04-01.08.06:826][952]Cmd: EDIT CUT
+[2017.12.04-01.08.06:830][952]LogEditorActor: Deleted Actor: Emitter
+[2017.12.04-01.08.06:841][952]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.12.04-01.08.09:315][213]Cmd: TRANSACTION UNDO
+[2017.12.04-01.08.09:315][213]LogEditorTransaction: Undo Cut
+[2017.12.04-01.08.11:372][376]Cmd: EDIT COPY
+[2017.12.04-01.08.12:108][438]Cmd: EDIT PASTE
+[2017.12.04-01.08.20:640][169]Cmd: EDIT PASTE
+[2017.12.04-01.08.25:274][564]Cmd: EDIT PASTE
+[2017.12.04-01.08.30:579][ 12]Cmd: EDIT PASTE
+[2017.12.04-01.08.38:609][691]Cmd: EDIT PASTE
+[2017.12.04-01.08.43:095][ 67]Cmd: EDIT PASTE
+[2017.12.04-01.09.04:985][922]Cmd: EDIT COPY
+[2017.12.04-01.09.06:019][  8]Cmd: EDIT PASTE
+[2017.12.04-01.09.24:938][549]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Env_Fire_Grate_5)
+[2017.12.04-01.09.29:185][897]Cmd: EDIT COPY
+[2017.12.04-01.09.29:657][936]Cmd: EDIT PASTE
+[2017.12.04-01.09.42:170][978]Cmd: EDIT COPY
+[2017.12.04-01.09.42:797][ 31]Cmd: EDIT PASTE
+[2017.12.04-01.09.47:346][406]Cmd: EDIT PASTE
+[2017.12.04-01.10.04:977][793]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Env_Fire_Grate_2)
+[2017.12.04-01.16.45:895][467]Cmd: TRANSACTION UNDO
+[2017.12.04-01.16.45:895][467]LogEditorTransaction: Undo Select Actors/Components
+[2017.12.04-01.16.46:078][479]Cmd: TRANSACTION UNDO
+[2017.12.04-01.16.46:078][479]LogEditorTransaction: Undo Select Actors/Components
+[2017.12.04-01.16.46:280][491]Cmd: TRANSACTION UNDO
+[2017.12.04-01.16.46:280][491]LogEditorTransaction: Undo Select Actors/Components
+[2017.12.04-01.16.46:764][527]Cmd: TRANSACTION UNDO
+[2017.12.04-01.16.46:764][527]LogEditorTransaction: Undo Set Float Key Value
+[2017.12.04-01.16.46:993][544]Cmd: TRANSACTION UNDO
+[2017.12.04-01.16.46:993][544]LogEditorTransaction: Undo Set Float Key Value
+[2017.12.04-01.16.47:173][557]Cmd: TRANSACTION UNDO
+[2017.12.04-01.16.47:173][557]LogEditorTransaction: Undo Set Float Key Value
+[2017.12.04-01.18.52:041][169]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Env_Fire_Grate_9)
+[2017.12.04-01.20.42:148][972]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_3)
+[2017.12.04-01.22.01:201][208]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Env_Fire_Grate_4)
+[2017.12.04-01.22.02:084][276]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Env_Fire_Grate_5)
+[2017.12.04-01.22.32:074][559]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Env_Fire_Grate_4)
+[2017.12.04-01.26.42:960][308]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.04-01.26.42:976][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-01.26.42:976][308]PIE: New page: PIE session: SecondRoom (Dec 3, 2017, 11:26:42 AM)
+[2017.12.04-01.26.42:976][308]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SecondRoom
+[2017.12.04-01.26.42:982][308]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13' invalid (356 verts, 0 indices).
+[2017.12.04-01.26.42:982][308]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13.BodySetup_5 when we are unable to.
+[2017.12.04-01.26.42:983][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007123s)
+[2017.12.04-01.26.42:984][308]LogAIModule: Creating AISystem for world SecondRoom
+[2017.12.04-01.26.42:984][308]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2017.12.04-01.26.42:984][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SecondRoom.SecondRoom to /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom (0.008168s)
+[2017.12.04-01.26.42:997][308]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.04-01.26.43:118][308]LogInit: FAudioDevice initialized.
+[2017.12.04-01.26.43:165][308]LogLoad: Game class is 'GameModeBase'
+[2017.12.04-01.26.43:167][308]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom up for play (max tick rate 0) at 2017.12.03-18.26.43
+[2017.12.04-01.26.43:169][308]LogWorld: Bringing up level for play took: 0.002787
+[2017.12.04-01.26.43:176][308]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_SecondRoom 0.148
+[2017.12.04-01.27.14:607][154]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Env_Fire_Grate_7)
+[2017.12.04-01.27.17:387][380]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Env_Fire_Grate_8)
+[2017.12.04-01.27.27:484][225]LogEditorActor: Deleted Actor: Emitter
+[2017.12.04-01.27.27:484][225]LogEditorActor: Deleted Actor: Emitter
+[2017.12.04-01.27.27:492][225]LogEditorActor: Deleted 2 Actors (0.009 secs)
+[2017.12.04-01.27.30:396][523]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.04-01.27.30:411][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-01.27.30:411][523]PIE: New page: PIE session: SecondRoom (Dec 3, 2017, 11:27:30 AM)
+[2017.12.04-01.27.30:411][523]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SecondRoom
+[2017.12.04-01.27.30:417][523]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13' invalid (356 verts, 0 indices).
+[2017.12.04-01.27.30:417][523]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13.BodySetup_5 when we are unable to.
+[2017.12.04-01.27.30:418][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006808s)
+[2017.12.04-01.27.30:418][523]LogAIModule: Creating AISystem for world SecondRoom
+[2017.12.04-01.27.30:419][523]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2017.12.04-01.27.30:419][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SecondRoom.SecondRoom to /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom (0.007756s)
+[2017.12.04-01.27.30:430][523]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.04-01.27.30:554][523]LogInit: FAudioDevice initialized.
+[2017.12.04-01.27.30:599][523]LogLoad: Game class is 'GameModeBase'
+[2017.12.04-01.27.30:601][523]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom up for play (max tick rate 0) at 2017.12.03-18.27.30
+[2017.12.04-01.27.30:602][523]LogWorld: Bringing up level for play took: 0.002421
+[2017.12.04-01.27.30:609][523]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_SecondRoom -0.419
+[2017.12.04-01.29.25:052][ 56]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.04-01.29.25:067][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-01.29.25:067][ 56]PIE: New page: PIE session: SecondRoom (Dec 3, 2017, 11:29:25 AM)
+[2017.12.04-01.29.25:067][ 56]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SecondRoom
+[2017.12.04-01.29.25:073][ 56]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13' invalid (356 verts, 0 indices).
+[2017.12.04-01.29.25:073][ 56]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13.BodySetup_5 when we are unable to.
+[2017.12.04-01.29.25:074][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006868s)
+[2017.12.04-01.29.25:074][ 56]LogAIModule: Creating AISystem for world SecondRoom
+[2017.12.04-01.29.25:075][ 56]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2017.12.04-01.29.25:075][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SecondRoom.SecondRoom to /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom (0.007829s)
+[2017.12.04-01.29.25:086][ 56]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.04-01.29.25:208][ 56]LogInit: FAudioDevice initialized.
+[2017.12.04-01.29.25:255][ 56]LogLoad: Game class is 'GameModeBase'
+[2017.12.04-01.29.25:257][ 56]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom up for play (max tick rate 0) at 2017.12.03-18.29.25
+[2017.12.04-01.29.25:258][ 56]LogWorld: Bringing up level for play took: 0.002457
+[2017.12.04-01.29.25:265][ 56]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_SecondRoom 0.237
+[2017.12.04-01.30.40:030][679]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_3)
+[2017.12.04-01.32.01:240][829]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.04-01.32.01:255][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-01.32.01:256][829]PIE: New page: PIE session: SecondRoom (Dec 3, 2017, 11:32:01 AM)
+[2017.12.04-01.32.01:256][829]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SecondRoom
+[2017.12.04-01.32.01:261][829]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13' invalid (356 verts, 0 indices).
+[2017.12.04-01.32.01:261][829]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13.BodySetup_5 when we are unable to.
+[2017.12.04-01.32.01:262][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006493s)
+[2017.12.04-01.32.01:263][829]LogAIModule: Creating AISystem for world SecondRoom
+[2017.12.04-01.32.01:263][829]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2017.12.04-01.32.01:263][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SecondRoom.SecondRoom to /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom (0.007446s)
+[2017.12.04-01.32.01:276][829]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.04-01.32.01:400][829]LogInit: FAudioDevice initialized.
+[2017.12.04-01.32.01:448][829]LogLoad: Game class is 'GameModeBase'
+[2017.12.04-01.32.01:450][829]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom up for play (max tick rate 0) at 2017.12.03-18.32.01
+[2017.12.04-01.32.01:451][829]LogWorld: Bringing up level for play took: 0.002673
+[2017.12.04-01.32.01:458][829]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_SecondRoom 0.431
+[2017.12.04-01.32.37:845][ 40]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.12.04-01.32.39:732][188]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.04-01.32.42:941][419]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.04-01.34.15:441][689]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Camera_3)
+[2017.12.04-01.34.55:202][797]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.04-01.34.55:217][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-01.34.55:217][797]PIE: New page: PIE session: SecondRoom (Dec 3, 2017, 11:34:55 AM)
+[2017.12.04-01.34.55:217][797]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SecondRoom
+[2017.12.04-01.34.55:223][797]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13' invalid (356 verts, 0 indices).
+[2017.12.04-01.34.55:223][797]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom:PersistentLevel.ModelComponent_13.BodySetup_5 when we are unable to.
+[2017.12.04-01.34.55:224][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006612s)
+[2017.12.04-01.34.55:224][797]LogAIModule: Creating AISystem for world SecondRoom
+[2017.12.04-01.34.55:224][797]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2017.12.04-01.34.55:224][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SecondRoom.SecondRoom to /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom (0.007576s)
+[2017.12.04-01.34.55:237][797]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.04-01.34.55:361][797]LogInit: FAudioDevice initialized.
+[2017.12.04-01.34.55:410][797]LogLoad: Game class is 'GameModeBase'
+[2017.12.04-01.34.55:412][797]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom up for play (max tick rate 0) at 2017.12.03-18.34.55
+[2017.12.04-01.34.55:413][797]LogWorld: Bringing up level for play took: 0.002286
+[2017.12.04-01.34.55:420][797]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_SecondRoom 0.392
+[2017.12.04-01.35.30:889][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation_Scenes/Scene_04" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_04.uasset" SILENT=true
+[2017.12.04-01.35.30:949][635]LogSavePackage: Save=53.29ms
+[2017.12.04-01.35.30:949][635]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_0437FB7C29410D609BB92EAC92FA7A14B8.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_04.uasset'
+[2017.12.04-01.35.30:950][635]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_04.uasset
+[2017.12.04-01.35.32:908][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SecondRoom" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/SecondRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.04-01.35.33:014][797]LogSavePackage: Save=91.66ms
+[2017.12.04-01.35.33:014][797]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/SecondRoom9A63B1AF482D1656B44657B45D5C2B0E.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/SecondRoom.umap'
+[2017.12.04-01.35.33:018][797]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/SecondRoom.umap
+[2017.12.04-01.35.33:048][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SecondRoom_BuiltData" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/SecondRoom_BuiltData.uasset" SILENT=true
+[2017.12.04-01.35.33:072][797]LogSavePackage: Save=19.50ms
+[2017.12.04-01.35.33:072][797]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/SecondRoom_BuiltData818D12014D535E611016BEB1CB475EC7.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/SecondRoom_BuiltData.uasset'
+[2017.12.04-01.35.33:073][797]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/SecondRoom_BuiltData.uasset
+[2017.12.04-01.35.36:696][ 91]MapCheck: New page: Map Check
+[2017.12.04-01.35.36:834][ 91]Cmd: MAP REBUILD ALLVISIBLE
+[2017.12.04-01.35.36:834][ 91]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.12.04-01.35.36:988][ 91]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/SecondRoom.SecondRoom:PersistentLevel.ModelComponent_5' invalid (356 verts, 0 indices).
+[2017.12.04-01.35.36:988][ 91]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/SecondRoom.SecondRoom:PersistentLevel.ModelComponent_5.BodySetup_5 when we are unable to.
+[2017.12.04-01.35.37:014][ 91]LightingResults: New page: Lighting Build - Dec 3, 2017, 11:35:37 AM
+[2017.12.04-01.35.37:172][ 91]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.12.04-01.35.37:271][ 91]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.12.04-01.35.37:292][ 91]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.12.04-01.35.37:820][ 91]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.12.04-01.35.37:820][ 91]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14056
+[2017.12.04-01.35.40:807][ 91]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.12.04-01.35.40:807][ 91]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.12.04-01.35.40:807][ 91]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.12.04-01.35.40:807][ 91]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.12.04-01.35.40:807][ 91]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.12.04-01.35.40:807][ 91]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.12.04-01.35.41:718][ 91]LogEditorBuildUtils: Build time 0:04
+[2017.12.04-01.35.41:727][ 91]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Walnut, compiling. 
+[2017.12.04-01.35.41:735][ 91]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Walnut, compiling. 
+[2017.12.04-01.35.41:767][ 92]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer phong3, compiling. 
+[2017.12.04-01.35.41:775][ 92]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer phong3, compiling. 
+[2017.12.04-01.35.41:815][ 93]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 5_2, compiling. 
+[2017.12.04-01.35.41:823][ 93]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 5_2, compiling. 
+[2017.12.04-01.35.41:848][ 94]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Gold, compiling. 
+[2017.12.04-01.35.41:857][ 94]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Gold, compiling. 
+[2017.12.04-01.35.41:878][ 95]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 17_-_Default, compiling. 
+[2017.12.04-01.35.41:885][ 95]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 17_-_Default, compiling. 
+[2017.12.04-01.35.41:906][ 96]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Material__0, compiling. 
+[2017.12.04-01.35.41:913][ 96]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Material__0, compiling. 
+[2017.12.04-01.35.41:941][ 97]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 02_-_Default, compiling. 
+[2017.12.04-01.35.41:948][ 97]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 02_-_Default, compiling. 
+[2017.12.04-01.35.41:974][ 98]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 8_2, compiling. 
+[2017.12.04-01.35.41:980][ 98]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 8_2, compiling. 
+[2017.12.04-01.35.42:005][ 99]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_AssetPlatform, compiling. 
+[2017.12.04-01.35.42:014][ 99]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_AssetPlatform, compiling. 
+[2017.12.04-01.35.42:044][100]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Side_1, compiling. 
+[2017.12.04-01.35.42:053][100]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Side_1, compiling. 
+[2017.12.04-01.35.42:084][101]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Pic4, compiling. 
+[2017.12.04-01.35.42:091][101]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Pic4, compiling. 
+[2017.12.04-01.35.42:121][102]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Metal, compiling. 
+[2017.12.04-01.35.42:128][102]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Metal, compiling. 
+[2017.12.04-01.35.42:161][103]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Pic6, compiling. 
+[2017.12.04-01.35.42:171][103]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Pic6, compiling. 
+[2017.12.04-01.35.42:215][104]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2017.12.04-01.35.42:224][104]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2017.12.04-01.35.42:256][105]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Floor_Walnut_Polished, compiling. 
+[2017.12.04-01.35.42:265][105]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Floor_Walnut_Polished, compiling. 
+[2017.12.04-01.35.42:291][106]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Pine, compiling. 
+[2017.12.04-01.35.42:301][106]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Pine, compiling. 
+[2017.12.04-01.35.42:329][107]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Wallpaper2, compiling. 
+[2017.12.04-01.35.42:338][107]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Wallpaper2, compiling. 
+[2017.12.04-01.35.42:364][108]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Rug2, compiling. 
+[2017.12.04-01.35.42:373][108]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Rug2, compiling. 
+[2017.12.04-01.35.49:768][256]LightingResults: Warning: Table1 Object has overlapping UVs.
+[2017.12.04-01.35.49:768][256]LightingResults: Table1 Lightmap UV are overlapping by 18.1%. Please adjust content - Enable Error Coloring to visualize.
+[2017.12.04-01.35.49:821][259]Job is a success!
+[2017.12.04-01.35.49:974][260]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2017.12.04-01.35.49:975][260]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2017.12.04-01.35.49:975][260]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2017.12.04-01.35.49:975][260]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2017.12.04-01.35.49:975][260]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 256X64)
+[2017.12.04-01.35.49:975][260]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 128X128)
+[2017.12.04-01.35.50:029][260]Lightmass on SPAGHETTI: 2.60 sec total, 310 ms importing, 157 ms setup, 336 ms photons, 1.76 sec processing, 0 ms extra exporting [32/32 mappings]. Threads: 12.1 sec total, 3.17 sec processing.
+[2017.12.04-01.35.50:050][260]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/SecondRoom.SecondRoom:PersistentLevel.ModelComponent_5' invalid (356 verts, 0 indices).
+[2017.12.04-01.35.50:050][260]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/SecondRoom.SecondRoom:PersistentLevel.ModelComponent_5.BodySetup_5 when we are unable to.
+[2017.12.04-01.35.50:056][260]LogStaticLightingSystem: Illumination: 13.0 sec (33 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2017.12.04-01.35.50:056][260]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 4 textures
+[2017.12.04-01.35.50:056][260]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.1 MB streaming, 0.1 MB non-streaming), 2 textures
+[2017.12.04-01.35.50:788][260]DumpUnbuiltLightIteractions
+[2017.12.04-01.35.50:788][260]Lights with unbuilt interactions: 0
+[2017.12.04-01.35.50:788][260]
+[2017.12.04-01.35.50:788][260]Primitives with unbuilt interactions: 0
+[2017.12.04-01.35.50:835][261]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.12.04-01.35.50:835][261]MapCheck: New page: SecondRoom - Dec 3, 2017, 11:35:50 AM
+[2017.12.04-01.35.50:860][261]MapCheck: Error: P_Env_Fire_Grate_6 P_Env_Fire_Grate_6 : Invalid DrawScale/DrawScale3D 
+[2017.12.04-01.35.50:860][261]MapCheck: Error: P_Env_Fire_Grate_10 P_Env_Fire_Grate_10 : Invalid DrawScale/DrawScale3D 
+[2017.12.04-01.35.50:860][261]MapCheck: Error: P_Env_Fire_Grate_11 P_Env_Fire_Grate_11 : Invalid DrawScale/DrawScale3D 
+[2017.12.04-01.35.50:908][261]MapCheck: Map check complete: 3 Error(s), 0 Warning(s), took 72.573ms to complete.
+[2017.12.04-01.36.01:139][ 81]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.04-01.36.01:155][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-01.36.01:156][ 81]PIE: New page: PIE session: SecondRoom (Dec 3, 2017, 11:36:01 AM)
+[2017.12.04-01.36.01:156][ 81]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SecondRoom
+[2017.12.04-01.36.01:161][ 81]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom:PersistentLevel.ModelComponent_5' invalid (356 verts, 0 indices).
+[2017.12.04-01.36.01:161][ 81]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom:PersistentLevel.ModelComponent_5.BodySetup_5 when we are unable to.
+[2017.12.04-01.36.01:162][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006603s)
+[2017.12.04-01.36.01:163][ 81]LogAIModule: Creating AISystem for world SecondRoom
+[2017.12.04-01.36.01:163][ 81]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2017.12.04-01.36.01:163][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SecondRoom.SecondRoom to /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom (0.007635s)
+[2017.12.04-01.36.01:176][ 81]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.04-01.36.01:300][ 81]LogInit: FAudioDevice initialized.
+[2017.12.04-01.36.01:348][ 81]LogLoad: Game class is 'GameModeBase'
+[2017.12.04-01.36.01:350][ 81]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom up for play (max tick rate 0) at 2017.12.03-18.36.01
+[2017.12.04-01.36.01:351][ 81]LogWorld: Bringing up level for play took: 0.002475
+[2017.12.04-01.36.01:358][ 81]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_SecondRoom 0.33
+[2017.12.04-01.36.27:662][337]LogLinker: Can't find file '/Engine/Transient'
+[2017.12.04-01.37.56:504][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SecondRoom" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/SecondRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.04-01.37.56:609][384]LogSavePackage: Save=91.59ms
+[2017.12.04-01.37.56:609][384]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/SecondRoomA4BA285F4B15456DB838499238C25E39.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/SecondRoom.umap'
+[2017.12.04-01.37.56:611][384]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/SecondRoom.umap
+[2017.12.04-01.37.56:635][384]LogFileHelpers: Saving map 'SecondRoom' took 0.178
+[2017.12.04-01.37.56:636][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/SecondRoom_BuiltData" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/SecondRoom_BuiltData.uasset" SILENT=true
+[2017.12.04-01.37.56:659][384]LogSavePackage: Save=17.57ms
+[2017.12.04-01.37.56:659][384]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/SecondRoom_BuiltData792FA70A49B86303C5690FA3A561EE0C.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/SecondRoom_BuiltData.uasset'
+[2017.12.04-01.37.56:660][384]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/SecondRoom_BuiltData.uasset
+[2017.12.04-01.37.56:678][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-01.37.56:678][384]PIE: New page: PIE session: SecondRoom (Dec 3, 2017, 11:37:56 AM)
+[2017.12.04-01.37.56:678][384]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SecondRoom
+[2017.12.04-01.37.56:684][384]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom:PersistentLevel.ModelComponent_5' invalid (356 verts, 0 indices).
+[2017.12.04-01.37.56:684][384]LogPhysics: Warning: Attempt to build physics data for /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom:PersistentLevel.ModelComponent_5.BodySetup_5 when we are unable to.
+[2017.12.04-01.37.56:685][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006973s)
+[2017.12.04-01.37.56:686][384]LogAIModule: Creating AISystem for world SecondRoom
+[2017.12.04-01.37.56:686][384]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2017.12.04-01.37.56:686][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SecondRoom.SecondRoom to /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom (0.007931s)
+[2017.12.04-01.37.56:699][384]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.04-01.37.56:819][384]LogInit: FAudioDevice initialized.
+[2017.12.04-01.37.56:898][384]LogLoad: Game class is 'GameModeBase'
+[2017.12.04-01.37.56:900][384]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SecondRoom.SecondRoom up for play (max tick rate 0) at 2017.12.03-18.37.56
+[2017.12.04-01.37.56:900][384]LogWorld: Bringing up level for play took: 0.001938
+[2017.12.04-01.37.56:911][384]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_SecondRoom -0.117
+[2017.12.04-01.37.56:943][384]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2017.12.04-01.37.56:964][385]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:441054).
+[2017.12.04-01.37.57:012][386]LogContentStreaming: Texture pool size now 878 MB
+[2017.12.04-01.37.57:246][393]LogContentStreaming: Texture pool size now 923 MB
+[2017.12.04-01.38.19:136][694]LogContentStreaming: Texture pool size now 912 MB
+[2017.12.04-01.38.31:481][890]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.04-01.39.55:171][143]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:441055).
+[2017.12.04-01.40.18:512][604]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.04-01.40.18:572][604]Cmd: MAP LOAD FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.04-01.40.18:572][604]LightingResults: New page: Lighting Build
+[2017.12.04-01.40.18:573][604]LoadErrors: New page: Loading map: Scene_01_02.umap
+[2017.12.04-01.40.18:574][604]MapCheck: New page: Map Check
+[2017.12.04-01.40.18:574][604]LightingResults: New page: Lighting Build
+[2017.12.04-01.40.18:597][604]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.04-01.40.18:634][604]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.04-01.40.18:716][604]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.551ms to complete.
+[2017.12.04-01.40.18:716][604]LogFileHelpers: Loading map 'Scene_01_02' took 0.146
+[2017.12.04-01.40.25:631][252]LogAIModule: Creating AISystem for world Scene_01_03
+[2017.12.04-01.40.31:180][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Scene_01_03" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_03.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.04-01.40.31:472][532]LogSavePackage: Save=263.38ms
+[2017.12.04-01.40.31:472][532]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_01_03AA599CA645C42BB9B85314851DBFD414.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_03.umap'
+[2017.12.04-01.40.31:473][532]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_03.umap
+[2017.12.04-01.40.31:481][532]LogFileHelpers: Saving map 'Scene_01_03' took 0.384
+[2017.12.04-01.40.31:489][532]Cmd: MAP LOAD FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_03.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.04-01.40.31:489][532]LightingResults: New page: Lighting Build
+[2017.12.04-01.40.31:490][532]LoadErrors: New page: Loading map: Scene_01_03.umap
+[2017.12.04-01.40.31:492][532]MapCheck: New page: Map Check
+[2017.12.04-01.40.31:492][532]LightingResults: New page: Lighting Build
+[2017.12.04-01.40.31:515][532]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.04-01.40.31:552][532]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.04-01.40.31:630][532]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78.66ms to complete.
+[2017.12.04-01.40.31:631][532]LogFileHelpers: Loading map 'Scene_01_03' took 0.144
+[2017.12.04-01.40.37:533][ 32]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Scene2KidPlayingLookingUp_Anim)
+[2017.12.04-01.40.39:132][160]Cmd: DELETE
+[2017.12.04-01.40.39:132][160]Cmd: ACTOR DELETE
+[2017.12.04-01.40.39:133][160]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.12.04-01.40.39:143][160]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.12.04-01.40.40:762][323]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Stop_Walking_Anim)
+[2017.12.04-01.40.41:876][417]Cmd: DELETE
+[2017.12.04-01.40.41:876][417]Cmd: ACTOR DELETE
+[2017.12.04-01.40.41:877][417]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.12.04-01.40.41:887][417]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.12.04-01.40.43:513][589]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Scene1MotherIdleReading_Anim)
+[2017.12.04-01.40.44:990][720]Cmd: DELETE
+[2017.12.04-01.40.44:990][720]Cmd: ACTOR DELETE
+[2017.12.04-01.40.44:991][720]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.12.04-01.40.45:002][720]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.12.04-01.41.29:481][652]LogEditorActor: Deleted Actor: Emitter
+[2017.12.04-01.41.29:481][652]LogEditorActor: Deleted Actor: Emitter
+[2017.12.04-01.41.29:481][652]LogEditorActor: Deleted Actor: Emitter
+[2017.12.04-01.41.29:482][652]LogEditorActor: Deleted Actor: Emitter
+[2017.12.04-01.41.29:482][652]LogEditorActor: Deleted Actor: Emitter
+[2017.12.04-01.41.29:482][652]LogEditorActor: Deleted Actor: Emitter
+[2017.12.04-01.41.29:482][652]LogEditorActor: Deleted Actor: Emitter
+[2017.12.04-01.41.29:482][652]LogEditorActor: Deleted Actor: Emitter
+[2017.12.04-01.41.29:483][652]LogEditorActor: Deleted Actor: Emitter
+[2017.12.04-01.41.29:483][652]LogEditorActor: Deleted Actor: Emitter
+[2017.12.04-01.41.29:483][652]LogEditorActor: Deleted Actor: Emitter
+[2017.12.04-01.41.29:483][652]LogEditorActor: Deleted Actor: Emitter
+[2017.12.04-01.41.29:483][652]LogEditorActor: Deleted Actor: Emitter
+[2017.12.04-01.41.29:483][652]LogEditorActor: Deleted Actor: Emitter
+[2017.12.04-01.41.29:492][652]LogEditorActor: Deleted 14 Actors (0.012 secs)
+[2017.12.04-01.42.12:972][334]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -211.00,-243.00,84.00
+[2017.12.04-01.42.14:791][512]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 118.00,22.00,2.00
+[2017.12.04-01.44.16:101][154]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (GrandfatherTellingStory_Anim)
+[2017.12.04-01.44.17:635][278]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2017.12.04-01.45.08:433][105]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -113.00,-53.00,60.00
+[2017.12.04-01.45.09:844][221]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 153.00,384.00,2.00
+[2017.12.04-01.45.25:347][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BookShelf2_pCube10)
+[2017.12.04-01.45.27:952][502]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor3)
+[2017.12.04-01.51.02:244][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scene_05" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scene_05.uasset" SILENT=true
+[2017.12.04-01.51.02:267][544]LogSavePackage: Save=20.77ms
+[2017.12.04-01.51.02:267][544]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_05878E54234F73E38976613B832E6195C0.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Scene_05.uasset'
+[2017.12.04-01.51.02:268][544]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Scene_05.uasset
+[2017.12.04-01.51.03:568][653]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.04-01.51.03:586][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-01.51.03:586][653]PIE: New page: PIE session: Scene_01_03 (Dec 3, 2017, 11:51:03 AM)
+[2017.12.04-01.51.03:586][653]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_03
+[2017.12.04-01.51.03:599][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013044s)
+[2017.12.04-01.51.03:600][653]LogAIModule: Creating AISystem for world Scene_01_03
+[2017.12.04-01.51.03:600][653]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2017.12.04-01.51.03:600][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_03.Scene_01_03 to /Game/Scenes/UEDPIE_0_Scene_01_03.Scene_01_03 (0.014407s)
+[2017.12.04-01.51.03:614][653]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.04-01.51.03:741][653]LogInit: FAudioDevice initialized.
+[2017.12.04-01.51.03:790][653]LogLoad: Game class is 'GameModeBase'
+[2017.12.04-01.51.03:796][653]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_03.Scene_01_03 up for play (max tick rate 0) at 2017.12.03-18.51.03
+[2017.12.04-01.51.03:859][653]LogWorld: Bringing up level for play took: 0.068628
+[2017.12.04-01.51.03:867][653]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_03 0.839
+[2017.12.04-01.52.41:288][252]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (GrandfatherTellingStory_Anim)
+[2017.12.04-01.54.41:630][496]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.04-01.54.41:645][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-01.54.41:645][496]PIE: New page: PIE session: Scene_01_03 (Dec 3, 2017, 11:54:41 AM)
+[2017.12.04-01.54.41:645][496]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_03
+[2017.12.04-01.54.41:658][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012725s)
+[2017.12.04-01.54.41:659][496]LogAIModule: Creating AISystem for world Scene_01_03
+[2017.12.04-01.54.41:659][496]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2017.12.04-01.54.41:659][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_03.Scene_01_03 to /Game/Scenes/UEDPIE_0_Scene_01_03.Scene_01_03 (0.013843s)
+[2017.12.04-01.54.41:672][496]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.04-01.54.41:794][496]LogInit: FAudioDevice initialized.
+[2017.12.04-01.54.41:841][496]LogLoad: Game class is 'GameModeBase'
+[2017.12.04-01.54.41:848][496]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_03.Scene_01_03 up for play (max tick rate 0) at 2017.12.03-18.54.41
+[2017.12.04-01.54.41:849][496]LogWorld: Bringing up level for play took: 0.006734
+[2017.12.04-01.54.41:856][496]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_03 0.828
+[2017.12.04-01.54.56:749][809]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2017.12.04-01.55.21:810][ 94]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.04-01.55.21:825][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-01.55.21:825][ 94]PIE: New page: PIE session: Scene_01_03 (Dec 3, 2017, 11:55:21 AM)
+[2017.12.04-01.55.21:825][ 94]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_03
+[2017.12.04-01.55.21:838][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012976s)
+[2017.12.04-01.55.21:839][ 94]LogAIModule: Creating AISystem for world Scene_01_03
+[2017.12.04-01.55.21:839][ 94]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2017.12.04-01.55.21:839][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_03.Scene_01_03 to /Game/Scenes/UEDPIE_0_Scene_01_03.Scene_01_03 (0.014112s)
+[2017.12.04-01.55.21:851][ 94]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.04-01.55.21:975][ 94]LogInit: FAudioDevice initialized.
+[2017.12.04-01.55.22:019][ 94]LogLoad: Game class is 'GameModeBase'
+[2017.12.04-01.55.22:026][ 94]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_03.Scene_01_03 up for play (max tick rate 0) at 2017.12.03-18.55.22
+[2017.12.04-01.55.22:027][ 94]LogWorld: Bringing up level for play took: 0.007645
+[2017.12.04-01.55.22:035][ 94]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_03 1.007
+[2017.12.04-01.55.39:710][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scene_05" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scene_05.uasset" SILENT=true
+[2017.12.04-01.55.39:747][687]LogSavePackage: Save=30.03ms
+[2017.12.04-01.55.39:747][687]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_0521802F6C42CAF7A4DCB3FD92115679DE.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Scene_05.uasset'
+[2017.12.04-01.55.39:748][687]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Scene_05.uasset
+[2017.12.04-01.56.07:802][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation_Scenes/Scene_05" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_05.uasset" SILENT=true
+[2017.12.04-01.56.07:826][775]LogSavePackage: Save=22.79ms
+[2017.12.04-01.56.07:826][775]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_056DE5BD254B328046B84D3F9875429177.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_05.uasset'
+[2017.12.04-01.56.07:827][775]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_05.uasset
+[2017.12.04-01.56.40:706][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Scene_01_03" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Saved/Autosaves/Game/Scenes/Scene_01_03_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.12.04-01.56.40:916][645]LogSavePackage: Save=204.03ms
+[2017.12.04-01.56.40:917][645]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_01_03_Auto3A2C1579648F3602621964D9DF4DF2293.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Autosaves/Game/Scenes/Scene_01_03_Auto3.umap'
+[2017.12.04-01.56.40:917][645]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Saved/Autosaves/Game/Scenes/Scene_01_03_Auto3.umap
+[2017.12.04-01.56.40:919][645]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Scene_01_03' took 0.223
+[2017.12.04-01.56.40:919][645]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.223
+[2017.12.04-01.56.49:682][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Scene_01_03" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_03.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.04-01.56.49:895][242]LogSavePackage: Save=200.87ms
+[2017.12.04-01.56.49:896][242]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_01_0319CF32BC4942C55F48DDD896C3199FDF.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_03.umap'
+[2017.12.04-01.56.49:897][242]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_03.umap
+[2017.12.04-01.56.49:922][242]LogFileHelpers: Saving map 'Scene_01_03' took 0.326
+[2017.12.04-01.56.49:939][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-01.56.49:939][242]PIE: New page: PIE session: Scene_01_03 (Dec 3, 2017, 11:56:49 AM)
+[2017.12.04-01.56.49:939][242]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_03
+[2017.12.04-01.56.49:952][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012544s)
+[2017.12.04-01.56.49:952][242]LogAIModule: Creating AISystem for world Scene_01_03
+[2017.12.04-01.56.49:952][242]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2017.12.04-01.56.49:953][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_03.Scene_01_03 to /Game/Scenes/UEDPIE_0_Scene_01_03.Scene_01_03 (0.013603s)
+[2017.12.04-01.56.49:966][242]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.04-01.56.50:092][242]LogInit: FAudioDevice initialized.
+[2017.12.04-01.56.50:178][242]LogLoad: Game class is 'GameModeBase'
+[2017.12.04-01.56.50:185][242]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_03.Scene_01_03 up for play (max tick rate 0) at 2017.12.03-18.56.50
+[2017.12.04-01.56.50:186][242]LogWorld: Bringing up level for play took: 0.007553
+[2017.12.04-01.56.50:196][242]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_03 1.168
+[2017.12.04-01.56.50:235][243]LogContentStreaming: Texture pool size now 824 MB
+[2017.12.04-01.56.51:033][308]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:2).
+[2017.12.04-01.57.07:852][586]LogContentStreaming: Texture pool size now 732 MB
+[2017.12.04-01.57.15:525][765]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:84914).
+[2017.12.04-01.57.15:575][768]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.04-01.57.33:499][439]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.04-01.57.33:687][440]Cmd: QUIT_EDITOR
+[2017.12.04-01.57.34:635][440]LogExit: Preparing to exit.
+[2017.12.04-01.57.35:133][440]LogDirectoryWatcher: A directory notification for 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/' was aborted.
+[2017.12.04-01.57.35:224][440]LogExit: Editor shut down
+[2017.12.04-01.57.35:248][440]LogExit: Transaction tracking system shut down
+[2017.12.04-01.57.35:533][440]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.04-01.57.35:533][440]LogDirectoryWatcher: A directory notification for '../../../../Projects/The_Arsonist/The-Arsonist/Content/' was aborted.
+[2017.12.04-01.57.35:533][440]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.04-01.57.35:533][440]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.04-01.57.35:533][440]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.04-01.57.35:688][440]LogExit: Object subsystem successfully closed.
+[2017.12.04-01.57.35:720][440]LogD3D11RHI: Shutdown
+[2017.12.04-01.57.35:720][440]LogD3D11RHI: CleanupD3DDevice
+[2017.12.04-01.57.35:890][440]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.04-01.57.35:899][440]LogModuleManager: Shutting down and abandoning module MovieSceneCaptureDialog (536)
+[2017.12.04-01.57.35:899][440]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (534)
+[2017.12.04-01.57.35:899][440]LogModuleManager: Shutting down and abandoning module SequencerWidgets (532)
+[2017.12.04-01.57.35:899][440]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.12.04-01.57.35:899][440]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.12.04-01.57.35:900][440]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.12.04-01.57.35:900][440]LogDirectoryWatcher: A directory notification for 'F:/Unreal/UE_4.17/FeaturePacks/' was aborted.
+[2017.12.04-01.57.35:905][440]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.12.04-01.57.35:905][440]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.12.04-01.57.35:905][440]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.12.04-01.57.35:905][440]LogDirectoryWatcher: A directory notification for 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/Collections/' was aborted.
+[2017.12.04-01.57.35:905][440]LogDirectoryWatcher: A directory notification for 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/Developers/default/Collections/' was aborted.
+[2017.12.04-01.57.35:905][440]LogDirectoryWatcher: A directory notification for 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Saved/Collections/' was aborted.
+[2017.12.04-01.57.35:905][440]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.12.04-01.57.35:905][440]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.12.04-01.57.35:905][440]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.12.04-01.57.35:905][440]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.12.04-01.57.35:905][440]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.12.04-01.57.35:905][440]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.12.04-01.57.35:905][440]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.12.04-01.57.35:906][440]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.12.04-01.57.35:907][440]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.12.04-01.57.35:907][440]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.12.04-01.57.35:907][440]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.12.04-01.57.35:907][440]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.12.04-01.57.35:907][440]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.12.04-01.57.35:907][440]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.12.04-01.57.35:907][440]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.12.04-01.57.36:287][440]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.12.04-01.57.36:287][440]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.12.04-01.57.36:287][440]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.12.04-01.57.36:287][440]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.12.04-01.57.36:287][440]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.12.04-01.57.36:288][440]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.12.04-01.57.36:288][440]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.12.04-01.57.36:288][440]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.12.04-01.57.36:288][440]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.12.04-01.57.36:288][440]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.12.04-01.57.36:288][440]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.12.04-01.57.36:288][440]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.12.04-01.57.36:288][440]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.12.04-01.57.36:288][440]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.12.04-01.57.36:288][440]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.12.04-01.57.36:288][440]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.12.04-01.57.36:288][440]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.12.04-01.57.36:288][440]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.12.04-01.57.36:288][440]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.12.04-01.57.36:288][440]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.12.04-01.57.36:288][440]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.12.04-01.57.36:288][440]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.12.04-01.57.36:288][440]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.12.04-01.57.36:289][440]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.12.04-01.57.36:342][440]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.12.04-01.57.36:342][440]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.12.04-01.57.36:342][440]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.12.04-01.57.36:342][440]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.12.04-01.57.36:342][440]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.12.04-01.57.36:342][440]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.12.04-01.57.36:342][440]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.12.04-01.57.36:342][440]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.12.04-01.57.36:342][440]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.12.04-01.57.36:342][440]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.12.04-01.57.36:343][440]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.12.04-01.57.36:419][440]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.12.04-01.57.36:419][440]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.12.04-01.57.36:420][440]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.12.04-01.57.36:422][440]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.12.04-01.57.36:422][440]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.12.04-01.57.36:422][440]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.12.04-01.57.36:422][440]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.12.04-01.57.36:422][440]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.12.04-01.57.36:422][440]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.12.04-01.57.36:422][440]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.12.04-01.57.36:422][440]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.12.04-01.57.36:422][440]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.12.04-01.57.36:422][440]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.12.04-01.57.36:422][440]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.12.04-01.57.36:524][440]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.12.04-01.57.36:624][440]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.12.04-01.57.36:624][440]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.12.04-01.57.36:624][440]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.12.04-01.57.36:624][440]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.12.04-01.57.36:624][440]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.12.04-01.57.36:624][440]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.12.04-01.57.36:626][440]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.12.04-01.57.36:626][440]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.12.04-01.57.36:626][440]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.12.04-01.57.36:626][440]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.12.04-01.57.36:626][440]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.12.04-01.57.36:626][440]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.12.04-01.57.36:627][440]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.12.04-01.57.36:627][440]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.12.04-01.57.36:627][440]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.12.04-01.57.36:627][440]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.12.04-01.57.36:627][440]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.12.04-01.57.36:627][440]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.12.04-01.57.36:627][440]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.12.04-01.57.36:627][440]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.12.04-01.57.36:627][440]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.12.04-01.57.36:627][440]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.12.04-01.57.36:627][440]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.12.04-01.57.36:627][440]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.12.04-01.57.36:627][440]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.12.04-01.57.36:627][440]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.12.04-01.57.36:627][440]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.12.04-01.57.36:627][440]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.12.04-01.57.36:627][440]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.12.04-01.57.36:627][440]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.12.04-01.57.36:629][440]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.12.04-01.57.36:630][440]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.12.04-01.57.36:630][440]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.12.04-01.57.36:630][440]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.12.04-01.57.36:630][440]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.12.04-01.57.36:630][440]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.12.04-01.57.36:630][440]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.04-01.57.36:630][440]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.12.04-01.57.36:630][440]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.12.04-01.57.36:630][440]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.12.04-01.57.36:630][440]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.12.04-01.57.36:630][440]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.12.04-01.57.36:630][440]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.12.04-01.57.36:630][440]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.12.04-01.57.36:630][440]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.12.04-01.57.36:630][440]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.12.04-01.57.36:635][440]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.12.04-01.57.36:676][440]LogDerivedDataCache: Shutdown
+[2017.12.04-01.57.36:676][440]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.12.04-01.57.36:676][440]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.12.04-01.57.36:676][440]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.12.04-01.57.36:676][440]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.12.04-01.57.36:677][440]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.12.04-01.57.36:677][440]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.12.04-01.57.36:677][440]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.12.04-01.57.36:677][440]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.12.04-01.57.36:677][440]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.12.04-01.57.36:677][440]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.12.04-01.57.36:677][440]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.12.04-01.57.36:677][440]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.12.04-01.57.36:677][440]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.12.04-01.57.36:677][440]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.12.04-01.57.36:677][440]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.12.04-01.57.36:677][440]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.12.04-01.57.36:677][440]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.12.04-01.57.36:677][440]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.12.04-01.57.36:677][440]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.12.04-01.57.36:677][440]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.12.04-01.57.36:677][440]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.12.04-01.57.36:677][440]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.12.04-01.57.36:678][440]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.12.04-01.57.36:679][440]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.04-01.57.36:679][440]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.04-01.57.36:679][440]LogOnline: Display: Unloading online subsystem: NULL
+[2017.12.04-01.57.36:679][440]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.04-01.57.36:679][440]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.04-01.57.36:679][440]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.04-01.57.36:679][440]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0FACB30F-40F5-B18D-96B5-9A9BE4062B5F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.1-3586342%2B%2B%2BUE4%2BRelease-4.17&UserID=77a9eb4f462cfdf02b7f6988945b7494%7C678323adc543409c9e4b9a2089a91c33%7C80bd5cb6-d69c-4264-8e08-a361daa0d06d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.04-01.57.36:713][440]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.04-01.57.36:715][440]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.04-01.57.36:716][440]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.04-01.57.36:716][440]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.04-01.57.36:716][440]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.04-01.57.36:716][440]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.04-01.57.36:716][440]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.04-01.57.36:716][440]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.04-01.57.36:723][440]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.04-01.57.36:723][440]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.04-01.57.36:723][440]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.04-01.57.36:723][440]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.04-01.57.36:723][440]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.04-01.57.36:723][440]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.04-01.57.36:723][440]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.04-01.57.36:723][440]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.04-01.57.36:723][440]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.04-01.57.36:723][440]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.04-01.57.36:723][440]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.04-01.57.36:727][440]LogExit: Exiting.
+[2017.12.04-01.57.36:745][440]Log file closed, 12/03/17 18:57:36
