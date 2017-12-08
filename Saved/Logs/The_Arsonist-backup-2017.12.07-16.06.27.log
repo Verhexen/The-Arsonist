@@ -1,0 +1,828 @@
+﻿Log file open, 12/06/17 20:36:25
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: The_Arsonist
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(719228721) SRandInit(719228721).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.173538
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: F:/Unreal/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.07-03.36.26:392][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.07-03.36.26:392][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.07-03.36.26:415][  0]LogInit: Computer: SPAGHETTI
+[2017.12.07-03.36.26:415][  0]LogInit: User: default
+[2017.12.07-03.36.26:415][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.07-03.36.26:415][  0]LogInit: High frequency timer resolution =3.429155 MHz
+[2017.12.07-03.36.26:415][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.12.07-03.36.26:415][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.07-03.36.26:415][  0]LogMemory: Process Physical Memory: 278.18 MB used, 278.18 MB peak
+[2017.12.07-03.36.26:415][  0]LogMemory: Process Virtual Memory: 274.50 MB used, 274.50 MB peak
+[2017.12.07-03.36.26:415][  0]LogMemory: Physical Memory: 8696.76 MB used,  7654.38 MB free, 16351.14 MB total
+[2017.12.07-03.36.26:415][  0]LogMemory: Virtual Memory: 668.92 MB used,  7654.38 MB free, 134217728.00 MB total
+[2017.12.07-03.36.26:541][  0]LogInit: Using OS detected language (en-US).
+[2017.12.07-03.36.26:541][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.07-03.36.26:544][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.07-03.36.27:172][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.07-03.36.27:208][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2017.12.07-03.36.27:208][  0]LogD3D11RHI:       6064/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.07-03.36.27:209][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.07-03.36.27:209][  0]LogD3D11RHI:       0/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.07-03.36.27:209][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.07-03.36.27:213][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.07-03.36.27:213][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.07-03.36.27:213][  0]LogWindows: EnumDisplayDevices:
+[2017.12.07-03.36.27:213][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2017.12.07-03.36.27:213][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.12.07-03.36.27:213][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.12.07-03.36.27:214][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.12.07-03.36.27:214][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.07-03.36.27:214][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2017.12.07-03.36.27:214][  0]LogD3D11RHI:   Driver Version: 388.43 (internal:23.21.13.8843, unified:388.43)
+[2017.12.07-03.36.27:214][  0]LogD3D11RHI:      Driver Date: 11-27-2017
+[2017.12.07-03.36.27:214][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.12.07-03.36.27:238][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.07-03.36.27:262][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.07-03.36.27:265][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (../../../../Projects/The_Arsonist/The-Arsonist/Intermediate/Shaders/WorkingDirectory/15968/).
+[2017.12.07-03.36.27:265][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/default.default-PC/AppData/Local/Temp/UnrealShaderWorkingDir/BE54D86A429F265B66E606876B385D1B/'.
+[2017.12.07-03.36.27:265][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.07-03.36.28:154][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.07-03.36.28:198][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.07-03.36.28:243][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.07-03.36.28:292][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.07-03.36.28:336][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.07-03.36.28:381][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.07-03.36.28:425][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.07-03.36.28:470][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.07-03.36.28:517][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.07-03.36.28:568][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.07-03.36.28:611][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.07-03.36.28:672][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.07-03.36.28:713][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.07-03.36.28:755][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.07-03.36.28:799][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.07-03.36.28:888][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.07-03.36.28:888][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.07-03.36.28:919][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.07-03.36.29:002][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.07-03.36.29:029][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.07-03.36.29:071][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.07-03.36.29:115][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.07-03.36.29:159][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.07-03.36.29:204][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.07-03.36.29:204][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.07-03.36.29:659][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.07-03.36.29:737][  0]LogDerivedDataCache: Loaded boot cache 0.08s 93MB C:/Users/default.default-PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.07-03.36.29:737][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/default.default-PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.12.07-03.36.29:737][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Projects/The_Arsonist/The-Arsonist/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.07-03.36.29:737][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.07-03.36.29:737][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Projects/The_Arsonist/The-Arsonist/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.07-03.36.29:737][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.07-03.36.29:754][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.07-03.36.29:766][  0]LogDerivedDataCache: Using Local data cache path C:/Users/default.default-PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.07-03.36.29:776][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.07-03.36.29:776][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.07-03.36.29:777][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.07-03.36.29:777][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.07-03.36.30:060][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2017.12.07-03.36.30:172][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.07-03.36.30:308][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.12.07-03.36.30:600][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.07-03.36.30:633][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.07-03.36.30:633][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.07-03.36.30:633][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.07-03.36.30:633][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.07-03.36.30:633][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.07-03.36.31:007][  0]LogNetVersion: The_Arsonist , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3182256164)
+[2017.12.07-03.36.31:191][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.036129 seconds
+[2017.12.07-03.36.31:196][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.12.07-03.36.31:196][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.12.07-03.36.31:196][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.07-03.36.31:249][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.07-03.36.33:591][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.07-03.36.33:628][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.07-03.36.34:174][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.07-03.36.34:522][  0]SourceControl: Source control is disabled
+[2017.12.07-03.36.34:522][  0]SourceControl: Source control is disabled
+[2017.12.07-03.36.34:562][  0]SourceControl: Source control is disabled
+[2017.12.07-03.36.34:601][  0]SourceControl: Source control is disabled
+[2017.12.07-03.36.35:563][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.07-03.36.35:787][  0]LogOcInput: OculusInput pre-init called
+[2017.12.07-03.36.36:072][  0]LogEngine: Initializing Engine...
+[2017.12.07-03.36.36:083][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2017.12.07-03.36.36:298][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.07-03.36.36:298][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.07-03.36.36:408][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.07-03.36.36:414][  0]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.07-03.36.36:538][  0]LogInit: FAudioDevice initialized.
+[2017.12.07-03.36.36:667][  0]LogDerivedDataCache: Saved boot cache 0.13s 93MB C:/Users/default.default-PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.07-03.36.36:679][  0]LogInit: Texture streaming: Enabled
+[2017.12.07-03.36.36:778][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.07-03.36.36:987][  0]LogInit: Transaction tracking system initialized
+[2017.12.07-03.36.37:234][  0]BlueprintLog: New page: Editor Load
+[2017.12.07-03.36.37:955][  0]LocalizationService: Localization service is disabled
+[2017.12.07-03.36.38:513][  0]LogConsoleResponse: Display: 
+[2017.12.07-03.36.38:746][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.07-03.36.38:746][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.07-03.36.38:746][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.07-03.36.39:175][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/' took 0.05s
+[2017.12.07-03.36.39:610][  0]SourceControl: Source control is disabled
+[2017.12.07-03.36.39:610][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.07-03.36.39:611][  0]LightingResults: New page: Lighting Build
+[2017.12.07-03.36.39:644][  0]MapCheck: New page: Map Check
+[2017.12.07-03.36.39:644][  0]LightingResults: New page: Lighting Build
+[2017.12.07-03.36.39:844][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.12.07-03.36.39:849][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.07-03.36.39:860][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.07-03.36.39:897][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 37.63ms to complete.
+[2017.12.07-03.36.39:898][  0]LogFileHelpers: Loading map 'Template_Default' took 0.287
+[2017.12.07-03.36.40:765][  0]LogCollectionManager: Loaded 0 collections in 0.002117 seconds
+[2017.12.07-03.36.40:907][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Saved/Collections/' took 0.01s
+[2017.12.07-03.36.40:907][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/Developers/default/Collections/' took 0.01s
+[2017.12.07-03.36.40:907][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/Collections/' took 0.01s
+[2017.12.07-03.36.40:907][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.07-03.36.40:919][  0]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2386 classes and 500 folders.
+[2017.12.07-03.36.41:020][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.12.07-03.36.41:936][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.12.07-03.36.42:051][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.12.07-03.36.42:505][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.07-03.36.42:507][  0]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.07-03.36.42:585][  0]LogSlate: Took 0.007195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.07-03.36.43:182][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2017.12.07-03.36.44:039][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.12.07-03.36.44:039][  0]LogLoad: (Engine Initialization) Total time: 19.73 seconds
+[2017.12.07-03.36.44:040][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.07-03.36.44:040][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.07-03.36.44:505][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.07-03.36.45:287][  2]LogAssetRegistry: Asset discovery search completed in 15.2486 seconds
+[2017.12.07-03.36.45:426][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.07-03.36.45:426][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2017.12.07-03.36.45:982][  2]LogSlate: Took 0.115142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.07-03.36.46:145][  3]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.07-03.36.50:095][ 15]LogFileCache: Retrieving MD5 hashes for directory 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/' took 5.69s
+[2017.12.07-03.41.36:668][254]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.07-03.41.42:780][672]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.07-03.41.51:532][672]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.07-03.41.51:888][672]Cmd: MAP LOAD FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.07-03.41.51:889][672]LightingResults: New page: Lighting Build
+[2017.12.07-03.41.51:890][672]LoadErrors: New page: Loading map: Scene_01_02.umap
+[2017.12.07-03.41.51:915][672]MapCheck: New page: Map Check
+[2017.12.07-03.41.51:915][672]LightingResults: New page: Lighting Build
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or ObjectProperty /Script/Engine.World:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or Level /Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or ObjectProperty /Script/Engine.World:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or Level /Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or ObjectProperty /Script/Engine.World:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or Level /Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or ObjectProperty /Script/Engine.World:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or Level /Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or ObjectProperty /Script/Engine.World:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or Level /Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or ObjectProperty /Script/Engine.World:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or Level /Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or ObjectProperty /Script/Engine.World:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or Level /Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or ObjectProperty /Script/Engine.World:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or Level /Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or ObjectProperty /Script/Engine.World:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or Level /Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or ObjectProperty /Script/Engine.World:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or Level /Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or ObjectProperty /Script/Engine.World:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or Level /Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or ObjectProperty /Script/Engine.World:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or Level /Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or ObjectProperty /Script/Engine.World:PersistentLevel
+[2017.12.07-03.41.52:091][672]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Script/Engine.LevelCollection:PersistentLevel or Level /Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel
+[2017.12.07-03.41.52:098][672]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.07-03.41.52:149][672]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.07-03.41.52:245][672]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 95.2ms to complete.
+[2017.12.07-03.41.52:246][672]LogFileHelpers: Loading map 'Scene_01_02' took 0.368
+[2017.12.07-03.44.17:944][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-03.44.18:009][838]PIE: New page: PIE session: Scene_01_02 (Dec 6, 2017, 1:44:17 PM)
+[2017.12.07-03.44.18:023][838]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.07-03.44.18:098][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075046s)
+[2017.12.07-03.44.18:099][838]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.07-03.44.18:099][838]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2017.12.07-03.44.18:112][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (0.088810s)
+[2017.12.07-03.44.18:155][838]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.07-03.44.18:278][838]LogInit: FAudioDevice initialized.
+[2017.12.07-03.44.18:327][838]LogLoad: Game class is 'GameModeBase'
+[2017.12.07-03.44.18:466][838]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 0) at 2017.12.06-20.44.18
+[2017.12.07-03.44.18:644][838]LogWorld: Bringing up level for play took: 0.185704
+[2017.12.07-03.44.18:878][838]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2017.12.07-03.44.18:947][838]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 1.874
+[2017.12.07-03.46.11:790][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation_Scenes/Scene_01" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset" SILENT=true
+[2017.12.07-03.46.12:022][659]LogSavePackage: Save=203.53ms
+[2017.12.07-03.46.12:022][659]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_01D9B347BC489FBCC24804DAB7ADFBE52E.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset'
+[2017.12.07-03.46.12:024][659]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset
+[2017.12.07-03.46.12:562][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Scene_01_02" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.07-03.46.12:821][693]LogSavePackage: Save=242.22ms
+[2017.12.07-03.46.12:821][693]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_01_0250312A7D4C46E7D8FBE92F828DF55BE9.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02.umap'
+[2017.12.07-03.46.12:822][693]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02.umap
+[2017.12.07-03.46.12:857][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Scene_01_02_BuiltData" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02_BuiltData.uasset" SILENT=true
+[2017.12.07-03.46.13:110][693]LogSavePackage: Save=203.15ms
+[2017.12.07-03.46.13:110][693]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_01_02_BuiltDataAB2F1FA5408089D88FBF7A849EA4DFDE.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02_BuiltData.uasset'
+[2017.12.07-03.46.13:111][693]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02_BuiltData.uasset
+[2017.12.07-03.46.20:075][104]MapCheck: New page: Map Check
+[2017.12.07-03.46.20:207][104]Cmd: MAP REBUILD ALLVISIBLE
+[2017.12.07-03.46.20:207][104]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.12.07-03.46.20:448][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Luxury_Chair_Luxury_Chair_ChairArmLeft1_43.StaticMeshComponent0' 
+[2017.12.07-03.46.20:448][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Luxury_Chair_Luxury_Chair_ChairArmRests1_45.StaticMeshComponent0' 
+[2017.12.07-03.46.20:448][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Luxury_Chair_Luxury_Chair_ChairArmRight_47.StaticMeshComponent0' 
+[2017.12.07-03.46.20:448][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Luxury_Chair_Luxury_Chair_ChairBackCusion_49.StaticMeshComponent0' 
+[2017.12.07-03.46.20:448][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Luxury_Chair_Luxury_Chair_ChairBpttomCushion_51.StaticMeshComponent0' 
+[2017.12.07-03.46.20:449][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Luxury_Chair_Luxury_Chair_ChairCushion1_53.StaticMeshComponent0' 
+[2017.12.07-03.46.20:449][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Luxury_Chair_Luxury_Chair_ChairDetailing10_55.StaticMeshComponent0' 
+[2017.12.07-03.46.20:449][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Luxury_Chair_Luxury_Chair_ChairDetailing6_57.StaticMeshComponent0' 
+[2017.12.07-03.46.20:449][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Luxury_Chair_Luxury_Chair_ChairDetailing7_59.StaticMeshComponent0' 
+[2017.12.07-03.46.20:449][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Luxury_Chair_Luxury_Chair_ChairDetailing9_61.StaticMeshComponent0' 
+[2017.12.07-03.46.20:449][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Luxury_Chair_Luxury_Chair_ChairFrame2_63.StaticMeshComponent0' 
+[2017.12.07-03.46.20:449][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Luxury_Chair_Luxury_Chair_ChairLegs2_65.StaticMeshComponent0' 
+[2017.12.07-03.46.20:449][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Luxury_Chair_Luxury_Chair_ChairSideCusions_67.StaticMeshComponent0' 
+[2017.12.07-03.46.20:449][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Luxury_Chair_Luxury_Chair_ChairSquares1_69.StaticMeshComponent0' 
+[2017.12.07-03.46.20:458][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.FireTruck2.StaticMeshComponent0' 
+[2017.12.07-03.46.20:459][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.GrandfatherTellingStory_Anim_2.SkeletalMeshComponent0' Bone: 'Hips' 
+[2017.12.07-03.46.20:459][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.GrandfatherTellingStory_Anim_2.SkeletalMeshComponent0' Bone: 'Spine' 
+[2017.12.07-03.46.20:459][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.GrandfatherTellingStory_Anim_2.SkeletalMeshComponent0' Bone: 'Spine1' 
+[2017.12.07-03.46.20:459][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.GrandfatherTellingStory_Anim_2.SkeletalMeshComponent0' Bone: 'Spine2' 
+[2017.12.07-03.46.20:459][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.GrandfatherTellingStory_Anim_2.SkeletalMeshComponent0' Bone: 'Head' 
+[2017.12.07-03.46.20:459][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.GrandfatherTellingStory_Anim_2.SkeletalMeshComponent0' Bone: 'LeftArm' 
+[2017.12.07-03.46.20:459][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.GrandfatherTellingStory_Anim_2.SkeletalMeshComponent0' Bone: 'LeftHand' 
+[2017.12.07-03.46.20:459][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.GrandfatherTellingStory_Anim_2.SkeletalMeshComponent0' Bone: 'RightArm' 
+[2017.12.07-03.46.20:459][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.GrandfatherTellingStory_Anim_2.SkeletalMeshComponent0' Bone: 'RightHand' 
+[2017.12.07-03.46.20:460][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.GrandfatherTellingStory_Anim_2.SkeletalMeshComponent0' Bone: 'RightUpLeg' 
+[2017.12.07-03.46.20:460][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.GrandfatherTellingStory_Anim_2.SkeletalMeshComponent0' Bone: 'RightLeg' 
+[2017.12.07-03.46.20:460][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.GrandfatherTellingStory_Anim_2.SkeletalMeshComponent0' Bone: 'RightFoot' 
+[2017.12.07-03.46.20:460][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.GrandfatherTellingStory_Anim_2.SkeletalMeshComponent0' Bone: 'LeftUpLeg' 
+[2017.12.07-03.46.20:460][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.GrandfatherTellingStory_Anim_2.SkeletalMeshComponent0' Bone: 'LeftLeg' 
+[2017.12.07-03.46.20:460][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.GrandfatherTellingStory_Anim_2.SkeletalMeshComponent0' Bone: 'LeftFoot' 
+[2017.12.07-03.46.20:460][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'Hips' 
+[2017.12.07-03.46.20:460][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'Spine' 
+[2017.12.07-03.46.20:460][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'Spine1' 
+[2017.12.07-03.46.20:460][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'Spine2' 
+[2017.12.07-03.46.20:461][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'Neck' 
+[2017.12.07-03.46.20:461][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'Head' 
+[2017.12.07-03.46.20:461][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'LeftShoulder' 
+[2017.12.07-03.46.20:461][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'LeftArm' 
+[2017.12.07-03.46.20:461][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'LeftForeArm' 
+[2017.12.07-03.46.20:461][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'LeftHand' 
+[2017.12.07-03.46.20:461][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'LeftHandThumb1' 
+[2017.12.07-03.46.20:461][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'RightShoulder' 
+[2017.12.07-03.46.20:461][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'RightArm' 
+[2017.12.07-03.46.20:461][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'RightForeArm' 
+[2017.12.07-03.46.20:461][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'RightHand' 
+[2017.12.07-03.46.20:461][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'RightHandThumb1' 
+[2017.12.07-03.46.20:461][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'LeftUpLeg' 
+[2017.12.07-03.46.20:461][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'LeftLeg' 
+[2017.12.07-03.46.20:461][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'LeftFoot' 
+[2017.12.07-03.46.20:461][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'RightUpLeg' 
+[2017.12.07-03.46.20:461][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'RightLeg' 
+[2017.12.07-03.46.20:461][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'RightFoot' 
+[2017.12.07-03.46.20:461][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Male_Sitting_Pose_Anim_2.SkeletalMeshComponent0' Bone: 'RightToeBase' 
+[2017.12.07-03.46.20:462][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'Hips' 
+[2017.12.07-03.46.20:462][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'Spine' 
+[2017.12.07-03.46.20:462][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'Spine1' 
+[2017.12.07-03.46.20:462][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'Spine2' 
+[2017.12.07-03.46.20:462][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'Neck' 
+[2017.12.07-03.46.20:462][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'Head' 
+[2017.12.07-03.46.20:462][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'LeftShoulder' 
+[2017.12.07-03.46.20:462][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'LeftArm' 
+[2017.12.07-03.46.20:462][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'LeftForeArm' 
+[2017.12.07-03.46.20:462][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'LeftHand' 
+[2017.12.07-03.46.20:462][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'LeftHandThumb1' 
+[2017.12.07-03.46.20:462][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'RightShoulder' 
+[2017.12.07-03.46.20:462][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'RightArm' 
+[2017.12.07-03.46.20:462][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'RightForeArm' 
+[2017.12.07-03.46.20:462][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'RightHand' 
+[2017.12.07-03.46.20:462][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'RightHandThumb1' 
+[2017.12.07-03.46.20:462][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'LeftUpLeg' 
+[2017.12.07-03.46.20:462][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'LeftLeg' 
+[2017.12.07-03.46.20:462][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'LeftFoot' 
+[2017.12.07-03.46.20:463][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'RightUpLeg' 
+[2017.12.07-03.46.20:463][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'RightLeg' 
+[2017.12.07-03.46.20:463][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'RightFoot' 
+[2017.12.07-03.46.20:463][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/Scene_01_02.Scene_01_02:PersistentLevel.Sitting_Idle_Anim_14.SkeletalMeshComponent0' Bone: 'RightToeBase' 
+[2017.12.07-03.46.20:474][104]LightingResults: New page: Lighting Build - Dec 6, 2017, 1:46:20 PM
+[2017.12.07-03.46.20:570][104]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.12.07-03.46.20:643][104]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.12.07-03.46.20:659][104]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.12.07-03.46.21:177][104]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.12.07-03.46.21:177][104]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15968
+[2017.12.07-03.46.23:708][104]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.12.07-03.46.23:709][104]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.12.07-03.46.23:709][104]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.12.07-03.46.23:709][104]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.12.07-03.46.23:709][104]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.12.07-03.46.23:709][104]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.12.07-03.46.23:857][104]LogEditorBuildUtils: Build time 0:03
+[2017.12.07-03.46.27:449][116]LightingResults: Warning: Floor_Lamp_Box02 Object has overlapping UVs.
+[2017.12.07-03.46.27:449][116]LightingResults: Floor_Lamp_Box02 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2017.12.07-03.46.27:449][116]LightingResults: Warning: Floor_Lamp_Box03 Object has overlapping UVs.
+[2017.12.07-03.46.27:449][116]LightingResults: Floor_Lamp_Box03 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2017.12.07-03.46.31:783][129]LightingResults: Warning: HouseModel2 Object has overlapping UVs.
+[2017.12.07-03.46.31:783][129]LightingResults: HouseModel2 Lightmap UV are overlapping by 20.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.12.07-03.46.32:110][130]Job is a success!
+[2017.12.07-03.46.33:096][131]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2017.12.07-03.46.33:097][131]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2017.12.07-03.46.33:097][131]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2017.12.07-03.46.33:097][131]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2017.12.07-03.46.33:097][131]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2017.12.07-03.46.33:097][131]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2017.12.07-03.46.33:253][131]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2017.12.07-03.46.33:253][131]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 128X512)
+[2017.12.07-03.46.33:253][131]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X512)
+[2017.12.07-03.46.33:301][131]Lightmass on SPAGHETTI: 8.38 sec total, 391 ms importing, 157 ms setup, 1.30 sec photons, 6.49 sec processing, 0 ms extra exporting [91/91 mappings]. Threads: 45.3 sec total, 15.7 sec processing.
+[2017.12.07-03.46.33:354][131]LogStaticLightingSystem: Illumination: 12.5 sec (489 ms encoding lightmaps, 155 ms encoding shadowmaps)
+[2017.12.07-03.46.33:354][131]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2017.12.07-03.46.33:354][131]LogStaticLightingSystem: Shadowmap texture memory: 3.0 MB (2.7 MB streaming, 0.3 MB non-streaming), 3 textures
+[2017.12.07-03.46.33:682][131]DumpUnbuiltLightIteractions
+[2017.12.07-03.46.33:682][131]Lights with unbuilt interactions: 0
+[2017.12.07-03.46.33:682][131]
+[2017.12.07-03.46.33:682][131]Primitives with unbuilt interactions: 0
+[2017.12.07-03.46.33:713][132]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.12.07-03.46.33:714][132]MapCheck: New page: Scene_01_02 - Dec 6, 2017, 1:46:33 PM
+[2017.12.07-03.46.33:749][132]MapCheck: Error: GrandfatherTellingStory_Anim_2 GrandfatherTellingStory_Anim_2 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:749][132]MapCheck: Error: Male_Sitting_Pose_Anim_2 Male_Sitting_Pose_Anim_2 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:749][132]MapCheck: Error: Sitting_Idle_Anim_14 Sitting_Idle_Anim_14 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:777][132]MapCheck: Error: FireTruck2 FireTruck2 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:777][132]MapCheck: Error: Luxury_Chair_Luxury_Chair_ChairArmLeft1_43 Luxury_Chair_Luxury_Chair_ChairArmLeft1_43 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:777][132]MapCheck: Error: Luxury_Chair_Luxury_Chair_ChairArmRests1_45 Luxury_Chair_Luxury_Chair_ChairArmRests1_45 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:778][132]MapCheck: Error: Luxury_Chair_Luxury_Chair_ChairArmRight_47 Luxury_Chair_Luxury_Chair_ChairArmRight_47 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:778][132]MapCheck: Error: Luxury_Chair_Luxury_Chair_ChairBackCusion_49 Luxury_Chair_Luxury_Chair_ChairBackCusion_49 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:778][132]MapCheck: Error: Luxury_Chair_Luxury_Chair_ChairBpttomCushion_51 Luxury_Chair_Luxury_Chair_ChairBpttomCushion_51 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:778][132]MapCheck: Error: Luxury_Chair_Luxury_Chair_ChairCushion1_53 Luxury_Chair_Luxury_Chair_ChairCushion1_53 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:778][132]MapCheck: Error: Luxury_Chair_Luxury_Chair_ChairDetailing10_55 Luxury_Chair_Luxury_Chair_ChairDetailing10_55 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:778][132]MapCheck: Error: Luxury_Chair_Luxury_Chair_ChairDetailing6_57 Luxury_Chair_Luxury_Chair_ChairDetailing6_57 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:778][132]MapCheck: Error: Luxury_Chair_Luxury_Chair_ChairDetailing7_59 Luxury_Chair_Luxury_Chair_ChairDetailing7_59 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:778][132]MapCheck: Error: Luxury_Chair_Luxury_Chair_ChairDetailing9_61 Luxury_Chair_Luxury_Chair_ChairDetailing9_61 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:778][132]MapCheck: Error: Luxury_Chair_Luxury_Chair_ChairFrame2_63 Luxury_Chair_Luxury_Chair_ChairFrame2_63 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:778][132]MapCheck: Error: Luxury_Chair_Luxury_Chair_ChairLegs2_65 Luxury_Chair_Luxury_Chair_ChairLegs2_65 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:778][132]MapCheck: Error: Luxury_Chair_Luxury_Chair_ChairSideCusions_67 Luxury_Chair_Luxury_Chair_ChairSideCusions_67 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:778][132]MapCheck: Error: Luxury_Chair_Luxury_Chair_ChairSquares1_69 Luxury_Chair_Luxury_Chair_ChairSquares1_69 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:779][132]MapCheck: Error: P_Env_Fire_Grate_01_2 P_Env_Fire_Grate_01_2 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:779][132]MapCheck: Error: P_Env_Fire_Grate_10 P_Env_Fire_Grate_10 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:779][132]MapCheck: Error: P_Env_Fire_Grate_11 P_Env_Fire_Grate_11 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:779][132]MapCheck: Error: P_Env_Fire_Grate_2 P_Env_Fire_Grate_2 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:779][132]MapCheck: Error: P_Env_Fire_Grate_3 P_Env_Fire_Grate_3 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:779][132]MapCheck: Error: P_Env_Fire_Grate_4 P_Env_Fire_Grate_4 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:779][132]MapCheck: Error: P_Env_Fire_Grate_5 P_Env_Fire_Grate_5 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:779][132]MapCheck: Error: P_Env_Fire_Grate_6 P_Env_Fire_Grate_6 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:780][132]MapCheck: Error: P_Env_Fire_Grate_7 P_Env_Fire_Grate_7 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:780][132]MapCheck: Error: P_Env_Fire_Grate_8 P_Env_Fire_Grate_8 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:780][132]MapCheck: Error: P_Env_Fire_Grate_9 P_Env_Fire_Grate_9 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:780][132]MapCheck: Error: P_ExitStair_Mist2 P_ExitStair_Mist2 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:780][132]MapCheck: Error: P_ExitStair_Mist3 P_ExitStair_Mist3 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:780][132]MapCheck: Error: P_ExitStair_Mist_9 P_ExitStair_Mist_9 : Invalid DrawScale/DrawScale3D 
+[2017.12.07-03.46.33:869][132]MapCheck: Map check complete: 32 Error(s), 0 Warning(s), took 156.125ms to complete.
+[2017.12.07-03.46.48:632][138]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-03.46.48:649][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-03.46.48:649][138]PIE: New page: PIE session: Scene_01_02 (Dec 6, 2017, 1:46:48 PM)
+[2017.12.07-03.46.48:649][138]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.07-03.46.48:663][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013324s)
+[2017.12.07-03.46.48:663][138]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.07-03.46.48:664][138]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2017.12.07-03.46.48:664][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (0.014335s)
+[2017.12.07-03.46.48:678][138]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.07-03.46.48:801][138]LogInit: FAudioDevice initialized.
+[2017.12.07-03.46.48:831][138]LogLoad: Game class is 'GameModeBase'
+[2017.12.07-03.46.48:839][138]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 0) at 2017.12.06-20.46.48
+[2017.12.07-03.46.48:844][138]LogWorld: Bringing up level for play took: 0.011929
+[2017.12.07-03.46.48:845][138]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 -0.228
+[2017.12.07-03.48.20:209][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation_Scenes/Scene_01" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset" SILENT=true
+[2017.12.07-03.48.20:327][779]LogSavePackage: Save=112.70ms
+[2017.12.07-03.48.20:327][779]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_01CE00FCA64FAADD95F56DBAB0347B0B4C.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset'
+[2017.12.07-03.48.20:329][779]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset
+[2017.12.07-03.48.21:272][849]LogLinker: Can't find file '/Engine/Transient'
+[2017.12.07-03.49.17:891][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Scene_01_02" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.07-03.49.18:144][220]LogSavePackage: Save=236.84ms
+[2017.12.07-03.49.18:145][220]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_01_026FB1F0B546654964F3E6FEAB038071C6.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02.umap'
+[2017.12.07-03.49.18:146][220]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02.umap
+[2017.12.07-03.49.18:171][220]LogFileHelpers: Saving map 'Scene_01_02' took 0.364
+[2017.12.07-03.49.18:173][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Scene_01_02_BuiltData" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02_BuiltData.uasset" SILENT=true
+[2017.12.07-03.49.18:316][220]LogSavePackage: Save=138.27ms
+[2017.12.07-03.49.18:316][220]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_01_02_BuiltDataDBC5FC4245707FDFFBDD298E72CC6925.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02_BuiltData.uasset'
+[2017.12.07-03.49.18:317][220]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02_BuiltData.uasset
+[2017.12.07-03.49.18:345][220]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-03.49.18:346][220]PIE: New page: PIE session: Scene_01_02 (Dec 6, 2017, 1:49:18 PM)
+[2017.12.07-03.49.18:346][220]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_01_02
+[2017.12.07-03.49.18:360][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014189s)
+[2017.12.07-03.49.18:361][220]LogAIModule: Creating AISystem for world Scene_01_02
+[2017.12.07-03.49.18:361][220]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2017.12.07-03.49.18:361][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_01_02.Scene_01_02 to /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 (0.015371s)
+[2017.12.07-03.49.18:376][220]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adapter)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.12.07-03.49.18:500][220]LogInit: FAudioDevice initialized.
+[2017.12.07-03.49.18:586][220]LogLoad: Game class is 'GameModeBase'
+[2017.12.07-03.49.18:595][220]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_01_02.Scene_01_02 up for play (max tick rate 0) at 2017.12.06-20.49.18
+[2017.12.07-03.49.18:597][220]LogWorld: Bringing up level for play took: 0.010168
+[2017.12.07-03.49.18:606][220]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Scene_01_02 -0.467
+[2017.12.07-03.49.18:644][220]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2017.12.07-03.49.18:686][221]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:12161).
+[2017.12.07-03.49.18:783][225]LogContentStreaming: Texture pool size now 791 MB
+[2017.12.07-03.49.18:876][232]LogContentStreaming: Texture pool size now 852 MB
+[2017.12.07-03.49.43:570][533]LogContentStreaming: Texture pool size now 800 MB
+[2017.12.07-03.50.08:204][834]LogContentStreaming: Texture pool size now 778 MB
+[2017.12.07-03.50.29:967][135]LogContentStreaming: Texture pool size now 722 MB
+[2017.12.07-03.52.15:418][395]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.07-03.57.28:448][336]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:12163).
+[2017.12.07-03.57.33:332][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation_Scenes/Scene_01" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset" SILENT=true
+[2017.12.07-03.57.33:460][637]LogSavePackage: Save=119.87ms
+[2017.12.07-03.57.33:460][637]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_0180A9DDC849334B367ED9DA93E7E14B28.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset'
+[2017.12.07-03.57.33:462][637]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Animation_Scenes/Scene_01.uasset
+[2017.12.07-03.57.33:967][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Scene_01_02" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.07-03.57.34:301][667]LogSavePackage: Save=269.78ms
+[2017.12.07-03.57.34:301][667]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_01_02E4B8DFFA4FD55FB99B1B64A42619FCA7.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02.umap'
+[2017.12.07-03.57.34:302][667]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02.umap
+[2017.12.07-03.57.34:332][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Scene_01_02_BuiltData" FILE="../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02_BuiltData.uasset" SILENT=true
+[2017.12.07-03.57.34:490][667]LogSavePackage: Save=150.03ms
+[2017.12.07-03.57.34:491][667]LogSavePackage: Moving '../../../../Projects/The_Arsonist/The-Arsonist/Saved/Scene_01_02_BuiltData3DE90AB04F483EAE75DA76BFD06A3228.tmp' to '../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02_BuiltData.uasset'
+[2017.12.07-03.57.34:491][667]LogSavePackage: Display: Finished SavePackage ../../../../Projects/The_Arsonist/The-Arsonist/Content/Scenes/Scene_01_02_BuiltData.uasset
+[2017.12.07-03.57.37:800][820]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.07-03.57.38:113][821]Cmd: QUIT_EDITOR
+[2017.12.07-03.57.38:887][821]LogExit: Preparing to exit.
+[2017.12.07-03.57.39:260][821]LogDirectoryWatcher: A directory notification for 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/' was aborted.
+[2017.12.07-03.57.39:302][821]LogExit: Editor shut down
+[2017.12.07-03.57.39:306][821]LogExit: Transaction tracking system shut down
+[2017.12.07-03.57.39:470][821]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.07-03.57.39:470][821]LogDirectoryWatcher: A directory notification for '../../../../Projects/The_Arsonist/The-Arsonist/Content/' was aborted.
+[2017.12.07-03.57.39:470][821]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.07-03.57.39:470][821]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.07-03.57.39:470][821]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.07-03.57.39:545][821]LogExit: Object subsystem successfully closed.
+[2017.12.07-03.57.39:578][821]LogD3D11RHI: Shutdown
+[2017.12.07-03.57.39:578][821]LogD3D11RHI: CleanupD3DDevice
+[2017.12.07-03.57.39:755][821]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.07-03.57.39:765][821]LogModuleManager: Shutting down and abandoning module MovieSceneCaptureDialog (536)
+[2017.12.07-03.57.39:765][821]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (534)
+[2017.12.07-03.57.39:765][821]LogModuleManager: Shutting down and abandoning module SequencerWidgets (532)
+[2017.12.07-03.57.39:765][821]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.12.07-03.57.39:765][821]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.12.07-03.57.39:777][821]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.12.07-03.57.39:783][821]LogDirectoryWatcher: A directory notification for 'F:/Unreal/UE_4.17/FeaturePacks/' was aborted.
+[2017.12.07-03.57.39:792][821]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.12.07-03.57.39:792][821]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.12.07-03.57.39:792][821]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.12.07-03.57.39:792][821]LogDirectoryWatcher: A directory notification for 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/Collections/' was aborted.
+[2017.12.07-03.57.39:792][821]LogDirectoryWatcher: A directory notification for 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Content/Developers/default/Collections/' was aborted.
+[2017.12.07-03.57.39:792][821]LogDirectoryWatcher: A directory notification for 'F:/Unreal/Projects/The_Arsonist/The-Arsonist/Saved/Collections/' was aborted.
+[2017.12.07-03.57.39:792][821]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.12.07-03.57.39:792][821]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.12.07-03.57.39:792][821]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.12.07-03.57.39:792][821]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.12.07-03.57.39:792][821]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.12.07-03.57.39:792][821]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.12.07-03.57.39:792][821]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.12.07-03.57.39:792][821]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.12.07-03.57.39:792][821]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.12.07-03.57.39:792][821]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.12.07-03.57.39:792][821]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.12.07-03.57.39:792][821]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.12.07-03.57.39:792][821]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.12.07-03.57.39:792][821]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.12.07-03.57.39:792][821]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.12.07-03.57.39:793][821]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.12.07-03.57.40:760][821]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.12.07-03.57.40:760][821]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.12.07-03.57.40:760][821]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.12.07-03.57.40:760][821]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.12.07-03.57.40:760][821]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.12.07-03.57.40:760][821]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.12.07-03.57.40:760][821]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.12.07-03.57.40:761][821]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.12.07-03.57.40:761][821]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.12.07-03.57.40:761][821]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.12.07-03.57.40:761][821]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.12.07-03.57.40:761][821]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.12.07-03.57.40:761][821]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.12.07-03.57.40:761][821]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.12.07-03.57.40:761][821]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.12.07-03.57.40:761][821]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.12.07-03.57.40:761][821]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.12.07-03.57.40:761][821]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.12.07-03.57.40:761][821]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.12.07-03.57.40:761][821]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.12.07-03.57.40:762][821]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.12.07-03.57.40:762][821]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.12.07-03.57.40:762][821]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.12.07-03.57.40:762][821]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.12.07-03.57.40:815][821]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.12.07-03.57.40:815][821]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.12.07-03.57.40:815][821]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.12.07-03.57.40:815][821]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.12.07-03.57.40:816][821]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.12.07-03.57.40:816][821]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.12.07-03.57.40:816][821]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.12.07-03.57.40:816][821]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.12.07-03.57.40:816][821]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.12.07-03.57.40:816][821]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.12.07-03.57.40:823][821]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.12.07-03.57.40:823][821]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.12.07-03.57.40:823][821]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.12.07-03.57.40:823][821]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.12.07-03.57.40:823][821]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.12.07-03.57.40:823][821]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.12.07-03.57.40:823][821]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.12.07-03.57.40:823][821]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.12.07-03.57.40:823][821]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.12.07-03.57.40:823][821]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.12.07-03.57.40:823][821]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.12.07-03.57.40:824][821]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.12.07-03.57.40:824][821]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.12.07-03.57.40:824][821]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.12.07-03.57.40:824][821]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.12.07-03.57.40:824][821]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.12.07-03.57.40:824][821]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.12.07-03.57.40:824][821]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.12.07-03.57.40:824][821]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.12.07-03.57.40:824][821]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.12.07-03.57.40:824][821]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.12.07-03.57.40:835][821]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.12.07-03.57.40:835][821]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.12.07-03.57.40:835][821]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.12.07-03.57.40:835][821]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.12.07-03.57.40:835][821]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.12.07-03.57.40:835][821]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.12.07-03.57.40:835][821]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.12.07-03.57.40:835][821]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.12.07-03.57.40:835][821]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.12.07-03.57.40:835][821]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.12.07-03.57.40:836][821]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.12.07-03.57.40:836][821]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.12.07-03.57.40:836][821]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.12.07-03.57.40:836][821]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.12.07-03.57.40:836][821]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.12.07-03.57.40:836][821]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.12.07-03.57.40:836][821]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.12.07-03.57.40:836][821]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.12.07-03.57.40:836][821]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.12.07-03.57.40:836][821]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.12.07-03.57.40:836][821]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.12.07-03.57.40:836][821]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.12.07-03.57.40:836][821]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.12.07-03.57.40:836][821]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.12.07-03.57.40:836][821]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.12.07-03.57.40:836][821]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.12.07-03.57.40:837][821]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.12.07-03.57.40:837][821]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.12.07-03.57.40:837][821]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.12.07-03.57.40:837][821]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.12.07-03.57.40:837][821]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.12.07-03.57.40:837][821]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.12.07-03.57.40:839][821]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.12.07-03.57.40:839][821]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.12.07-03.57.40:839][821]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.12.07-03.57.40:839][821]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.12.07-03.57.40:839][821]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.12.07-03.57.40:839][821]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.12.07-03.57.40:839][821]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.12.07-03.57.40:839][821]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.12.07-03.57.40:839][821]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.12.07-03.57.40:839][821]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.12.07-03.57.40:839][821]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.12.07-03.57.40:940][821]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.12.07-03.57.41:040][821]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.12.07-03.57.41:040][821]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.12.07-03.57.41:040][821]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.12.07-03.57.41:040][821]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.12.07-03.57.41:040][821]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.12.07-03.57.41:041][821]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.12.07-03.57.41:042][821]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.12.07-03.57.41:044][821]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.12.07-03.57.41:044][821]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.12.07-03.57.41:044][821]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.12.07-03.57.41:044][821]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.12.07-03.57.41:044][821]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.12.07-03.57.41:044][821]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.12.07-03.57.41:044][821]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.07-03.57.41:044][821]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.12.07-03.57.41:044][821]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.12.07-03.57.41:045][821]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.12.07-03.57.41:045][821]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.12.07-03.57.41:045][821]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.12.07-03.57.41:045][821]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.12.07-03.57.41:045][821]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.12.07-03.57.41:045][821]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.12.07-03.57.41:045][821]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.12.07-03.57.41:045][821]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.12.07-03.57.41:134][821]LogDerivedDataCache: Shutdown
+[2017.12.07-03.57.41:134][821]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.12.07-03.57.41:134][821]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.12.07-03.57.41:134][821]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.12.07-03.57.41:134][821]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.12.07-03.57.41:134][821]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.12.07-03.57.41:134][821]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.12.07-03.57.41:134][821]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.12.07-03.57.41:134][821]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.12.07-03.57.41:134][821]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.12.07-03.57.41:134][821]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.07-03.57.41:135][821]LogOnline: Display: Unloading online subsystem: NULL
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.07-03.57.41:135][821]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.07-03.57.41:135][821]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.07-03.57.41:135][821]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3226AE6C-4BBB-5B62-6B45-CD9DC611675B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.1-3586342%2B%2B%2BUE4%2BRelease-4.17&UserID=77a9eb4f462cfdf02b7f6988945b7494%7C678323adc543409c9e4b9a2089a91c33%7C80bd5cb6-d69c-4264-8e08-a361daa0d06d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.07-03.57.41:146][821]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.07-03.57.41:148][821]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.07-03.57.41:148][821]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.07-03.57.41:148][821]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.07-03.57.41:148][821]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.07-03.57.41:148][821]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.07-03.57.41:148][821]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.07-03.57.41:148][821]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.07-03.57.41:149][821]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.07-03.57.41:149][821]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.07-03.57.41:149][821]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.07-03.57.41:149][821]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.07-03.57.41:149][821]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.07-03.57.41:149][821]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.07-03.57.41:149][821]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.07-03.57.41:149][821]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.07-03.57.41:149][821]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.07-03.57.41:149][821]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.07-03.57.41:149][821]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.07-03.57.41:152][821]LogExit: Exiting.
+[2017.12.07-03.57.41:167][821]Log file closed, 12/06/17 20:57:41
